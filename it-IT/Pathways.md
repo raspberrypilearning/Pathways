@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Il Raspberry Pi è un computer piccolo ma molto potente, che può essere utilizzato in progetti di elettronica, e per fare molte delle cose che il tuo PC è in grado di fare.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Crea e personalizza le tue pagine web.
 
-Python: Module 1/2/3
+Python: Modulo 1/2/3
 
-Python: Additional Projects
+Python: Altri Progetti
 
-Python is a widely used, general purpose, text-based programming language.
+Python è un linguaggio di programmazione di uso generale basato su testo, ampiamente utilizzato.
 
-Scratch: Additional Projects
+Scratch: Altri Progetti
 
-Scratch: Community Projects
+Scratch: Progetti
 
-Scratch: Module 1/2/3
+Scratch: Modulo 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Impara a programmare le tue storie interattive, i tuoi giochi e le tue animazioni.
 
 Scratch for social innovation
 
@@ -30,28 +30,28 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Impara a creare app per i dispositivi Android con progetti che possono essere d'aiuto alle persone della tua comunità.
 
-Wearables Sushi Cards
+Wearables Sushi Card
 
-Create wearable technology projects by following these Sushi Cards.
+Crea progetti con la tecnologia indossabile seguendo queste Sushi Card.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Crea siti web seguendo queste Sushi Card.
 
-Scratch Sushi Cards
+Scratch Sushi Card
 
-Learn Scratch by working through these fun projects!
+Impara ad usate Scratch completando questi simpatici progetti!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Il Sense HAT è una scheda aggiuntiva per il Raspberry Pi che comprende dei LED, un joystick e una serie di sensori.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Il Sonic Pi è un nuovo tipo di strumento musicale progettato per creare suoni con delle linee di codice.
 
-BBC micro:bit
+BBC micro: bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+Il BBC micro:bit è un computer tascabile programmabile che ti consente di scatenare la tua creatività.
