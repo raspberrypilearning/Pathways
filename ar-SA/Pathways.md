@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+إن جهاز Raspberry Pi هو جهاز كمبيوتر صغير يمكن استخدامه في مشاريع الإلكترونيات والعديد من الأشياء التي يقوم بها سطح المكتب الكومبيوتر الخاص بك.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+بناء وتنسيق صفحات الويب الخاصة بك.
 
-Python: Module 1/2/3
+Python: الوحدة 3/2/1
 
-Python: Additional Projects
+Python: مشاريع إضافية
 
-Python is a widely used, general purpose, text-based programming language.
+Python هي لغة برمجة نصية تُستخدم على نطاق واسع للأغراض العامة. 
 
-Scratch: Additional Projects
+Scratch: مشاريع إضافية
 
-Scratch: Community Projects
+Scratch: مشاريع مجتمعية
 
-Scratch: Module 1/2/3
+Scratch: الوحدة 3/2/1
 
-Learn how to program your own interactive stories, games and animations.
+تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
 
 Scratch for social innovation
 
@@ -30,28 +30,28 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+تعلم كيفية إنشاء تطبيقات لأجهزة Android من خلال تنفيذ مشاريع يمكنها مساعدة أفراد مجتمعك.
 
-Wearables Sushi Cards
+بطاقات السوشي القابلة للارتداء
 
-Create wearable technology projects by following these Sushi Cards.
+إنشاء المشاريع التقنية القابلة للارتداء باتباع بطاقات السوشي هذه.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+قم بإنشاء مواقع ويب باتباع بطاقات السوشي هذه.
 
-Scratch Sushi Cards
+بطاقات السوشي Scratch
 
-Learn Scratch by working through these fun projects!
+تعلم Scratch من خلال العمل من خلال هذه المشاريع المسلية!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT هي لوحة إضافية ل Raspberry Pi، تضم LEDs و joystick والعديد من أجهزة الإستشعار.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi هو نوع جديد من الآلات الموسيقية، مصمم لإنشاء الأصوات مع التعليمات البرمجية.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit هو جهاز كمبيوتر بحجم الجيب يمكن برمجته يتيح لك فرصة الإبداع.
