@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi je všestranný malý počítač, který lze použít v elektronických projektech a pro mnoho věcí, podobně jako tvůj stolní počítač.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Vytvoř a nastyluj své vlastní webové stránky.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Další projekty
 
-Python is a widely used, general purpose, text-based programming language.
+Python je široce používaný, univerzální textový programovací jazyk.
 
-Scratch: Additional Projects
+Scratch: Další projekty
 
-Scratch: Community Projects
+Scratch: Projekty komunity
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Nauč se, jak naprogramovat vlastní interaktivní příběhy, hry a animace.
 
 Scratch for social innovation
 
@@ -30,28 +30,28 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Naučte se vytvářet aplikace pro zařízení Android prostřednictvím projektů, které mohou pomoci lidem ve vašem okolí.
 
-Wearables Sushi Cards
+Sushi karty nositelné elektroniky
 
-Create wearable technology projects by following these Sushi Cards.
+Vytvořte projekty nositelných technologií podle těchto Sushi karet.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Vytvořte webové stránky podle těchto Sushi karet.
 
-Scratch Sushi Cards
+Scratch Sushi karty
 
-Learn Scratch by working through these fun projects!
+Naučte se Scratch pomocí zábavných projektů!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT je přídavný modul pro Raspberry Pi, obsahující LED diody, joystick a spousty senzorů.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi je nový druh hudebního nástroje, který umožňuje vytváření zvuků programovým kódem.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit je kapesní, programovatelný počítač, který vám umožní být kreativní.
