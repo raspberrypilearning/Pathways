@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi er en habil lille computer, som kan bruges i elektronikprojekter og til mange af de ting, som din stationære pc kan.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Byg og tilpas dine egne websider.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Yderligere projekter
 
-Python is a widely used, general purpose, text-based programming language.
+Python er et udbredt tekst-baseret programmeringssprog.
 
-Scratch: Additional Projects
+Scratch: Yderligere projekter
 
-Scratch: Community Projects
+Scratch: Fælleskabsprojekter
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Lær hvordan du programmerer dine egne interaktive historier, spil og animationer.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Lær at lave apps til Android-enheder ved at lave projekter, der kan hjælpe folk i dit fællesskab.
 
 Wearables Sushi Cards
 
@@ -46,12 +46,12 @@ Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT er et add-on til Raspberry Pi, herunder lysdioder, joystick og masser af sensorer.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi er et nyt slags musikinstrument, designet til at skabe lyde med kode.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit er en programmerbar computer i lommeformat, der giver dig mulighed for at være kreativ.
