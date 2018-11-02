@@ -1,24 +1,24 @@
-Raspberry Pi
+ラズベリーパイ
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Piは、電子工作やデスクトップパソコンの多くのものに使用できる、小さな良いコンピュータです。
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+自分のWebページを構築し、スタイルを設定します。
 
-Python: Module 1/2/3
+Python：モジュール1/2/3
 
-Python: Additional Projects
+Python：追加のプロジェクト
 
-Python is a widely used, general purpose, text-based programming language.
+Python は、一般的な用途で広く使用されている、テキスト ベースのプログラミング言語です。
 
-Scratch: Additional Projects
+スクラッチ：追加のプロジェクト
 
-Scratch: Community Projects
+スクラッチ：コミュニティプロジェクト
 
-Scratch: Module 1/2/3
+スクラッチ：モジュール1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+あなたのコミュニティーの人々を助けることができるプロジェクトを実行して、Androidのアプリ開発方法を学びましょう。
 
 Wearables Sushi Cards
 
@@ -44,14 +44,14 @@ Scratch Sushi Cards
 
 Learn Scratch by working through these fun projects!
 
-Sense HAT
+実機のSense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HATは、LED、ジョイスティック、多くのセンサーなどを含む、Raspberry Piのアドオンボードです。
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Piは、コードでサウンドを作成するために設計された新しい種類の楽器です。
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bitは、コーディングできるポケットサイズのコンピュータで、ユーザーが創造性を発揮する事ができます。
