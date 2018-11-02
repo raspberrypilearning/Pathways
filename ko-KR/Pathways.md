@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi는 전자기기 프로젝트에 활용가능한 소형 컴퓨터로서 데스크탑 PC가 할 수 있는 많은 것들을 할 수 있습니다.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+자신만의 웹 페이지를 만들고 스타일을 설정하세요.
 
-Python: Module 1/2/3
+Python: 모듈 1/2/3
 
-Python: Additional Projects
+Python: 추가 프로젝트
 
-Python is a widely used, general purpose, text-based programming language.
+Python은 널리 사용되는 범용 텍스트 기반 프로그래밍 언어입니다.
 
-Scratch: Additional Projects
+Scratch: 추가 프로젝트
 
-Scratch: Community Projects
+스크래치: 커뮤니티 프로젝트
 
-Scratch: Module 1/2/3
+스크래치 : 모듈 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+자신만의 대화형 이야기, 게임 및 애니메이션을 프로그래밍하는 방법을 배울 수 있습니다.
 
 Scratch for social innovation
 
@@ -30,28 +30,28 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+여러분이 속한 지역사회 사람들을 돕는 프로젝트를 통해, Android 기기용 앱 제작 방법을 학습합니다.
 
-Wearables Sushi Cards
+웨어러블 초밥 카드
 
-Create wearable technology projects by following these Sushi Cards.
+스시 카드를 사용하여 웨어러블 테크놀로지 프로젝트를 만듭니다.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+이 초밥 카드를 따라 웹 사이트를 만드십시오.
 
-Scratch Sushi Cards
+스크래치 초밥 카드
 
-Learn Scratch by working through these fun projects!
+재미있는 프로젝트를 통해 스크래치를 배워 보세요!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT는 LED, 조이스틱과 다양한 센서들을 포함하는 Raspberry Pi의 애드온 보드입니다.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi는 코드를 통해 소리를 만들어내도록 설계된 새로운 종류의 악기 입니다.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit는 창의력을 발휘할 수있는 주머니 크기의 코드 작성이 가능한 컴퓨터입니다.
