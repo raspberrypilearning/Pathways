@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi és un petit ordinador que es pot utilitzar en projectes electrònics i per a moltes de les coses que fa el teu PC ordinador de taula.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Crea i dissenya les teves pròpies pàgines web.
 
-Python: Module 1/2/3
+Python: Mòdul 1/2/3
 
-Python: Additional Projects
+Python: Més Projectes
 
-Python is a widely used, general purpose, text-based programming language.
+Python és un llenguatge de programació basat en text molt utilitzat i d'utilitat general.
 
-Scratch: Additional Projects
+Scratch: Projectes addicionals
 
-Scratch: Community Projects
+Scratch: Projectes de la Comunitat
 
-Scratch: Module 1/2/3
+Scratch: Mòdul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Aprèn a programar les teves pròpies històries interactives, jocs i animacions.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Aprèn a fer aplicacions per a dispositius Android fent projectes que poden ajudar a les persones de la teva comunitat.
 
 Wearables Sushi Cards
 
@@ -46,12 +46,12 @@ Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT és un complement per a Raspberry Pi que inclou llums LED, un joystick i molts sensors.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi és un nou instrument musical, dissenyat per crear sons amb codi.
 
-BBC micro:bit
+BBC micro: bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+La BBC micro: bit és un ordinador programable de butxaca que et permet fer coses creatives.
