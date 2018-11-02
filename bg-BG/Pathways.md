@@ -1,6 +1,6 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi е малък компютър, който може да се използва за проекти по електроника и за много други неща, които вашият настолен компютър може да прави.
 
 HTML & CSS: Module 1/2/3
 
@@ -10,7 +10,7 @@ Python: Module 1/2/3
 
 Python: Additional Projects
 
-Python is a widely used, general purpose, text-based programming language.
+Python е широко използван език за програмиране с общо предназначение и текстово базиран.
 
 Scratch: Additional Projects
 
@@ -18,7 +18,7 @@ Scratch: Community Projects
 
 Scratch: Module 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Научете как да програмирате ваши интерактивни истории, игри и анимации.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Научете се как да създавате приложения за Android устройства, като работите върху проекти, които могат да помогнат на хората във вашата общност.
 
 Wearables Sushi Cards
 
@@ -46,12 +46,12 @@ Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT е допълнителна приставка за Raspberry Pi, включваща светодиоди, джойстик и различни сензори.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi е нов вид музикален инструмент, предназначен за създаване на звуци с програмен код.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro: bit е джобен, програмируем компютър, който ви позволява да бъдете творчески настроен.
