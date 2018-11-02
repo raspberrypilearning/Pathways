@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi adalah komputer kecil yang mampu dan dapat digunakan dalam proyek-proyek elektronik, dan banyak hal seperti yang biasa dilakukan oleh komputer desktop anda.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Buat dan hias halaman web kamu sendiri.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Proyek Tambahan
 
-Python is a widely used, general purpose, text-based programming language.
+Python adalah bahasa pemrograman yang banyak digunakan, bertujuan umum, dan berbasis teks.
 
-Scratch: Additional Projects
+Scratch: Proyek Tambahan
 
-Scratch: Community Projects
+Scratch: Proyek Komunitas
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Pelajari bagaimana memprogram cerita, permainan, dan animasi interaktif kamu sendiri.
 
 Scratch for social innovation
 
@@ -30,28 +30,28 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Pelajari cara membuat aplikasi untuk perangkat Android dengan melakukan proyek yang dapat membantu orang di komunitas Anda.
 
-Wearables Sushi Cards
+Kartu Sushi yang Dapat Dipakai
 
-Create wearable technology projects by following these Sushi Cards.
+Buat proyek teknologi yang dapat dikenakan dengan mengikuti Kartu Sushi ini.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Buat situs web dengan mengikuti Kartu Sushi ini.
 
-Scratch Sushi Cards
+Kartu Sushi Scratch
 
-Learn Scratch by working through these fun projects!
+Pelajari Scratch dengan mengerjakan proyek-proyek menyenangkan ini!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT adalah add-on board untuk Raspberry Pi, yang memiliki beberapa LED, joystick dan banyak sensor lainnya.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi adalah sejenis alat instrumen musik baru yang dirancang untuk menciptakan suara dengan kode.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit adalah komputer seukuran saku dan dapat bermain dengan kode yang memungkinkan kamu untuk menjadi kreatif.
