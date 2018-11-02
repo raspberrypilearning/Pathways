@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi on võimekas väike arvuti, mida saab kasutada elektroonikaprojektides ja paljudeks asjadeks, mida sinu lauaarvuti teeb.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Ehita ja kujunda omaenda veebisaidid.
 
-Python: Module 1/2/3
+Python: moodul 1/2/3
 
-Python: Additional Projects
+Python: täiendavad projektid
 
-Python is a widely used, general purpose, text-based programming language.
+Python on laialt kasutatav üldotstarbeline tekstipõhine programmeerimiskeel.
 
-Scratch: Additional Projects
+Scratch: täiendavad projektid
 
-Scratch: Community Projects
+Scratch: kogukonna projektid
 
-Scratch: Module 1/2/3
+Scratch: moodul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Saa teada, kuidas endale ise interaktiivseid lugusid, mänge ja animatsioone programmeerida.
 
 Scratch for social innovation
 
@@ -30,28 +30,28 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Õpi looma rakendusi Android-seadmete jaoks, tehes projekte, mis võivad aidata sinu kogukonna inimesi.
 
-Wearables Sushi Cards
+Kaasaskantavad Sushi Cards
 
-Create wearable technology projects by following these Sushi Cards.
+Loo kaasaskantavaid tehnoloogiaprojekte, järgides neid Sushi Cards'e.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Loo veebisaite, järgides neid Sushi Cards'e.
 
 Scratch Sushi Cards
 
-Learn Scratch by working through these fun projects!
+Õpi Scratch'i, töötades läbi need lõbusad projektid!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT on Raspberry Pi lisaplaat, millel on muuhulgas LED-id, juhtkang ja palju andureid.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi on uut tüüpi muusikariist, mille eesmärk on koodidega helisid luua.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro: bit on taskuformaadiline kodeeritav arvuti, mis võimaldab teil olla loov.
