@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi је способан мали рачунар који се може користити у пројектима електронике и за многе ствари које обично ваш десктоп рачунар ради.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Направите и стилизујте своје веб странице.
 
-Python: Module 1/2/3
+Python: Модул 1/2/3
 
-Python: Additional Projects
+Python: Додатни пројекти
 
-Python is a widely used, general purpose, text-based programming language.
+Python је широко распрострањен текстуални програмски језик, опште намене.
 
-Scratch: Additional Projects
+Scratch: Додатни пројекти
 
-Scratch: Community Projects
+Scratch: Пројекти заједнице
 
-Scratch: Module 1/2/3
+Scratch: Модул 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Научите како да програмирате сопствене интерактивне приче, игре и анимације.
 
 Scratch for social innovation
 
@@ -30,28 +30,28 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Научите да правите апликације за Андроид уређаје радећи пројекте који могу помоћи људима у вашој заједници.
 
-Wearables Sushi Cards
+Носиве Sushi картице
 
-Create wearable technology projects by following these Sushi Cards.
+Креирај пројекте носиве технологије пратећи ове Sushi картице.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Креирај веб-сајтове пратећи ове Sushi картице.
 
-Scratch Sushi Cards
+Скреч Sushi картице
 
-Learn Scratch by working through these fun projects!
+Научи Скреч радећи на овим забавним пројектима!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense Hat је додатак за Raspberry Pi плочу, који укључује LED диоде, џојстик и пуно сензора.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi је нова врста музичког инструмента, који је дизајниран за стварање звукова помоћу кода.
 
-BBC micro:bit
+BBC-јев micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC-јев micro:bit је џепни, програмабилни рачунар који вам омогућава да изразите своју креативност.
