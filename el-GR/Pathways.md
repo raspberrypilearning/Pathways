@@ -26,9 +26,9 @@ Scratch για την κοινωνική καινοτομία
 
 HTML & CSS για την κοινωνική καινοτομία
 
-Learn HTML & CSS by creating a website about bird conservation.
+Μάθε HTML & CSS δημιουργώντας μια ιστοσελίδα για την προστασία των πτηνών.
 
-App Inventor for social innovation
+App Inventor για την κοινωνική καινοτομία
 
 Μάθε να φτιάχνεις εφαρμογές για συσκευές Android κάνοντας έργα που μπορούν να βοηθήσουν ανθρώπους στην κοινότητά σου.
 
