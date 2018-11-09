@@ -20,15 +20,15 @@ Scratch: Module 1/2/3
 
 Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
 
-Scratch for social innovation
+Scratch voor sociale innovatie
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Leer Scratch, een beginnersvriendelijke grafische programmeertaal, terwijl je apps en games maakt om mensen te helpen leren over belangrijke zaken.
 
-HTML & CSS for social innovation
+HTML & CSS voor sociale innovatie
 
-Learn HTML & CSS by creating a website about bird conservation.
+Leer HTML & CSS door een website over vogelbescherming te maken.
 
-App Inventor for social innovation
+App Inventor voor sociale innovatie
 
 Leer hoe je apps voor Android-apparaten kunt maken door projecten te doen die mensen in jouw omgeving kunnen helpen.
 
