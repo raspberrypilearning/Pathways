@@ -2,7 +2,7 @@ Raspberry Pi
 
 Το Raspberry Pi είναι ένας ικανός μικρός υπολογιστής ο οποίος μπορεί να χρησιμοποιηθεί σε ηλεκτρονικά έργα και για πολλά από τα πράγματα που κάνει ο επιτραπέζιος υπολογιστής.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Ενότητα 1/2/3
 
 Δημιουργήστε και σχεδιάστε τις δικές σας ιστοσελίδες.
 
@@ -20,11 +20,11 @@ Scratch: Ενότητα 1/2/3
 
 Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
 
-Scratch for social innovation
+Scratch για την κοινωνική καινοτομία
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Μάθε Scratch, μια γραφική γλώσσα προγραμματισμού φιλική στους αρχάριους, δημιουργώντας παράλληλα εφαρμογές και παιχνίδια για να βοηθήσεις τους ανθρώπους να μάθουν για σημαντικά θέματα.
 
-HTML & CSS for social innovation
+HTML & CSS για την κοινωνική καινοτομία
 
 Learn HTML & CSS by creating a website about bird conservation.
 
