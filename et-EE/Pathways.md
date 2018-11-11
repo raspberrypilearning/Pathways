@@ -1,16 +1,16 @@
 Raspberry Pi
 
-Raspberry Pi on võimekas väike arvuti, mida saab kasutada elektroonika-alastes projektides ja paljude muude asjade jaoks, mida sinu lauaarvuti teeb.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: moodul 1/2/3
 
-Ehita ja kujunda omaenda veebisaidid.
+Build and style your own web pages.
 
 Python: moodul 1/2/3
 
 Python: täiendavad projektid
 
-Python on laialt kasutatav üldotstarbeline tekstipõhine programmeerimiskeel.
+Python is a widely used, general purpose, text-based programming language.
 
 Scratch: täiendavad projektid
 
@@ -18,40 +18,40 @@ Scratch: kogukonna projektid
 
 Scratch: moodul 1/2/3
 
-Saa teada, kuidas endale ise interaktiivseid lugusid, mänge ja animatsioone programmeerida.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch sotsiaalsele ettevõttele
 
-Õpi Scratchi, algajasõbralikku graafilist programmeerimiskeelt, ehitades samal ajal rakendusi ja mänge, et aidata inimestel olulisi probleeme tundma õppida.
+Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
 HTML & CSS sotsiaalse innovatsiooni jaoks
 
-Õpi HTML-i & CSS-i, luues lindude kaitse alase veebilehe.
+Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor sotsiaalse innovatsiooni jaoks
 
-Õpi looma rakendusi Android-seadmete jaoks, tehes projekte, mis võivad aidata sinu kogukonna inimesi.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 Kaasaskantavad Sushi Cards'id
 
-Loo kaasaskantavaid tehnoloogiaprojekte, järgides neid Sushi Cards'e.
+Create wearable technology projects by following these Sushi Cards.
 
 HTML & CSS
 
-Loo veebisaite, järgides neid Sushi Cards'e.
+Create websites by following these Sushi Cards.
 
 Scratch Sushi Cards
 
-Õpi Scratch'i, töötades läbi need lõbusad projektid!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense HAT on Raspberry Pi lisaplaat, millel on muuhulgas LED-id, juhtkang ja palju andureid.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi on uut tüüpi muusikariist, mille eesmärk on koodidega helisid luua.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
-BBC micro: bit on taskuformaadiline kodeeritav arvuti, mis võimaldab teil olla loov.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
