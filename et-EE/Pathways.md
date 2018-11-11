@@ -1,8 +1,8 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi on võimekas väike arvuti, mida saab kasutada elektroonika-alastes projektides ja paljude muude asjade jaoks, mida sinu lauaarvuti teeb.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: moodul 1/2/3
 
 Ehita ja kujunda omaenda veebisaidid.
 
@@ -20,11 +20,11 @@ Scratch: moodul 1/2/3
 
 Saa teada, kuidas endale ise interaktiivseid lugusid, mänge ja animatsioone programmeerida.
 
-Scratch for social innovation
+Scratch sotsiaalsele ettevõttele
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Õpi Scratchi, algajasõbralikku graafilist programmeerimiskeelt, ehitades samal ajal rakendusi ja mänge, et aidata inimestel olulisi probleeme tundma õppida.
 
-HTML & CSS for social innovation
+HTML & CSS sotsiaalse innovatsiooni jaoks
 
 Learn HTML & CSS by creating a website about bird conservation.
 
