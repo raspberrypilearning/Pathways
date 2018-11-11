@@ -26,13 +26,13 @@ Scratch sotsiaalsele ettevõttele
 
 HTML & CSS sotsiaalse innovatsiooni jaoks
 
-Learn HTML & CSS by creating a website about bird conservation.
+Õpi HTML-i & CSS-i, luues lindude kaitse alase veebilehe.
 
-App Inventor for social innovation
+App Inventor sotsiaalse innovatsiooni jaoks
 
 Õpi looma rakendusi Android-seadmete jaoks, tehes projekte, mis võivad aidata sinu kogukonna inimesi.
 
-Kaasaskantavad Sushi Cards
+Kaasaskantavad Sushi Cards'id
 
 Loo kaasaskantavaid tehnoloogiaprojekte, järgides neid Sushi Cards'e.
 
