@@ -4,7 +4,7 @@ Raspberry Pi to mały komputer, który można używać w projektach wykorzystuj�
 
 HTML i CSS: moduł 1/2/3
 
-Twórz i styluj własne strony internetowe.
+Twórz i stylizuj własne strony internetowe.
 
 Python: moduł 1/2/3
 
@@ -20,15 +20,15 @@ Scratch: moduł 1/2/3
 
 Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
 
-Scratch for social innovation
+Scratch dla przedsięwzięć społecznych
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Naucz się programować w graficznym języku dla początkujących Scratch. Stwórz aplikacje i gry, które pomogą ludziom dowiedzieć się czegoś o ważnych kwestiach.
 
-HTML & CSS for social innovation
+HTML i CSS dla przedsięwzięć społecznych
 
-Learn HTML & CSS by creating a website about bird conservation.
+Poznaj HTML i CSS, tworząc stronę internetową poświęconą ochronie ptaków.
 
-App Inventor for social innovation
+App Inventor dla przedsięwzięć społecznych
 
 Naucz się tworzyć aplikacje na urządzenia z Androidem, wykonując projekty, które mogą pomóc ludziom w Twojej społeczności.
 
@@ -36,7 +36,7 @@ Gadżety Sushi Karty
 
 Twórz projekty gadżetów, postępując zgodnie z tymi Kartami Sushi.
 
-HTML & CSS
+HTML i CSS
 
 Twórz strony internetowe, postępując zgodnie z tymi Kartami Sushi.
 
@@ -52,6 +52,6 @@ Sonic Pi
 
 Sonic Pi to nowy rodzaj instrumentu muzycznego, przeznaczony do tworzenia dźwięków za pomocą kodu.
 
-BBC micro: bit
+BBC micro:bit
 
-BBC micro: bit to kieszonkowy, programowalny komputer, który rozwinie twoją kreatywność.
+BBC micro:bit to kieszonkowy, programowalny komputer, który rozwinie twoją kreatywność.
