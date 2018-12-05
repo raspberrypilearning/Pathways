@@ -2,7 +2,7 @@
 
 树莓派是一款功能强大的小型计算机，可用于电子设备项目，以及完成许多你的台式电脑能做的工作。
 
-HTML & CSS: Module 1/2/3
+HTML & CSS：模块1/2/3
 
 构建和设计自己风格的网页。
 
@@ -20,15 +20,15 @@ Scratch：模块1/2/3
 
 学习如何编写自己的互动故事、游戏和动画。
 
-Scratch for social innovation
+Scratch用于社会创新
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+学习Scratch，一种适合初学者的图形化的编程语言，用来构建应用程序和游戏，以帮助人们了解重要问题。
 
-HTML & CSS for social innovation
+HTML & CSS用于社会创新
 
-Learn HTML & CSS by creating a website about bird conservation.
+通过创建一个关于鸟类保护的网站来学习HTML & CSS。
 
-App Inventor for social innovation
+App Inventor用于社会创新
 
 通过执行可以帮助你所在社区人员的项目，学习如何制作安卓应用程序。
 
