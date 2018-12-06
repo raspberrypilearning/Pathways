@@ -12,11 +12,11 @@ Python: Дополнительные Проекты
 
 Python - широко используемый язык программирования на основе текста.
 
-Скретч: Дополнительные проекты
+Scratch: Дополнительные проекты
 
-Скретч: Проекты Сообщества
+Scratch: Проекты Сообщества
 
-Скретч: Модуль 1/2/3
+Scratch: Модуль 1/2/3
 
 Узнайте, как программировать свои собственные интерактивные истории, игры и анимации.
 
@@ -24,7 +24,7 @@ Python - широко используемый язык программиров
 
 Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
-HTML & CSS for social innovation
+HTML & CSS для социальных инноваций
 
 Learn HTML & CSS by creating a website about bird conservation.
 
@@ -42,7 +42,7 @@ Create websites by following these Sushi Cards.
 
 Scratch Sushi Cards
 
-Learn Scratch by working through these fun projects!
+Изучайте Scratch, работая над этими интересными проектами!
 
 Sense HAT
 
