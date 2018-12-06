@@ -1,26 +1,26 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi - это небольшой компьютер, который можно использовать в проектах, связанных с электроникой. Он способен делать многое из того, что умеет делать твой настольный компьютер.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Модуль 1/2/3
 
-Build and style your own web pages.
+Создавай и изменяй внешний вид собственных веб-страниц.
 
-Python: Module 1/2/3
+Python: Модуль 1/2/3
 
-Python: Additional Projects
+Python: Дополнительные Проекты
 
-Python is a widely used, general purpose, text-based programming language.
+Python - широко используемый язык программирования на основе текста.
 
-Scratch: Additional Projects
+Скретч: Дополнительные проекты
 
-Scratch: Community Projects
+Скретч: Проекты Сообщества
 
-Scratch: Module 1/2/3
+Скретч: Модуль 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Узнайте, как программировать свои собственные интерактивные истории, игры и анимации.
 
-Scratch for social innovation
+Скретч для социальных инноваций
 
 Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
