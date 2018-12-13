@@ -1,14 +1,14 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi je mali računalnik, ki ga lahko uporabljate v projektih z elektroniko ter v mnogo drugih stvareh kot vaš namizni računalnik.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Zgradite in oblikujte svoje spletne strani.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Dodatni projekti
 
 Python is a widely used, general purpose, text-based programming language.
 
