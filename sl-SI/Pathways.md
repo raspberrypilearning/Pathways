@@ -10,15 +10,15 @@ Python: Modul 1/2/3
 
 Python: Dodatni projekti
 
-Python is a widely used, general purpose, text-based programming language.
+Python je pogosto uporabljen, vsestranski, besedno osnovan programski jezik.
 
-Scratch: Additional Projects
+Scratch: Dodatni projekti
 
-Scratch: Community Projects
+Scratch: Projekti skupnosti
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Preberite, kako programirati svoje interaktivne zgodbe, igre in animacije.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Naučite se izdelati aplikacije za naprave Android s projekti, ki lahko pomagajo ljudem v vaši skupnosti.
 
 Wearables Sushi Cards
 
