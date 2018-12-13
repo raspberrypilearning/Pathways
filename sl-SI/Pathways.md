@@ -32,13 +32,13 @@ App Inventor for social innovation
 
 Naučite se izdelati aplikacije za naprave Android s projekti, ki lahko pomagajo ljudem v vaši skupnosti.
 
-Wearables Sushi Cards
+Nosljive Suši kartice
 
-Create wearable technology projects by following these Sushi Cards.
+Ustvarite nosilne tehnološke projekte s temi suši karticami.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Ustvarite spletne strani, tako da sledite tem suši karticam.
 
 Scratch Sushi Cards
 
