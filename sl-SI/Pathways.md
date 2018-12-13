@@ -32,7 +32,7 @@ App Inventor for social innovation
 
 Naučite se izdelati aplikacije za naprave Android s projekti, ki lahko pomagajo ljudem v vaši skupnosti.
 
-Nosljive Suši kartice
+Nosljive Suši Kartice
 
 Ustvarite nosilne tehnološke projekte s temi suši karticami.
 
@@ -40,18 +40,18 @@ HTML & CSS
 
 Ustvarite spletne strani, tako da sledite tem suši karticam.
 
-Scratch Sushi Cards
+Scratch suši kartice
 
-Learn Scratch by working through these fun projects!
+Naučite se Scratch z delom skozi te zabavne projekte!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT je dodatek za Raspberry Pi, ki vsebuje LED diode, igralno palico in veliko senzorjev.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi je nova vrsta glasbenega instrumenta, namenjenega ustvarjanju zvokov s programiranjem.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit je žepni računalnik, ki ga je mogoče programirati, kar vam omogoča ustvarjanje.
