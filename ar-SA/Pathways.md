@@ -2,7 +2,7 @@ Raspberry Pi
 
 إن جهاز Raspberry Pi هو جهاز كمبيوتر صغير يمكن استخدامه في مشاريع الإلكترونيات، والعديد من الأشياء التي يقوم بها جهاز الحاسب الآلي الخاص بك.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: الوحدة 3/2/1
 
 بناء وتنسيق صفحات الويب الخاصة بك.
 
@@ -18,17 +18,17 @@ Scratch: مشاريع مجتمعية
 
 Scratch: الوحدة 3/2/1
 
-تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+تعلم كيفية برمجة القصص التفاعلية، والألعاب، والرسوم المتحركة الخاصة بك.
 
-Scratch for social innovation
+Scratch للابتكار الإجتماعي
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+تعلم Scratch، وهي لغة برمجة رسومية سهلة الاستخدام للمبتدئين، وذلك أثناء بناء التطبيقات والألعاب، التي تساعد الأشخاص في التعلم عن المشكلات المهمة.
 
-HTML & CSS for social innovation
+HTML & CSS للإبتكار الإجتماعي
 
-Learn HTML & CSS by creating a website about bird conservation.
+تعلم HTML & CSS من خلال إنشاء موقع إلكتروني حول الحفاظ على الطيور.
 
-App Inventor for social innovation
+اختراع التطبيقات للإبتكار الإجتماعي
 
 تعلم كيفية إنشاء تطبيقات لأجهزة Android من خلال تنفيذ مشاريع يمكنها مساعدة أفراد مجتمعك.
 
