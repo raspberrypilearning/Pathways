@@ -22,15 +22,15 @@ Scratch: Additional Projects
 
 Скретч для социальных инноваций
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Изучай Скретч, удобный для начинающих графический язык программирования, путём создания приложении и игр, чтобы помочь людям узнать о важных проблемах.
 
 HTML & CSS для социальных инноваций
 
 Learn HTML & CSS by creating a website about bird conservation.
 
-App Inventor for social innovation
+App Inventor для социальных инноваций
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Научитесь создавать приложения для устройств Android, делая проекты, которые могут помочь людям вокруг вас.
 
 Wearables Sushi Cards
 
@@ -52,6 +52,6 @@ Sonic Pi
 
 Sonic Pi - это новый вид музыкального инструмента, предназначенный для создания звуков с кодом.
 
-BBC micro:bit
+Би-би-си микро: бит
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+Би-би-си микро: бит - это карманный, программируемый компьютер, который позволяет вам проявлять творческий подход.
