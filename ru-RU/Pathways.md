@@ -46,7 +46,7 @@ Scratch Sushi Cards
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT (от английских "sense" - чувство и "hat" - шляпа) - это дополнительная плата для Raspberry Pi, содержащая светодиоды, джойстик и множество датчиков. Плата устанавливается сверху на Raspberry Pi по-этому и называется "шляпой" или "шапкой".
 
 Sonic Pi
 
