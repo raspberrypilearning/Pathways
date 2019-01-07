@@ -26,7 +26,7 @@ Scratch: Additional Projects
 
 HTML & CSS для социальных инноваций
 
-Learn HTML & CSS by creating a website about bird conservation.
+Изучите HTML & CSS, создавая веб-сайт о сохранении птиц.
 
 App Inventor для социальных инноваций
 
