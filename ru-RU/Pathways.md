@@ -50,7 +50,7 @@ The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystic
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi - это новый вид музыкального инструмента, предназначенный для создания звуков с кодом.
 
 BBC micro:bit
 
