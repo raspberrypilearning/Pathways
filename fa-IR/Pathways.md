@@ -1,57 +1,57 @@
-Raspberry Pi
+رزبری پای
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+رزبری‌پای یک کامپیوتر کوچک است که می‌تواند در پروژه‌های الکترونیکی و بسیاری از کارهایی که کامپیوتر رومیزی شما انجام می‌دهد، مورد استفاده قرار گیرد.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: ماژول 1/2/3
 
-Build and style your own web pages.
+صفحات وب خود را بسازید و ظاهر آن را درست کنید.
 
-Python: Module 1/2/3
+پایتون: ماژول 1/2/3
 
-Python: Additional Projects
+پایتون: پروژه‌های اضافی
 
-Python is a widely used, general purpose, text-based programming language.
+پایتون یک زبان برنامه‌نویسی همه منظوره و مبتنی بر متن است که به طور گسترده‌ای مورد استفاده قرار گرفته است.
 
-Scratch: Additional Projects
+اسکرچ: پروژه های اضافی
 
-Scratch: Community Projects
+اسکرچ: پروژه های انجمن
 
-Scratch: Module 1/2/3
+اسکرچ: ماژول 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+یاد بگیرید چگونه برنامه‌ی داستان‌های تعاملی، بازی‌ها و انیمیشن‌های خود را بنویسید.
 
-Scratch for social innovation
+اسکرچ برای نوآوری اجتماعی
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+اسکرچ که یک زبان برنامه‌نویسی گرافیکی مناسب برای فرد مبتدی است را با ساخت برنامه‌ها و بازی‌ها برای کمک به مردم در یادگیری مسائل مهم، یاد بگیرید.
 
-HTML & CSS for social innovation
+HTML & CSS برای نوآوری اجتماعی
 
-Learn HTML & CSS by creating a website about bird conservation.
+HTML & CSS را با ایجاد یک وب‌سایت در مورد حفاظت از پرندگان، یاد بگیرید.
 
-App Inventor for social innovation
+App Inventor برای نوآوری اجتماعی
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+با استفاده از پروژه‌هایی که می‌توانند به مردم در جامعه‌ی شما کمک کنند، یاد بگیرید که برنامه‌هایی برای دستگاه‌های اندرویدی بسازید.
 
-Wearables Sushi Cards
+کارت‌های Sushi پوشیدنی
 
-Create wearable technology projects by following these Sushi Cards.
+با پیروی از این کارت‌های Sushi، پروژه‌های مرتبط با فناوری پوشیدنی ایجاد کنید.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+با پیروی از این کارت‌های Sushi، وب‌سایت بسازید.
 
-Scratch Sushi Cards
+کارت‌های Sushi برای اسکرچ
 
-Learn Scratch by working through these fun projects!
+با کار کردن در این پروژه‌های جالب، اسکرچ را یاد بگیرید!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT یک بورد افزونه برای رزبری پای است که شامل LEDها، جوی استیک و تعداد زیادی سنسور است.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi یک نوع جدیدی از ابزار موسیقی است که برای ایجاد صداها با کد طراحی شده است.
 
-BBC micro:bit
+micro:bit بی‌بی‌سی
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+micro:bit بی‌بی‌سی یک کامپیوتر جیبی قابل برنامه‌نویسی است که به شما امکان خلاق شدن را می‌دهد.
