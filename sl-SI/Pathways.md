@@ -46,7 +46,7 @@ Naučite se Scratch z delom skozi te zabavne projekte!
 
 Sense HAT
 
-Sense HAT je dodatek za Raspberry Pi, ki vsebuje LED diode, igralno palico in veliko senzorjev.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
@@ -54,4 +54,4 @@ Sonic Pi je nova vrsta glasbenega instrumenta, namenjenega ustvarjanju zvokov s 
 
 BBC micro:bit
 
-BBC micro:bit je žepni računalnik, ki ga je mogoče programirati, kar vam omogoča ustvarjanje.
+BBC micro:bit je programabilni žepni računalnik, ki ti omogoča razvoj kreativnosti.
