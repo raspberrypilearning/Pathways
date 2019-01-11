@@ -54,4 +54,4 @@ Sonic Pi je nova vrsta glasbenega instrumenta, namenjenega ustvarjanju zvokov s 
 
 BBC micro:bit
 
-BBC micro:bit je programabilni žepni računalnik, ki ti omogoča razvoj kreativnosti.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
