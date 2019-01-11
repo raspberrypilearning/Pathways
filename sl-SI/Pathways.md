@@ -6,17 +6,17 @@ HTML & CSS: Module 1/2/3
 
 Build and style your own web pages.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Dodatni projekti
 
 Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Additional Projects
+Scratch: Dodatni projekti
 
-Scratch: Community Projects
+Scratch: Projekti skupnosti
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
 Preberite, kako programirati svoje interaktivne zgodbe, igre in animacije.
 
