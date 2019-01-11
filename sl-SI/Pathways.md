@@ -10,13 +10,13 @@ Python: Module 1/2/3
 
 Python: Additional Projects
 
-Python je pogosto uporabljen, vsestranski, besedno osnovan programski jezik.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Dodatni projekti
+Scratch: Additional Projects
 
-Scratch: Projekti skupnosti
+Scratch: Community Projects
 
-Scratch: Modul 1/2/3
+Scratch: Module 1/2/3
 
 Preberite, kako programirati svoje interaktivne zgodbe, igre in animacije.
 
