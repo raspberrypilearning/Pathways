@@ -20,15 +20,15 @@ Scratch: 추가 프로젝트
 
 자신만의 대화형 이야기, 게임 및 애니메이션을 프로그래밍하는 방법을 배울 수 있습니다.
 
-Scratch for social innovation
+사회적 혁신을 위한 스크래치
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+초보자를 위한 그래픽 프로그래밍 언어 스크래치(Scratch) 를 배우면서 중요한 이슈에 대해 사람들이 알 수 있도록 앱과 게임을 개발하십시오.
 
-HTML & CSS for social innovation
+사회적 혁신을 위한 HTML & CSS
 
-Learn HTML & CSS by creating a website about bird conservation.
+조류 보호에 대한 웹 사이트 제작을 통해 HTML & CSS를 배워보세요.
 
-App Inventor for social innovation
+사회적 혁신을 위한 앱 인벤터
 
 여러분이 속한 지역사회 사람들을 돕는 프로젝트를 통해, Android 기기용 앱 제작 방법을 학습합니다.
 
