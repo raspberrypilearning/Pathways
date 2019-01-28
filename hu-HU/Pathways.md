@@ -1,30 +1,30 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+A Raspberry Pi egy olyan kis számítógép, amely elektronikai projektekhez használható, és számos olyan dologra is képes, mint az asztali számítógép.
 
-HTML & CSS: Module 1/2/3
+HTML és CSS: 1./2./3. modul
 
-Build and style your own web pages.
+Készíts, és szerkeszd meg saját stílusodban oldaladat.
 
-Python: Module 1/2/3
+Python: 1./2./3. modul
 
-Python: Additional Projects
+Python: További projektek
 
-Python is a widely used, general purpose, text-based programming language.
+A Python egy széles körben használt, általános használatú, szövegalapú programozási nyelv.
 
-Scratch: Additional Projects
+Scratch: További projektek
 
-Scratch: Community Projects
+Scratch: Közösségi projektek
 
-Scratch: Module 1/2/3
+Scratch: 1./2./3. modul
 
-Learn how to program your own interactive stories, games and animations.
+Tanuld meg programozni a saját interaktív történeteidet, játékaidat és animációidat.
 
-Scratch for social innovation
+Scratch a társadalmi innovációhoz
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Ismerd meg a Scratchet, a kezdő-barát grafikus programozói nyelvet, miközben alkalmazásokat és játékokat készítesz, hogy segíts az embereknek megismerkedni fontos témákkal.
 
-HTML & CSS for social innovation
+HTML és CSS a társadalmi innovációhoz
 
 Learn HTML & CSS by creating a website about bird conservation.
 
