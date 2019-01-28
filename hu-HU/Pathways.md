@@ -42,16 +42,16 @@ Create websites by following these Sushi Cards.
 
 Scratch Sushi Cards
 
-Learn Scratch by working through these fun projects!
+Ismerd meg a Scratchet ezeken a szórakoztató projekteken keresztül!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+A Sense HAT a Raspberry Pi kiegészítő tartozéka, LED-ekkel, joystickkal és sok érzékelővel.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+A Sonic Pi egy újfajta hangszer, amelyben kóddal hozhatsz létre hangokat.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+A BBC micro:bit egy zsebméretű, kódolható számítógép, amely lehetővé teszi, hogy kiélhesd a kreativitásod.
