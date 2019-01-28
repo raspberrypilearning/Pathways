@@ -26,13 +26,13 @@ Ismerd meg a Scratchet, a kezdő-barát grafikus programozói nyelvet, miközben
 
 HTML és CSS a társadalmi innovációhoz
 
-Learn HTML & CSS by creating a website about bird conservation.
+Ismerd meg a HTML & CSS nyelveket egy madárvédelemmel kapcsolatos honlap létrehozásával.
 
-App Inventor for social innovation
+App Inventor a társadalmi innovációhoz
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Ismerd meg, hogyan készíthetsz alkalmazásokat Android eszközökre, olyan projektek elkészítésével, amelyek segíthetnek a közösségedben élő embereknek.
 
-Wearables Sushi Cards
+Viselhető eszközök szusikártyái
 
 Create wearable technology projects by following these Sushi Cards.
 
