@@ -2,7 +2,7 @@ Raspberry Pi
 
 Le Raspberry Pi est un petit ordinateur capable qui peut être utilisé pour des projets électroniques, et pour beaucoup de choses que fait votre PC de bureau.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS : Module 1/2/3
 
 Construis et personnalise tes propres pages web.
 
@@ -20,15 +20,15 @@ Scratch : Module 1/2/3
 
 Apprends à programmer tes propres histoires, jeux et animations interactives.
 
-Scratch for social innovation
+Scratch pour l'innovation sociale
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Apprendre Scratch, un langage de programmation graphique convivial pour les débutants, tout en développant des applications et des jeux afin d'aider les gens s'informer au sujet des problèmes importants.
 
-HTML & CSS for social innovation
+HTML & CSS pour l'innovation sociale
 
-Learn HTML & CSS by creating a website about bird conservation.
+Apprend le HTML & le CSS en créant un site sur la conservation des oiseaux.
 
-App Inventor for social innovation
+Inventeur d'applications pour l'innovation sociale
 
 Apprend à créer des applications pour les appareils Android en faisant des projets qui peuvent aider les gens de ta communauté.
 
