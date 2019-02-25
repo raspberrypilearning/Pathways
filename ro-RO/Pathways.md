@@ -2,29 +2,29 @@ Raspberry Pi
 
 The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Modulul 1/2/3
 
-Build and style your own web pages.
+Creează și personalizează propriile tale pagini web.
 
-Python: Module 1/2/3
+Python: Modulul 1/2/3
 
-Python: Additional Projects
+Python: Proiecte adiționale
 
 Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Additional Projects
+Scratch: Proiecte adiționale
 
-Scratch: Community Projects
+Scratch: Proiecte comunitare
 
-Scratch: Module 1/2/3
+Scratch: Modulul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Învață cum să programezi propriile povești interactive, jocuri și animații.
 
-Scratch for social innovation
+Scratch pentru inovare socială
 
 Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
-HTML & CSS for social innovation
+HTML & CSS pentru inovare socială
 
 Learn HTML & CSS by creating a website about bird conservation.
 
