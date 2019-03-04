@@ -1,6 +1,6 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi este un computer mic, capabil, care poate fi folosit în proiecte de electronică și pentru multe dintre lucrurile pe care PC-ul tău le poate face.
 
 HTML & CSS: Modulul 1/2/3
 
@@ -26,7 +26,7 @@ Learn Scratch, a beginner-friendly graphical programming language, while buildin
 
 HTML & CSS pentru inovare socială
 
-Learn HTML & CSS by creating a website about bird conservation.
+Învățați HTML & CSS prin crearea unui website despre conservarea păsărilor.
 
 App Inventor for social innovation
 
@@ -42,7 +42,7 @@ Create websites by following these Sushi Cards.
 
 Scratch Sushi Cards
 
-Learn Scratch by working through these fun projects!
+Învață Scratch lucrând la aceste proiecte amuzante!
 
 Sense HAT
 
@@ -50,8 +50,8 @@ The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystic
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi este un nou instrument muzical, conceput pentru a crea sunete scriind cod.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit este un computer de buzunar, cu care puteți programa și care vă permite să fiți creativi.
