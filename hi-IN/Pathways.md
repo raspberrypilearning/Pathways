@@ -1,57 +1,57 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi एक सक्षम कम्प्यूटर है जो कि इलेक्ट्रॉनिक परियोजनाओं में इस्तेमाल किया जा सकता है, और उन कई चीजों के लिए भी जो आपका डेस्कटॉप पीसी करता है।
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: मॉड्यूल १/२/३
 
-Build and style your own web pages.
+अपने वेब पेज को स्वयं बनाएँ और डिज़ाइन करें
 
-Python: Module 1/2/3
+Python: मॉड्यूल १/२/३
 
-Python: Additional Projects
+Python: अतिरिक्त परियोजनाएं
 
-Python is a widely used, general purpose, text-based programming language.
+Python एक व्यापक रूप से उपयोग किया जाने वाला, सामान्य प्रयोजन, शब्दों-पर-आधारित प्रोग्रामिंग भाषा है।
 
-Scratch: Additional Projects
+Scratch: अतिरिक्त परियोजनाएं
 
-Scratch: Community Projects
+Scratch: सामुदायिक परियोजनाएं
 
-Scratch: Module 1/2/3
+Scratch: मॉड्यूल १/२/३
 
-Learn how to program your own interactive stories, games and animations.
+अपने इंटरैक्टिव कहानियों, गेम और एनिमेशन को प्रोग्राम करना सीखें
 
-Scratch for social innovation
+सामाजिक नवाचार के लिए Scratch
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Scratch सीखें, एक शुरुआती-अनुकूल ग्राफिकल प्रोग्रामिंग भाषा, एप्लिकेशन और गेम का निर्माण करने में मदद करता है, जिससे लोग महत्वपूर्ण मुद्दे जान सखे।
 
-HTML & CSS for social innovation
+सामाजिक नवाचार के लिए HTML & CSS
 
-Learn HTML & CSS by creating a website about bird conservation.
+पक्षी संरक्षण के बारे में एक वेबसाइट बनाकर HTML & CSS सीखें।
 
-App Inventor for social innovation
+सामाजिक नवाचार के लिए App Inventor
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+एंड्रॉइड डिवाइस के लिए परियोजनाएं बनाना सीखें जो आपके समुदाय के लोगों की मदद कर सकता हैं।
 
-Wearables Sushi Cards
+वियरेबल सुशी कार्ड
 
-Create wearable technology projects by following these Sushi Cards.
+इन सुशी कार्ड्स का पालन करके पहनने योग्य प्रौद्योगिकी परियोजनाएं बनाएं।
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+इन सुशी कार्डों का पालन करके वेबसाइटें बनाएं।
 
-Scratch Sushi Cards
+Scratch सुशी कार्ड
 
-Learn Scratch by working through these fun projects!
+इन मजेदार परियोजनाओं पर काम करके Scratch सीखें!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT, Raspberry Pi के लिए एक ऐड-ऑन बोर्ड है, जिसमें एल. ई. डी., एक जॉयस्टिक और बहुत से सेंसर शामिल हैं।
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi एक नये प्रकार का संगीत वाद्ययंत्र है, जो कोड से ध्वनियों को बनाने के लिए डिज़ाइन किया गया है।
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit एक जेब में फिट होने वाला, कोडेबल कंप्यूटर है जो आपको रचनात्मक बनने में मदद करता है।
