@@ -24,13 +24,13 @@ Scratch for social innovation
 
 Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
-HTML & CSS for social innovation
+HTML & CSS для соціальних інновацій
 
 Вивчайте HTML & CSS, створивши веб-сайт про збереження птахів.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Навчіться створювати додатки для пристроїв на базі Android, розробляючи проекти, що можуть допомогти людям з Вашої спільноти.
 
 Wearables Sushi Cards
 
@@ -46,7 +46,7 @@ Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT - це плата розширення для Raspberry Pi, що включає в себе світлодіоди, джойстик та безліч датчиків.
 
 Sonic Pi
 
@@ -54,4 +54,4 @@ Sonic Pi is a new kind of musical instrument, designed for creating sounds with 
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit - це кишеньковий комп'ютер, з яким можна дати волю уяві.
