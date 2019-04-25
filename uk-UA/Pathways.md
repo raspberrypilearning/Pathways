@@ -1,14 +1,14 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi - це здібний маленький комп'ютер, який можна використовувати в електронних проектах, а також для багатьох інших речей, як звичайний настільний ПК.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Модуль 1/2/3
 
 Build and style your own web pages.
 
-Python: Module 1/2/3
+Python: Модуль 1/2/3
 
-Python: Additional Projects
+Python: додаткові проекти
 
 Python is a widely used, general purpose, text-based programming language.
 
@@ -18,7 +18,7 @@ Scratch: Community Projects
 
 Scratch: Module 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Дізнайтеся, як програмувати власні інтерактивні історії, ігри та анімації.
 
 Scratch for social innovation
 
@@ -26,7 +26,7 @@ Learn Scratch, a beginner-friendly graphical programming language, while buildin
 
 HTML & CSS for social innovation
 
-Learn HTML & CSS by creating a website about bird conservation.
+Вивчайте HTML & CSS, створивши веб-сайт про збереження птахів.
 
 App Inventor for social innovation
 
