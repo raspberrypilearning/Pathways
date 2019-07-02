@@ -1,34 +1,34 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Il Raspberry Pi è un computer piccolo ma molto potente, che può essere utilizzato in progetti di elettronica, e per fare molte delle cose che il tuo PC è in grado di fare.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Moduli 1/2/3
 
-Build and style your own web pages.
+Crea e personalizza le tue pagine web.
 
-Python: Module 1/2/3
+Python: Modulo 1/2/3
 
-Python: Additional Projects
+Python: Altri Progetti
 
 Python è un linguaggio di programmazione testuale, molto diffuso e utilizzabile per i più diversi scopi.
 
-Scratch: Additional Projects
+Scratch: Altri Progetti
 
 Scratch: Progetti della comunità
 
 Scratch: Moduli 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Impara a programmare le tue storie interattive, i tuoi giochi e le tue animazioni.
 
-Scratch for social innovation
+Scratch per l'innovazione sociale
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Impara Scratch, un linguaggio di programmazione visuale adatto ai principianti, sviluppando app e giochi che sensibilizzino gli utenti su temi importanti.
 
-HTML & CSS for social innovation
+HTML & CSS per l'innovazione sociale
 
-Learn HTML & CSS by creating a website about bird conservation.
+Impara HTML & CSS creando un sito Web sulla salvaguardia degli uccelli.
 
-App Inventor for social innovation
+App Inventor per l'innovazione sociale
 
 Impara a creare app per i dispositivi Android con progetti che possano essere d'aiuto alle persone della tua comunità.
 
@@ -38,9 +38,9 @@ Crea progetti con la tecnologia indossabile seguendo queste Sushi Card.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Crea siti web seguendo queste Sushi Card.
 
-Scratch Sushi Cards
+Scratch Sushi Card
 
 Impara ad usare Scratch completando questi simpatici progetti!
 
@@ -52,6 +52,6 @@ Sonic Pi
 
 Sonic Pi è un nuovo tipo di strumento musicale progettato per creare suoni scrivendo del codice.
 
-BBC micro:bit
+BBC micro: bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+Il BBC micro:bit è un computer tascabile programmabile che ti consente di scatenare la tua creatività.
