@@ -20,7 +20,7 @@ Scratch: Modul 1/2/3
 
 Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu programmieren.
 
-Scratch for social innovation
+Scratch für soziale Innovation
 
 Lerne Scratch, eine anfängerfreundliche grafische Programmiersprache, indem du Apps und Spiele machst um Menschen zu helfen wichtige Dinge zu lernen.
 
@@ -32,17 +32,17 @@ App Inventor für soziale Innovation
 
 Lerne, Apps für Android-Geräte zu erstellen, indem du Projekte durchführst, die Menschen in deiner Community helfen können.
 
-Wearables Sushi Cards
+Sushi-Karten für tragbare Technik
 
-Create wearable technology projects by following these Sushi Cards.
+Erstelle Projekte für tragbare Technik, indem du diesen Sushi-Karten folgst.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Erstelle Websites, indem du diesen Sushi-Karten folgst.
 
-Scratch Sushi Cards
+Scratch Sushi-Karten
 
-Learn Scratch by working through these fun projects!
+Lerne Scratch, indem du diese lustigen Projekte durcharbeitest!
 
 Sense HAT
 
