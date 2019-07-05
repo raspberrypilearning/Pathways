@@ -10,7 +10,7 @@ Python: Modulul 1/2/3
 
 Python: Proiecte adiționale
 
-Python is a widely used, general purpose, text-based programming language.
+Python este un limbaj de programare folosit pe scară largă, cu uz general și bazat pe text.
 
 Scratch: Proiecte adiționale
 
@@ -22,11 +22,11 @@ Scratch: Modulul 1/2/3
 
 Scratch pentru inovare socială
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Învață Scratch, un mediu prietenos de limbaj de programare, atunci când dezvoltați aplicații și jocuri, pentru a putea ajuta lumea să învețe lucruri importante.
 
 HTML & CSS pentru inovare socială
 
-Învățați HTML & CSS prin crearea unui website despre conservarea păsărilor.
+Învață HTML & CSS prin crearea unui website despre protejarea păsărilor.
 
 App Inventor for social innovation
 
