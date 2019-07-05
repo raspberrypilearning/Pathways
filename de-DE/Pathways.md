@@ -22,13 +22,13 @@ Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu program
 
 Scratch for social innovation
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Lerne Scratch, eine anfängerfreundliche grafische Programmiersprache, indem du Apps und Spiele machst um Menschen zu helfen wichtige Dinge zu lernen.
 
-HTML & CSS for social innovation
+HTML & CSS für soziale Innovation
 
-Learn HTML & CSS by creating a website about bird conservation.
+Lerne HTML & CSS, indem du einen Webauftritt über Vogelschutz machst.
 
-App Inventor for social innovation
+App Inventor für soziale Innovation
 
 Lerne, Apps für Android-Geräte zu erstellen, indem du Projekte durchführst, die Menschen in deiner Community helfen können.
 
