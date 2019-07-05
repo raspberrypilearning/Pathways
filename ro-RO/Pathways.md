@@ -28,9 +28,9 @@ HTML & CSS pentru inovare socială
 
 Învață HTML & CSS prin crearea unui website despre protejarea păsărilor.
 
-App Inventor for social innovation
+Dezvoltatorul de Aplicații pentru creativitate socială
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Află cum să creezi aplicații pentru dispozitivele Android, participând la proiecte care pot ajuta oamenii din comunitatea ta.
 
 Wearables Sushi Cards
 
@@ -38,7 +38,7 @@ Create wearable technology projects by following these Sushi Cards.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Creează site-uri web folosind aceste Fișe Sushi.
 
 Scratch Sushi Cards
 
@@ -46,12 +46,12 @@ Scratch Sushi Cards
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT este o placă adițională pentru Raspberry Pi, incluzând LED-uri, un joystick și o mulțime de senzori.
 
 Sonic Pi
 
-Sonic Pi este un nou instrument muzical, conceput pentru a crea sunete scriind cod.
+Sonic Pi este un nou instrument muzical, conceput pentru a crea sunete cu ajutorul codului.
 
 BBC micro:bit
 
-BBC micro:bit este un computer de buzunar, cu care puteți programa și care vă permite să fiți creativi.
+BBC micro:bit este un computer programabil de buzunar care îți permite să fii creativ.
