@@ -32,15 +32,15 @@ Dezvoltatorul de Aplicații pentru creativitate socială
 
 Află cum să creezi aplicații pentru dispozitivele Android, participând la proiecte care pot ajuta oamenii din comunitatea ta.
 
-Wearables Sushi Cards
+Fișe Sushi
 
-Create wearable technology projects by following these Sushi Cards.
+Creează proiecte de tehnologie portabilă, folosind aceste Fișe Sushi.
 
 HTML & CSS
 
 Creează site-uri web folosind aceste Fișe Sushi.
 
-Scratch Sushi Cards
+Fișe Sushi Scratch
 
 Învață Scratch lucrând la aceste proiecte amuzante!
 
