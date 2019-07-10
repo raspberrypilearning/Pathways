@@ -6,11 +6,11 @@ HTML & CSS: Module 1/2/3
 
 Build and style your own web pages.
 
-Python: Module 1/2/3
+Python: Modül 1/2/3
 
 Python: Additional Projects
 
-Python is a widely used, general purpose, text-based programming language.
+Python, yaygın olarak kullanılan, genel amaçlı, metin tabanlı bir programlama dilidir.
 
 Scratch: Additional Projects
 
@@ -18,7 +18,7 @@ Scratch: Community Projects
 
 Scratch: Module 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Kendi etkileşimli hikayelerinizi, oyunlarınızı ve animasyonlarınızı nasıl programlayacağınızı öğrenin.
 
 Scratch for social innovation
 
@@ -26,13 +26,13 @@ Learn Scratch, a beginner-friendly graphical programming language, while buildin
 
 HTML & CSS for social innovation
 
-Learn HTML & CSS by creating a website about bird conservation.
+Kuşların korunması hakkında bir web sitesi oluşturarak HTML & CSS'yi öğrenin.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Topluluğunuzdaki insanlara yardım edebilecek projeler yaparak Android cihazlar için uygulamalar yapmayı öğrenin.
 
-Wearables Sushi Cards
+Giyilebilir Suşi Kartları
 
 Create wearable technology projects by following these Sushi Cards.
 
