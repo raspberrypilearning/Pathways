@@ -1,57 +1,57 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi, elektronik projelerinde ve masaüstü bilgisayarınızın yaptığı birçok şeyde kullanılabilen küçük bir bilgisayardır.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Modül 1/2/3
 
-Build and style your own web pages.
+Kendi web sayfalarınızı oluşturun ve şekillendirin.
 
 Python: Modül 1/2/3
 
-Python: Additional Projects
+Python: Ek Projeler
 
 Python, yaygın olarak kullanılan, genel amaçlı, metin tabanlı bir programlama dilidir.
 
-Scratch: Additional Projects
+Scratch: Ek Projeler
 
-Scratch: Community Projects
+Scratch: Topluluk Projeleri
 
-Scratch: Module 1/2/3
+Scratch: Modül 1/2/3
 
 Kendi etkileşimli hikayelerinizi, oyunlarınızı ve animasyonlarınızı nasıl programlayacağınızı öğrenin.
 
-Scratch for social innovation
+Sosyal yenilik için Scratch
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+İnsanların önemli konular hakkında bilgi edinmesine yardımcı olacak uygulamalar ve oyunlar geliştirirken, yeni başlayanlara uygun bir grafik programlama dili olan Scratch 'i öğrenin.
 
-HTML & CSS for social innovation
+Sosyal yenilik için HTML & CSS
 
 Kuşların korunması hakkında bir web sitesi oluşturarak HTML & CSS'yi öğrenin.
 
-App Inventor for social innovation
+Sosyal yenilik için Uygulama Geliştirici
 
 Topluluğunuzdaki insanlara yardım edebilecek projeler yaparak Android cihazlar için uygulamalar yapmayı öğrenin.
 
 Giyilebilir Suşi Kartları
 
-Create wearable technology projects by following these Sushi Cards.
+Bu Suşi Kartlarını takip ederek giyilebilir teknoloji projeleri oluşturun.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Bu Suşi Kartlarını takip ederek web siteleri oluşturun.
 
-Scratch Sushi Cards
+Scratch Suşi Kartları
 
-Learn Scratch by working through these fun projects!
+Bu eğlenceli projelerle çalışarak Scratch'i öğrenin!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT; Raspberry Pi'ye takılan, LED'ler, kumanda kolu ve birçok sensör içeren ilave bir elektronik karttır.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi, kodlamayla sesler oluşturmak için tasarlanmış yeni bir tür müzik aletidir.
 
-BBC micro:bit
+BBC micro: bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit; yaratıcı olmanıza olanak tanıyan cep boyutunda, kodlanabilir bir bilgisayardır.
