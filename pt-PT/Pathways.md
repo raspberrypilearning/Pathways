@@ -1,57 +1,57 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+O Raspberry Pi é um pequeno, mas capaz, computador que pode ser utilizado em projetos de eletrónica, e em muitas outras coisas que um PC de secretária faz.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Módulo 1/2/3
 
-Build and style your own web pages.
+Cria e edita as tuas próprias páginas web.
 
-Python: Module 1/2/3
+Python: Módulo 1/2/3
 
-Python: Additional Projects
+Python: Projetos adicionais
 
-Python is a widely used, general purpose, text-based programming language.
+Python é uma linguagem de programação baseada em texto amplamente utilizada, de utilização geral.
 
-Scratch: Additional Projects
+Scratch: Projetos adicionais
 
-Scratch: Community Projects
+Scratch: Projetos comunitários
 
-Scratch: Module 1/2/3
+Scratch: Módulo 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Aprende a programar as tuas próprias histórias, jogos e animações interativas.
 
-Scratch for social innovation
+Scratch para inovação social
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Aprende Scratch, uma linguagem de programação gráfica para iniciantes, enquanto crias aplicações e jogos que ajudam outras pessoas a aprender sobre assuntos importantes.
 
-HTML & CSS for social innovation
+HTML & CSS para inovação social
 
-Learn HTML & CSS by creating a website about bird conservation.
+Aprende HTML & CSS criando um site sobre conservação de aves.
 
-App Inventor for social innovation
+App Inventor para inovação social
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Aprende a criar aplicativos para dispositivos Android fazendo projetos que podem ajudar pessoas na tua comunidade.
 
-Wearables Sushi Cards
+Cartões Sushi para wearables
 
-Create wearable technology projects by following these Sushi Cards.
+Cria projetos de tecnologia wearable seguindo estes Cartões Sushi.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Cria sites seguindo estes Cartões Sushi.
 
-Scratch Sushi Cards
+Cartões Sushi Scratch
 
-Learn Scratch by working through these fun projects!
+Aprende Scratch fazendo estes projetos divertidos!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+O Sense HAT é uma placa adicional para o Raspberry Pi, que inclui LEDs, um joystick e muitos sensores.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi é um novo tipo de instrumento musical, projetado para criar sons com código.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+O micro:bit da BBC é um mini computador, programável que te permite ser criativo.
