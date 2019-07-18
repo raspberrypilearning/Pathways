@@ -1,12 +1,12 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi er en kapabel liten datamaskin som kan brukes i elektronikkprosjekter, og til mange av de tingene som din stasjonære PC gjør.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Modul 1/2/3
 
-Build and style your own web pages.
+Bygg og tilpass dine egne nettsider.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
 Python: Additional Projects
 
