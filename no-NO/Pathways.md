@@ -8,23 +8,23 @@ Bygg og tilpass dine egne nettsider.
 
 Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Ytterligere prosjekter
 
-Python is a widely used, general purpose, text-based programming language.
+Python er et mye brukt, generelt, tekstbasert programmeringsspråk.
 
-Scratch: Additional Projects
+Scratch: Ytterligere prosjekter
 
-Scratch: Community Projects
+Scratch: Fellesskapsprosjekter
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Lær hvordan du programmerer dine egne interaktive historier, spill og animasjoner.
 
-Scratch for social innovation
+Scratch for sosial innovasjon
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Lær Scratch, et begynnervennlig grafisk programmeringsspråk, mens du bygger programmer og spill for å hjelpe folk å lære om viktige problemer.
 
-HTML & CSS for social innovation
+HTML & CSS for sosial innovasjon
 
 Learn HTML & CSS by creating a website about bird conservation.
 
