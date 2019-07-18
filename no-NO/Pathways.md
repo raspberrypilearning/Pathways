@@ -26,32 +26,32 @@ Lær Scratch, et begynnervennlig grafisk programmeringsspråk, mens du bygger pr
 
 HTML & CSS for sosial innovasjon
 
-Learn HTML & CSS by creating a website about bird conservation.
+Lær HTML & CSS ved å lage et nettsted om fuglevern.
 
-App Inventor for social innovation
+App Inventor for sosial innovasjon
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Lær å lage apper for Android-enheter ved å gjennomføre prosjekter som kan hjelpe folk i samfunnet ditt.
 
 Wearables Sushi Cards
 
-Create wearable technology projects by following these Sushi Cards.
+Lag kroppsnære teknologiprosjekter ved å følge disse Sushi-kortene.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Lag nettsteder ved å følge disse Sushi-kortene.
 
 Scratch Sushi Cards
 
-Learn Scratch by working through these fun projects!
+Lær Scratch ved å jobbe med disse morsomme prosjektene!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT er en tilleggsplattform for Raspberry Pi, med lysdioder, joystick og mange sensorer.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi er en ny type musikkinstrument, designet for å lage lyder med kode.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit er en programmerbar datamaskin i lommestørrelse som lar deg bli kreativ.
