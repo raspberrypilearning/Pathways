@@ -32,7 +32,7 @@ App Inventor for sosial innovasjon
 
 Lær å lage apper for Android-enheter ved å gjennomføre prosjekter som kan hjelpe folk i samfunnet ditt.
 
-Wearables Sushi Cards
+Kroppsnære Sushi-kort
 
 Lag kroppsnære teknologiprosjekter ved å følge disse Sushi-kortene.
 
@@ -40,7 +40,7 @@ HTML & CSS
 
 Lag nettsteder ved å følge disse Sushi-kortene.
 
-Scratch Sushi Cards
+Scratch Sushi-kort
 
 Lær Scratch ved å jobbe med disse morsomme prosjektene!
 
