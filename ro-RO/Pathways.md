@@ -22,13 +22,13 @@ Scratch: Modulul 1/2/3
 
 Scratch pentru inovare socială
 
-Învață Scratch, un mediu prietenos de limbaj de programare, atunci când dezvoltați aplicații și jocuri, pentru a putea ajuta lumea să învețe lucruri importante.
+Învață Scratch, un limbaj de programare grafic, prietenos, în timp ce dezvolți aplicații și jocuri care ajută oamenii să afle despre probleme importante.
 
 HTML & CSS pentru inovare socială
 
 Învață HTML & CSS prin crearea unui website despre protejarea păsărilor.
 
-Dezvoltatorul de Aplicații pentru creativitate socială
+App Inventor pentru inovare socială
 
 Află cum să creezi aplicații pentru dispozitivele Android, participând la proiecte care pot ajuta oamenii din comunitatea ta.
 
