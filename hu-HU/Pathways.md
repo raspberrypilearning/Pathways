@@ -32,15 +32,15 @@ App Inventor a társadalmi innovációhoz
 
 Ismerd meg, hogyan készíthetsz alkalmazásokat Android eszközökre, olyan projektek elkészítésével, amelyek segíthetnek a közösségedben élő embereknek.
 
-Wearables Sushi Cards
+Viselhető eszközök szusikártyái
 
 Create wearable technology projects by following these Sushi Cards.
 
 HTML és CSS
 
-Create websites by following these Sushi Cards.
+Készíts weboldalakat a következő szusikártyák alapján.
 
-Scratch Sushi Cards
+Scratch szusikártyák
 
 Ismerd meg a Scratchet ezeken a szórakoztató projekteken keresztül!
 
