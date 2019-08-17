@@ -20,38 +20,38 @@ Scratch: මොඩියුලය 1/2/3
 
 ඔබේම අන්තර්ක්‍රියාකාරි කථා, ක්‍රීඩා සහ සජිවීකරණ වැඩසටහන් සකසන්නේ කෙසේදැයි ඉගෙන ගන්න.
 
-Scratch for social innovation
+සමාජ නවෝත්පාදනය සඳහා Scratch
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+ප්‍රයෝජනවත් යෙදුම් සහ ක්‍රීඩා ගොඩනගමින්, නවක මිත්‍රශීලී දෘශ්‍ය අතුරු මුහුණතක් සහිත Scratch ඉගෙන ගන්න.
 
-HTML & CSS for social innovation
+සමාජ නවෝත්පාදනය සඳහා HTML සහ CSS
 
-Learn HTML & CSS by creating a website about bird conservation.
+පක්ෂි සංරක්ෂණය පිළිබඳ වෙබ් අඩවියක් නිර්මාණය කිරීමෙන් HTML සහ CSS ඉගෙන ගන්න.
 
-App Inventor for social innovation
+සමාජ නවෝත්පාදනය සඳහා App Inventor
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+ඔබගේ ප්රජාවට උදව් කළ හැකි ව්යාපෘති කරමින් ඇන්ඩ්රොයිඩ් උපාංග සඳහා යෙදුම් සෑදීමට ඉගෙන ගන්න.
 
-Wearables Sushi Cards
+පැළදිය හැකි Sushi Cards
 
-Create wearable technology projects by following these Sushi Cards.
+මෙම Sushi Cards අනුගමනය කිරීමෙන් පැළදිය හැකි තාක්ෂණික ව්යාපෘති නිර්මාණය කරන්න.
 
-HTML & CSS
+HTML සහ CSS
 
-Create websites by following these Sushi Cards.
+මෙම සුෂි කාඞ්පත් අනුගමනය කිරීමෙන් වෙබ් අඩවි නිර්මාණය කරන්න.
 
 Scratch Sushi Cards
 
-Learn Scratch by working through these fun projects!
+මෙම විනෝද ක්‍රියාකාරකම් කිරීම මගින් Scratch ඉගෙන ගන්න!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT යනු ආලෝක විමෝචක ඩයෝඩ (LED), මෙහෙයුම් යටියක්(joystick) සහ බහු සංවේදක ඈතුලත් වූ Raspberry Pi සඳහා අතිරේක පුවරුවකි.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi යනු කේත මගින් ශබ්ද නිර්මාණය කිරීම සඳහා නිර්මාණය කරන ලද නව සංගීත උපකරණයකි.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit යනු නිර්මාණශීලී ලෙස කේතනය කළහැකි සාක්කු ප්‍රමාණයේ පරිගණකයකි.
