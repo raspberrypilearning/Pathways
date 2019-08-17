@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi යනු ඉලෙක්ට්‍රොනික් ව්‍යාපෘති සඳහා භාවිතා කල හැකි කුඩා පරිගණකයක් වන අතර එයට ඔබේ ඩෙස්ක්ටොප් පරිගණකය කරන බොහෝ දේ කළ හැක.
 
-HTML & CSS: Module 1/2/3
+HTML සහ CSS: මොඩියුලය 1/2/3
 
-Build and style your own web pages.
+ඔබ කැමති විලාසයක වෙබ් පිටු ගොඩනගන්න.
 
-Python: Module 1/2/3
+Python: මොඩියුලය 1/2/3
 
-Python: Additional Projects
+Python: අතිරේක ව්‍යාපෘති
 
-Python is a widely used, general purpose, text-based programming language.
+Python යනු බහුලව භාවිතා වන සාමාන්‍ය අරමුණු මත පදනම් වූ කේතන භාෂාවකි.
 
-Scratch: Additional Projects
+Scratch: අමතර ව්‍යාපෘති
 
-Scratch: Community Projects
+Scratch: ප්‍රජා ව්‍යාපෘති
 
-Scratch: Module 1/2/3
+Scratch: මොඩියුලය 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+ඔබේම අන්තර්ක්‍රියාකාරි කථා, ක්‍රීඩා සහ සජිවීකරණ වැඩසටහන් සකසන්නේ කෙසේදැයි ඉගෙන ගන්න.
 
 Scratch for social innovation
 
