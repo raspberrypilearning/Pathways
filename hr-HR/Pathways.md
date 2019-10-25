@@ -2,7 +2,7 @@ Raspberry Pi
 
 Raspberry Pi je sposobno maleno računalo koje možeš koristiti u projektima s elektronikom, kao i za mnoge stvari koje radi stolno računalo.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Moduli 1/2/3
 
 Izradite i oblikujte vlastite web stranice.
 
@@ -20,15 +20,15 @@ Scratch: Modul 1/2/3
 
 Naučite programirati svoje interaktivne priče, igre i animacije.
 
-Scratch for social innovation
+Scratch za društveno poduzetništvo
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Nauči raditi u Scratch-u, grafičkom programskom jeziku prikladnome za početnike, kroz izradu aplikacija i igara uz koje će se ljudi bolje upoznati s važnim problemima.
 
-HTML & CSS for social innovation
+HTML & CSS za društvene inovacije
 
-Learn HTML & CSS by creating a website about bird conservation.
+Nauči HTML & CSS stvaranjem web stranice o očuvanju ptica.
 
-App Inventor for social innovation
+App Inventor za društveno poduzetništvo
 
 Nauči izraditi aplikacije za uređaje sa sustavom Android pomoću projekata koji mogu pomoći ljudima u tvojoj zajednici.
 
