@@ -34,7 +34,7 @@ Ismerd meg, hogyan készíthetsz alkalmazásokat Android eszközökre, olyan pro
 
 Viselhető eszközök szusikártyái
 
-Create wearable technology projects by following these Sushi Cards.
+Hozz létre viselhető technológiás projekteket a következő szusikártyák alapján.
 
 HTML és CSS
 
