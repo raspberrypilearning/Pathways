@@ -1,24 +1,24 @@
 Raspberry Pi
 
-Raspberry Pi je všestranný malý počítač, který lze použít v elektronických projektech a pro mnoho věcí, podobně jako tvůj stolní počítač.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Module 1/2/3
 
-Vytvoř a nastyluj své vlastní webové stránky.
+Build and style your own web pages.
 
-Python: Modul 1/2/3
+Python: Module 1/2/3
 
-Python: Další projekty
+Python: Additional Projects
 
-Python je široce používaný, univerzální textový programovací jazyk.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Další projekty
+Scratch: Additional Projects
 
-Scratch: Projekty komunity
+Scratch: Community Projects
 
-Scratch: Modul 1/2/3
+Scratch: Module 1/2/3
 
-Nauč se, jak naprogramovat vlastní interaktivní příběhy, hry a animace.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Naučte se vytvářet aplikace pro zařízení Android prostřednictvím projektů, které mohou pomoci lidem ve vašem okolí.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Naučte se Scratch pomocí zábavných projektů!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense HAT je přídavný modul pro Raspberry Pi, obsahující LED diody, joystick a spousty senzorů.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi je nový druh hudebního nástroje, který umožňuje vytváření zvuků programovým kódem.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
-BBC micro:bit je kapesní, programovatelný počítač, který vám umožní být kreativní.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
