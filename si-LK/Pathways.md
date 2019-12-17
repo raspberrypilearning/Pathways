@@ -32,15 +32,15 @@ Scratch: මොඩියුලය 1/2/3
 
 ඔබගේ ප්රජාවට උදව් කළ හැකි ව්යාපෘති කරමින් ඇන්ඩ්රොයිඩ් උපාංග සඳහා යෙදුම් සෑදීමට ඉගෙන ගන්න.
 
-පැළදිය හැකි Sushi Cards
+CoderDojo Wearables
 
-මෙම Sushi Cards අනුගමනය කිරීමෙන් පැළදිය හැකි තාක්ෂණික ව්යාපෘති නිර්මාණය කරන්න.
+Create wearable technology projects by following these projects.
 
 HTML සහ CSS
 
-මෙම සුෂි කාඞ්පත් අනුගමනය කිරීමෙන් වෙබ් අඩවි නිර්මාණය කරන්න.
+Create websites by following these projects.
 
-Scratch Sushi Cards
+CoderDojo Scratch
 
 මෙම විනෝද ක්‍රියාකාරකම් කිරීම මගින් Scratch ඉගෙන ගන්න!
 
