@@ -1,24 +1,24 @@
 Raspberry Pi
 
-Raspberry Pi és un petit ordinador que es pot utilitzar en projectes electrònics i per a moltes de les coses que fa el teu PC ordinador de taula.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Module 1/2/3
 
-Crea i dissenya les teves pròpies pàgines web.
+Build and style your own web pages.
 
-Python: Mòdul 1/2/3
+Python: Module 1/2/3
 
-Python: Més Projectes
+Python: Additional Projects
 
-Python és un llenguatge de programació basat en text molt utilitzat i d'utilitat general.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Projectes addicionals
+Scratch: Additional Projects
 
-Scratch: Projectes de la Comunitat
+Scratch: Community Projects
 
-Scratch: Mòdul 1/2/3
+Scratch: Module 1/2/3
 
-Aprèn a programar les teves pròpies històries interactives, jocs i animacions.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Aprèn a fer aplicacions per a dispositius Android fent projectes que poden ajudar a les persones de la teva comunitat.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -46,12 +46,12 @@ Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense HAT és un complement per a Raspberry Pi que inclou llums LED, un joystick i molts sensors.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi és un nou instrument musical, dissenyat per crear sons amb codi.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro: bit
 
-La BBC micro: bit és un ordinador programable de butxaca que et permet fer coses creatives.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
