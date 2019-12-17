@@ -32,15 +32,15 @@ App Inventor za društveno poduzetništvo
 
 Nauči izraditi aplikacije za uređaje sa sustavom Android pomoću projekata koji mogu pomoći ljudima u tvojoj zajednici.
 
-Nosive sushi kartice
+CoderDojo Wearables
 
-Izradite nosive tehnološke projekte koristeći ove sushi kartice.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Izradite web stranice koristeći ove sushi kartice.
+Create websites by following these projects.
 
-Scratch sushi kartice
+CoderDojo Scratch
 
 Nauči Scratch radeći na ovim zabavnim projektima!
 
