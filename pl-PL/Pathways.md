@@ -32,15 +32,15 @@ App Inventor dla przedsięwzięć społecznych
 
 Naucz się tworzyć aplikacje na urządzenia z Androidem, wykonując projekty, które mogą pomóc ludziom w Twojej społeczności.
 
-Gadżety Sushi Karty
+CoderDojo Wearables
 
-Twórz gadżety, wykonując te Karty Sushi.
+Create wearable technology projects by following these projects.
 
 HTML i CSS
 
-Twórz strony internetowe, postępując zgodnie z tymi Kartami Sushi.
+Create websites by following these projects.
 
-Scratch Sushi Karty
+CoderDojo Scratch
 
 Naucz się języka Scratch, wykonując te zabawne projekty!
 
