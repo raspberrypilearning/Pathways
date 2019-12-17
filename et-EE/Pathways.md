@@ -8,15 +8,15 @@ Ehita ja kujunda omaenda veebisaidid.
 
 Python: moodul 1/2/3
 
-Python: täiendavad projektid
+Python: Additional Projects
 
 Python on laialt kasutatav üldotstarbeline tekstipõhine programmeerimiskeel.
 
-Scratch: täiendavad projektid
+Scratch: Additional Projects
 
-Scratch: kogukonna projektid
+Scratch: Community Projects
 
-Scratch: moodul 1/2/3
+Scratch: Module 1/2/3
 
 Saa teada, kuidas endale ise interaktiivseid lugusid, mänge ja animatsioone programmeerida.
 
