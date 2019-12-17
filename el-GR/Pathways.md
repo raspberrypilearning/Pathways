@@ -32,15 +32,15 @@ App Inventor για την κοινωνική καινοτομία
 
 Μάθε να φτιάχνεις εφαρμογές για συσκευές Android κάνοντας έργα που μπορούν να βοηθήσουν ανθρώπους στην κοινότητά σου.
 
-Φορετές Sushi Κάρτες
+CoderDojo Wearables
 
-Δημιούργησε έργα φορετής τεχνολογίας ακολουθώντας αυτές τις Sushi Κάρτες.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Δημιούργησε ιστοσελίδες ακολουθώντας αυτές τις Sushi Κάρτες.
+Create websites by following these projects.
 
-Scratch Sushi Κάρτες
+CoderDojo Scratch
 
 Μάθε Scratch ολοκληρώνοντας αυτά τα διασκεδαστικά έργα!
 
