@@ -32,15 +32,15 @@ App Inventor pentru inovare socială
 
 Află cum să creezi aplicații pentru dispozitivele Android, participând la proiecte care pot ajuta oamenii din comunitatea ta.
 
-Fișe Sushi
+CoderDojo Wearables
 
-Creează proiecte de tehnologie portabilă, folosind aceste Fișe Sushi.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Creează site-uri web folosind aceste Fișe Sushi.
+Create websites by following these projects.
 
-Fișe Sushi Scratch
+CoderDojo Scratch
 
 Învață Scratch lucrând la aceste proiecte amuzante!
 
