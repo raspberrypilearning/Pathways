@@ -32,15 +32,15 @@ App Inventor für soziale Innovation
 
 Lerne, Apps für Android-Geräte zu erstellen, indem du Projekte durchführst, die Menschen in deiner Community helfen können.
 
-Sushi-Karten für tragbare Technik
+CoderDojo Wearables
 
-Erstelle Projekte für tragbare Technik, indem du diesen Sushi-Karten folgst.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Erstelle Websites, indem du diesen Sushi-Karten folgst.
+Create websites by following these projects.
 
-Scratch Sushi-Karten
+CoderDojo Scratch
 
 Lerne Scratch, indem du diese lustigen Projekte durcharbeitest!
 
