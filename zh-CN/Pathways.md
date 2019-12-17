@@ -32,15 +32,15 @@ App Inventor用于社会创新
 
 通过执行可以帮助你所在社区人员的项目，学习如何制作安卓应用程序。
 
-可穿戴技术产品的寿司知识卡
+CoderDojo Wearables
 
-按照寿司知识卡的指示创立穿戴式科技项目。
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-按照寿司知识卡的指示创建网站。
+Create websites by following these projects.
 
-有关Scratch的寿司知识卡
+CoderDojo Scratch
 
 通过这些趣味项目学习Scratch！
 
