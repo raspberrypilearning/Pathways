@@ -32,15 +32,15 @@ Scratch: 추가 프로젝트
 
 여러분이 속한 지역사회 사람들을 돕는 프로젝트를 통해, Android 기기용 앱 제작 방법을 학습합니다.
 
-웨어러블 초밥 카드
+CoderDojo Wearables
 
-스시 카드를 사용하여 웨어러블 테크놀로지 프로젝트를 만듭니다.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-이 초밥 카드를 따라 웹 사이트를 만드십시오.
+Create websites by following these projects.
 
-스크래치 초밥 카드
+CoderDojo Scratch
 
 재미있는 프로젝트를 통해 스크래치를 배워 보세요!
 
