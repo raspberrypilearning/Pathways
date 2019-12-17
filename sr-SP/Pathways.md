@@ -1,24 +1,24 @@
 Raspberry Pi
 
-Raspberry Pi је способан мали рачунар који се може користити у пројектима електронике и за многе ствари које обично ваш десктоп рачунар ради.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Module 1/2/3
 
-Направите и стилизујте своје веб странице.
+Build and style your own web pages.
 
-Python: Модул 1/2/3
+Python: Module 1/2/3
 
-Python: Додатни пројекти
+Python: Additional Projects
 
-Python је широко распрострањен текстуални програмски језик, опште намене.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Додатни пројекти
+Scratch: Additional Projects
 
-Scratch: Пројекти заједнице
+Scratch: Community Projects
 
-Scratch: Модул 1/2/3
+Scratch: Module 1/2/3
 
-Научите како да програмирате сопствене интерактивне приче, игре и анимације.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Научите да правите апликације за Андроид уређаје радећи пројекте који могу помоћи људима у вашој заједници.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Научи Скреч радећи на овим забавним пројектима!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense Hat је додатак за Raspberry Pi плочу, који укључује LED диоде, џојстик и пуно сензора.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi је нова врста музичког инструмента, који је дизајниран за стварање звукова помоћу кода.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC-јев micro:bit
 
-BBC-јев micro:bit је џепни, програмабилни рачунар који вам омогућава да изразите своју креативност.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
