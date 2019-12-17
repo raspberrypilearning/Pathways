@@ -1,24 +1,24 @@
 Raspberry Pi
 
-Der Raspberry Pi ist ein leistungsfähiger kleiner Computer, der in Elektronikprojekten und, anstelle eines Desktop-PC, für viele andere Dinge verwendet werden kann.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Module 1/2/3
 
-Erstelle und gestalte deine eigenen Webseiten.
+Build and style your own web pages.
 
-Python: Modul 1/2/3
+Python: Module 1/2/3
 
-Python: Zusätzliche Projekte
+Python: Additional Projects
 
-Python ist eine weit verbreitete textbasierte Allzweck-Programmiersprache.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Zusätzliche Projekte
+Scratch: Additional Projects
 
-Scratch: Gemeinschaftsprojekte
+Scratch: Community Projects
 
-Scratch: Modul 1/2/3
+Scratch: Module 1/2/3
 
-Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu programmieren.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch für soziale Innovation
 
@@ -30,7 +30,7 @@ Lerne HTML & CSS, indem du einen Webauftritt über Vogelschutz machst.
 
 App Inventor für soziale Innovation
 
-Lerne, Apps für Android-Geräte zu erstellen, indem du Projekte durchführst, die Menschen in deiner Community helfen können.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -46,12 +46,12 @@ Lerne Scratch, indem du diese lustigen Projekte durcharbeitest!
 
 Sense HAT
 
-Der Sense HAT ist eine Zusatzplatine mit LEDs, einem Joystick und einer Menge Sensoren für den Raspberry Pi.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi ist eine neue Art von Musikinstrument, entwickelt um mit Code Sounds zu erzeugen.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
-Der BBC micro:bit ist ein programmierbarer Computer im Taschenformat, mit dem du kreativ werden kannst.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
