@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi er en habil lille computer, som kan bruges i elektronikprojekter og til mange af de ting, som din stationære pc kan.
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Byg og tilpas dine egne websider.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Yderligere projekter
 
-Python is a widely used, general purpose, text-based programming language.
+Python er et udbredt tekst-baseret programmeringssprog.
 
-Scratch: Additional Projects
+Scratch: Yderligere projekter
 
-Scratch: Community Projects
+Scratch: Fælleskabsprojekter
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Lær hvordan du programmerer dine egne interaktive historier, spil og animationer.
 
 Scratch for social innovation
 
