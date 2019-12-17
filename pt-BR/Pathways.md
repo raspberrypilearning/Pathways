@@ -32,15 +32,15 @@ App Inventor for social innovation
 
 Aprenda a criar aplicativos para dispositivos Android fazendo projetos que possam ajudar as pessoas em sua comunidade.
 
-Wearables Sushi Cards
+CoderDojo Wearables
 
-Crie projetos de tecnologia usáveis seguindo estes Sushi Cards.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Crie sites seguindo estes Sushi Cards.
+Create websites by following these projects.
 
-Scratch Sushi Cards
+CoderDojo Scratch
 
 Aprenda Scratch trabalhando nestes divertidos projetos!
 
