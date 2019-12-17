@@ -4,19 +4,19 @@ Raspberry Pi
 
 HTML & CSS: الوحدة 3/2/1
 
-بناء وتنسيق صفحات الويب الخاصة بك.
+Build and style your own web pages.
 
-Python: الوحدة 3/2/1
+Python: Module 1/2/3
 
-Python: مشاريع إضافية
+Python: Additional Projects
 
-Python هي لغة برمجة نصية تُستخدم على نطاق واسع للأغراض العامة. 
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: مشاريع إضافية
+Scratch: Additional Projects
 
-Scratch: مشاريع مجتمعية
+Scratch: Community Projects
 
-Scratch: الوحدة 3/2/1
+Scratch: Module 1/2/3
 
 تعلم كيفية برمجة القصص التفاعلية، والألعاب، والرسوم المتحركة الخاصة بك.
 
@@ -30,7 +30,7 @@ HTML & CSS للإبتكار الإجتماعي
 
 اختراع التطبيقات للإبتكار الإجتماعي
 
-تعلم كيفية إنشاء تطبيقات لأجهزة Android من خلال تنفيذ مشاريع يمكنها مساعدة أفراد مجتمعك.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-تعلم Scratch من خلال العمل من خلال هذه المشاريع المسلية!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense HAT هي لوحة إضافية ل Raspberry Pi، تضم LEDs و joystick والعديد من أجهزة الإستشعار.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi هو نوع جديد من الآلات الموسيقية، مصمم لإنشاء الأصوات مع التعليمات البرمجية.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
-BBC micro:bit هو جهاز كمبيوتر بحجم الجيب يمكن برمجته يتيح لك فرصة الإبداع.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
