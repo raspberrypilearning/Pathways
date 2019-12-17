@@ -32,15 +32,15 @@ App Inventor for social innovation
 
 あなたのコミュニティーの人々を助けることができるプロジェクトを実行して、Androidのアプリ開発方法を学びましょう。
 
-Wearables Sushi Cards
+CoderDojo Wearables
 
-Create wearable technology projects by following these Sushi Cards.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Create websites by following these Sushi Cards.
+Create websites by following these projects.
 
-Scratch Sushi Cards
+CoderDojo Scratch
 
 Learn Scratch by working through these fun projects!
 
