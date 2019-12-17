@@ -32,15 +32,15 @@ Sosyal yenilik için Uygulama Geliştirici
 
 Topluluğunuzdaki insanlara yardım edebilecek projeler yaparak Android cihazlar için uygulamalar yapmayı öğrenin.
 
-Giyilebilir Suşi Kartları
+CoderDojo Wearables
 
-Bu Suşi Kartlarını takip ederek giyilebilir teknoloji projeleri oluşturun.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Bu Suşi Kartlarını takip ederek web siteleri oluşturun.
+Create websites by following these projects.
 
-Scratch Suşi Kartları
+CoderDojo Scratch
 
 Bu eğlenceli projelerle çalışarak Scratch'i öğrenin!
 
