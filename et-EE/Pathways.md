@@ -32,15 +32,15 @@ App Inventor sotsiaalse innovatsiooni jaoks
 
 Õpi looma rakendusi Android-seadmete jaoks, tehes projekte, mis võivad aidata sinu kogukonna inimesi.
 
-Kaasaskantavad Sushi Cards'id
+CoderDojo Wearables
 
-Loo kaasaskantavaid tehnoloogiaprojekte, järgides neid Sushi Cards'e.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Loo veebisaite, järgides neid Sushi Cards'e.
+Create websites by following these projects.
 
-Scratch Sushi Cards
+CoderDojo Scratch
 
 Õpi Scratch'i, töötades läbi need lõbusad projektid!
 
