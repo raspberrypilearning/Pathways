@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Lær at lave apps til Android-enheder ved at lave projekter, der kan hjælpe folk i dit fællesskab.
 
 CoderDojo Wearables
 
@@ -50,8 +50,8 @@ The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystic
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi er et nyt slags musikinstrument, designet til at skabe lyde med kode.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit er en programmerbar computer i lommeformat, der giver dig mulighed for at være kreativ.
