@@ -4,21 +4,21 @@ The Raspberry Pi is a capable little computer which can be used in electronics p
 
 HTML & CSS: Ενότητα 1/2/3
 
-Δημιουργήστε και σχεδιάστε τις δικές σας ιστοσελίδες.
+Build and style your own web pages.
 
-Python: Ενότητα 1/2/3
+Python: Module 1/2/3
 
-Python: Πρόσθετα έργα
+Python: Additional Projects
 
-Η Python είναι μια ευρέως χρησιμοποιούμενη γλώσσα προγραμματισμού γενικής χρήσης, βασισμένη σε κείμενο.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Πρόσθετα έργα
+Scratch: Additional Projects
 
-Scratch: Κοινοτικά Έργα
+Scratch: Community Projects
 
-Scratch: Ενότητα 1/2/3
+Scratch: Module 1/2/3
 
-Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch για την κοινωνική καινοτομία
 
@@ -30,7 +30,7 @@ HTML & CSS για την κοινωνική καινοτομία
 
 App Inventor για την κοινωνική καινοτομία
 
-Μάθε να φτιάχνεις εφαρμογές για συσκευές Android κάνοντας έργα που μπορούν να βοηθήσουν ανθρώπους στην κοινότητά σου.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Μάθε Scratch ολοκληρώνοντας αυτά τα διασκεδαστικά έργα!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Το Sense HAT είναι μία κάρτα επέκτασης για το Raspberry Pi, που περιλαμβάνει LEDs, ένα joystick και πολλούς αισθητήρες.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Το Sonic Pi είναι ένα νέο είδος μουσικού οργάνου, σχεδιασμένο για τη δημιουργία ήχων με κώδικα.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro: bit
 
-Το BBC micro: bit είναι ένας προγραμματιζόμενος υπολογιστής μεγέθους τσέπης, που σας επιτρέπει να δημιουργήσετε.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
