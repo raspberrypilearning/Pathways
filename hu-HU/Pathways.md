@@ -32,15 +32,15 @@ App Inventor a társadalmi innovációhoz
 
 Ismerd meg, hogyan készíthetsz alkalmazásokat Android eszközökre, olyan projektek elkészítésével, amelyek segíthetnek a közösségedben élő embereknek.
 
-Viselhető eszközök szusikártyái
+CoderDojo Wearables
 
-Hozz létre viselhető technológiás projekteket a következő szusikártyák alapján.
+Create wearable technology projects by following these projects.
 
 HTML és CSS
 
-Készíts weboldalakat a következő szusikártyák alapján.
+Create websites by following these projects.
 
-Scratch szusikártyák
+CoderDojo Scratch
 
 Ismerd meg a Scratchet ezeken a szórakoztató projekteken keresztül!
 
