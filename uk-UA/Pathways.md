@@ -32,15 +32,15 @@ App Inventor для соціальних інновацій
 
 Навчись створювати додатки для пристроїв на базі Android, розробляючи проекти, що можуть допомогти людям з твоєї спільноти.
 
-Носимі пристрої. Суші-картки
+CoderDojo Wearables
 
-Відтвори проекти носимих технологій, дотримуючись цих суші-карток.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Створи веб-сайти, дотримуючись цих суші-карток.
+Create websites by following these projects.
 
-Скретч Суші-картки
+CoderDojo Scratch
 
 Вивчай Скретч, працюючи над цими цікавими проектами!
 
