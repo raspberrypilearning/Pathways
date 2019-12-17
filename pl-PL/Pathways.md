@@ -34,7 +34,7 @@ Naucz się tworzyć aplikacje na urządzenia z Androidem, wykonując projekty, k
 
 Gadżety Sushi Karty
 
-Twórz projekty gadżetów, postępując zgodnie z tymi Kartami Sushi.
+Twórz gadżety, wykonując te Karty Sushi.
 
 HTML i CSS
 
