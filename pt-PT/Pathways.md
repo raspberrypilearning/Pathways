@@ -38,7 +38,7 @@ Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Cria página de internet seguindo estes Cartões Sushi.
+Create websites by following these projects.
 
 CoderDojo Scratch
 
