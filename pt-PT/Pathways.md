@@ -32,15 +32,15 @@ App Inventor para inovação social
 
 Aprende a criar aplicativos para dispositivos Android fazendo projetos que podem ajudar pessoas na tua comunidade.
 
-Cartões Sushi para wearables
+CoderDojo Wearables
 
-Cria projetos de tecnologia wearable seguindo estes Cartões Sushi.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Cria sites seguindo estes Cartões Sushi.
+Create websites by following these projects.
 
-Cartões Sushi Scratch
+CoderDojo Scratch
 
 Aprende Scratch fazendo estes projetos divertidos!
 
