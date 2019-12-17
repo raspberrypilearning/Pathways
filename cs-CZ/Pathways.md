@@ -32,15 +32,15 @@ App Inventor for social innovation
 
 Naučte se vytvářet aplikace pro zařízení Android prostřednictvím projektů, které mohou pomoci lidem ve vašem okolí.
 
-Sushi karty nositelné elektroniky
+CoderDojo Wearables
 
-Vytvořte projekty nositelných technologií podle těchto Sushi karet.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Vytvořte webové stránky podle těchto Sushi karet.
+Create websites by following these projects.
 
-Scratch Sushi karty
+CoderDojo Scratch
 
 Naučte se Scratch pomocí zábavných projektů!
 
