@@ -32,15 +32,15 @@ App Inventor for sosial innovasjon
 
 Lær å lage apper for Android-enheter ved å gjennomføre prosjekter som kan hjelpe folk i samfunnet ditt.
 
-Kroppsnære Sushi-kort
+CoderDojo Wearables
 
-Lag kroppsnære teknologiprosjekter ved å følge disse Sushi-kortene.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Lag nettsteder ved å følge disse Sushi-kortene.
+Create websites by following these projects.
 
-Scratch Sushi-kort
+CoderDojo Scratch
 
 Lær Scratch ved å jobbe med disse morsomme prosjektene!
 
