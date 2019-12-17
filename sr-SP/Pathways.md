@@ -32,15 +32,15 @@ App Inventor for social innovation
 
 Научите да правите апликације за Андроид уређаје радећи пројекте који могу помоћи људима у вашој заједници.
 
-Носиве Sushi картице
+CoderDojo Wearables
 
-Креирај пројекте носиве технологије пратећи ове Sushi картице.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Креирај веб-сајтове пратећи ове Sushi картице.
+Create websites by following these projects.
 
-Скреч Sushi картице
+CoderDojo Scratch
 
 Научи Скреч радећи на овим забавним пројектима!
 
