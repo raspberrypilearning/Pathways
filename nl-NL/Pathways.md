@@ -4,11 +4,11 @@ The Raspberry Pi is a capable little computer which can be used in electronics p
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Bouw en style je eigen webpagina's.
 
 Python: Module 1/2/3
 
-Python: Additional Projects
+Python: Extra projecten
 
 Python is a widely used, general purpose, text-based programming language.
 
