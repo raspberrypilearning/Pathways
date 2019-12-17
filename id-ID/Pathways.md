@@ -1,24 +1,24 @@
 Raspberry Pi
 
-Raspberry Pi adalah komputer kecil yang mampu dan dapat digunakan dalam proyek-proyek elektronik, dan banyak hal seperti yang biasa dilakukan oleh komputer desktop anda.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Module 1/2/3
 
-Buat dan hias halaman web kamu sendiri.
+Build and style your own web pages.
 
-Python: Modul 1/2/3
+Python: Module 1/2/3
 
-Python: Proyek Tambahan
+Python: Additional Projects
 
-Python adalah bahasa pemrograman yang banyak digunakan, bertujuan umum, dan berbasis teks.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Proyek Tambahan
+Scratch: Additional Projects
 
-Scratch: Proyek Komunitas
+Scratch: Community Projects
 
-Scratch: Modul 1/2/3
+Scratch: Module 1/2/3
 
-Pelajari bagaimana memprogram cerita, permainan, dan animasi interaktif kamu sendiri.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Pelajari cara membuat aplikasi untuk perangkat Android dengan melakukan proyek yang dapat membantu orang di komunitas Anda.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Pelajari Scratch dengan mengerjakan proyek-proyek menyenangkan ini!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense HAT adalah add-on board untuk Raspberry Pi, yang memiliki beberapa LED, joystick dan banyak sensor lainnya.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi adalah sejenis alat instrumen musik baru yang dirancang untuk menciptakan suara dengan kode.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
-BBC micro:bit adalah komputer seukuran saku dan dapat bermain dengan kode yang memungkinkan kamu untuk menjadi kreatif.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
