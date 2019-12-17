@@ -32,15 +32,15 @@ Creador de Aplicaciones para la inovación social
 
 Aprende a hacer aplicaciones para dispositivos Android haciendo proyectos para ayudar a personas en tu comunidad.
 
-Sushi Cards para proyectos de Wearables (Tecnologías para usar en el cuerpo)
+CoderDojo Wearables
 
-Crea proyectos de tecnología para vestir (wearable) siguiendo estas Sushi Cards.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Crea sitios web siguiendo estas Sushi Cards.
+Create websites by following these projects.
 
-Sushi Cards para Scratch
+CoderDojo Scratch
 
 ¡Aprende Scratch trabajando en estos divertidos proyectos!
 
