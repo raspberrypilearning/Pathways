@@ -1,24 +1,24 @@
-树莓派
+Raspberry Pi
 
-树莓派是一款功能强大的小型计算机，可用于电子设备项目，以及完成许多你的台式电脑能做的工作。
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS：模块1/2/3
 
-构建和设计自己风格的网页。
+Build and style your own web pages.
 
-Python：模块1/2/3
+Python: Module 1/2/3
 
-Python：附加项目
+Python: Additional Projects
 
-Python是一种用途广泛的，通用的，基于文本的编程语言。
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch：其他项目
+Scratch: Additional Projects
 
-Scratch：社区项目
+Scratch: Community Projects
 
-Scratch：模块1/2/3
+Scratch: Module 1/2/3
 
-学习如何编写自己的互动故事、游戏和动画。
+Learn how to program your own interactive stories, games and animations.
 
 Scratch用于社会创新
 
@@ -30,7 +30,7 @@ HTML & CSS用于社会创新
 
 App Inventor用于社会创新
 
-通过执行可以帮助你所在社区人员的项目，学习如何制作安卓应用程序。
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-通过这些趣味项目学习Scratch！
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense HAT是树莓派的一种扩展板卡，包括LED，操纵杆和许多传感器。
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi是一种新型乐器，设计用于使用代码控制发声。
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
-BBC micro:bit是一款口袋大小的，可编码的电脑，可以让你变得富有创意。
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
