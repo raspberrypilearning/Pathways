@@ -32,9 +32,9 @@ App Inventor sotsiaalse innovatsiooni jaoks
 
 Õpi looma rakendusi Android-seadmete jaoks, tehes projekte, mis võivad aidata sinu kogukonna inimesi.
 
-CoderDojo Wearables
+CoderDojo kaasaskantavad
 
-Create wearable technology projects by following these projects.
+Loo kaasakantava tehnoloogia projekte järgides neid projekte.
 
 HTML & CSS
 
