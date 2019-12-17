@@ -1,24 +1,24 @@
 Raspberry Pi
 
-De Raspberry Pi is een kleine computer die kan worden gebruikt in elektronica-projecten en voor veel dingen die je met je computer doet.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Module 1/2/3
 
-Bouw en style je eigen webpagina's.
+Build and style your own web pages.
 
 Python: Module 1/2/3
 
-Python: Extra projecten
+Python: Additional Projects
 
-Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Extra projecten
+Scratch: Additional Projects
 
-Scratch: Community-projecten
+Scratch: Community Projects
 
 Scratch: Module 1/2/3
 
-Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch voor sociale innovatie
 
@@ -30,7 +30,7 @@ Leer HTML & CSS door een website over vogelbescherming te maken.
 
 App Inventor voor sociale innovatie
 
-Leer hoe je apps voor Android-apparaten kunt maken door projecten te doen die mensen in jouw omgeving kunnen helpen.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Leer Scratch door deze leuke projecten te doorlopen!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-De Sense HAT is een uitbreidingskaart voor de Raspberry Pi, inclusief LED's, een joystick en veel sensoren.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden met code te maken.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro: bit
 
-De BBC micro: bit is een zakformaat, programmeerbare computer waarmee je jouw creativiteit kunt vergroten.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
