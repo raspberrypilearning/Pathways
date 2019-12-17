@@ -1,24 +1,24 @@
 Raspberry Pi
 
-Raspberry Pi to mały komputer, który można używać w projektach wykorzystujących elektronikę, a także do wielu rzeczy, które wykonuje komputer stacjonarny.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
-HTML i CSS: moduł 1/2/3
+HTML & CSS: Module 1/2/3
 
 Twórz i stylizuj własne strony internetowe.
 
-Python: moduł 1/2/3
+Python: Module 1/2/3
 
-Python: dodatkowe projekty
+Python: Additional Projects
 
-Python to powszechnie stosowany tekstowy język programowania o ogólnym zastosowaniu.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: dodatkowe projekty
+Scratch: Additional Projects
 
-Scratch: projekty społeczności
+Scratch: Community Projects
 
-Scratch: moduł 1/2/3
+Scratch: Module 1/2/3
 
-Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch dla przedsięwzięć społecznych
 
@@ -30,7 +30,7 @@ Poznaj HTML i CSS, tworząc stronę internetową poświęconą ochronie ptaków.
 
 App Inventor dla przedsięwzięć społecznych
 
-Naucz się tworzyć aplikacje na urządzenia z Androidem, wykonując projekty, które mogą pomóc ludziom w Twojej społeczności.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,15 +42,15 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Naucz się języka Scratch, wykonując te zabawne projekty!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense HAT jest dodatkową płytką do Raspberry Pi, która zawiera diody LED, joystick i wiele czujników.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi to nowy rodzaj instrumentu muzycznego, przeznaczony do tworzenia dźwięków za pomocą kodu.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
