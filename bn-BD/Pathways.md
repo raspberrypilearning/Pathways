@@ -44,13 +44,13 @@ CoderDojo Scratch
 
 Learn Scratch by working through these fun projects!
 
-Sense HAT
+সেন্স হ্যাট
 
 The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi (সোনিক পাই) একটি নতুন ধরনের বাদ্যযন্ত্র যাতে কোড লিখে শব্দ তৈরি করা যায়।
 
 BBC micro:bit
 
