@@ -1,24 +1,24 @@
 Raspberry Pi
 
-O Raspberry Pi é um pequeno e eficiente computador que pode ser usado em projetos de eletrônica e para muitas das coisas que seu computador de mesa faz.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Module 1/2/3
 
-Crie e estilize suas próprias páginas da web.
+Build and style your own web pages.
 
-Python: Módulos 1/2/3
+Python: Module 1/2/3
 
-Python: Projetos adicionais
+Python: Additional Projects
 
-Python é uma linguagem de programação baseada em texto, amplamente utilizada e de uso geral.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Projetos Adicionais
+Scratch: Additional Projects
 
-Scratch: Projetos da Comunidade
+Scratch: Community Projects
 
-Scratch: Módulos 1/2/3
+Scratch: Module 1/2/3
 
-Aprenda a programar suas próprias histórias, jogos e animações interativas.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch for social innovation
 
@@ -30,7 +30,7 @@ Learn HTML & CSS by creating a website about bird conservation.
 
 App Inventor for social innovation
 
-Aprenda a criar aplicativos para dispositivos Android fazendo projetos que possam ajudar as pessoas em sua comunidade.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Aprenda Scratch trabalhando nestes divertidos projetos!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-O Sense HAT é uma placa adicional para o Raspberry Pi, incluindo LEDs, um joystick e muitos sensores.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi é um novo tipo de instrumento musical, projetado para criar sons com código.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro: bit
 
-O BBC micro: bit é um computador de bolso e programável que permite que você seja criativo.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
