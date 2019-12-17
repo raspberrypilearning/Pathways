@@ -1,24 +1,24 @@
 Raspberry Pi
 
-Raspberry Pi es un ordenador pequeño y capaz que se puede usar en proyectos de electrónica, y para hacer muchas de las cosas que hace tu PC de escritorio.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Módulo 1/2/3
 
-Crea y diseña tus propias páginas de web.
+Build and style your own web pages.
 
-Python: Módulo 1/2/3
+Python: Module 1/2/3
 
-Python: Proyectos adicionales
+Python: Additional Projects
 
-Python es un lenguaje de programación basado en texto ampliamente utilizado y de uso general.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Proyectos adicionales
+Scratch: Additional Projects
 
-Scratch: Proyectos comunitarios
+Scratch: Community Projects
 
-Scratch: Módulo 1/2/3
+Scratch: Module 1/2/3
 
-Aprende cómo programar tus propias historias interactivas, juegos y animaciones.
+Learn how to program your own interactive stories, games and animations.
 
 Scratch para la innovación social
 
@@ -30,7 +30,7 @@ Aprende HTML & CSS creando un sitio web sobre conservación de aves.
 
 Creador de Aplicaciones para la inovación social
 
-Aprende a hacer aplicaciones para dispositivos Android haciendo proyectos para ayudar a personas en tu comunidad.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-¡Aprende Scratch trabajando en estos divertidos proyectos!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-El Sense HAT es una placa adicional para Raspberry Pi que incluye LEDs, un joystick y muchos sensores.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi es un nuevo tipo de instrumento musical, diseñado para crear sonidos con código.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
-La BBC micro:bit es un ordenador programable de bolsillo que te permite ser creativo.
+The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
