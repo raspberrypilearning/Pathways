@@ -32,15 +32,15 @@ App Inventor for social innovation
 
 Pelajari cara membuat aplikasi untuk perangkat Android dengan melakukan proyek yang dapat membantu orang di komunitas Anda.
 
-Kartu Sushi yang Dapat Dipakai
+CoderDojo Wearables
 
-Buat proyek teknologi yang dapat dikenakan dengan mengikuti Kartu Sushi ini.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Buat situs web dengan mengikuti Kartu Sushi ini.
+Create websites by following these projects.
 
-Kartu Sushi Scratch
+CoderDojo Scratch
 
 Pelajari Scratch dengan mengerjakan proyek-proyek menyenangkan ini!
 
