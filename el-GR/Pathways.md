@@ -1,6 +1,6 @@
 Raspberry Pi
 
-Το Raspberry Pi είναι ένας ικανός μικρός υπολογιστής ο οποίος μπορεί να χρησιμοποιηθεί σε ηλεκτρονικά έργα και για πολλά από τα πράγματα που κάνει ο επιτραπέζιος υπολογιστής.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
 HTML & CSS: Ενότητα 1/2/3
 
