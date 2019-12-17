@@ -32,13 +32,13 @@ App Inventor for sosial innovasjon
 
 Lær å lage apper for Android-enheter ved å gjennomføre prosjekter som kan hjelpe folk i samfunnet ditt.
 
-CoderDojo Wearables
+CoderDojo kroppsnære ting
 
-Create wearable technology projects by following these projects.
+Lag kroppsnære teknologiprosjekter ved å følge disse prosjektene.
 
 HTML & CSS
 
-Create websites by following these projects.
+Lag nettsteder ved å følge disse prosjektene.
 
 CoderDojo Scratch
 
