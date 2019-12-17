@@ -46,12 +46,12 @@ Learn Scratch by working through these fun projects!
 
 সেন্স হ্যাট
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT (সেন্স হ্যাট) রাস্পবেরী পাই এর জন্য একটি অ্যাড-অন বোর্ড। এতে LED সহ একটি জয়স্টিক এবং প্রচুর সেন্সর রয়েছে।
 
 Sonic Pi
 
 Sonic Pi (সোনিক পাই) একটি নতুন ধরনের বাদ্যযন্ত্র যাতে কোড লিখে শব্দ তৈরি করা যায়।
 
-BBC micro:bit
+বিবিসি মাইক্রো: বিট
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+বিবিসি মাইক্রো: বিট এটি পকেটে রাখার মত অত্যন্ত ছোট কম্পিউটার যেখানে বিভিন্ন সৃজনশীল প্রজেক্ট কোডিং এর মাধ্যমে করা যায়।
