@@ -32,15 +32,15 @@ HTML & CSS для социальных инноваций
 
 Научись создавать приложения для устройств Android, делая проекты, которые могут помочь людям вокруг тебя.
 
-Суши-карточки для создания «умной» одежды
+CoderDojo Wearables
 
-Создавай проекты «умной» одежды, следуя этим суши-карточкам.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Создавай веб-сайты, следуя этим суши-карточкам.
+Create websites by following these projects.
 
-Суши-карточки для Scratch
+CoderDojo Scratch
 
 Изучай Scratch, работая над этими интересными проектами!
 
