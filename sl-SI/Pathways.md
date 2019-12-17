@@ -32,15 +32,15 @@ App Inventor for social innovation
 
 Naučite se izdelati aplikacije za naprave Android s projekti, ki lahko pomagajo ljudem v vaši skupnosti.
 
-Nosljive Suši Kartice
+CoderDojo Wearables
 
-Ustvarite nosilne tehnološke projekte s temi suši karticami.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Ustvarite spletne strani, tako da sledite tem suši karticam.
+Create websites by following these projects.
 
-Scratch suši kartice
+CoderDojo Scratch
 
 Naučite se Scratch z delom skozi te zabavne projekte!
 
