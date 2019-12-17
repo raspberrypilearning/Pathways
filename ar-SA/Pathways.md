@@ -32,15 +32,15 @@ HTML & CSS للإبتكار الإجتماعي
 
 تعلم كيفية إنشاء تطبيقات لأجهزة Android من خلال تنفيذ مشاريع يمكنها مساعدة أفراد مجتمعك.
 
-بطاقات السوشي القابلة للارتداء
+CoderDojo Wearables
 
-إنشاء المشاريع التقنية القابلة للارتداء باتباع بطاقات السوشي هذه.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-قم بإنشاء مواقع ويب باتباع بطاقات السوشي هذه.
+Create websites by following these projects.
 
-بطاقات السوشي Scratch
+CoderDojo Scratch
 
 تعلم Scratch من خلال العمل من خلال هذه المشاريع المسلية!
 
