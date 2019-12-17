@@ -32,15 +32,15 @@ Inventeur d'applications pour l'innovation sociale
 
 Apprend à créer des applications pour les appareils Android en faisant des projets qui peuvent aider les gens de ta communauté.
 
-Cartes Sushi Portables
+CoderDojo Wearables
 
-Crée des projets de technologie portable en suivant ces cartes Sushi.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Crée des sites Web en suivant ces Cartes Sushi.
+Create websites by following these projects.
 
-Cartes Sushi Scratch
+CoderDojo Scratch
 
 Apprend Scratch en travaillant sur ces projets amusants !
 
