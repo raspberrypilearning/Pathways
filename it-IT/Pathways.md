@@ -32,13 +32,13 @@ App Inventor per l'innovazione sociale
 
 Impara a creare app per i dispositivi Android con progetti che possano essere d'aiuto alle persone della tua comunità.
 
-CoderDojo Wearables
+Indossabili CoderDojo
 
-Create wearable technology projects by following these projects.
+Crea progetti tecnologici indossabili seguendo questi progetti.
 
 HTML & CSS
 
-Create websites by following these projects.
+Crea siti web seguendo questi progetti.
 
 CoderDojo Scratch
 
