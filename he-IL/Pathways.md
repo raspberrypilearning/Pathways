@@ -32,26 +32,26 @@ App Inventor לחדשנות חברתית
 
 למדו כיצד ליצור אפליקציות למכשירי אנדרואיד על ידי ביצוע פרויקטים שיכולים לעזור לאנשים בקהילה שלך.
 
-CoderDojo Wearables
+מכשור לביש ב-CoderDojo
 
-Create wearable technology projects by following these projects.
+צרו פרויקטים של טכנולוגיה לבישה על ידי ביצוע פרויקטים אלו.
 
 HTML & CSS
 
-Create websites by following these projects.
+צרו אתרי אינטרנט על ידי ביצוע פרויקטים אלו.
 
-CoderDojo Scratch
+סקראץ' ב-CoderDojo
 
-Learn Scratch by working through these fun projects!
+למדו סקראץ' על ידי ביצוע הפרויקטים המהנים האלה!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT הוא תוסף לוח עבור Raspberry Pi הכולל נוריות LED, ג'ויסטיק והרבה חיישנים.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi הוא סוג חדש של כלי נגינה, שנועד ליצור קולות באמצעות קוד.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit הוא מחשב כיס שניתן לתיכנות ושנותן מקום ליצירתיות.
