@@ -12,25 +12,25 @@ Python: פרויקטים נוספים
 
 Python היא שפת תכנות טקסטואלית בשימוש נרחב, לכל מטרה.
 
-Scratch: Additional Projects
+סקראץ': פרוייקטים נוספים
 
-Scratch: Community Projects
+סקראץ': פרויקטים קהילתיים
 
-Scratch: Module 1/2/3
+סקראץ': מודול 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+למדו כיצד לתכנת סיפורים אינטראקטיביים, משחקים ואנימציות משלכם.
 
-Scratch for social innovation
+סקראץ' לחדשנות חברתית
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+למדו סקראץ', שפת תכנות גרפית ידידותית למתחילים, תוך בניית אפליקציות ומשחקים כדי לעזור לאנשים ללמוד על נושאים חשובים.
 
-HTML & CSS for social innovation
+HTML & CSS לחדשנות חברתית
 
-Learn HTML & CSS by creating a website about bird conservation.
+למדו HTML & CSS על ידי יצירת אתר אינטרנט בנושא שימור ציפורים.
 
-App Inventor for social innovation
+App Inventor לחדשנות חברתית
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+למדו כיצד ליצור אפליקציות למכשירי אנדרואיד על ידי ביצוע פרויקטים שיכולים לעזור לאנשים בקהילה שלך.
 
 CoderDojo Wearables
 
