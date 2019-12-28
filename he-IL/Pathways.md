@@ -1,16 +1,16 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi הוא מחשב קטן שניתן להשתמש בו לפרויקטים באלקטרוניקה, ולעוד דברים רבים שהמחשב השולחני שלכם עושה.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: מודול 1/2/3
 
-Build and style your own web pages.
+בנו ועצבו דפי אינטרנט משלכם.
 
-Python: Module 1/2/3
+Python: מודול 1/2/3
 
-Python: Additional Projects
+Python: פרויקטים נוספים
 
-Python is a widely used, general purpose, text-based programming language.
+Python היא שפת תכנות טקסטואלית בשימוש נרחב, לכל מטרה.
 
 Scratch: Additional Projects
 
