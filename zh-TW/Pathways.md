@@ -2,39 +2,39 @@ Raspberry Pi
 
 Raspberry Pi 是台厲害的小電腦，不僅可被運用於各種電子專案上，還可以用來執行許多桌上型電腦能做的事情。
 
-HTML & CSS: Module 1/2/3
+HTML & CSS：課程單元 1/2/3
 
-Build and style your own web pages.
+建構自己的網頁並設定其樣式。
 
-Python: Module 1/2/3
+Python：課程單元 1/2/3
 
-Python: Additional Projects
+Python：其他專案
 
-Python is a widely used, general purpose, text-based programming language.
+Python 是一種廣泛使用的文字程式語言。
 
-Scratch: Additional Projects
+Scratch：其他專案
 
-Scratch: Community Projects
+Scratch：社群專案
 
-Scratch: Module 1/2/3
+Scratch：課程單元 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+學習如何編寫自己的互動故事、遊戲與動畫。
 
-Scratch for social innovation
+Scratch：運用於社會創新
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+在編寫應用程式與遊戲、協助人們瞭解重要議題的過程中，學習適合初學者的圖形程式語言Scratch。
 
-HTML & CSS for social innovation
+HTML & CSS：運用於社會創新
 
-Learn HTML & CSS by creating a website about bird conservation.
+在建立一個鳥類保育相關網站的過程中，學習HTML與CSS。
 
-App Inventor for social innovation
+App Inventor：運用於社會創新
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+在製作可幫助社群夥伴的專案的過程中，學習如何開發 Android 裝置用的應用程式。
 
-CoderDojo Wearables
+CoderDojo 穿戴式裝置
 
-Create wearable technology projects by following these projects.
+照著這些專案的步驟打造各種穿戴式科技專案。
 
 HTML & CSS
 
