@@ -38,20 +38,20 @@ CoderDojo 穿戴式裝置
 
 HTML & CSS
 
-Create websites by following these projects.
+照著這些專案逐步建立網站。
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+透過實作這些有趣的專案來學習 Scratch！
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT 是 Raspberry Pi 的一款擴充板，它內建了LED、搖桿，和各種感應器。
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi 是一種可以利用程式碼產生各種聲音的新型態樂器。
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit 是一款只有口袋大小，能讓你盡情發揮創意的可編程電腦。
