@@ -1,24 +1,24 @@
-Raspberry Pi
+树莓派
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+树莓派是一款功能强大的小型计算机，可用于电子设备项目，以及完成许多你的台式电脑也能做的工作。
 
-HTML & CSS：模块1/2/3
+HTML & CSS：模块 1/2/3
 
-Build and style your own web pages.
+构建和设计自己风格的网页。
 
-Python: Module 1/2/3
+Python：模块 1/2/3
 
-Python: Additional Projects
+Python：附加项目
 
-Python is a widely used, general purpose, text-based programming language.
+Python是一种用途广泛的，通用的，基于文本的编程语言。
 
-Scratch: Additional Projects
+Scratch：其他项目
 
-Scratch: Community Projects
+Scratch：社区项目
 
-Scratch: Module 1/2/3
+Scratch：模块 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+学习如何编写自己的互动故事、游戏和动画。
 
 Scratch用于社会创新
 
