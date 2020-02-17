@@ -26,32 +26,32 @@ Scratch用于社会创新
 
 HTML & CSS用于社会创新
 
-通过创建一个关于鸟类保护的网站来学习HTML & CSS。
+通过创建一个关于保护鸟类的网站来学习HTML & CSS。
 
 App Inventor用于社会创新
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+通过开展可为您社区中的人们提供帮助的项目来学习为Android设备制作应用。
 
-CoderDojo Wearables
+CoderDojo 可穿戴设备
 
-Create wearable technology projects by following these projects.
+遵循这些项目创建可穿戴技术项目。
 
 HTML & CSS
 
-Create websites by following these projects.
+通过跟踪这些项目创建网站。
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+通过这些趣味项目学习Scratch！
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT是树莓派的一种扩展板卡，包括LED，手柄和许多传感器。
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi是一种新型乐器，设计用于使用代码控制发声。
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit是一款口袋大小的，可编码的电脑，可以让你变得富有创意。
