@@ -32,13 +32,13 @@ App Inventor برای نوآوری اجتماعی
 
 با استفاده از پروژه‌هایی که می‌توانند به مردم در جامعه‌ی شما کمک کنند، یاد بگیرید که برنامه‌هایی برای دستگاه‌های اندرویدی بسازید.
 
-CoderDojo Wearables
+پوشیدنی های CoderDojo
 
-Create wearable technology projects by following these projects.
+با استفاده از این پروژه‌ها، پروژه‌های مرتبط با فناوری پوشیدنی ایجاد کنید.
 
 HTML & CSS
 
-Create websites by following these projects.
+با اسفاده از این پروژه ها، وب‌سایت بسازید.
 
 CoderDojo Scratch
 
