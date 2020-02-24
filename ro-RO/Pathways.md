@@ -32,13 +32,13 @@ App Inventor pentru inovare socială
 
 Află cum să creezi aplicații pentru dispozitivele Android, participând la proiecte care pot ajuta oamenii din comunitatea ta.
 
-CoderDojo Wearables
+Portabile CoderDojo
 
-Create wearable technology projects by following these projects.
+Creează proiecte de tehnologie portabilă, folosind aceste proiecte.
 
 HTML & CSS
 
-Create websites by following these projects.
+Creează site-uri web folosind aceste proiecte.
 
 CoderDojo Scratch
 
