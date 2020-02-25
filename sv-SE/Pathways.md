@@ -14,25 +14,25 @@ Python är ett populärt, textbaserat programmeringsspråk som används i många
 
 Scratch: Fler projekt
 
-Scratch: Community Projects
+Scratch: Projekter tilsammans med andra
 
 Scratch: Modul 1/2/3
 
 Lär dig hur du programmerar dina egna interaktiva berättelser, spel och animeringar.
 
-Scratch for social innovation
+Scratch för ett bättre samhälle
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Lär dig Scratch, ett nybörjarevänligt grafiskt programmeringsspråk, samtidigt som du skapar appar och spel som hjälper människor att lära sig om viktiga saker.
 
-HTML & CSS for social innovation
+HTML & CSS för ett bättre samhälle
 
-Learn HTML & CSS by creating a website about bird conservation.
+Lär HTML & CSS genom att skapa en webbplats om fågelskydd.
 
-App Inventor for social innovation
+App Inventor för ett bättre samhälle
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Lär dig att göra appar för Android-enheter genom projekt som kan hjälpa människor i ditt samhälle.
 
-CoderDojo Wearables
+CoderDojo bärbara teknikprojekt
 
 Create wearable technology projects by following these projects.
 
