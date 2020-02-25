@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi är en duktig liten dator som kan användas i elektronikprojekt, och till många av de samma saker som din stationära dator kan.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Modul 1/2/3
 
-Build and style your own web pages.
+Bygg och utforma dina egna webbsidor.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Fler projekt
 
-Python is a widely used, general purpose, text-based programming language.
+Python är ett populärt, textbaserat programmeringsspråk som används i många sammanhang.
 
-Scratch: Additional Projects
+Scratch: Fler projekt
 
 Scratch: Community Projects
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Lär dig hur du programmerar dina egna interaktiva berättelser, spel och animeringar.
 
 Scratch for social innovation
 
