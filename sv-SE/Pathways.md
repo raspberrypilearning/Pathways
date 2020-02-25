@@ -32,17 +32,17 @@ App Inventor för ett bättre samhälle
 
 Lär dig att göra appar för Android-enheter genom projekt som kan hjälpa människor i ditt samhälle.
 
-CoderDojo bärbara teknikprojekt
+CoderDojo bärbar teknologi
 
-Create wearable technology projects by following these projects.
+Skapa bärbara teknologier med dessa projekt.
 
 HTML & CSS
 
-Create websites by following these projects.
+Skapa webbplatser med dessa projekt.
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+Lär dig Scratch genom att arbeta med dessa roliga projekt!
 
 Sense HAT
 
