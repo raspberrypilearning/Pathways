@@ -1,16 +1,16 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi je majhen računalnik, ki je uporaben v projektih z elektroniko in za mnoge druge stvari, ki jih zmore namizni računalnik.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS Modul 1/2/3
 
-Build and style your own web pages.
+Ustvari in oblikuj svoje lastne spletne strani.
 
 Python: Modul 1/2/3
 
 Python: Dodatni projekti
 
-Python is a widely used, general purpose, text-based programming language.
+Python je večnamenski programski jezik za široko rabo, ki temelji na tekstu.
 
 Scratch: Dodatni projekti
 
@@ -20,25 +20,25 @@ Scratch: Modul 1/2/3
 
 Preberite, kako programirati svoje interaktivne zgodbe, igre in animacije.
 
-Scratch for social innovation
+Scratch za družbene inovacije
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Nauči se Scratch, začetnikom prijazen grafični programski jezik, skozi ustvarjanje programov in iger, ki seznanjajo ljudi pomembnimi zadevami.
 
-HTML & CSS for social innovation
+HTML & CSS za razvoj družbe
 
-Learn HTML & CSS by creating a website about bird conservation.
+Nauči se HTML & CSS, tako da ustvariš stran o ohranjanju ptic.
 
-App Inventor for social innovation
+Izumitelj aplikacij za družbene inovacije
 
 Naučite se izdelati aplikacije za naprave Android s projekti, ki lahko pomagajo ljudem v vaši skupnosti.
 
-CoderDojo Wearables
+CoderDojo nosljive naprave
 
-Create wearable technology projects by following these projects.
+Ustvari projekte za nosljive tehnologije, sledeč tem suši karticam.
 
 HTML & CSS
 
-Create websites by following these projects.
+Ustvarite spletne strani s pomočjo teh projektov.
 
 CoderDojo Scratch
 
@@ -46,7 +46,7 @@ Naučite se Scratch z delom skozi te zabavne projekte!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT je dodatek za Raspberry Pi, ki vsebuje LED diode, igralno palico in veliko senzorjev.
 
 Sonic Pi
 
@@ -54,4 +54,4 @@ Sonic Pi je nova vrsta glasbenega instrumenta, namenjenega ustvarjanju zvokov s 
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit je žepni računalnik, s katerim lahko skozi programiranje postanete ustvarjalni.
