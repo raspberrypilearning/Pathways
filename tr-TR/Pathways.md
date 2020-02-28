@@ -32,13 +32,13 @@ Sosyal yenilik için Uygulama Geliştirici
 
 Topluluğunuzdaki insanlara yardım edebilecek projeler yaparak Android cihazlar için uygulamalar yapmayı öğrenin.
 
-CoderDojo Wearables
+CoderDojo Giyilebilirler
 
-Create wearable technology projects by following these projects.
+Bu projeleri takip ederek giyilebilir teknoloji projeleri oluşturun.
 
 HTML & CSS
 
-Create websites by following these projects.
+Bu projeleri takip ederek web siteleri oluşturun.
 
 CoderDojo Scratch
 
