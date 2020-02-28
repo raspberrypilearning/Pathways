@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi to mały komputer, którego można używać w projektach wykorzystujących elektronikę, a także do wielu rzeczy, które wykonuje komputer stacjonarny.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: moduł 1/2/3
 
 Twórz i stylizuj własne strony internetowe.
 
-Python: Module 1/2/3
+Python: moduł 1/2/3
 
-Python: Additional Projects
+Python: dodatkowe projekty
 
-Python is a widely used, general purpose, text-based programming language.
+Python to powszechnie stosowany tekstowy język programowania o ogólnym zastosowaniu.
 
-Scratch: Additional Projects
+Scratch: dodatkowe projekty
 
-Scratch: Community Projects
+Scratch: projekty społeczności
 
-Scratch: Module 1/2/3
+Scratch: moduł 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
 
 Scratch dla przedsięwzięć społecznych
 
@@ -30,13 +30,13 @@ Poznaj HTML i CSS, tworząc stronę internetową poświęconą ochronie ptaków.
 
 App Inventor dla przedsięwzięć społecznych
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Naucz się tworzyć aplikacje na urządzenia z Androidem, wykonując projekty, które mogą pomóc ludziom w Twojej społeczności.
 
 CoderDojo Wearables
 
 Create wearable technology projects by following these projects.
 
-HTML i CSS
+HTML & CSS
 
 Create websites by following these projects.
 
