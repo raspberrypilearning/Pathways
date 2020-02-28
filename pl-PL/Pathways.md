@@ -42,15 +42,15 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+Naucz się języka Scratch, wykonując te ciekawe projekty!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT jest dodatkową płytką do Raspberry Pi, która zawiera diody LED, joystick i wiele czujników.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi to nowy rodzaj instrumentu muzycznego, przeznaczony do tworzenia dźwięków za pomocą kodu.
 
 BBC micro:bit
 
