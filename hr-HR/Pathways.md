@@ -1,24 +1,24 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi je sposobno maleno računalo koje možeš koristiti u projektima s elektronikom, kao i za mnoge stvari koje radi stolno računalo.
 
 HTML & CSS: Moduli 1/2/3
 
-Build and style your own web pages.
+Izradi i oblikuj vlastite web stranice.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Dodatni projekti
 
-Python is a widely used, general purpose, text-based programming language.
+Python je široko upotrebljavan tekstualni programski jezik opće namjene.
 
-Scratch: Additional Projects
+Scratch: Dodatni projekti
 
-Scratch: Community Projects
+Scratch: Projekti iz zajednice
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Nauči programirati svoje interaktivne priče, igre i animacije.
 
 Scratch za društveno poduzetništvo
 
@@ -30,28 +30,28 @@ Nauči HTML & CSS stvaranjem web stranice o očuvanju ptica.
 
 App Inventor za društveno poduzetništvo
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Nauči izraditi aplikacije za uređaje sa sustavom Android pomoću projekata koji mogu pomoći ljudima u tvojoj zajednici.
 
 CoderDojo Wearables
 
-Create wearable technology projects by following these projects.
+Izradi nosive tehnološke projekte koristeći ove projekte.
 
 HTML & CSS
 
-Create websites by following these projects.
+Izradi web stranice koristeći ove projekte.
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+Nauči Scratch radeći na ovim zabavnim projektima!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT je dodatna komponenta za Raspberry Pi koja uključuje LED diode, upravljačku palicu i mnogo senzora.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi je nova vrsta glazbenog instrumenta, dizajnirana za stvaranje zvukova kodiranjem.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit je programabilno džepno računalo koje ti omogućuje da postaneš kreativan.
