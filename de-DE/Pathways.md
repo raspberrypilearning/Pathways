@@ -10,15 +10,15 @@ Python: Module 1/2/3
 
 Python: Additional Projects
 
-Python is a widely used, general purpose, text-based programming language.
+Python ist eine weit verbreitete textbasierte Allzweck-Programmiersprache.
 
-Scratch: Additional Projects
+Scratch: Zusätzliche Projekte
 
-Scratch: Community Projects
+Scratch: Gemeinschaftsprojekte
 
 Scratch: Module 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu programmieren.
 
 Scratch für soziale Innovation
 
@@ -30,7 +30,7 @@ Lerne HTML & CSS, indem du einen Webauftritt über Vogelschutz machst.
 
 App Inventor für soziale Innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Lerne, Apps für Android-Geräte zu erstellen, indem du Projekte durchführst, die Menschen in deiner Community helfen können.
 
 CoderDojo Wearables
 
@@ -46,12 +46,12 @@ Lerne Scratch, indem du diese lustigen Projekte durcharbeitest!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Der Sense HAT ist eine Zusatzplatine mit LEDs, einem Joystick und einer Menge Sensoren für den Raspberry Pi.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi ist eine neue Art von Musikinstrument, entwickelt um mit Code Sounds zu erzeugen.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+Der BBC micro:bit ist ein programmierbarer Computer im Taschenformat, mit dem du kreativ werden kannst.
