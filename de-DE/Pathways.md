@@ -6,9 +6,9 @@ HTML & CSS: Module 1/2/3
 
 Erstelle und gestalte deine eigenen Webseiten.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Zusätzliche Projekte
 
 Python ist eine weit verbreitete textbasierte Allzweck-Programmiersprache.
 
@@ -16,7 +16,7 @@ Scratch: Zusätzliche Projekte
 
 Scratch: Gemeinschaftsprojekte
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
 Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu programmieren.
 
