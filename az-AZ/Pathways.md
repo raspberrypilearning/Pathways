@@ -1,57 +1,57 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi, elektronika layihələrində və masaüstü kompüterlərin etdiyi bir çox işdə istifadə edilə bilən kiçik bir kompüterdir.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Modul 1/2/3
 
-Build and style your own web pages.
+Öz veb səhifənizi qurun və dizayn verin.
 
-Python: Module 1/2/3
+Python: Modul 1/2/3
 
-Python: Additional Projects
+Python: Əlavə Layihələr
 
-Python is a widely used, general purpose, text-based programming language.
+Python geniş istifadə edilən, ümumi məqsədli, mətn əsaslı proqramlaşdırma dilidir.
 
-Scratch: Additional Projects
+Scratch: Əlavə Layihələr
 
-Scratch: Community Projects
+Scratch: Cəmiyyət Layihələri
 
-Scratch: Module 1/2/3
+Scratch: Modul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Öz interaktiv hekayələrinizi, oyun və animasiyalarınızı necə proqramlaşdıracağınızı öyrənin.
 
-Scratch for social innovation
+Sosial yenilik üçün Scratch
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+İnsanların vacib mövzularda məlumat almasına kömək edən tətbiq və oyunlar qurarkən, yeni başlayanlara uyğun qrafik proqramlaşdırma dili olan Scratch-ı öyrənin.
 
-HTML & CSS for social innovation
+Sosial yenilik üçün HTML & CSS
 
-Learn HTML & CSS by creating a website about bird conservation.
+Quşların qorunması ilə bağlı veb sayt yaradaraq HTML & CSS öyrənin.
 
-App Inventor for social innovation
+Sosial yenilik üçün Tətbiq Hazırlama
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Cəmiyyətinizdəki insanlara kömək edə biləcək layihələr hazırlayaraq Android cihazlar üçün tətbiq hazırlamağı öyrənin.
 
-CoderDojo Wearables
+CoderDojo Geyilə bilənlər
 
-Create wearable technology projects by following these projects.
+Bu layihələri izləyərək geyilə bilən texnoloji layihələri yaradın.
 
 HTML & CSS
 
-Create websites by following these projects.
+Bu layihələri izləyərək veb saytlar yaradın.
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+Bu əyləncəli layihələrlə işləyərək Scratch-ı öyrənin!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT, Raspberry Pi-yə taxılan, LED-lər, idarəetmə dəstəyi və bir çox sensor ehtiva edən əlavə bir elektronik lövhədir.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi, kodlu səslər yaratmaq üçün dizayn edilmiş yeni növ musiqi alətidir.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit, yaradıcı olmağınıza imkan verən, cib ölçüsündə, kodlaşdırıla bilən kompüterdir.
