@@ -1,22 +1,22 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Piは電子工作に使える小さなコンピューターで、デスクトップPCで行う多くのことができます。
 
-HTML & CSS: Module 1/2/3
+HTML & CSS：モジュール1/2/3
 
-Build and style your own web pages.
+自分のウェブページを構築しデザインしましょう。
 
-Python: Module 1/2/3
+Python：モジュール1/2/3
 
-Python: Additional Projects
+Python：追加のプロジェクト
 
-Python is a widely used, general purpose, text-based programming language.
+Pythonは広く使用されている、多目的なテキスト ベースのプログラミング言語です。
 
-Scratch: Additional Projects
+Scratch：追加のプロジェクト
 
 Scratch: Community Projects
 
-Scratch: Module 1/2/3
+Scratch：モジュール1/2/3
 
 Learn how to program your own interactive stories, games and animations.
 
@@ -26,23 +26,23 @@ Learn Scratch, a beginner-friendly graphical programming language, while buildin
 
 HTML & CSS for social innovation
 
-Learn HTML & CSS by creating a website about bird conservation.
+鳥の保護に関するウェブサイトを作成してHTML & CSSを学びましょう。
 
 App Inventor for social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+コミュニティで役立つプロジェクトを通じてAndroidのアプリ開発を学びましょう。
 
 CoderDojo Wearables
 
-Create wearable technology projects by following these projects.
+これらのプロジェクトに従ってウェアラブル（身につけることができる）技術のプロジェクトを作りましょう。
 
 HTML & CSS
 
-Create websites by following these projects.
+これらのプロジェクトに従ってウェブサイトを作りましょう。
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+楽しいプロジェクトを通じてScratchを学びましょう！
 
 Sense HAT
 
