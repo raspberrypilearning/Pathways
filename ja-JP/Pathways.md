@@ -14,7 +14,7 @@ Pythonは広く使用されている、多目的なテキスト ベースのプ�
 
 Scratch：追加のプロジェクト
 
-Scratch: Community Projects
+Scratch：コミュニティプロジェクト
 
 Scratch：モジュール1/2/3
 
