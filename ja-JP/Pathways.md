@@ -18,21 +18,21 @@ Scratch：コミュニティプロジェクト
 
 Scratch：モジュール1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+自分のインタラクティブな物語、ゲーム、アニメーションをプログラムする方法を学びます。
 
-Scratch for social innovation
+Scratchによるソーシャルイノベーション
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+重要な問題について人々が学ぶのに役立つアプリやゲームを作成して、初心者がなじみやすいグラフィカルプログラミング言語のScratchを学びましょう。
 
-HTML & CSS for social innovation
+HTML & CSSによるソーシャルイノベーション
 
 鳥の保護に関するウェブサイトを作成してHTML & CSSを学びましょう。
 
-App Inventor for social innovation
+App Inventorによるソーシャルイノベーション
 
 コミュニティで役立つプロジェクトを通じてAndroidのアプリ開発を学びましょう。
 
-CoderDojo Wearables
+CoderDojoウェアラブル
 
 これらのプロジェクトに従ってウェアラブル（身につけることができる）技術のプロジェクトを作りましょう。
 
@@ -50,7 +50,7 @@ Sense HATは、LED、ジョイスティック、たくさんのセンサーを�
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Piはプログラムで音を作成するように設計された新しい種類の楽器です。
 
 BBC micro:bit
 
