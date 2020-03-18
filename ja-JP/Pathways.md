@@ -46,7 +46,7 @@ CoderDojo Scratch
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HATは、LED、ジョイスティック、たくさんのセンサーを含むRaspberry Piのアドオンボードです。
 
 Sonic Pi
 
@@ -54,4 +54,4 @@ Sonic Pi is a new kind of musical instrument, designed for creating sounds with 
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bitは、創造性の発揮を可能にするプログラムできるポケットサイズのコンピューターです。
