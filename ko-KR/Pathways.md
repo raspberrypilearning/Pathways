@@ -8,17 +8,17 @@ HTML & CSS: Module 1/2/3
 
 Python: 모듈 1/2/3
 
-Python: Additional Projects
+Python: 추가 프로젝트
 
-Python is a widely used, general purpose, text-based programming language.
+Python은 널리 사용되는 텍스트 기반의 범용 프로그래밍 언어입니다.
 
-Scratch: Additional Projects
+Scratch: 추가 프로젝트
 
-Scratch: Community Projects
+Scratch: 커뮤니티 프로젝트
 
-Scratch: Module 1/2/3
+Scratch : 모듈 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+자신만의 대화형 이야기, 게임 및 애니메이션을 프로그래밍하는 방법을 배울 수 있습니다.
 
 사회적 혁신을 위한 스크래치
 
@@ -30,28 +30,28 @@ Learn how to program your own interactive stories, games and animations.
 
 사회적 혁신을 위한 앱 인벤터
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+여러분이 속한 지역사회 사람들을 돕는 프로젝트를 통해, Android 기기용 앱 제작 방법을 학습합니다.
 
-CoderDojo Wearables
+CoderDojo 웨어러블
 
-Create wearable technology projects by following these projects.
+다음 프로젝트들을 사용하여 웨어러블 테크놀로지 프로젝트를 만듭니다.
 
 HTML & CSS
 
-Create websites by following these projects.
+다음 프로젝트에 따라 웹 사이트를 만듭니다.
 
-CoderDojo Scratch
+CoderDojo 스크래치
 
-Learn Scratch by working through these fun projects!
+재미있는 프로젝트를 통해 스크래치를 배워 보세요!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT는 LED, 조이스틱과 다양한 센서들을 포함하는 Raspberry Pi의 애드온 보드입니다.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi는 코드를 통해 소리를 만들어내도록 설계된 새로운 종류의 악기 입니다.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit는 창의력을 발휘할 수 있는, 코드 작성이 가능한 주머니 크기의 컴퓨터입니다.
