@@ -1,54 +1,54 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+রাস্পবেরী পাই একটি ছোট্ট কম্পিউটার যা বিভিন্ন ইলেকট্রনিক্স প্রকল্পে ব্যবহার করা যায় এবং আপনার ডেস্কটপ পিসির বিকল্প হিসেবেও অনেক ক্ষেত্রেই ব্যবহার করা যেতে পারে।
 
-HTML & CSS: Module 1/2/3
+HTML & CSS (এইচটিএমএল এবং সিএসএস): মডিউল ১/২/৩
 
-Build and style your own web pages.
+আপনার নিজের ইচ্ছামত ওয়েব পেজ তৈরি করুন।
 
-Python: Module 1/2/3
+পাইথন: মডিউল ১/২/৩
 
-Python: Additional Projects
+পাইথন: অতিরিক্ত প্রকল্পসমূহ
 
-Python is a widely used, general purpose, text-based programming language.
+পাইথন একটি বহুল ব্যবহৃত, সাধারণভাবে ব্যবহারের উদ্দেশ্যে তৈরি করা অক্ষর-ভিত্তিক প্রোগ্রামিং এর ভাষা।
 
-Scratch: Additional Projects
+" স্ক্র্যাচ ": অন্যান্য প্রকল্প
 
-Scratch: Community Projects
+" স্ক্র্যাচ ":: জনসাধারণের প্রকল্প
 
-Scratch: Module 1/2/3
+" স্ক্র্যাচ ": মডিউল ১/২/৩
 
-Learn how to program your own interactive stories, games and animations.
+কিভাবে আপনি নিজে নিজে প্রোগ্রামিং এর মাধ্যমে বিভিন্ন গল্প, খেলা/গেমস এবং অ্যানিমেশন তৈরি করতে পারবেন তা শিখুন।
 
-Scratch for social innovation
+সামাজিক উদ্ভাবনের জন্য স্ক্র্যাচ
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+" স্ক্র্যাচ "শিখুন ; এটি একটি নতুন ব্যবহারকারীর উপযোগী গ্রাফিকাল প্রোগ্রামিং ভাষা। স্ক্র্যাচে আপনি বিভিন্ন অ্যাপ্লিকেশান এবং গেম তৈরি করে অনেক গুরুত্বপূর্ণ বিষয়ে মানুষের সহায়তা করতে পারবেন।
 
-HTML & CSS for social innovation
+সামাজিক উদ্ভাবন জন্য HTML ও CSS
 
-Learn HTML & CSS by creating a website about bird conservation.
+পাখি সংরক্ষণ সম্পর্কে একটি ওয়েবসাইট তৈরি করতে করতে HTML এবং CSS শিখে ফেলুন।
 
-App Inventor for social innovation
+সামাজিক উদ্ভাবন জন্য অ্যাপ্লিকেশন আবিষ্কারক
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+আপনার সমাজের লোকদের সহায়তা করতে পারে এমন প্রকল্পগুলি করে অ্যান্ড্রয়েড ডিভাইসের জন্য অ্যাপস তৈরি করতে শিখুন।
 
-CoderDojo Wearables
+কোডারডোজো পরিধানযোগ্য
 
-Create wearable technology projects by following these projects.
+এই প্রকল্পগুলি অনুসরণ করে পরিধানযোগ্য প্রযুক্তি প্রকল্প তৈরি করুন।
 
-HTML & CSS
+HTML এবং CSS
 
-Create websites by following these projects.
+এই প্রকল্পগুলি অনুসরণ করে ওয়েবসাইট তৈরি করুন।
 
-CoderDojo Scratch
+কোডারডোজো স্ক্র্যাচ
 
-Learn Scratch by working through these fun projects!
+এই মজার প্রকল্পের মাধ্যমে "স্ক্র্যাচ" শিখুন!
 
 সেন্স হ্যাট
 
 Sense HAT (সেন্স হ্যাট) রাস্পবেরী পাই এর জন্য একটি অ্যাড-অন বোর্ড। এতে LED সহ একটি জয়স্টিক এবং প্রচুর সেন্সর রয়েছে।
 
-Sonic Pi
+সোনিক পাই
 
 Sonic Pi (সোনিক পাই) একটি নতুন ধরনের বাদ্যযন্ত্র যাতে কোড লিখে শব্দ তৈরি করা যায়।
 
