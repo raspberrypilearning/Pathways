@@ -34,11 +34,11 @@ Lerne, Apps für Android-Geräte zu erstellen, indem du Projekte durchführst, d
 
 CoderDojo Wearables
 
-Create wearable technology projects by following these projects.
+Erstelle Projekte für tragbare Technik, indem du diesen Projekten folgst.
 
 HTML & CSS
 
-Create websites by following these projects.
+Erstelle Websites, indem du diesen Projekten folgst.
 
 CoderDojo Scratch
 
