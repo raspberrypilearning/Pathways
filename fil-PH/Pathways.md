@@ -1,6 +1,6 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Ang Raspberry Pi ay isang maliit na computer na may kakayahan na maaaring gamitin sa mga proyektong electronics, at para sa maraming mga bagay na ginagawa ng iyong desktop PC.
 
 HTML & CSS: Module 1/2/3
 
@@ -8,19 +8,19 @@ Build and style your own web pages.
 
 Python: Module 1/2/3
 
-Python: Additional Projects
+Python: Mga Karagdagang Proyekto
 
 Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Additional Projects
+Scratch: Mga Karagdagang Proyekto
 
-Scratch: Community Projects
+Scratch: Mga Proyekto pang-komunidad
 
 Scratch: Module 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Alamin kung paano mag-program ng iyong mga sariling interactive na kuwento, mga laro at mga animation.
 
-Scratch for social innovation
+Scratch pang social innovation
 
 Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
