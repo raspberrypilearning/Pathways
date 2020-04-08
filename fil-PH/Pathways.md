@@ -26,11 +26,11 @@ Alamin ang Scratch, isang grapikong programming language angkop sa nagsisimula, 
 
 HTML & CSS para sa social innovation
 
-Learn HTML & CSS by creating a website about bird conservation.
+Matuto ng HTML & CSS sa pamamagitan ng paglikha ng isang website tungkol sa pagprotekta ng mga ibon.
 
-App Inventor for social innovation
+App Imbentor para sa social innovation
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Matutong gumawa ng apps para sa mga Android devices sa pamamagitan ng paggawa ng mga proyekto na makakatulong sa mga tao sa iyong komunidad.
 
 CoderDojo Wearables
 
@@ -42,16 +42,16 @@ Create websites by following these projects.
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+Alamin ang Scratch sa pamamagitan nitong mga nakakatuwang proyekto!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Ang Sense HAT ay isang add-on board para sa Raspberry Pi, kabilang ang mga LEDs, joystick at maraming mga sensors.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Ang Sonic Pi ay isang bagong uri ng instrumento pang musika, na dinisenyo para sa paglikha ng mga tunog sa pamamagitan ng code.
 
-BBC micro:bit
+BBC micro: bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+Ang BBC micro: bit ay isang pocket-sized, codeable na computer na tutulungan kang maging malikhain.
