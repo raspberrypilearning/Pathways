@@ -22,9 +22,9 @@ Alamin kung paano mag-program ng iyong mga sariling interactive na kuwento, mga 
 
 Scratch pang social innovation
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Alamin ang Scratch, isang grapikong programming language angkop sa nagsisimula, habang nagbubuo ng mga apps at mga laro upang tulungan ang mga tao matuto tungkol sa mga mahahalagang isyu.
 
-HTML & CSS for social innovation
+HTML & CSS para sa social innovation
 
 Learn HTML & CSS by creating a website about bird conservation.
 
