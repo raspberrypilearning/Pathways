@@ -1,10 +1,10 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Ang Raspberry Pi ay isang maliit na kompyuter na may kakayahang magamit sa mga proyektong pang-elektronika at sa iba pang mga bagay na ginagawa ng isang karaniwang kompyuter.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Modyul 1/2/3
 
-Build and style your own web pages.
+Gumawa at magdisenyo ng iyong sariling mga pahina ng web.
 
 Python: Module 1/2/3
 
