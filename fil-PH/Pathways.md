@@ -4,13 +4,13 @@ Ang Raspberry Pi ay isang maliit na computer na may kakayahan na maaaring gamiti
 
 HTML & CSS: Module 1/2/3
 
-Build and style your own web pages.
+Bumuo at mag-istilo ng iyong mga sariling web pages.
 
 Python: Module 1/2/3
 
 Python: Mga Karagdagang Proyekto
 
-Python is a widely used, general purpose, text-based programming language.
+Ang Python ay isang text-based programming language na madalas gamitin at may maraming paggagamitan.
 
 Scratch: Mga Karagdagang Proyekto
 
