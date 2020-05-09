@@ -1,34 +1,34 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+O Raspberry Pi é um pequeno e eficiente computador que pode ser usado em projetos de eletrônica e para muitas coisas que seu computador de mesa faz.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Módulos 1/2/3
 
-Build and style your own web pages.
+Crie e estilize suas próprias páginas da web.
 
-Python: Module 1/2/3
+Python: Módulos 1/2/3
 
-Python: Additional Projects
+Python: Projetos adicionais
 
-Python is a widely used, general purpose, text-based programming language.
+Python é uma linguagem de programação baseada em texto, amplamente utilizada e de uso geral.
 
-Scratch: Additional Projects
+Scratch: Projetos Adicionais
 
-Scratch: Community Projects
+Scratch: Projetos da Comunidade
 
-Scratch: Module 1/2/3
+Scratch: Módulos 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Aprenda a programar suas próprias histórias, jogos e animações interativas.
 
-Scratch for social innovation
+Scratch para inovação social
 
 Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
-HTML & CSS for social innovation
+HTML & CSS para inovação social
 
-Learn HTML & CSS by creating a website about bird conservation.
+Aprenda HTML e CSS criando um site sobre conservação das aves.
 
-App Inventor for social innovation
+Inventor de aplicativos para inovação social
 
 Learn to make apps for Android devices by doing projects that can help people in your community.
 
