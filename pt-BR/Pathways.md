@@ -30,7 +30,7 @@ Aprenda HTML e CSS criando um site sobre conservação das aves.
 
 Inventor de aplicativos para inovação social
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Aprenda a criar aplicativos para dispositivos Android fazendo projetos que possam ajudar pessoas em sua comunidade.
 
 CoderDojo Wearables
 
@@ -38,19 +38,19 @@ Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Create websites by following these projects.
+Crie sites de internet seguindo estes projetos.
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+Aprenda Scratch trabalhando nestes divertidos projetos!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+O Sense HAT é uma placa adicional para o Raspberry Pi, incluindo LEDs, um joystick e muitos sensores.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi é um novo tipo de instrumento musical, projetado para criar sons com código.
 
 BBC micro: bit
 
