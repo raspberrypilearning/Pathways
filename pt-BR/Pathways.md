@@ -22,7 +22,7 @@ Aprenda a programar suas próprias histórias, jogos e animações interativas.
 
 Scratch para inovação social
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Aprenda Scratch, uma linguagem de programação gráfica para iniciantes, enquanto cria aplicativos e jogos para ajudar as pessoas a aprenderem sobre questões importantes.
 
 HTML & CSS para inovação social
 
@@ -32,9 +32,9 @@ Inventor de aplicativos para inovação social
 
 Aprenda a criar aplicativos para dispositivos Android fazendo projetos que possam ajudar pessoas em sua comunidade.
 
-CoderDojo Wearables
+CoderDojo Vestíveis
 
-Create wearable technology projects by following these projects.
+Crie projetos de tecnologia vestível seguindo estes projetos.
 
 HTML & CSS
 
