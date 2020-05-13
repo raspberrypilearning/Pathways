@@ -34,11 +34,11 @@ Aprende a criar aplicativos para dispositivos Android fazendo projetos que podem
 
 CoderDojo Wearables
 
-Create wearable technology projects by following these projects.
+Cria projetos de tecnologia wearable seguindo estes Cartões Sushi.
 
 HTML & CSS
 
-Create websites by following these projects.
+Cria páginas de internet seguindo estes Cartões Sushi.
 
 CoderDojo Scratch
 
