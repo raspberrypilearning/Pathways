@@ -14,7 +14,7 @@ Python е широко използван език за програмиране
 
 Scratch: Допълнителни проекти
 
-Scratch: Community Projects
+Scratch: Проекти на Общността
 
 Scratch: Модул 1/2/3
 
@@ -34,7 +34,7 @@ HTML & CSS за социални иновации
 
 CoderDojo Wearables
 
-Create wearable technology projects by following these projects.
+Създайте проекти за устройства, които се носят, като следвате следните проекти.
 
 HTML & CSS
 
