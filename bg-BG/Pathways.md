@@ -16,11 +16,11 @@ Scratch: Допълнителни проекти
 
 Scratch: Community Projects
 
-Scratch: Module 1/2/3
+Scratch: Модул 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Научете се как да осъществявате програмирайки вашите интерактивни идеи, игри и анимации.
 
-Scratch for social innovation
+Scratch за социални иновации
 
 Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
