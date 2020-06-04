@@ -1,18 +1,18 @@
 Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi е малък компютър, който може да се използва за проекти по електроника и за много други неща, които вашият настолен компютър може да прави.
 
-HTML & CSS: Module 1/2/3
+HTML & CSS: Модул 1/2/3
 
-Build and style your own web pages.
+Създайте и оформете свои собствени уеб страници.
 
-Python: Module 1/2/3
+Python: Модул 1/2/3
 
-Python: Additional Projects
+Python: Допълнителни проекти
 
-Python is a widely used, general purpose, text-based programming language.
+Python е широко използван език за програмиране, който е текстово базиран и с общо предназначение.
 
-Scratch: Additional Projects
+Scratch: Допълнителни проекти
 
 Scratch: Community Projects
 
