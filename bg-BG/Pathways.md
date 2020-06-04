@@ -22,15 +22,15 @@ Scratch: Модул 1/2/3
 
 Scratch за социални иновации
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Научете Scratch, лесен за начинаещи графичен език за програмиране, докато създавате приложения и игри, за да помогнете на хората да научат повече за важни въпроси.
 
-HTML & CSS for social innovation
+HTML & CSS за социални иновации
 
-Learn HTML & CSS by creating a website about bird conservation.
+Научете HTML & CSS, като създадете уеб сайт за опазване на птиците.
 
-App Inventor for social innovation
+Създател на приложения за социални иновации
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Научете се как да създавате приложения за Android устройства, като работите върху проекти, които могат да помогнат на хората във вашата общност.
 
 CoderDojo Wearables
 
@@ -38,20 +38,20 @@ Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Create websites by following these projects.
+Създайте уеб сайтове, като следвате следните проекти.
 
 CoderDojo Scratch
 
-Learn Scratch by working through these fun projects!
+Научете Scratch, като работите по тези забавни проекти!
 
 Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT е допълнителна платка за Raspberry Pi, включваща светодиоди, джойстик и много сензори.
 
 Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi е нов вид музикален инструмент, предназначен за създаване на звуци с програмен код.
 
 BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro: bit е джобен, програмируем компютър, който ви позволява да творите.
