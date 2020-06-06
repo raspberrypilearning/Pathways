@@ -1,56 +1,56 @@
 Raspberry Pi
 
-Raspberry Pi je sposobno maleno računalo koje možeš koristiti u projektima s elektronikom, kao i za mnoge stvari koje radi stolno računalo.
+The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
 
-HTML & CSS: Moduli 1/2/3
+HTML & CSS: Module 1/2/3
 
-Izradi i oblikuj vlastite web stranice.
+Build and style your own web pages.
 
-Python: Modul 1/2/3
+Python: Module 1/2/3
 
-Python: Dodatni projekti
+Python: Additional Projects
 
-Python je široko upotrebljavan tekstualni programski jezik opće namjene.
+Python is a widely used, general purpose, text-based programming language.
 
-Scratch: Dodatni projekti
+Scratch: Additional Projects
 
-Scratch: Projekti iz zajednice
+Scratch: Community Projects
 
-Scratch: Modul 1/2/3
+Scratch: Module 1/2/3
 
-Nauči programirati svoje interaktivne priče, igre i animacije.
+Learn how to program your own interactive stories, games and animations.
 
-Scratch za društveno poduzetništvo
+Scratch for social innovation
 
-Nauči raditi u Scratch-u, grafičkom programskom jeziku prikladnome za početnike, kroz izradu aplikacija i igara uz koje će se ljudi bolje upoznati s važnim problemima.
+Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
 
-HTML & CSS za društvene inovacije
+HTML & CSS for social innovation
 
-Nauči HTML & CSS stvaranjem web stranice o očuvanju ptica.
+Learn HTML & CSS by creating a website about bird conservation.
 
-App Inventor za društveno poduzetništvo
+App Inventor for social innovation
 
-Nauči izraditi aplikacije za uređaje sa sustavom Android pomoću projekata koji mogu pomoći ljudima u tvojoj zajednici.
+Learn to make apps for Android devices by doing projects that can help people in your community.
 
 CoderDojo Wearables
 
-Izradi nosive tehnološke projekte koristeći ove projekte.
+Create wearable technology projects by following these projects.
 
 HTML & CSS
 
-Izradi web stranice koristeći ove projekte.
+Create websites by following these projects.
 
 CoderDojo Scratch
 
-Nauči Scratch radeći na ovim zabavnim projektima!
+Learn Scratch by working through these fun projects!
 
 Sense HAT
 
-Sense HAT je dodatna komponenta za Raspberry Pi koja uključuje LED diode, upravljačku palicu i mnogo senzora.
+The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
 
 Sonic Pi
 
-Sonic Pi je nova vrsta glazbenog instrumenta, dizajnirana za stvaranje zvukova kodiranjem.
+Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
 
 BBC micro:bit
 
