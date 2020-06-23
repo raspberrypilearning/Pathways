@@ -1,4 +1,4 @@
 
-## App Inventor for social innovation
+## Izumitelj aplikacij za družbene inovacije
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Naučite se izdelati aplikacije za naprave Android s projekti, ki lahko pomagajo ljudem v vaši skupnosti.
