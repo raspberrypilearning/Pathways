@@ -8,4 +8,4 @@ Block 1
 
 Block 2
 
-Learn Scratch by working through these fun projects!
+Naučite se Scratch z delom skozi te zabavne projekte!
