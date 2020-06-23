@@ -1,3 +1,3 @@
-## HTML & CSS for social innovation
+## HTML & CSS za razvoj družbe
 
-Learn HTML & CSS by creating a website about bird conservation.
+Nauči se HTML & CSS, tako da ustvariš stran o ohranjanju ptic.
