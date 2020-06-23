@@ -6,4 +6,4 @@ Community Projects
 
 Modulo 1/2/3
 
-Impara a programmare le tue storie, giochi e animazioni interattivi.
+Impara a programmare le tue storie interattive, i tuoi giochi e le tue animazioni.
