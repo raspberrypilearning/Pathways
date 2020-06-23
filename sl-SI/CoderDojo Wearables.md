@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## CoderDojo nosljive naprave
 
-Create wearable technology projects by following these projects.
+Ustvari projekte za nosljive tehnologije, sledeč tem suši karticam.
