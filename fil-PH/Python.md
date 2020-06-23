@@ -2,6 +2,6 @@
 
 Module 1/2/3
 
-Additional Projects
+Mga Karagdagang Proyekto
 
-Python is a widely used, general purpose, text-based programming language.
+Ang Python ay isang text-based programming language na madalas gamitin at may maraming paggagamitan.
