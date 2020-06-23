@@ -2,6 +2,6 @@
 
 Module 1/2/3
 
-Additional Projects
+Dodatni projekti
 
-Python is a widely used, general purpose, text-based programming language.
+Python je večnamenski programski jezik za široko rabo, ki temelji na tekstu.
