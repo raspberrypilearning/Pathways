@@ -1,4 +1,4 @@
 
 ## App Inventor per l'innovazione sociale
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Impara a creare app per i dispositivi Android con progetti che possano essere d'aiuto alle persone della tua comunità.
