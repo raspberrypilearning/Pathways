@@ -1,9 +1,9 @@
 ## Scratch
 
-Additional Projects
+Dodatni projekti
 
-Community Projects
+Projekti Skupnosti
 
 Module 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Preberite, kako programirati svoje interaktivne zgodbe, igre in animacije.
