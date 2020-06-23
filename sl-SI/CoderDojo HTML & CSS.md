@@ -1,3 +1,3 @@
 CoderDojo HTML & CSS
 
-Create websites by following these projects.
+Ustvarite spletne strani s pomočjo teh projektov.
