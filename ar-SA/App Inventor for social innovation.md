@@ -1,4 +1,4 @@
 
-## App Inventor for social innovation
+## مخترع التطبيق للابتكار الاجتماعي
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+تعلم كيفية إنشاء تطبيقات لأجهزة أندرويد عن طريق تنفيذ مشاريع يمكن أن تساعد الناس في مجتمعك.
