@@ -1,7 +1,7 @@
 ## Python
 
-Module 1/2/3
+Ενότητα 1/2/3
 
-Additional Projects
+Πρόσθετα έργα
 
-Python is a widely used, general purpose, text-based programming language.
+Η Python είναι μια ευρέως χρησιμοποιούμενη γλώσσα προγραμματισμού γενικής χρήσης, βασισμένη σε κείμενο.
