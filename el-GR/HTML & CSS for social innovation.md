@@ -1,3 +1,3 @@
-## HTML & CSS for social innovation
+## HTML & CSS για την κοινωνική καινοτομία
 
-Learn HTML & CSS by creating a website about bird conservation.
+Μάθε HTML & CSS δημιουργώντας μια ιστοσελίδα για την προστασία των πτηνών.
