@@ -1,11 +1,11 @@
-## CoderDojo Foundation Python
+## CoderDojo Python Básico
 
-## CoderDojo Intermediate Python
+## CoderDojo Python Intermediário
 
-## CoderDojo Advanced Python
+## CodeDojo Python Avançado
 
-Block 1
+Bloco 1
 
-Block 2
+Bloco 2
 
-Learn Python by working through these fun projects!
+Aprenda Python trabalhando nestes projetos divertidos!
