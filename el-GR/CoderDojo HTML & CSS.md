@@ -1,3 +1,3 @@
-CoderDojo HTML & CSS
+CoderDojo HTML και & CSS
 
-Create websites by following these projects.
+Δημιούργησε ιστοσελίδες ακολουθώντας αυτά τα έργα.
