@@ -1,9 +1,9 @@
 ## Scratch
 
-Additional Projects
+Πρόσθετα έργα
 
-Community Projects
+Κοινοτικά Έργα
 
-Module 1/2/3
+Ενότητα 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
