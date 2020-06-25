@@ -1,6 +1,6 @@
-## CoderDojo Foundation Python
+## CoderDojo Python اساسي
 
-## CoderDojo Intermediate Python
+## CoderDojo Python متوسط
 
 ## CoderDojo Advanced Python
 
