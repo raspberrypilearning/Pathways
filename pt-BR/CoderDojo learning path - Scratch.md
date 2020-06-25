@@ -1,10 +1,10 @@
-## CoderDojo Foundation Scratch
+## CoderDojo Scratch Básico
 
-## CoderDojo Intermediate Scratch
+## CoderDojo Scratch Intermediário
 
-## CoderDojo Advanced Scratch
+## CoderDojo Scratch Avançado
 
-Block 1
+Bloco 1
 
 Block 2
 
