@@ -1,3 +1,3 @@
 # Sonic Pi
 
-Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+Sonic Pi é um novo tipo de instrumento musical, projetado para criar sons com código.
