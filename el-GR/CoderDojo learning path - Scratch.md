@@ -4,8 +4,8 @@
 
 ## CoderDojo Advanced Scratch
 
-Block 1
+Δέσμη 1
 
-Block 2
+Δέσμη 2
 
-Learn Scratch by working through these fun projects!
+Μάθε Scratch ολοκληρώνοντας αυτά τα διασκεδαστικά έργα!
