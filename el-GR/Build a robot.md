@@ -1,3 +1,3 @@
-## Build a robot
+## Φτιάξε ένα ρομπότ
 
-Build your programming skills with these robot projects
+Ανάπτυξε τις δεξιότητές στον προγραμματισμό με ένα από αυτά τα έργα ρομποτικής
