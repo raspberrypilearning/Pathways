@@ -1,3 +1,3 @@
-## Scratch for social innovation
+## Scratch para inovação social
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Aprenda Scratch, uma linguagem de programação gráfica para iniciantes, enquanto cria aplicativos e jogos para ajudar as pessoas a aprenderem sobre questões importantes.
