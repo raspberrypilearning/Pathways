@@ -1,3 +1,3 @@
 ## CoderDojo Wearables
 
-Create wearable technology projects by following these projects.
+Δημιούργησε έργα wearable τεχνολογίας ακολουθώντας αυτά τα έργα.
