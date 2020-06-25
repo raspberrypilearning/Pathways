@@ -1,4 +1,4 @@
 
-## App Inventor for social innovation
+## App Inventor για την κοινωνική καινοτομία
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+Μάθε να φτιάχνεις εφαρμογές για συσκευές Android κάνοντας έργα που μπορούν να βοηθήσουν ανθρώπους στην κοινότητά σου.
