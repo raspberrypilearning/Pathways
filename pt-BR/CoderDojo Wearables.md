@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## CoderDojo Vestíveis
 
-Create wearable technology projects by following these projects.
+Crie projetos de tecnologia vestível seguindo estes projetos.
