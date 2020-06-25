@@ -4,8 +4,8 @@
 
 ## CoderDojo Advanced Python
 
-Block 1
+Δέσμη 1
 
-Block 2
+Δέσμη 2
 
-Learn Python by working through these fun projects!
+Μάθε Python ολοκληρώνοντας αυτά τα διασκεδαστικά έργα!
