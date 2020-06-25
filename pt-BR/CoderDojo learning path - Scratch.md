@@ -6,6 +6,6 @@
 
 Bloco 1
 
-Block 2
+Bloco 2
 
-Learn Scratch by working through these fun projects!
+Aprenda Scratch trabalhando nestes divertidos projetos!
