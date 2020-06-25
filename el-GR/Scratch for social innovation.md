@@ -1,3 +1,3 @@
-## Scratch for social innovation
+## Scratch για την κοινωνική καινοτομία
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Μάθε Scratch, μια γραφική γλώσσα προγραμματισμού φιλική στους αρχάριους, δημιουργώντας παράλληλα εφαρμογές και παιχνίδια για να βοηθήσεις τους ανθρώπους να μάθουν για σημαντικά θέματα.
