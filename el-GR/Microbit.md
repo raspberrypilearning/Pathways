@@ -1,3 +1,3 @@
 ## BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+Το BBC micro: bit είναι ένας προγραμματιζόμενος υπολογιστής μεγέθους τσέπης, που σας επιτρέπει να γίνετε δημιουργικοί.
