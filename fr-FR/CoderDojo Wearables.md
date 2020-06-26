@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## Technologies portables CoderDojo
 
-Create wearable technology projects by following these projects.
+Crée des projets de technologie portable en suivant ces projets.
