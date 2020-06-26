@@ -4,8 +4,8 @@
 
 ## CoderDojo Advanced Python
 
-Block 1
+खंड 1
 
-Block 2
+खंड 2
 
-Learn Python by working through these fun projects!
+इन मजेदार परियोजनाओं पर काम करके Python सीखें!
