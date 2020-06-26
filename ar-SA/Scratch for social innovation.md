@@ -1,3 +1,3 @@
-## Scratch for social innovation
+## Scratch للابتكار الإجتماعي
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+تعلم Scratch، وهي لغة برمجة رسومية سهلة الاستخدام للمبتدئين، وذلك أثناء بناء التطبيقات والألعاب، التي تساعد الأشخاص في التعلم عن المشكلات المهمة.
