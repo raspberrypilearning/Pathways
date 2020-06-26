@@ -2,6 +2,6 @@
 
 Module 1/2/3
 
-Additional Projects
+Aanvullende projecten
 
-Python is a widely used, general purpose, text-based programming language.
+Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
