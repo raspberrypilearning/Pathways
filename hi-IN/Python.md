@@ -1,7 +1,7 @@
 ## Python
 
-Module 1/2/3
+मॉड्यूल 1/2/3
 
-Additional Projects
+अतिरिक्त परियोजनाएं
 
-Python is a widely used, general purpose, text-based programming language.
+Python एक व्यापक रूप से उपयोग किया जाने वाला, सामान्य प्रयोजन, शब्दों-पर-आधारित प्रोग्रामिंग भाषा है।
