@@ -2,10 +2,10 @@
 
 ## CoderDojo Python متوسط
 
-## CoderDojo Advanced Python
+## CoderDojo Python متقدم
 
-Block 1
+الكتلة 1
 
-Block 2
+الكتلة 2
 
-Learn Python by working through these fun projects!
+تعلم بايثون عن طريق العمل من خلال هذه المشاريع الممتعة!
