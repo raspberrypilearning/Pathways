@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## CoderDojo للاجهزة القابلة للارتداء
 
-Create wearable technology projects by following these projects.
+إنشاء مشاريع تقنية قابلة للارتداء من خلال متابعة هذه المشاريع.
