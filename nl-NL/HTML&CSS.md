@@ -2,4 +2,4 @@
 
 Module 1/2/3
 
-Build and style your own web pages.
+Bouw en style je eigen webpagina's.
