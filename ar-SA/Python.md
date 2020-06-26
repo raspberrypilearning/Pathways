@@ -1,7 +1,7 @@
 ## Python
 
-Module 1/2/3
+الوحدة 1/2/3
 
-Additional Projects
+مشاريع إضافية
 
-Python is a widely used, general purpose, text-based programming language.
+Python هي لغة برمجة نصية مستخدمة على نطاق واسع.
