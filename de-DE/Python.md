@@ -2,6 +2,6 @@
 
 Module 1/2/3
 
-Additional Projects
+Weitere Projekte
 
-Python is a widely used, general purpose, text-based programming language.
+Python ist eine weit verbreitete, textbasierte Allzweck-Programmiersprache.
