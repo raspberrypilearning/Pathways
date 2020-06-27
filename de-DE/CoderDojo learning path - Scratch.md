@@ -1,11 +1,11 @@
-## CoderDojo Foundation Scratch
+## CoderDojo Basis Scratch
 
-## CoderDojo Intermediate Scratch
+## CoderDojo Mittel Scratch
 
-## CoderDojo Advanced Scratch
+## CoderDojo Fortgeschritten Scratch
 
 Block 1
 
 Block 2
 
-Learn Scratch by working through these fun projects!
+Lerne Scratch, indem du diese lustigen Projekte durcharbeitest!
