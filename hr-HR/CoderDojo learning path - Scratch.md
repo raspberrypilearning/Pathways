@@ -1,11 +1,11 @@
-## CoderDojo Foundation Scratch
+## CoderDojo Foundation Python
 
-## CoderDojo Intermediate Scratch
+## CoderDojo Intermediate Python
 
-## CoderDojo Advanced Scratch
+## CoderDojo Advanced Python
 
-Block 1
+Objekt 1
 
-Block 2
+Objekt 2
 
-Learn Scratch by working through these fun projects!
+Nauči Scratch radeći na ovim zabavnim projektima!
