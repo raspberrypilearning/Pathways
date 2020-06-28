@@ -1,3 +1,3 @@
 ## BBC micro:bit
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+BBC micro:bit je programabilno džepno računalo koje ti omogućuje da postaneš kreativan.
