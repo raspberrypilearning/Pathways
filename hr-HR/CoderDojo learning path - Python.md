@@ -4,8 +4,8 @@
 
 ## CoderDojo Advanced Python
 
-Block 1
+Objekt 1
 
-Block 2
+Objekt 2
 
 Learn Python by working through these fun projects!
