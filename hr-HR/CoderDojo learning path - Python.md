@@ -8,4 +8,4 @@ Objekt 1
 
 Objekt 2
 
-Learn Python by working through these fun projects!
+Nauči Python radeći na ovim zabavnim projektima!
