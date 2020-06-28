@@ -1,3 +1,3 @@
 ## Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi je sposobno maleno računalo koje možeš koristiti u projektima s elektronikom, kao i za mnoge stvari koje radi stolno računalo.
