@@ -1,3 +1,3 @@
-## Scratch for social innovation
+## Scratch za društveno poduzetništvo
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+Nauči raditi u Scratch-u, grafičkom programskom jeziku prikladnome za početnike, kroz izradu aplikacija i igara uz koje će se ljudi bolje upoznati s važnim problemima.
