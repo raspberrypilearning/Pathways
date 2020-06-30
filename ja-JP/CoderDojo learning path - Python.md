@@ -1,11 +1,11 @@
-## CoderDojo Foundation Python
+## CoderDojo 基礎 Python
 
-## CoderDojo Intermediate Python
+## CoderDojo 中級 Python
 
-## CoderDojo Advanced Python
+## CoderDojo 上級 Python
 
-Block 1
+ブロック1
 
-Block 2
+ブロック2
 
-Learn Python by working through these fun projects!
+楽しいプロジェクトを通じてPythonを学びましょう！
