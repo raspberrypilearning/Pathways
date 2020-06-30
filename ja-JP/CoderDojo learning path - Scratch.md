@@ -1,11 +1,11 @@
-## CoderDojo Foundation Scratch
+## CoderDojo 基礎 Scratch
 
-## CoderDojo Intermediate Scratch
+## CoderDojo 中級 Scratch
 
-## CoderDojo Advanced Scratch
+## CoderDojo 上級 Scratch
 
-Block 1
+ブロック1
 
-Block 2
+ブロック2
 
-Learn Scratch by working through these fun projects!
+楽しいプロジェクトを通じてScratchを学びましょう！
