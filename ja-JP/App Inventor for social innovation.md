@@ -1,4 +1,4 @@
 
-## App Inventor for social innovation
+## App Inventorによるソーシャルイノベーション
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+コミュニティで役立つプロジェクトを通じてAndroidのアプリ開発を学びましょう。
