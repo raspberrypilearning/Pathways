@@ -1,7 +1,7 @@
 ## Python
 
-Module 1/2/3
+モジュール1/2/3
 
-Additional Projects
+追加プロジェクト
 
-Python is a widely used, general purpose, text-based programming language.
+Pythonは広く使用されている、汎用的なテキストベースのプログラミング言語です。
