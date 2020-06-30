@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## CoderDojo ウェアラブル
 
-Create wearable technology projects by following these projects.
+これらのプロジェクトに従ってウェアラブル（身につけることができる）技術のプロジェクトを作りましょう。
