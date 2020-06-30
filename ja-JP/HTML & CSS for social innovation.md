@@ -1,3 +1,3 @@
-## HTML & CSS for social innovation
+## HTML & CSSによるソーシャルイノベーション
 
-Learn HTML & CSS by creating a website about bird conservation.
+鳥の保護に関するウェブサイトを作成してHTML & CSSを学びましょう。
