@@ -1,3 +1,3 @@
-## Raspberry Pi
+## Raspberry Pi（ラズベリーパイ）
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Piは電子工作に使える小さなコンピューターで、デスクトップPCで行う多くのことができます。
