@@ -1,3 +1,3 @@
-## Build a robot
+## ロボットを作る
 
-Build your programming skills with these robot projects
+ロボットのプロジェクトを通じてプログラミングの腕を磨（みが）きましょう
