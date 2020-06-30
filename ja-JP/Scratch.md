@@ -1,9 +1,9 @@
-## Scratch
+## Scratch（スクラッチ）
 
-Additional Projects
+追加プロジェクト
 
-Community Projects
+コミュニティプロジェクト
 
-Module 1/2/3
+モジュール1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+インタラクティブな物語、ゲーム、アニメーションをプログラムする方法を学びます。
