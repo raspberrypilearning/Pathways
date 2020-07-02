@@ -1,3 +1,3 @@
 ## Raspberry Pi
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+Raspberry Pi es una pequeña y capaz computadora que puede ser usada en proyectos de electrónica, y para hacer muchas de las cosas que tu PC de escritorio hace.
