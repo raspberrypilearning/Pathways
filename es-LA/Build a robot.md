@@ -1,3 +1,3 @@
-## Build a robot
+## Construye un robot
 
-Build your programming skills with these robot projects
+Desarrolla tus habilidades de programación con estos proyectos de robots
