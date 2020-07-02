@@ -1,3 +1,3 @@
 ## Tecnología vestible CoderDojo
 
-Create wearable technology projects by following these projects.
+Crea proyectos de tecnología vestible siguiendo estas Sushi Cards.
