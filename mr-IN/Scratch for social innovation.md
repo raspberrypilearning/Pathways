@@ -1,3 +1,3 @@
-## Scratch for social innovation
+## सामाजिक नवकल्पना साठी Scratch
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+लोकांना महत्त्वाच्या विषयांबद्दल शिकला मदत करण्यासाठी, ऍप व गेम्स तयार करत असताना, Scratch शिका, ही एक नवशिक्या-अनुकूल ग्राफिकल प्रोग्रामिंग भाषा आहे.
