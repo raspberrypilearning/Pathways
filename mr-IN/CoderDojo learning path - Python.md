@@ -1,11 +1,11 @@
-## CoderDojo Foundation Python
+## CoderDojo फाऊंडेशन Python
 
-## CoderDojo Intermediate Python
+## CoderDojo इंटेर्मीडियेट Python
 
-## CoderDojo Advanced Python
+## CoderDojo एडवांस्ड Python
 
-Block 1
+ब्लॉक 1
 
-Block 2
+ब्लॉक 2
 
-Learn Python by working through these fun projects!
+ह्या मजेदार प्रोजेक्टवर काम करत Python शिका!
