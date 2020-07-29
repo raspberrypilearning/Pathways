@@ -1,3 +1,3 @@
-## Build a robot
+## एक रोबोट तयार करा
 
-Build your programming skills with these robot projects
+या रोबोट प्रोजेक्टसह आपली प्रोग्रामिंग कौशल्ये तयार करा
