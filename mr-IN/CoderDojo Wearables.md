@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## CoderDojo वेअरेबल्स
 
-Create wearable technology projects by following these projects.
+ह्या प्रोजेक्टचे अनुसरण करून वेअरेबल तंत्रज्ञान प्रोजेक्ट तयार करा.
