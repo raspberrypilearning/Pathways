@@ -1,9 +1,9 @@
 ## Scratch
 
-Additional Projects
+अतिरिक्त प्रोजेक्ट
 
-Community Projects
+सामुदायिक प्रोजेक्ट
 
-Module 1/2/3
+मॉड्यूल 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+आपल्या स्वत: च्या परस्परसंवादी कथा, गेम्स आणि अनिमेशन प्रोग्राम कसे करावे ते शिका.
