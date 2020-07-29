@@ -1,11 +1,11 @@
-## CoderDojo Foundation Scratch
+## CoderDojo फाऊंडेशन Scratch
 
-## CoderDojo Intermediate Scratch
+## CoderDojo इंटेर्मीडियेट Scratch
 
-## CoderDojo Advanced Scratch
+## CoderDojo एडवांस्ड Scratch
 
-Block 1
+ब्लॉक 1
 
-Block 2
+ब्लॉक 2
 
-Learn Scratch by working through these fun projects!
+या मजेदार प्रकल्पांद्वारे कार्य करून Scratch शिका!
