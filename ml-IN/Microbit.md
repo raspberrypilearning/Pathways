@@ -1,3 +1,3 @@
-## BBC micro:bit
+## ബിബിസി മൈക്രോ:ബിറ്റ്
 
-The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative.
+ബിബിസി micro:bit എന്നത് നിങ്ങളുടെ സർഗ്ഗ വൈഭവശേഷികൾ വളർത്താൻ സഹായിക്കുന്ന , പോക്കറ്റ് വലിപ്പമുള്ള, പ്രോഗ്രാം ചെയ്യാൻ ഉപയോഗിക്കാവുന്ന കമ്പ്യൂട്ടറാണ്.
