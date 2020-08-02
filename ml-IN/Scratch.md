@@ -1,9 +1,9 @@
-## Scratch
+## സ്ക്രാച്ച്
 
-Additional Projects
+കൂടുതൽ പ്രൊജക്റ്റുകൾ
 
-Community Projects
+കമ്മ്യൂണിറ്റി പ്രോജക്റ്റുകൾ
 
-Module 1/2/3
+വിഭാഗം 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+നിങ്ങളുടെ സ്വന്തം സംവേദനാത്മക കഥകളും കളികളും ആനിമേഷനുകളും എങ്ങനെ പ്രോഗ്രാം ചെയ്യാമെന്ന് പഠിക്കുക.
