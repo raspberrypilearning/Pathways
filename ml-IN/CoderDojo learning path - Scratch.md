@@ -1,11 +1,11 @@
-## CoderDojo Foundation Scratch
+## കോഡർഡോജോ - Scratch അടിസ്ഥാനം
 
-## CoderDojo Intermediate Scratch
+## കോഡർഡോജോ - Scratch ശരാശരി അറിവുള്ളത്
 
-## CoderDojo Advanced Scratch
+## കോഡർഡോജോ -Scratch നന്നായി അറിയാവുന്നത്
 
-Block 1
+ഭാഗം 1
 
-Block 2
+ഭാഗം 2
 
-Learn Scratch by working through these fun projects!
+രസകരങ്ങളായ ഈ പ്രോജക്റ്റുകളിൽ പ്രവർത്തിക്കുന്നതിലൂടെ സ്ക്രാച്ച് പഠിക്കുക!
