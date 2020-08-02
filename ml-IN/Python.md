@@ -1,7 +1,7 @@
-## Python
+## പൈത്തൺ
 
-Module 1/2/3
+വിഭാഗം 1/2/3
 
-Additional Projects
+കൂടുതൽ പ്രൊജക്റ്റുകൾ
 
-Python is a widely used, general purpose, text-based programming language.
+വ്യാപകമായി ഉപയോഗിക്കുന്ന, പൊതുവായ ഉദ്ദേശ്യമുള്ള, വാക്കുകൾ അടിസ്ഥാനമാക്കിയുള്ള പ്രോഗ്രാമിംഗ് ഭാഷയാണ് പൈത്തൺ.
