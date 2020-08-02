@@ -1,11 +1,11 @@
 ## CoderDojo Foundation Python
 
-## CoderDojo Intermediate Python
+## കോഡർഡോജോ - പൈത്തൺ ശരാശരി അറിവുള്ളത്
 
-## CoderDojo Advanced Python
+## കോഡർഡോജോ -പൈത്തൺ നന്നായി അറിയാവുന്നത്
 
-Block 1
+ഭാഗം 1
 
-Block 2
+ഭാഗം 2
 
 Learn Python by working through these fun projects!
