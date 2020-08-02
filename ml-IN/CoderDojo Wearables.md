@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## കോഡർഡോജോ വെയറബിൾസ് (ധരിക്കാവുന്നവ)
 
-Create wearable technology projects by following these projects.
+ഈ പ്രോജക്റ്റുകൾ പിന്തുടർന്ന് ധരിക്കാവുന്ന സാങ്കേതിക പ്രോജക്റ്റുകൾ സൃഷ്ടിക്കുക.
