@@ -1,5 +1,5 @@
-## HTML & CSS
+## HTML ഉം CSS ഉം
 
-Module 1/2/3
+വിഭാഗം 1/2/3
 
-Build and style your own web pages.
+നിങ്ങളുടെ സ്വന്തം വെബ് പേജുകൾ നിർമ്മിക്കുകയും അവ മനോഹരമാക്കുകയും ചെയ്യുക.
