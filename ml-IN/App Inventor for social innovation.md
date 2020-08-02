@@ -1,4 +1,4 @@
 
-## App Inventor for social innovation
+## സാമൂഹ്യ നവീകരണത്തിനായി App Inventor
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+നിങ്ങളുടെ സമൂഹത്തിലെ ആളുകളെ സഹായിക്കാൻ കഴിയുന്ന പ്രോജക്റ്റുകൾ ചെയ്യുന്നതിലൂടെ ആൻഡ്രോയിഡ് ഉപകാരണങ്ങൾക്കായുള്ള അപ്ലിക്കേഷനുകൾ നിർമ്മിക്കാൻ പഠിക്കുക.
