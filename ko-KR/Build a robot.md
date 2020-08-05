@@ -1,3 +1,3 @@
-## Build a robot
+## 로봇 만들기
 
-Build your programming skills with these robot projects
+로봇 프로젝트를 제작하여 여러분의 프로그래밍 실력을 키워보세요
