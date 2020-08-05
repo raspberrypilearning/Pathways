@@ -1,5 +1,5 @@
 ## HTML & CSS
 
-Module 1/2/3
+모듈 1/2/3
 
-Build and style your own web pages.
+자신만의 웹 페이지를 만들고 스타일을 설정하세요.
