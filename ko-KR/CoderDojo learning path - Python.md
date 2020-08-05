@@ -1,11 +1,11 @@
-## CoderDojo Foundation Python
+## CoderDojo 기초 파이썬
 
-## CoderDojo Intermediate Python
+## CoderDojo 중급 파이썬
 
-## CoderDojo Advanced Python
+## CoderDojo 상급 파이썬
 
-Block 1
+블록 1
 
-Block 2
+블록 2
 
-Learn Python by working through these fun projects!
+재미있는 프로젝트를 통해 파이썬을 배워 보세요!
