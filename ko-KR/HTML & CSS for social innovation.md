@@ -1,3 +1,3 @@
-## HTML & CSS for social innovation
+## 사회적 혁신을 위한 HTML & CSS
 
-Learn HTML & CSS by creating a website about bird conservation.
+조류 보호에 대한 웹 사이트 제작을 통해 HTML & CSS를 배워보세요.
