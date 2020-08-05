@@ -1,7 +1,7 @@
-## Python
+## 파이썬 (Python)
 
-Module 1/2/3
+모듈 1/2/3
 
-Additional Projects
+추가 프로젝트
 
-Python is a widely used, general purpose, text-based programming language.
+Python은 널리 사용되는 텍스트 기반의 범용 프로그래밍 언어입니다.
