@@ -1,9 +1,9 @@
-## Scratch
+## 스크래치
 
-Additional Projects
+추가 프로젝트
 
-Community Projects
+커뮤니티 프로젝트
 
-Module 1/2/3
+모듈 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+자신만의 대화형 이야기, 게임 및 애니메이션을 프로그래밍하는 방법을 배울 수 있습니다.
