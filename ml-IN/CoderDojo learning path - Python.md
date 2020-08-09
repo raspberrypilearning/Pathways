@@ -1,4 +1,4 @@
-## CoderDojo Foundation Python
+## കോഡർഡോജോ - പൈത്തൺ അടിസ്ഥാനം
 
 ## കോഡർഡോജോ - പൈത്തൺ ശരാശരി അറിവുള്ളത്
 
@@ -8,4 +8,4 @@
 
 ഭാഗം 2
 
-Learn Python by working through these fun projects!
+രസകരമായ ഈ പ്രൊജക്റ്റുകളിലൂടെ പൈത്തൺ പഠിക്കുക!
