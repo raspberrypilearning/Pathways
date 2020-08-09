@@ -1,3 +1,3 @@
 ## റാസ്ബെറി പൈ
 
-The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+ഇലക്ട്രോണിക്സ് പ്രോജക്ടുകളിൽ ഉപയോഗിക്കാൻ കഴിയുന്ന , നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് കമ്പ്യൂട്ടറുകൾ ചെയ്യുന്ന അനവധി പ്രവർത്തനങ്ങൾ ചെയ്യാൻ ശേഷിയുള്ള , ഒരു ചെറിയ കമ്പ്യൂട്ടറാണ് Raspberry Pi (റാസ്ബെറി പൈ)
