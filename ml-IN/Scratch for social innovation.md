@@ -1,3 +1,3 @@
-## Scratch for social innovation
+## സാമൂഹിക നവീകരണത്തിനായുള്ള സ്ക്രാച്ച്
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+ആപ്ലിക്കേഷനുകളും ഗെയിമുകളും നിർമ്മിക്കുന്നതു വഴി സമൂഹത്തിലെ സുപ്രധാന പ്രശ്നങ്ങൾ മനസ്സിലാക്കുന്നതിനും പരിഹരിക്കുന്നതിനും ആളുകളെ സഹായിക്കുന്ന, തുടക്കക്കാരന് അനുകൂലമായ ഗ്രാഫിക്കൽ പ്രോഗ്രാമിംഗ് ഭാഷയായ സ്ക്രാച്ച് പഠിക്കാം.
