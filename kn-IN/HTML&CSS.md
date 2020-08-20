@@ -1,5 +1,5 @@
 ## HTML & CSS
 
-Module 1/2/3
+ಮಾಡ್ಯೂಲ್ 1/2/3
 
-Build and style your own web pages.
+ನಿಮ್ಮದೇ ಆದಂತಹ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು ನಿರ್ಮಿಸಬಹುದು.
