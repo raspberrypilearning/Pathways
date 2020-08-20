@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## CoderDojo ಧರಿಸಬಹುದಾದ ವಸ್ತುಗಳು
 
-Create wearable technology projects by following these projects.
+ಈ ಯೋಜನೆಗಳನ್ನ ಹಿಂಬಾಲಿಸುವ ಮೂಲಕ ಧರಿಸಬಹುದಾದ ವಸ್ತುಗಳ ತಂತ್ರಾಂಶದ ಯೋಜನೆಗಳನ್ನು ನಿರ್ಮಿಸಿ.
