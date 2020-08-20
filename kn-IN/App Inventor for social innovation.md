@@ -1,4 +1,4 @@
 
-## App Inventor for social innovation
+## ಸಾಮಾಜಿಕ ನಾವೀನ್ಯತೆಗಾಗಿ ಅಪ್ಲಿಕೇಶನ್ ಸಂಶೋಧಕ
 
-Learn to make apps for Android devices by doing projects that can help people in your community.
+ನಿಮ್ಮ ಸಮುದಾಯದ ಜನರಿಗೆ ಸಹಾಯವಾಗುವ ಯೋಜನೆಗಳನ್ನು ಮಾಡುವ ಮೂಲಕ ಆಂಡ್ರಾಯ್ಡ್ ಸಾಧನಗಳಿಗಾಗಿ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಮಾಡಲು ಕಲಿಯಿರಿ.
