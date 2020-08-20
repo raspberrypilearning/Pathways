@@ -1,11 +1,11 @@
-## CoderDojo Foundation Scratch
+## CoderDojo ಅಡಿಪಾಯ ಮಟ್ಟದ Scratch
 
-## CoderDojo Intermediate Scratch
+## CoderDojo ಮಧ್ಯಂತರ ಮಟ್ಟದ Scratch
 
-## CoderDojo Advanced Scratch
+## CoderDojo ಸುಧಾರಿತ ಮಟ್ಟದ Scratch
 
-Block 1
+ಬ್ಲಾಕ್ 1
 
-Block 2
+ಬ್ಲಾಕ್ 2
 
-Learn Scratch by working through these fun projects!
+ಈ ವಿನೋದದಾಯಕ ಯೋಜನೆಗಳನ್ನ ಮಾಡುವ ಮೂಲಕ Scratch ಕಲಿಯಿರಿ!
