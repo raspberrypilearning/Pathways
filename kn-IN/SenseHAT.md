@@ -1,3 +1,3 @@
 ## Sense HAT
 
-The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+Sense HAT ಒಂದು Raspberry Pi ನಿರ್ಮಿಸಿದ ಆಡ್-ಆನ್ ಬೋರ್ಡ್, ಇದು ಎಲ್ಇಡಿಗಳು, ಜಾಯ್ ಸ್ಟಿಕ್ ಮತ್ತು ಸಾಕಷ್ಟು ಸೆನ್ಸಾರ್ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.
