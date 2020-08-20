@@ -1,9 +1,9 @@
 ## Scratch
 
-Additional Projects
+ಹೆಚ್ಚುವರಿ ಯೋಜನೆಗಳು
 
-Community Projects
+ಸಮುದಾಯ ಯೋಜನೆಗಳು
 
-Module 1/2/3
+ಮಾಡ್ಯೂಲ್ 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
