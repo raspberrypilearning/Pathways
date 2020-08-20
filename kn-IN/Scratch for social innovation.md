@@ -1,3 +1,3 @@
-## Scratch for social innovation
+## ಸಾಮಾಜಿಕ ನಾವೀನ್ಯತೆಗಾಗಿ Scratch
 
-Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+ಹೊಸಬರ ಸ್ನೇಹಿ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯಾದ Scratch ಕಲಿಯಿರಿ, ಜೊತೆಗೆ ಜನರಿಗೆ ಪ್ರಮುಖ ವಿಷಯಗಳ ಬಗ್ಗೆ ಅರಿವು ಮೂಡಿಸುವಂತಹ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ನಿರ್ಮಿಸಿ.
