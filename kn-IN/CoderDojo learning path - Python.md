@@ -1,11 +1,11 @@
-## CoderDojo Foundation Python
+## CoderDojo ಅಡಿಪಾಯ ಮಟ್ಟದ Python
 
-## CoderDojo Intermediate Python
+## CoderDojo ಮಧ್ಯಂತರ Python
 
-## CoderDojo Advanced Python
+## CoderDojo ಸುಧಾರಿತ ಮಟ್ಟದ Python
 
-Block 1
+ಬ್ಲಾಕ್ 1
 
-Block 2
+ಬ್ಲಾಕ್ 2
 
-Learn Python by working through these fun projects!
+ಈ ವಿನೋದದಾಯಕ ಯೋಜನೆಗಳನ್ನ ಮಾಡುವ ಮೂಲಕ Python ಕಲಿಯಿರಿ!
