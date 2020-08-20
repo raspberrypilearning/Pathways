@@ -1,3 +1,3 @@
 CoderDojo HTML & CSS
 
-Create websites by following these projects.
+ಈ ಯೋಜನೆಗಳನ್ನ ಹಿಂಬಾಲಿಸುವ ಮೂಲಕ ವೆಬ್ ಸೈಟ್ ಗಳನ್ನು ನಿರ್ಮಿಸಿ.
