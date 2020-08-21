@@ -1,5 +1,5 @@
 ## HTML & CSS
 
-Module 1/2/3
+Moduł 1/2/3
 
-Build and style your own web pages.
+Twórz i stylizuj własne strony internetowe.
