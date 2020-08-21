@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## CoderDojo gadżety do noszenia
 
-Create wearable technology projects by following these projects.
+Twórz urządzenia do noszenia, wykonując te projekty.
