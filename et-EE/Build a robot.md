@@ -1,3 +1,3 @@
-## Build a robot
+## Ehita robot
 
-Build your programming skills with these robot projects
+Nende robotiprojektidega saad oma programmeerimisoskusi täiendada
