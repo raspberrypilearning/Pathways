@@ -1,11 +1,11 @@
-## CoderDojo Foundation Python
+## CoderDojo Python algtasemele
 
-## CoderDojo Intermediate Python
+## CoderDojo Python kesktasemele
 
-## CoderDojo Advanced Python
+## CoderDojo Python kõrgtasemele
 
-Block 1
+Plokk 1
 
-Block 2
+Plokk 2
 
-Learn Python by working through these fun projects!
+Õpi Pythonit, töötades läbi need lõbusad projektid!
