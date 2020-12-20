@@ -1,11 +1,11 @@
-## CoderDojo Foundation Scratch
+## CoderDojo Scratch algtasemele
 
-## CoderDojo Intermediate Scratch
+## CoderDojo Scratch kesktasemele
 
-## CoderDojo Advanced Scratch
+## CoderDojo Scratch kõrgtasemele
 
-Block 1
+Plokk 1
 
-Block 2
+Plokk 2
 
-Learn Scratch by working through these fun projects!
+Õpi Scratch'i, töötades läbi need lõbusad projektid!
