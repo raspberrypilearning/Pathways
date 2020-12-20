@@ -1,9 +1,9 @@
 ## Scratch
 
-Additional Projects
+Täiendavad projektid
 
-Community Projects
+Kogukondlikud projektid
 
-Module 1/2/3
+Moodul 1/2/3
 
-Learn how to program your own interactive stories, games and animations.
+Saa teada, kuidas endale ise interaktiivseid lugusid, mänge ja animatsioone programmeerida.
