@@ -1,3 +1,3 @@
 ## CoderDojo Wearables
 
-Create wearable technology projects by following these projects.
+Loo kaasakantava tehnoloogia projekte järgides neid projekte.
