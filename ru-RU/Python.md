@@ -1,7 +1,7 @@
 ## Python
 
-Module 1/2/3
+Модуль 1/2/3
 
-Additional Projects
+Дополнительные проекты
 
-Python is a widely used, general purpose, text-based programming language.
+Python — широко используемый язык программирования общего назначения на основе текста.
