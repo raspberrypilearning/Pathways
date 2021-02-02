@@ -1,4 +1,4 @@
-## CoderDojo Foundation Scratch
+## CoderDojo Scratch Начального Уровня
 
 ## CoderDojo Scratch Среднего Уровня
 
