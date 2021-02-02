@@ -1,5 +1,5 @@
-## HTML & CSS
+## HTML и CSS
 
-Module 1/2/3
+Модуль 1/2/3
 
-Build and style your own web pages.
+Создавай и оформляй собственные веб-страницы.
