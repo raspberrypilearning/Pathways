@@ -1,3 +1,3 @@
-CoderDojo HTML & CSS
+CoderDojo HTML и CSS
 
-Create websites by following these projects.
+Создавай веб-сайты, следуя этим проектам.
