@@ -1,3 +1,3 @@
-## CoderDojo Wearables
+## CoderDojo "Умная" одежда
 
-Create wearable technology projects by following these projects.
+Создавай проекты «умной» одежды, следуя этим проектам.
