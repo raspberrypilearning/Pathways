@@ -1,3 +1,3 @@
 ## Tecnología vestible CoderDojo
 
-Crea proyectos de tecnología vestible siguiendo estas Sushi Cards.
+Crea proyectos de tecnología vestible siguiendo estos proyectos.
