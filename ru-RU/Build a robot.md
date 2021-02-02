@@ -1,3 +1,3 @@
-## Build a robot
+## Построй робота
 
-Build your programming skills with these robot projects
+Развивай свои навыки программирования с помощью этих проектов по созданию роботов
