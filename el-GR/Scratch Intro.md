@@ -1,3 +1,3 @@
-# Introduction to Scratch: sprites, scripts, and loops
+# Εισαγωγή στην Scratch: αντικείμενα, scripts και βρόχοι
 
-In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
+Σε αυτή την εισαγωγή στον προγραμματισμό στη Scratch για αρχάριους, θα μάθεις πώς να προσθέτεις κώδικα, ενδυμασίες και ήχους σε αντικείμενα για να φτιάξεις κινούμενα σχέδια, ένα παιχνίδι, μία εφαρμογή και ένα βιβλίο.
