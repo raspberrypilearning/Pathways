@@ -1,0 +1,20 @@
+---
+en:
+  look-after-yourself-1:
+    title: Look after yourself
+    description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+  app-inventor-for-social-enterprise:
+    title: App Inventor for social innovation
+    description: Learn to make apps for Android devices by doing projects that can help people in your community.
+  coderdojo-html_css:
+    title: CoderDojo HTML & CSS
+    description: Create websites by following these projects.
+  coderdojo-wearables:
+    title: CoderDojo Wearables
+    description: Create wearable technology projects by following these projects.
+  coderdojo-foundation-python-block-1:
+    title: CoderDojo Foundation Python — Block 1
+    description: Learn Python by working through these fun projects!
+  coderdojo-foundation-python-block-2:
+    title: CoderDojo Foundation Python — Block 2
+    description: Learn Python by working through these fun projects!
