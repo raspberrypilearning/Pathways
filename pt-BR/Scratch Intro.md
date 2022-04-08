@@ -1,3 +1,3 @@
-# Introduction to Scratch: sprites, scripts, and loops
+# Introdução ao Scratch: atores, scripts e laços
 
-In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
+Nesta introdução à codificação no Scratch para iniciantes, você aprenderá como adicionar código, fantasias e sons a atores enquanto cria animações, um jogo, um aplicativo e um livro.
