@@ -1,3 +1,3 @@
-More Python: Lists, dictionaries, and data
+Mais Python: listas, dicionários e dados
 
-More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork. 
+Mais Python vai além do básico apresentado em Introdução ao Python. Você aprenderá como usar listas, dicionários e arquivos para criar gráficos, modelos e artes. 
