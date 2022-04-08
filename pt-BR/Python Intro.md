@@ -1,3 +1,3 @@
-Introduction to Python: Variables, functions, and loops
+Introdução ao Python: Variáveis, funções e laços
 
-In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more. 
+Nesta introdução à codificação em Python para iniciantes, você aprenderá como usar variáveis, laços e funções para criar arte visual e interativa, animações, simulações, jogos e muito mais. 
