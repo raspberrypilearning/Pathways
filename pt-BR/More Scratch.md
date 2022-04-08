@@ -1,3 +1,3 @@
-More Scratch: broadcast, decisions and variables
+Mais Scratch: transmissão, decisões e variáveis
 
-More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
+Mais Scratch vai além do básico apresentado na Introdução ao Scratch. Você fará aplicativos, jogos e simulações usando transmissão de mensagens, if..then and if..then..else decisões e variáveis.
