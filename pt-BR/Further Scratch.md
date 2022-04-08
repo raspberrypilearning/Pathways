@@ -1,3 +1,3 @@
-Further Scratch: clones, my blocks, and boolean logic
+Aprofundando no Scratch: clones, meus blocos e lógica booleana
 
-Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
+Aprofundando no Scratch vai além do básico apresentado na Introdução ao Scratch e Mais Scratch. Você fará aplicativos, jogos, arte gerada por computador e simulações usando lógica booleana, funções, clones e muito mais.
