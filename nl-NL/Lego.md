@@ -1,3 +1,3 @@
-Introduction to the Build HAT and LEGO®
+Inleiding tot de Build HAT en LEGO®
 
-An introduction to using the Raspberry Pi Build HAT to interface with LEGO®
+Een introductie voor het gebruik van de Raspberry Pi Build HAT voor de interactie met LEGO®
