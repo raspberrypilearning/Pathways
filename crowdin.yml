@@ -1,5 +1,5 @@
 files:
-  - source: /en/**/*.*
+  - source: pathways/en/**/*.*
     ignore:
       - /**/*.zip
     translation: /%locale%/**/%original_file_name%
