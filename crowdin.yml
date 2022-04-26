@@ -1,5 +1,3 @@
 files:
-  - source: pathways/en.yml
-    ignore:
-      - /**/*.zip
-    translation: /%locale%/**/%original_file_name%
+  - source: /pathways/en.yml
+    translation: /pathways/%locale%
