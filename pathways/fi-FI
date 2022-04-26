@@ -1,0 +1,34 @@
+fi:
+  scratch-intro:
+    title: "Introduction to Scratch: sprites, scripts, and loops"
+    description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
+    meta_title: Project path | Intro to Scratch programming for kids
+    meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+  more-scratch:
+    title: "More Scratch: broadcast, decisions and variables"
+    description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
+    meta_title: Project path | More Scratch for kids | Raspberry Pi
+    meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+  further-scratch:
+    title: "Further Scratch: clones, my blocks, and boolean logic"
+    description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
+    meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
+    meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
+  look-after-yourself-1:
+    title: Look after yourself
+    description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+  app-inventor-for-social-enterprise:
+    title: App Inventor for social innovation
+    description: Learn to make apps for Android devices by doing projects that can help people in your community.
+  coderdojo-html_css:
+    title: CoderDojo HTML & CSS
+    description: Create websites by following these projects.
+  coderdojo-wearables:
+    title: CoderDojo Wearables
+    description: Create wearable technology projects by following these projects.
+  coderdojo-foundation-python-block-1:
+    title: CoderDojo Foundation Python — Block 1
+    description: Learn Python by working through these fun projects!
+  coderdojo-foundation-python-block-2:
+    title: CoderDojo Foundation Python — Block 2
+    description: Learn Python by working through these fun projects!
