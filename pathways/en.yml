@@ -49,7 +49,7 @@ en:
   python-module-2: 
     title: "Python: Module 2"
     description: Python is a widely used, general purpose, text-based programming language.
-   unity-intro: 
+  unity-intro: 
     title: "Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons"
     description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
     meta_title: Project path | Unity coding for kids | Raspberry Pi
