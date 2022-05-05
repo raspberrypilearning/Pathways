@@ -1,3 +1,4 @@
+---
 nl-NL:
   scratch-intro:
     title: "Inleiding tot Scratch: sprites, scripts en lussen"
@@ -48,57 +49,57 @@ nl-NL:
   python-module-2:
     title: "Python: Module 2"
     description: Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
-    unity-intro:
-      title: "Inleiding tot Unity: 3D-objecten, karaktercontrollers, colliders, tekst en knoppen"
-      description: In deze inleiding tot Unity leer je hoe je 3D-werelden en games kunt maken met verzamelobjecten, timers en niet-spelerpersonages.
-      meta_title: Projectpad | Unity-coderen voor kinderen | Raspberry Pi
-      meta_description: Inleiding tot Unity-coderen voor kinderen, tieners en jonge volwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
-    physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Fysiek computergebruik met Scratch en de Raspberry Pi
-      description: Leer hoe je invoer- en uitvoerelektronica gebruikt met Scratch en je Raspberry Pi-computer.
-      meta_title: Projectpad | Coderen in Scratch voor kinderen | Raspberry Pi
-      meta_description: Leer hoe je invoer- en uitvoerelektronica met Scratch op je Raspberry Pi computer kunt gebruiken. Gratis bronnen - programmeren in Scratch voor kinderen, tieners en jongvolwassenen.
-    pico-intro:
-      title: "Inleiding tot Raspberry Pi Pico: LED's, zoemers, schakelaars en draaiknoppen"
-      description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers en potentiometers (draaiknoppen) kunt aansluiten en bedienen.
-      meta_title: Projectpad | Inleiding tot de Raspberry Pi Pico
-      meta_description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers enz. kunt aansluiten en bedienen.
-    raspberry-pi:
-      title: Raspberry Pi
-      description: De Raspberry Pi is een kleine computer die kan worden gebruikt in elektronica-projecten en voor veel dingen die je met je computer doet.
-    sense-hat:
-      title: Sense HAT
-      description: De Sense HAT is een uitbreidingskaart voor de Raspberry Pi, inclusief LED's, een joystick en veel sensoren.
-    sonic-pi:
-      title: Sonic Pi
-      description: Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden met behulp van code te creëren.
-    microbit:
-      title: "BBC micro:bit"
-      description: "De BBC micro:bit is een zakformaat, programmeerbare computer waarmee je jouw creativiteit kunt vergroten."
-    look-after-yourself:
-      title: Zorg voor jezelf
-      description: Leer voor jezelf te zorgen, leer hoe je Scratch kunt gebruiken en werk eraan om een onafhankelijke programmeur te worden.
-    protect-our-planet:
-      title: Bescherm onze planeet
-      description: Gebruik Scratch om meer te weten te komen over onze planeet en hoe het milieu te beschermen voor toekomstige generaties
-    coderdojo-html_css:
-      title: CoderDojo HTML & CSS
-      description: Maak websites door deze projecten uit te voeren.
-    coderdojo-scratch:
-      title: CoderDojo Scratch
-      description: Leer Scratch door deze leuke projecten te doorlopen!
-    coderdojo-wearables:
-      title: CoderDojo Wearables
-      description: Maak projecten voor draagbare (wearable) technologie door deze projecten uit te voeren.
-    app-inventor-for-social-enterprise:
-      title: App Inventor voor sociale innovatie
-      description: Leer hoe je apps voor Android-apparaten kunt maken door projecten te doen die mensen in jouw omgeving kunnen helpen.
-    scratch-for-social-enterprise:
-      title: Scratch voor sociale innovatie
-      description: Leer Scratch, een beginnersvriendelijke grafische programmeertaal, terwijl je apps en games maakt om mensen te helpen leren over belangrijke zaken.
-    html-css-for-social-enterprise:
-      title: HTML & CSS voor sociale innovatie
-      description: Leer HTML & CSS door een website over vogelbescherming te maken.
-    getting-started-with-raspberry-pi:
-      title: Aan de slag met de Raspberry Pi
-      description: Installeer je Raspberry Pi en kijk wat je ermee kunt doen!
+  unity-intro:
+    title: "Inleiding tot Unity: 3D-objecten, karaktercontrollers, colliders, tekst en knoppen"
+    description: In deze inleiding tot Unity leer je hoe je 3D-werelden en games kunt maken met verzamelobjecten, timers en niet-spelerpersonages.
+    meta_title: Projectpad | Unity-coderen voor kinderen | Raspberry Pi
+    meta_description: Inleiding tot Unity-coderen voor kinderen, tieners en jonge volwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
+  physical-computing-with-scratch-and-the-raspberry-pi:
+    title: Fysiek computergebruik met Scratch en de Raspberry Pi
+    description: Leer hoe je invoer- en uitvoerelektronica gebruikt met Scratch en je Raspberry Pi-computer.
+    meta_title: Projectpad | Coderen in Scratch voor kinderen | Raspberry Pi
+    meta_description: Leer hoe je invoer- en uitvoerelektronica met Scratch op je Raspberry Pi computer kunt gebruiken. Gratis bronnen - programmeren in Scratch voor kinderen, tieners en jongvolwassenen.
+  pico-intro:
+    title: "Inleiding tot Raspberry Pi Pico: LED's, zoemers, schakelaars en draaiknoppen"
+    description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers en potentiometers (draaiknoppen) kunt aansluiten en bedienen.
+    meta_title: Projectpad | Inleiding tot de Raspberry Pi Pico
+    meta_description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers enz. kunt aansluiten en bedienen.
+  raspberry-pi:
+    title: Raspberry Pi
+    description: De Raspberry Pi is een kleine computer die kan worden gebruikt in elektronica-projecten en voor veel dingen die je met je computer doet.
+  sense-hat:
+    title: Sense HAT
+    description: De Sense HAT is een uitbreidingskaart voor de Raspberry Pi, inclusief LED's, een joystick en veel sensoren.
+  sonic-pi:
+    title: Sonic Pi
+    description: Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden met behulp van code te creëren.
+  microbit:
+    title: "BBC micro:bit"
+    description: "De BBC micro:bit is een zakformaat, programmeerbare computer waarmee je jouw creativiteit kunt vergroten."
+  look-after-yourself:
+    title: Zorg voor jezelf
+    description: Leer voor jezelf te zorgen, leer hoe je Scratch kunt gebruiken en werk eraan om een onafhankelijke programmeur te worden.
+  protect-our-planet:
+    title: Bescherm onze planeet
+    description: Gebruik Scratch om meer te weten te komen over onze planeet en hoe het milieu te beschermen voor toekomstige generaties
+  coderdojo-html_css:
+    title: CoderDojo HTML & CSS
+    description: Maak websites door deze projecten uit te voeren.
+  coderdojo-scratch:
+    title: CoderDojo Scratch
+    description: Leer Scratch door deze leuke projecten te doorlopen!
+  coderdojo-wearables:
+    title: CoderDojo Wearables
+    description: Maak projecten voor draagbare (wearable) technologie door deze projecten uit te voeren.
+  app-inventor-for-social-enterprise:
+    title: App Inventor voor sociale innovatie
+    description: Leer hoe je apps voor Android-apparaten kunt maken door projecten te doen die mensen in jouw omgeving kunnen helpen.
+  scratch-for-social-enterprise:
+    title: Scratch voor sociale innovatie
+    description: Leer Scratch, een beginnersvriendelijke grafische programmeertaal, terwijl je apps en games maakt om mensen te helpen leren over belangrijke zaken.
+  html-css-for-social-enterprise:
+    title: HTML & CSS voor sociale innovatie
+    description: Leer HTML & CSS door een website over vogelbescherming te maken.
+  getting-started-with-raspberry-pi:
+    title: Aan de slag met de Raspberry Pi
+    description: Installeer je Raspberry Pi en kijk wat je ermee kunt doen!
