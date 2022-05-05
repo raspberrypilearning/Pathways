@@ -16,3 +16,5 @@ jobs:
           github_token: ${{ secrets.github_token }}
           reporter: github-pr-review
           level: warning
+          yamllint_flags: 'pathways'
+          fail_on_error: true
