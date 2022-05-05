@@ -1,9 +1,7 @@
+---
 name: yamllint
 on:
   pull_request:
-    branches:
-      - gh-pages
-  push:
     branches:
       - gh-pages
 jobs:
@@ -16,5 +14,5 @@ jobs:
         uses: reviewdog/action-yamllint@v1
         with:
           github_token: ${{ secrets.github_token }}
-          reporter: github-pr-review # Change reporter.
-          yamllint_flags: '/'
+          reporter: github-pr-review
+          yamllint_flags: '/pathways'
