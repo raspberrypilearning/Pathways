@@ -1,5 +1,11 @@
 name: yamllint
-on: [pull_request, push]
+on:
+  pull_request:
+    branches:
+      - gh-pages
+  push:
+    branches:
+      - gh-pages
 jobs:
   yamllint:
     name: yamllint
