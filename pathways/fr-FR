@@ -34,7 +34,7 @@ fr:
     description: Construis et personnalise tes propres pages web.
   python-intro:
     title: "Introduction à Python : variables, fonctions et boucles"
-    description: Dans cette introduction au codage en Python pour débutants, tu apprendras à utiliser des variables, des boucles et des fonctions pour créer des illustrations visuelles et interactives, des animations, des simulations, des jeux, etc.
+    description: Dans cette introduction au codage en Python pour les débutants, tu apprendras à utiliser des variables, des boucles et des fonctions pour créer des illustrations visuelles et interactives, des animations, des simulations, des jeux, etc.
     meta_title: Parcours du projet | Introduction à Python pour les enfants | Raspberry Pi
     meta_description: Introduction à Python pour les enfants, les adolescents et les jeunes adultes. Crée des illustrations, des animations et des jeux interactifs avec ces ressources gratuites.
   more-python:
@@ -77,7 +77,7 @@ fr:
     description: "Le BBC micro:bit est un ordinateur de poche, codable, qui te permet d'être créatif."
   look-after-yourself:
     title: Prends soin de toi
-    description: Apprends à s'occuper de toi, tout en apprenant à utiliser Scratch et à travailler ton chemin vers un programmeur indépendant.
+    description: Apprends à prendre soin de toi, tout en apprenant à utiliser Scratch et à devenir un programmeur indépendant.
   protect-our-planet:
     title: Protège notre planète
     description: Utilise Scratch pour en savoir plus sur notre planète et comment protéger l'environnement pour les générations futures
