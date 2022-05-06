@@ -1,45 +1,45 @@
 fr:
   scratch-intro:
-    title: "Introduction to Scratch: sprites, scripts, and loops"
-    description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-    meta_title: Project path | Intro to Scratch programming for kids
-    meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+    title: "Introduction à Scratch : sprites, scripts et boucles"
+    description: Dans cette introduction au codage dans Scratch pour les débutants, tu apprendras à ajouter du code, des costumes et des sons aux sprites lorsque tu crées des animations, un jeu, une application et un livre.
+    meta_title: Parcours du projet | Introduction à la programmation Scratch pour les enfants
+    meta_description: Introduction à la programmation Scratch pour les enfants, les adolescents et les jeunes adultes. Apprends à faire des animations, un jeu, une application et un livre.
   more-scratch:
-    title: "More Scratch: broadcast, decisions and variables"
-    description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
-    meta_title: Project path | More Scratch for kids | Raspberry Pi
-    meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+    title: "Plus de Scratch : diffusion, décisions et variables"
+    description: Plus de Scratch va au-delà des bases présentées dans Introduction à Scratch. Tu créeras des applications, des jeux et des simulations en utilisant la diffusion de messages, des décisions et des variables si..alors et si..alors..sinon.
+    meta_title: Parcours du projet | Plus de Scratch pour les enfants | Raspberry Pi
+    meta_description: Plus de Scratch pour les enfants, les adolescents et les jeunes adultes. Va au-delà des bases pour coder des applications, des jeux et des animations à l'aide de messages diffusés, avec ces projets gratuits.
   further-scratch:
-    title: "Further Scratch: clones, my blocks, and boolean logic"
-    description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
-    meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
-    meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
+    title: "Encore plus loin avec Scratch : clones, mes blocs et logique booléenne"
+    description: Encore plus loin avec Scratch va au-delà des compétences introduites dans Introduction à Scratch et Plus de Scratch. Tu créeras des applications, des jeux, de l'art généré par ordinateur et des simulations en utilisant la logique booléenne, des fonctions, des clones, etc.
+    meta_title: Parcours du projet | Codage Encore plus loin avec Scratch pour les enfants | Raspberry Pi
+    meta_description: Codage encore plus loin avec Scratch pour les enfants, les adolescents et les jeunes adultes. Utilise ces ressources de codage gratuites pour créer des applications, des jeux, des illustrations générées par ordinateur et des animations.
   scratch-module-1:
-    title: "Scratch: Module 1"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch : Module 1"
+    description: Apprends à programmer tes propres histoires, jeux et animations interactives.
   scratch-module-2:
-    title: "Scratch: Module 2"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch : Module 2"
+    description: Apprends à programmer tes propres histoires, jeux et animations interactives.
   scratch-module-3:
-    title: "Scratch: Module 3"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch : Module 3"
+    description: Apprends à programmer tes propres histoires, jeux et animations interactives.
   scratch-additional-projects:
-    title: "Scratch: Additional Projects"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch : Projets supplémentaires"
+    description: Apprends à programmer tes propres histoires, jeux et animations interactives.
   webdev-module-1:
-    title: "HTML & CSS: Module 1"
-    description: Build and style your own web pages.
+    title: "HTML et CSS : Module 1"
+    description: Construis et personnalise tes propres pages web.
   webdev-module-2:
-    title: "HTML & CSS: Module 2"
-    description: Build and style your own web pages.
+    title: "HTML et CSS : Module 2"
+    description: Construis et personnalise tes propres pages web.
   python-intro:
-    title: "Introduction to Python: Variables, functions, and loops"
-    description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
-    meta_title: Project path | Intro to Python for kids | Raspberry Pi
-    meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+    title: "Introduction à Python : variables, fonctions et boucles"
+    description: Dans cette introduction au codage en Python pour débutants, tu apprendras à utiliser des variables, des boucles et des fonctions pour créer des illustrations visuelles et interactives, des animations, des simulations, des jeux, etc.
+    meta_title: Parcours du projet | Introduction à Python pour les enfants | Raspberry Pi
+    meta_description: Introduction à Python pour les enfants, les adolescents et les jeunes adultes. Crée des illustrations, des animations et des jeux interactifs avec ces ressources gratuites.
   more-python:
-    title: "More Python: Lists, dictionaries, and data"
-    description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
+    title: "Plus de Python : listes, dictionnaires et données"
+    description: Plus de Python va au-delà des bases introduites dans Introduction à Python. Tu apprendras comment utiliser des listes, des dictionnaires et des fichiers pour créer des graphiques, des modèles et des illustrations.
     meta_title: Project path | More Python projects for kids | Raspberry Pi
     meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
   python-module-1:
