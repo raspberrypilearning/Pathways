@@ -68,37 +68,37 @@ nl:
     description: De Raspberry Pi is een kleine computer die kan worden gebruikt in elektronica-projecten en voor veel dingen die je met je computer doet.
   sense-hat:
     title: Sense HAT
-    description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+    description: De Sense HAT is een uitbreidingskaart voor de Raspberry Pi, inclusief LED's, een joystick en veel sensoren.
   sonic-pi:
     title: Sonic Pi
-    description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+    description: Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden en muziek met behulp van programma's te creëren.
   microbit:
     title: "BBC micro:bit"
-    description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+    description: "De BBC micro:bit is een zakformaat, programmeerbare computer waarmee je jouw creativiteit kunt vergroten."
   look-after-yourself:
-    title: Look after yourself
-    description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+    title: Zorg voor jezelf
+    description: Leer voor jezelf te zorgen, leer hoe je Scratch kunt gebruiken en werk eraan om een onafhankelijke programmeur te worden.
   protect-our-planet:
-    title: Protect our planet
-    description: Use Scratch to learn about our planet and how to protect the environment for future generations
+    title: Bescherm onze planeet
+    description: Gebruik Scratch om meer te weten te komen over onze planeet en hoe het milieu te beschermen voor toekomstige generaties
   coderdojo-html_css:
     title: CoderDojo HTML & CSS
-    description: Create websites by following these projects.
+    description: Maak websites door deze projecten te volgen.
   coderdojo-scratch:
     title: CoderDojo Scratch
-    description: Learn Scratch by working through these fun projects!
+    description: Leer Scratch door deze leuke projecten te doorlopen!
   coderdojo-wearables:
     title: CoderDojo Wearables
-    description: Create wearable technology projects by following these projects.
+    description: Maak projecten voor draagbare (wearable) technologie door deze projecten te volgen.
   app-inventor-for-social-enterprise:
-    title: App Inventor for social innovation
-    description: Learn to make apps for Android devices by doing projects that can help people in your community.
+    title: App Inventor voor sociale innovatie
+    description: Leer hoe je apps voor Android-apparaten kunt maken door projecten te doen die mensen in jouw omgeving kunnen helpen.
   scratch-for-social-enterprise:
-    title: Scratch for social innovation
-    description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+    title: Scratch voor sociale innovatie
+    description: Leer Scratch, een beginnersvriendelijke grafische programmeertaal, terwijl je apps en games maakt om mensen te helpen leren over belangrijke zaken.
   html-css-for-social-enterprise:
-    title: HTML & CSS for social innovation
-    description: Learn HTML & CSS by creating a website about bird conservation.
+    title: HTML & CSS voor sociale innovatie
+    description: Leer HTML & CSS door een website over vogelbescherming te maken.
   getting-started-with-raspberry-pi:
-    title: Get started with Raspberry Pi
-    description: Set up your Raspberry Pi and see what it can do!
+    title: Aan de slag met de Raspberry Pi
+    description: Installeer je Raspberry Pi en kijk wat je ermee kunt doen!
