@@ -1,17 +1,17 @@
 el:
   scratch-intro:
-    title: "Introduction to Scratch: sprites, scripts, and loops"
+    title: "Εισαγωγή στη Scratch: αντικείμενα, scripts και βρόχοι"
     description: Σε αυτή την εισαγωγή στον προγραμματισμό με Scratch για αρχάριους, θα μάθεις πώς να προσθέτεις κώδικα, ενδυμασίες και ήχους σε αντικείμενα για να φτιάξεις κινούμενα σχέδια, ένα παιχνίδι, μία εφαρμογή και ένα βιβλίο.
     meta_title: Διαδρομή έργων | Εισαγωγή στον προγραμματισμό με Scratch για παιδιά
     meta_description: Εισαγωγή στον προγραμματισμό με Scratch για παιδιά, εφήβους και νέους ενήλικες. Μάθε πώς να δημιουργείς κινούμενα σχέδια, ένα παιχνίδι, μια εφαρμογή και ένα βιβλίο.
   more-scratch:
-    title: "More Scratch: broadcast, decisions and variables"
-    description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
+    title: "Περισσότερη Scratch: μετάδοση μηνυμάτων, αποφάσεις και μεταβλητές"
+    description: Η ενότητα "Περισσότερη Scratch" προχωράει πέρα από τα βασικά που έμαθες στην Εισαγωγή στο Scratch. Θα δημιουργήσεις εφαρμογές, παιχνίδια και προσομοιώσεις χρησιμοποιώντας μετάδοση μηνυμάτων, αποφάσεις εάν..τότε και εάν..τότε..αλλιώς και μεταβλητές.
     meta_title: Project path | More Scratch for kids | Raspberry Pi
-    meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+    meta_description: Περισσότερη Scratch για παιδιά, εφήβους και νέους ενήλικες. Προχώρησε πέρα από τα βασικά για να προγραμματίσεις εφαρμογές, παιχνίδια και κινούμενα σχέδια χρησιμοποιώντας μεταδόσεις μηνυμάτων, με τα παρακάτω δωρεάν έργα.
   further-scratch:
     title: "Περαιτέρω Scratch: κλώνοι, οι εντολές μου και boolean λογική"
-    description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
+    description: Η ενότητα "Περαιτέρω Scratch" προχωράει πέρα από τις δεξιότητες που εισάγονται στην "Εισαγωγή στη Scratch" και το "Περισσότερη Scratch". Θα δημιουργήσεις εφαρμογές, παιχνίδια, τέχνη που δημιουργείται από υπολογιστή και προσομοιώσεις χρησιμοποιώντας boolean λογική, συναρτήσεις, κλώνους και πολλά άλλα.
     meta_title: Διαδρομή έργων - Περαιτέρω Scratch για παιδιά - Raspberry Pi
     meta_description: Περαιτέρω Scratch για παιδιά, εφήβους και νέους ενήλικες. Χρησιμοποίησε αυτούς τους δωρεάν πόρους προγραμματισμού για να δημιουργήσεις εφαρμογές, παιχνίδια, έργα τέχνης που δημιουργούνται από υπολογιστή και κινούμενα σχέδια.
   scratch-module-1:
@@ -49,15 +49,15 @@ el:
     title: "Python: Ενότητα 2"
     description: Η Python είναι μια ευρέως χρησιμοποιούμενη γλώσσα προγραμματισμού γενικής χρήσης, βασισμένη σε κείμενο.
   unity-intro:
-    title: "Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons"
-    description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
+    title: "Εισαγωγή στη Unity: 3D αντικείμενα, ελεγκτές χαρακτήρων, επιταχυντές, κείμενο και κουμπιά"
+    description: Σε αυτήν την εισαγωγή στη Unity θα μάθεις πώς να φτιάχνεις τρισδιάστατους κόσμους και παιχνίδια με αντικείμενα προς συλλογή (collectibles), χρονόμετρα και αυτόνομους χαρακτήρες (NPC).
     meta_title: Διαδρομή έργων - Προγραμματισμός Unity για παιδιά - Raspberry Pi
-    meta_description: Εισαγωγή στον προγραμματισμό Unity για παιδιά, εφήβους και νέους ενήλικες. Μάθε πώς να δημιουργείς τρισδιάστατους κόσμους και παιχνίδια χρησιμοποιώντας αυτούς τους δωρεάν πόρους.
+    meta_description: Εισαγωγή στον προγραμματισμό με Unity για παιδιά, εφήβους και νέους ενήλικες. Μάθε πώς να δημιουργείς τρισδιάστατους κόσμους και παιχνίδια χρησιμοποιώντας αυτούς τους δωρεάν πόρους.
   physical-computing-with-scratch-and-the-raspberry-pi:
     title: Physical computing με Scratch και Raspberry Pi
-    description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
+    description: Μάθε πώς να χρησιμοποιείς ηλεκτρονικά εισόδου και εξόδου με τη Scratch και τον υπολογιστή σου Raspberry Pi.
     meta_title: Διαδρομή έργων - Προγραμματισμός σε Scratch για παιδιά - Raspberry Pi
-    meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+    meta_description: Μάθε πώς να χρησιμοποιείς ηλεκτρονικά εισόδου και εξόδου με τη Scratch στον υπολογιστή σου Raspberry Pi. Δωρεάν πόροι - προγραμματισμός στο Scratch για παιδιά, εφήβους και νέους ενήλικες.
   pico-intro:
     title: "Εισαγωγή στο Raspberry Pi Pico: LED, buzzers, διακόπτες και καντράν"
     description: Σε αυτήν την εισαγωγή στην ψηφιακή δημιουργία με το Raspberry Pi Pico για αρχάριους, θα μάθεις πώς να συνδέεις και να ελέγχεις LED, κουμπιά, διακόπτες, buzzers και ποτενσιόμετρα (καντράν).
@@ -77,10 +77,10 @@ el:
     description: "Το BBC micro: bit είναι ένας προγραμματιζόμενος υπολογιστής μεγέθους τσέπης, που σου επιτρέπει να γίνεις δημιουργικός/ή."
   look-after-yourself:
     title: Πρόσεχε τον εαυτό σου
-    description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+    description: Μάθε να φροντίζεις τον εαυτό σου, ενώ μαθαίνεις πώς να χρησιμοποιείς τη Scratch και προσπάθησε να γίνεις ανεξάρτητος/η προγραμματιστής/τρια.
   protect-our-planet:
     title: Προστάτεψε τον πλανήτη μας
-    description: Use Scratch to learn about our planet and how to protect the environment for future generations
+    description: Χρησιοποίησε τη Scratch για να μάθεις για τον πλανήτη μας και πώς να προστατεύσεις το περιβάλλον για τις μελλοντικές γενιές
   coderdojo-html_css:
     title: CoderDojo HTML & CSS
     description: Δημιούργησε ιστοσελίδες ακολουθώντας αυτά τα έργα.
