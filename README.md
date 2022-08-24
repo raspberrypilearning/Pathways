@@ -83,7 +83,7 @@ The values for the `content` can be written with simple [markdown](https://darin
 
 - lists
 ```
- - Basic typing and computer navigation skills
+- Basic typing and computer navigation skills
 - "Experience coding in Scratch. If you are unfamiliar with Scratch you can..."
 ```
 
