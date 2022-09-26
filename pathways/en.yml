@@ -56,19 +56,19 @@ en:
     meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources. 
     header:
       - title: "What will I create?"
-       content: |
+        content: |
          Make 3D worlds and games with collectibles, timers and non-player characters.
          By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
       - title: "What do I need to know?"
-       content: |
+        content: |
          - Basic typing and computer navigation skills
          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) or [Python](https://projects.raspberrypi.org/en/pathways/python-intro) 
       - title: "What do I need?"
-       content: |
-        This path requires a large download and installation which you should complete before you start the first project.
-        - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
-        - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
-        - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
+        content: |
+          This path requires a large download and installation which you should complete before you start the first project.
+          - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
+          - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
+          - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
      - title: "Mentor information"
        content: |
          ##321…Make!
