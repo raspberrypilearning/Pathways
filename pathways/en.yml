@@ -69,20 +69,20 @@ en:
           - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
           - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
           - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
-     - title: "Mentor information"
-       content: |
-         ##321…Make!
-         This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
-         - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-         - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
-         - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
+      - title: "Mentor information"
+        content: |
+          ##321…Make!
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+          - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+          - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
+          - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
 
-         ##Quick quiz
-         Each project contains a quick quiz step. Each quiz contains three multiple choice questions. Creators are guided to the correct answer through useful feedback. 
+          ##Quick quiz
+          Each project contains a quick quiz step. Each quiz contains three multiple choice questions. Creators are guided to the correct answer through useful feedback. 
 
-         ##Inspiring the community
-         Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
-         You can find out how to {share projects}(https://projects.raspberrypi.org/en/projects/unity-guide/5)in our guide.
+          ##Inspiring the community
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
+          You can find out how to {share projects}(https://projects.raspberrypi.org/en/projects/unity-guide/5)in our guide.
   physical-computing-with-scratch-and-the-raspberry-pi: 
     title: Physical computing with Scratch and the Raspberry Pi
     description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
