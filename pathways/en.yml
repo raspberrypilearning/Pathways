@@ -66,6 +66,7 @@ en:
       - title: "What do I need?"
         content: |
           This path requires a large download and installation which you should complete before you start the first project.
+          
           - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
           - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
           - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
@@ -73,6 +74,7 @@ en:
         content: |
           ##321…Make!
           This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+          
           - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
           - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
           - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
