@@ -1,59 +1,59 @@
 ---
 nl:
   scratch-intro:
-    title: "Introduction to Scratch: sprites, scripts, and loops"
-    description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-    meta_title: Project path | Intro to Scratch programming for kids
-    meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+    title: "Inleiding tot Scratch: sprites, scripts en lussen"
+    description: In deze inleiding tot programmeren in Scratch voor beginners, leer je hoe je code, uiterlijken en geluiden aan sprites kunt toevoegen terwijl je animaties, een game, een app en een boek maakt.
+    meta_title: Projectpad | Inleiding tot Scratch-programmering voor kinderen
+    meta_description: Inleiding tot Scratch-programmering voor kinderen, tieners en jonge volwassenen. Leer hoe je animaties, een game, een app en een boek maakt.
   more-scratch:
-    title: "More Scratch: broadcast, decisions and variables"
-    description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
-    meta_title: Project path | More Scratch for kids | Raspberry Pi
-    meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+    title: "Meer Scratch: signalen verzenden, beslissingen en variabelen"
+    description: Meer Scratch gaat verder dan de basis die in Inleiding tot Scratch is geïntroduceerd. Je maakt apps, games en simulaties met behulp van berichten verzenden, als..dan en als..dan..anders beslissingen en variabelen.
+    meta_title: Projectpad | Meer Scratch voor kinderen | Raspberry Pi
+    meta_description: Meer Scratch voor kinderen, tieners en jonge volwassenen. Ga met deze gratis projecten verder dan de basis om apps, games en animaties te coderen met behulp van het verzenden van berichten.
   further-scratch:
-    title: "Further Scratch: clones, my blocks, and boolean logic"
-    description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
-    meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
-    meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
+    title: "Verder met Scratch: klonen, mijn blokken en booleaanse logica"
+    description: Verder met Scratch gaat verder dan de vaardigheden die zijn geïntroduceerd in Inleiding tot Scratch en Meer Scratch. Je maakt apps, games, door de computer gegenereerde kunst en simulaties met behulp van booleaanse logica, functies, klonen en meer.
+    meta_title: Projectpad | Verder met Scratch coderen voor kinderen | Raspberry Pi
+    meta_description: Verder met Scratch coderen voor kinderen, tieners en jonge volwassenen. Gebruik deze gratis programmeerbronnen om apps, games, computergegenereerde kunst en animaties te maken.
   scratch-module-1:
     title: "Scratch: Module 1"
-    description: Learn how to program your own interactive stories, games and animations.
+    description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
   scratch-module-2:
     title: "Scratch: Module 2"
-    description: Learn how to program your own interactive stories, games and animations.
+    description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
   scratch-module-3:
     title: "Scratch: Module 3"
-    description: Learn how to program your own interactive stories, games and animations.
+    description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
   scratch-additional-projects:
-    title: "Scratch: Additional Projects"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch: Extra projecten"
+    description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
   webdev-module-1:
     title: "HTML & CSS: Module 1"
-    description: Build and style your own web pages.
+    description: Bouw en style je eigen webpagina's.
   webdev-module-2:
     title: "HTML & CSS: Module 2"
-    description: Build and style your own web pages.
+    description: Bouw en style je eigen webpagina's.
   python-intro:
-    title: "Introduction to Python: Variables, functions, and loops"
-    description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
-    meta_title: Project path | Intro to Python for kids | Raspberry Pi
-    meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+    title: "Inleiding tot Python: variabelen, functies en lussen"
+    description: In deze inleiding programmeren in Python voor beginners, leer je hoe je variabelen, lussen en functies kunt gebruiken om visuele en interactieve kunstwerken, animaties, simulaties, spelletjes en nog veel meer te maken.
+    meta_title: Projectpad | Inleiding tot Python voor kinderen | Raspberry Pi
+    meta_description: Inleiding tot Python voor kinderen, tieners en jonge volwassenen. Maak interactieve kunst, animaties en games met deze gratis bronnen.
   more-python:
-    title: "More Python: Lists, dictionaries, and data"
-    description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
-    meta_title: Project path | More Python projects for kids | Raspberry Pi
-    meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
+    title: "Meer Python: lijsten, woordenboeken en gegevens"
+    description: Meer Python gaat verder dan de basis die is geïntroduceerd in Inleiding tot Python. Je leert hoe je lijsten, woordenboeken en bestanden kunt gebruiken om grafieken, modellen en kunst te maken.
+    meta_title: Projectpad | Meer Python-projecten voor kinderen | Raspberry Pi
+    meta_description: Meer Python-projecten voor kinderen, tieners en jonge volwassenen. Leer hoe je lijsten, woordenboeken en bestanden kunt gebruiken om grafieken, modellen en kunst te maken.
   python-module-1:
     title: "Python: Module 1"
-    description: Python is a widely used, general purpose, text-based programming language.
+    description: Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
   python-module-2:
     title: "Python: Module 2"
-    description: Python is a widely used, general purpose, text-based programming language.
+    description: Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
   unity-intro:
-    title: "Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons"
-    description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
-    meta_title: Project path | Unity coding for kids | Raspberry Pi
-    meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+    title: "Inleiding tot Unity: 3D-objecten, karaktercontrollers, colliders, tekst en knoppen"
+    description: In deze inleiding tot Unity leer je hoe je 3D-werelden en games kunt maken met verzamelobjecten, timers en niet-spelerpersonages.
+    meta_title: Projectpad | Unity-programmeren voor kinderen | Raspberry Pi
+    meta_description: Inleiding tot Unity-programmeren voor kinderen, tieners en jonge volwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
     header:
       - 
         title: "What will I create?"
@@ -90,51 +90,51 @@ nl:
           Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
           You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5) in our guide.
   physical-computing-with-scratch-and-the-raspberry-pi:
-    title: Physical computing with Scratch and the Raspberry Pi
-    description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
-    meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
-    meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+    title: Fysiek computergebruik met Scratch en de Raspberry Pi
+    description: Leer hoe je invoer- en uitvoerelektronica gebruikt met Scratch en je Raspberry Pi-computer.
+    meta_title: Projectpad | Programmeren in Scratch voor kinderen | Raspberry Pi
+    meta_description: Leer hoe je invoer- en uitvoerelektronica met Scratch op je Raspberry Pi computer kunt gebruiken. Gratis bronnen - programmeren in Scratch voor kinderen, tieners en jongvolwassenen.
   pico-intro:
-    title: "Introduction to Raspberry Pi Pico: LEDs, buzzers, switches, and dials"
-    description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
-    meta_title: Project path | Introduction to the Raspberry Pi Pico
-    meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+    title: "Inleiding tot Raspberry Pi Pico: LED's, zoemers, schakelaars en draaiknoppen"
+    description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers en potentiometers (draaiknoppen) kunt aansluiten en bedienen.
+    meta_title: Projectpad | Inleiding tot de Raspberry Pi Pico
+    meta_description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers enz. kunt aansluiten en bedienen.
   raspberry-pi:
     title: Raspberry Pi
-    description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+    description: De Raspberry Pi is een kleine computer die kan worden gebruikt in elektronica-projecten en voor veel dingen die je met je computer doet.
   sense-hat:
     title: Sense HAT
-    description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+    description: De Sense HAT is een uitbreidingskaart voor de Raspberry Pi, inclusief LED's, een joystick en veel sensoren.
   sonic-pi:
     title: Sonic Pi
-    description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+    description: Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden en muziek met behulp van programma's te creëren.
   microbit:
     title: "BBC micro:bit"
-    description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+    description: "De BBC micro:bit is een zakformaat, programmeerbare computer waarmee je jouw creativiteit kunt vergroten."
   look-after-yourself:
-    title: Look after yourself
-    description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+    title: Zorg voor jezelf
+    description: Leer voor jezelf te zorgen, leer hoe je Scratch kunt gebruiken en werk eraan om een onafhankelijke programmeur te worden.
   protect-our-planet:
-    title: Protect our planet
-    description: Use Scratch to learn about our planet and how to protect the environment for future generations
+    title: Bescherm onze planeet
+    description: Gebruik Scratch om meer te weten te komen over onze planeet en hoe het milieu te beschermen voor toekomstige generaties
   coderdojo-html_css:
     title: CoderDojo HTML & CSS
-    description: Create websites by following these projects.
+    description: Maak websites door deze projecten te volgen.
   coderdojo-scratch:
     title: CoderDojo Scratch
-    description: Learn Scratch by working through these fun projects!
+    description: Leer Scratch door deze leuke projecten te doorlopen!
   coderdojo-wearables:
     title: CoderDojo Wearables
-    description: Create wearable technology projects by following these projects.
+    description: Maak projecten voor draagbare (wearable) technologie door deze projecten te volgen.
   app-inventor-for-social-enterprise:
-    title: App Inventor for social innovation
-    description: Learn to make apps for Android devices by doing projects that can help people in your community.
+    title: App Inventor voor sociale innovatie
+    description: Leer hoe je apps voor Android-apparaten kunt maken door projecten te doen die mensen in jouw omgeving kunnen helpen.
   scratch-for-social-enterprise:
-    title: Scratch for social innovation
-    description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+    title: Scratch voor sociale innovatie
+    description: Leer Scratch, een beginnersvriendelijke grafische programmeertaal, terwijl je apps en games maakt om mensen te helpen leren over belangrijke zaken.
   html-css-for-social-enterprise:
-    title: HTML & CSS for social innovation
-    description: Learn HTML & CSS by creating a website about bird conservation.
+    title: HTML & CSS voor sociale innovatie
+    description: Leer HTML & CSS door een website over vogelbescherming te maken.
   getting-started-with-raspberry-pi:
-    title: Get started with Raspberry Pi
-    description: Set up your Raspberry Pi and see what it can do!
+    title: Aan de slag met de Raspberry Pi
+    description: Installeer je Raspberry Pi en kijk wat je ermee kunt doen!
