@@ -54,6 +54,41 @@ fr-FR:
     description: Dans cette introduction à Unity, tu apprendras à créer des mondes et des jeux en 3D avec des collectibles, des timers et des personnages non joueurs.
     meta_title: Parcours du projet | Codage Unity pour les enfants | Raspberry Pi
     meta_description: Introduction au codage Unity pour les enfants, les adolescents et les jeunes adultes. Apprends à créer des mondes et des jeux en 3D à l'aide de ces ressources gratuites.
+    header:
+      - 
+        title: "Que vais-je créer ?"
+        content: |
+          Crée des mondes et des jeux en 3D avec des objets de collection, des minuteurs et des personnages non-joueurs.
+          À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer un jeu d'attrape-étoiles, un monde avec des quêtes et une aventure en 3D.
+      - 
+        title: "Que dois-je savoir ?"
+        content: |
+          - Compétences de base en dactylographie et en navigation informatique
+          - Expérience du codage en [Scratch] (https://projects.raspberrypi.org/en/pathways/scratch-intro) ou [Python] (https://projects.raspberrypi.org/en/pathways/python-intro)
+      - 
+        title: "De quoi ai-je besoin ?"
+        content: |
+          Ce parcours nécessite un téléchargement et une installation importants que tu dois terminer avant de lancer le premier projet.
+
+          - Tu dois installer Unity Hub et l'éditeur Unity pour ton système d'exploitation. Tu trouveras la marche à suivre dans notre [guide Unity] (https://projects.raspberrypi.org/en/projects/unity-guide).
+          - Tu auras également besoin d'un éditeur de code. L'éditeur recommandé est [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
+          - Tu devras aussi télécharger le [pack de démarrage Unity](https://rpf.io/p/en/explore-a-3d-world-go) de ressources avant de commencer.
+      - 
+        title: "Informations pour le mentor"
+        content: |
+          ##321…Action !
+          Ce parcours suit [321…Action !](https://projects.raspberrypi. rg/fr/projects/321-make-mentor-guide):
+
+          - 3 projets **Explorer** pour initier les créateurs à un ensemble de compétences et leur fournir des instructions étape par étape pour les aider à développer une confiance initiale.
+          - 2 projets **Conception** permettant aux créateurs de mettre en pratique les compétences acquises dans les projets Explorer précédents et de s'exprimer de manière créative tout en développant leur autonomie.
+          - 1 projet **Inventer** dans lequel les créateurs utilisent leurs compétences pour répondre aux exigences d'un projet destiné à un public particulier.
+
+          ##Questionnaire rapide
+          Chaque projet contient une étape de test rapide. Chaque questionnaire contient trois questions à choix multiples. Les créateurs sont guidés pour obtenir la bonne réponse par le biais de commentaires utiles.
+
+          ##Inspirer la communauté
+          Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://formulaire. aspberrypi.org/f/community-project-submissions). Les projets seront partagés anonymement dans nos galeries communautaires.
+          Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr/projects/unity-guide/5) dans notre guide.
   physical-computing-with-scratch-and-the-raspberry-pi:
     title: L'informatique physique avec Scratch et le Raspberry Pi
     description: Apprends à utiliser l'électronique d'entrée et de sortie avec Scratch et ton ordinateur Raspberry Pi.
