@@ -2,58 +2,58 @@
 pt:
   scratch-intro:
     title: "Introduction to Scratch: sprites, scripts, and loops"
-    description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-    meta_title: Project path | Intro to Scratch programming for kids
-    meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+    description: Nesta introdução à codificação no Scratch para iniciantes, você aprenderá como adicionar código, fantasias e sons a atores enquanto cria animações, um jogo, um aplicativo e um livro.
+    meta_title: Caminho do projeto | Introdução à programação Scratch para crianças
+    meta_description: Introdução à programação Scratch para crianças, adolescentes e jovens adultos. Aprenda a fazer animações, um jogo, um aplicativo e um livro.
   more-scratch:
-    title: "More Scratch: broadcast, decisions and variables"
-    description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
-    meta_title: Project path | More Scratch for kids | Raspberry Pi
-    meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+    title: "Mais Scratch: transmissão, decisões e variáveis"
+    description: Mais Scratch vai além dos fundamentos introduzidos na Introdução ao Scratch. Você fará aplicativos, jogos e simulações usando a transmissão de mensagens, decisões se..então e se..então...senão e variáveis.
+    meta_title: Caminho do projeto | Mais Scratch para crianças | Raspberry Pi
+    meta_description: Mais Scratch para crianças, adolescentes e jovens adultos. Vá além do básico para codificar applicativos, jogos e animações usando transmissões de mensagens, com esses projetos gratuitos.
   further-scratch:
-    title: "Further Scratch: clones, my blocks, and boolean logic"
-    description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
-    meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
-    meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
+    title: "Aprofundando no Scratch: clones, meus blocos e lógica booleana"
+    description: O Scratch vai mais além das habilidades introduzidas na Introdução ao Scratch e Mais Scratch. Você criará applicativos, jogos, arte gerada por computador e simulações usando lógica booleana, funções, clones e muito mais.
+    meta_title: Caminho do projeto | Mais Scratch para crianças | Raspberry Pi
+    meta_description: Aprofundando na programação Scratch para crianças, adolescentes e jovens adultos. Use esses recursos de código gratuitos para fazer aplicativos, jogos, arte gerada por computador e animações.
   scratch-module-1:
-    title: "Scratch: Module 1"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch: Módulo 1"
+    description: Aprenda a programar suas próprias histórias, jogos e animações interativas.
   scratch-module-2:
-    title: "Scratch: Module 2"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Rascunho: Módulo 2"
+    description: Aprenda a programar suas próprias histórias, jogos e animações interativas.
   scratch-module-3:
-    title: "Scratch: Module 3"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch: Módulo 3"
+    description: Aprenda a programar suas próprias histórias, jogos e animações interativas.
   scratch-additional-projects:
-    title: "Scratch: Additional Projects"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch: Projetos Adicionais"
+    description: Aprenda a programar suas próprias histórias, jogos e animações interativas.
   webdev-module-1:
-    title: "HTML & CSS: Module 1"
-    description: Build and style your own web pages.
+    title: "HTML & CSS: Módulo 1"
+    description: Crie e estilize suas próprias páginas da web.
   webdev-module-2:
-    title: "HTML & CSS: Module 2"
-    description: Build and style your own web pages.
+    title: "HTML & CSS: Módulo 2"
+    description: Crie e estilize suas próprias páginas da web.
   python-intro:
-    title: "Introduction to Python: Variables, functions, and loops"
-    description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
-    meta_title: Project path | Intro to Python for kids | Raspberry Pi
-    meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+    title: "Introdução ao Python: Variáveis, funções e laços de repetição"
+    description: Nesta introdução à codificação em Python para iniciantes, você aprenderá como usar variáveis, laços de repetição e funções para criar arte visual e interativa, animações, simulações, jogos e muito mais.
+    meta_title: Caminho do projeto | Introdução ao Python para crianças | Raspberry Pi
+    meta_description: Introdução ao Python para crianças, adolescentes e jovens adultos. Crie artes, animações e jogos interativos com estes recursos gratuitos.
   more-python:
     title: "More Python: Lists, dictionaries, and data"
-    description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
-    meta_title: Project path | More Python projects for kids | Raspberry Pi
-    meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
+    description: Mais Python vai além dos conceitos básicos introduzidos na Introdução ao Python. Você aprenderá como usar listas, dicionários e arquivos para criar gráficos, modelos e artes.
+    meta_title: Caminho do projeto | Mais projetos Python para crianças | Raspberry Pi
+    meta_description: Mais projetos Python para crianças, adolescentes e jovens adultos. Aprenda a usar listas, dicionários e arquivos para criar gráficos, modelos e obras de arte.
   python-module-1:
-    title: "Python: Module 1"
-    description: Python is a widely used, general purpose, text-based programming language.
+    title: "Python: Módulo 1"
+    description: Python é uma linguagem de programação de propósito geral e baseada em texto amplamente utilizada.
   python-module-2:
-    title: "Python: Module 2"
-    description: Python is a widely used, general purpose, text-based programming language.
+    title: "Python: Módulo 2"
+    description: Python é uma linguagem de programação de propósito geral e baseada em texto amplamente utilizada.
   unity-intro:
-    title: "Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons"
-    description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
-    meta_title: Project path | Unity coding for kids | Raspberry Pi
-    meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+    title: "Introdução ao Unity: Objetos 3D, controladores de personagens, colisores, texto e botões"
+    description: Nesta introdução ao Unity, você aprenderá a criar mundos e jogos 3D com colecionáveis, temporizadores e personagens não jogáveis.
+    meta_title: Caminho do projeto | Codificação de unidade para crianças | Raspberry Pi
+    meta_description: Introdução à programação Unity para crianças, adolescentes e jovens adultos. Aprenda a fazer mundos e jogos em 3D usando esses recursos gratuitos.
     header:
       - 
         title: "What will I create?"
@@ -90,18 +90,18 @@ pt:
           Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
           You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5) in our guide.
   physical-computing-with-scratch-and-the-raspberry-pi:
-    title: Physical computing with Scratch and the Raspberry Pi
-    description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
-    meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
-    meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+    title: Computação física com Scratch e Raspberry Pi
+    description: Aprenda a usar a eletrônica de entrada e saída com o Scratch e seu computador Raspberry Pi.
+    meta_title: Caminho do projeto | Programando em Scratch para crianças | Raspberry Pi
+    meta_description: Aprenda a usar a eletrônica de entrada e saída com o Scratch no seu computador Raspberry Pi. Recursos gratuitos - programação em Scratch para crianças, adolescentes e jovens adultos.
   pico-intro:
-    title: "Introduction to Raspberry Pi Pico: LEDs, buzzers, switches, and dials"
-    description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
-    meta_title: Project path | Introduction to the Raspberry Pi Pico
-    meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+    title: "Introdução ao Raspberry Pi Pico: LEDs, buzzers, interruptores e mostradores"
+    description: Nesta introdução à criação digital com Raspberry Pi Pico para iniciantes, você aprenderá como conectar e controlar LEDs, botões, interruptores, buzzers e potenciômetros (mostradores).
+    meta_title: Caminho do projeto | Introdução ao Raspberry Pi Pico
+    meta_description: Nesta introdução à criação digital com Raspberry Pi Pico para iniciantes, você aprenderá como conectar e controlar LEDs, botões, interruptores, buzzers, etc.
   raspberry-pi:
     title: Raspberry Pi
-    description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+    description: O Raspberry Pi é um pequeno computador que pode ser usado em projetos eletrônicos e para muitas das coisas que seu PC de mesa faz.
   sense-hat:
     title: Sense HAT
     description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
