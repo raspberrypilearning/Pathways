@@ -56,39 +56,39 @@ nl:
     meta_description: Inleiding tot Unity-programmeren voor kinderen, tieners en jonge volwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
     header:
       - 
-        title: "What will I create?"
+        title: "Wat ga ik maken?"
         content: |
-          Make 3D worlds and games with collectibles, timers and non-player characters.
-          By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+          Maak 3D-werelden en games met verzamelobjecten, timers en niet-spelerpersonages.
+          Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een sterrenvangerspel, een wereld met missies en een 3D-avontuur te creëren.
       - 
-        title: "What do I need to know?"
+        title: "Wat moet ik weten?"
         content: |
-          - Basic typing and computer navigation skills
-          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) or [Python](https://projects.raspberrypi.org/en/pathways/python-intro)
+          - Basis typ- en computernavigatievaardigheden
+          - Ervaring coderen in [Scratch](https://projects.raspberrypi.org/nl-NL/pathways/scratch-intro) of [Python](https://projects.raspberrypi.org/nl-NL/pathways/python-intro)
       - 
-        title: "What do I need?"
+        title: "Wat heb ik nodig?"
         content: |
-          This path requires a large download and installation which you should complete before you start the first project.
+          Dit pad vereist een grote download en installatie die je moet voltooien voordat je het eerste project start.
 
-          - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
-          - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
-          - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
+          - Je moet de Unity Hub en Unity Editor installeren voor jouw besturingssysteem. Je kunt erachter komen hoe dit te doen in onze [Unity-gids](https://projects.raspberrypi.org/nl-NL/projects/unity-guide).
+          - Je hebt ook een code editor nodig. De aanbevolen editor is [Visual Studio](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/3).
+          - Je moet ook het [Unity startpakket](https://rpf.io/p/nl-NL/explore-a-3d-world-go) met middelen downloaden voordat je begint.
       - 
-        title: "Mentor information"
+        title: "Mentorinformatie"
         content: |
-          ##321…Make!
-          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+          ##321…Maken!
+          Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
 
-          - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-          - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
-          - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
+          - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geef stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+          - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+          - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
 
-          ##Quick quiz
-          Each project contains a quick quiz step. Each quiz contains three multiple choice questions. Creators are guided to the correct answer through useful feedback.
+          ##Snellequiz
+          Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
 
-          ##Inspiring the community
-          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
-          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5) in our guide.
+          ##De gemeenschap inspireren
+          Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden anoniem gedeeld met onze Community Galleries.
+          In onze gids kun je lezen hoe je [projecten deelt](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/5).
   physical-computing-with-scratch-and-the-raspberry-pi:
     title: Fysiek computergebruik met Scratch en de Raspberry Pi
     description: Leer hoe je invoer- en uitvoerelektronica gebruikt met Scratch en je Raspberry Pi-computer.
