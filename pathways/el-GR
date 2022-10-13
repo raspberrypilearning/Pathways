@@ -1,140 +1,140 @@
 ---
 el:
   scratch-intro:
-    title: "Introduction to Scratch: sprites, scripts, and loops"
-    description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-    meta_title: Project path | Intro to Scratch programming for kids
-    meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+    title: "Εισαγωγή στη Scratch: αντικείμενα, scripts και βρόχοι"
+    description: Σε αυτή την εισαγωγή στον προγραμματισμό με Scratch για αρχάριους, θα μάθεις πώς να προσθέτεις κώδικα, ενδυμασίες και ήχους σε αντικείμενα για να φτιάξεις κινούμενα σχέδια, ένα παιχνίδι, μία εφαρμογή και ένα βιβλίο.
+    meta_title: Διαδρομή έργων | Εισαγωγή στον προγραμματισμό με Scratch για παιδιά
+    meta_description: Εισαγωγή στον προγραμματισμό με Scratch για παιδιά, εφήβους και νέους ενήλικες. Μάθε πώς να δημιουργείς κινούμενα σχέδια, ένα παιχνίδι, μια εφαρμογή και ένα βιβλίο.
   more-scratch:
-    title: "More Scratch: broadcast, decisions and variables"
-    description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
-    meta_title: Project path | More Scratch for kids | Raspberry Pi
-    meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+    title: "Περισσότερη Scratch: μετάδοση μηνυμάτων, αποφάσεις και μεταβλητές"
+    description: Η ενότητα "Περισσότερη Scratch" προχωράει πέρα από τα βασικά που έμαθες στην Εισαγωγή στο Scratch. Θα δημιουργήσεις εφαρμογές, παιχνίδια και προσομοιώσεις χρησιμοποιώντας μετάδοση μηνυμάτων, αποφάσεις εάν..τότε και εάν..τότε..αλλιώς και μεταβλητές.
+    meta_title: Διαδρομή έργων - Περισσότερη Scratch για παιδιά - Raspberry Pi
+    meta_description: Περισσότερη Scratch για παιδιά, εφήβους και νέους ενήλικες. Προχώρησε πέρα από τα βασικά για να προγραμματίσεις εφαρμογές, παιχνίδια και κινούμενα σχέδια χρησιμοποιώντας μεταδόσεις μηνυμάτων, με τα παρακάτω δωρεάν έργα.
   further-scratch:
-    title: "Further Scratch: clones, my blocks, and boolean logic"
-    description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
-    meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
-    meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
+    title: "Περαιτέρω Scratch: κλώνοι, οι εντολές μου και boolean λογική"
+    description: Η ενότητα "Περαιτέρω Scratch" προχωράει πέρα από τις δεξιότητες που εισάγονται στην "Εισαγωγή στη Scratch" και το "Περισσότερη Scratch". Θα δημιουργήσεις εφαρμογές, παιχνίδια, τέχνη που δημιουργείται από υπολογιστή και προσομοιώσεις χρησιμοποιώντας boolean λογική, συναρτήσεις, κλώνους και πολλά άλλα.
+    meta_title: Διαδρομή έργων - Περαιτέρω Scratch για παιδιά - Raspberry Pi
+    meta_description: Περαιτέρω Scratch για παιδιά, εφήβους και νέους ενήλικες. Χρησιμοποίησε αυτούς τους δωρεάν πόρους προγραμματισμού για να δημιουργήσεις εφαρμογές, παιχνίδια, έργα τέχνης που δημιουργούνται από υπολογιστή και κινούμενα σχέδια.
   scratch-module-1:
-    title: "Scratch: Module 1"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch: Ενότητα 1"
+    description: Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
   scratch-module-2:
-    title: "Scratch: Module 2"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch: Ενότητα 2"
+    description: Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
   scratch-module-3:
-    title: "Scratch: Module 3"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch: Ενότητα 3"
+    description: Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
   scratch-additional-projects:
-    title: "Scratch: Additional Projects"
-    description: Learn how to program your own interactive stories, games and animations.
+    title: "Scratch: Πρόσθετα έργα"
+    description: Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
   webdev-module-1:
-    title: "HTML & CSS: Module 1"
-    description: Build and style your own web pages.
+    title: "HTML & CSS: Ενότητα 1"
+    description: Δημιούργησε και σχεδίασε τις δικές σου ιστοσελίδες.
   webdev-module-2:
-    title: "HTML & CSS: Module 2"
-    description: Build and style your own web pages.
+    title: "HTML & CSS: Ενότητα 2"
+    description: Δημιούργησε και σχεδίασε τις δικές σου ιστοσελίδες.
   python-intro:
-    title: "Introduction to Python: Variables, functions, and loops"
-    description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
-    meta_title: Project path | Intro to Python for kids | Raspberry Pi
-    meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+    title: "Εισαγωγή στην Python: Μεταβλητές, συναρτήσεις και βρόχοι"
+    description: Σε αυτήν την εισαγωγή στον προγραμματισμό με Python για αρχάριους, θα μάθεις πώς να χρησιμοποιείς μεταβλητές, βρόχους και συναρτήσεις για να δημιουργείς οπτικά και διαδραστικά έργα τέχνης, κινούμενα σχέδια, προσομοιώσεις, παιχνίδια και πολλά άλλα.
+    meta_title: Διαδρομή έργων - Εισαγωγή στην Python για παιδιά - Raspberry Pi
+    meta_description: Εισαγωγή στην Python για παιδιά, εφήβους και νέους ενήλικες. Δημιούργησε διαδραστικά έργα τέχνης, κινούμενα σχέδια και παιχνίδια με αυτούς τους δωρεάν πόρους.
   more-python:
-    title: "More Python: Lists, dictionaries, and data"
-    description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
-    meta_title: Project path | More Python projects for kids | Raspberry Pi
-    meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
+    title: "Περισσότερη Python: Λίστες, λεξικά (dictionaries) και δεδομένα"
+    description: Η ενότητα "Περισσότερη Python" προχωράει πέρα από τα βασικά που εισάγονται στην Εισαγωγή στην Python. Θα μάθεις πώς να χρησιμοποιείς λίστες, λεξικά και αρχεία για να δημιουργείς γραφήματα, μοντέλα και έργα τέχνης.
+    meta_title: Διαδρομή έργων - Περισσότερη Python για παιδιά - Raspberry Pi
+    meta_description: Περισσότερη Python για παιδιά, εφήβους και νέους ενήλικες. Μάθε πώς να χρησιμοποιείς λίστες, λεξικά και αρχεία για να δημιουργείς γραφήματα, μοντέλα και έργα τέχνης.
   python-module-1:
-    title: "Python: Module 1"
-    description: Python is a widely used, general purpose, text-based programming language.
+    title: "Python: Ενότητα 1"
+    description: Η Python είναι μια ευρέως χρησιμοποιούμενη γλώσσα προγραμματισμού γενικής χρήσης, βασισμένη σε κείμενο.
   python-module-2:
-    title: "Python: Module 2"
-    description: Python is a widely used, general purpose, text-based programming language.
+    title: "Python: Ενότητα 2"
+    description: Η Python είναι μια ευρέως χρησιμοποιούμενη γλώσσα προγραμματισμού γενικής χρήσης, βασισμένη σε κείμενο.
   unity-intro:
-    title: "Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons"
-    description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
-    meta_title: Project path | Unity coding for kids | Raspberry Pi
-    meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+    title: "Εισαγωγή στη Unity: 3D αντικείμενα, ελεγκτές χαρακτήρων, επιταχυντές, κείμενο και κουμπιά"
+    description: Σε αυτήν την εισαγωγή στη Unity θα μάθεις πώς να φτιάχνεις τρισδιάστατους κόσμους και παιχνίδια με αντικείμενα προς συλλογή (collectibles), χρονόμετρα και αυτόνομους χαρακτήρες (NPC).
+    meta_title: Διαδρομή έργων - Προγραμματισμός Unity για παιδιά - Raspberry Pi
+    meta_description: Εισαγωγή στον προγραμματισμό με Unity για παιδιά, εφήβους και νέους ενήλικες. Μάθε πώς να δημιουργείς τρισδιάστατους κόσμους και παιχνίδια χρησιμοποιώντας αυτούς τους δωρεάν πόρους.
     header:
       - 
-        title: "What will I create?"
+        title: "Τι θα δημιουργήσω;"
         content: |
-          Make 3D worlds and games with collectibles, timers and non-player characters.
-          By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+          Θα δημιουργήσεις 3D κόσμους και παιχνίδια με αντικείμενα που μπορείς να συλλέξεις, χρονόμετρα και χαρακτήρες μη-παίκτες.
+          Στο τέλος αυτής της διαδρομής θα έχεις χρησιμοποιήσει τις νέες σου δεξιότητες για να δημιουργήσεις ένα παιχνίδι με ένα παγίδες για αστέρια, έναν κόσμο με αποστολές και μια 3D περιπέτεια.
       - 
-        title: "What do I need to know?"
+        title: "Τι πρέπει να ξέρω;"
         content: |
-          - Basic typing and computer navigation skills
-          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) or [Python](https://projects.raspberrypi.org/en/pathways/python-intro)
+          - Βασικές δεξιότητες πληκτρολόγησης και πλοήγησης σε υπολογιστή
+          - Εμπειρία προγραμματισμού σε [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) ή [Python](https://projects.raspberrypi.org/en/pathways/python -εισαγωγή)
       - 
-        title: "What do I need?"
+        title: "Τι χρειάζομαι;"
         content: |
-          This path requires a large download and installation which you should complete before you start the first project.
+          Αυτή η διαδρομή απαιτεί λήψη και εγκατάσταση μεγάλων αρχείων, τις οποίες πρέπει να ολοκληρώσεις πριν ξεκινήσεις το πρώτο έργο.
 
-          - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
-          - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
-          - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
+          - Πρέπει να εγκαταστήσεις το Unity Hub και το Unity Editor για το λειτουργικό σου σύστημα. Μπορείς να μάθεις πώς να το κάνεις αυτό στον [Οδηγό Unity] (https://projects.raspberrypi.org/en/projects/unity-guide).
+          - Θα χρειαστείς επίσης ένα πρόγραμμα επεξεργασίας κώδικα. Το προτεινόμενο πρόγραμμα επεξεργασίας είναι το [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
+          - Θα χρειαστείς επίσης να κατεβάσεις το [πακέτο εκκίνησης Unity](https://rpf.io/p/en/explore-a-3d-world-go) των εργαλείων πριν ξεκινήσεις.
       - 
-        title: "Mentor information"
+        title: "Πληροφορίες για τον μέντορα"
         content: |
-          ##321…Make!
-          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+          ##321…Φτιάξε!
+          Αυτή η διαδρομή ακολουθεί [321…Κάντε!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
 
-          - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-          - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
-          - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
+          - 3 **Εξερευνήστε** έργα για να εισαγάγεις τους δημιουργούς σε ένα σύνολο δεξιοτήτων και και να τους προσφέρεις οδηγίες βήμα προς βήμα για να τους βοηθήσετε να αναπτύξουν αυτοπεποίθηση από την αρχή.
+          - 2 **Σχεδιάστε** έργα για να επιτρέψετε στους δημιουργούς να εξασκήσουν τις δεξιότητες που έμαθαν στα προηγούμενα έργα του Εξερευνήστε και να εκφραστούν δημιουργικά ενώ αναπτύσσουν την ανεξαρτησία τους.
+          - 1 **Επινοήστε** έργο στο οποίο οι δημιουργοί χρησιμοποιούν τις δεξιότητές τους για να ανταποκριθούν σε ένα θέμα έργου για ένα συγκεκριμένο κοινό.
 
-          ##Quick quiz
-          Each project contains a quick quiz step. Each quiz contains three multiple choice questions. Creators are guided to the correct answer through useful feedback.
+          ##Γρήγορο κουίζ
+          Κάθε έργο περιέχει ένα γρήγορο βήμα κουίζ. Κάθε κουίζ περιέχει τρεις ερωτήσεις πολλαπλής επιλογής. Οι δημιουργοί καθοδηγούνται στη σωστή απάντηση μέσω χρήσιμης ανατροφοδότησης.
 
-          ##Inspiring the community
-          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
-          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5) in our guide.
+          ##Εμπνέοντας την κοινότητα
+          Οι δημιουργοί ενθαρρύνονται να εμπνεύσουν άλλους στην κοινότητα του Raspberry Pi Foundation με το να μοιράζονται τα έργα τους μαζί μας μέσω της [φόρμας υποβολής έργου](https://form.raspberrypi.org/f/community-project-submissions). Τα έργα θα κοινοποιούνται ανώνυμα στις γκαλερί της Κοινότητας μας.
+          Μπορείτε να μάθετε πώς να [μοιραστείτε έργα](https://projects.raspberrypi.org/en/projects/unity-guide/5) στον οδηγό μας.
   physical-computing-with-scratch-and-the-raspberry-pi:
-    title: Physical computing with Scratch and the Raspberry Pi
-    description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
-    meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
-    meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+    title: Physical computing με Scratch και Raspberry Pi
+    description: Μάθε πώς να χρησιμοποιείς ηλεκτρονικά εισόδου και εξόδου με τη Scratch και τον υπολογιστή σου Raspberry Pi.
+    meta_title: Διαδρομή έργων - Προγραμματισμός σε Scratch για παιδιά - Raspberry Pi
+    meta_description: Μάθε πώς να χρησιμοποιείς ηλεκτρονικά εισόδου και εξόδου με τη Scratch στον υπολογιστή σου Raspberry Pi. Δωρεάν πόροι - προγραμματισμός στο Scratch για παιδιά, εφήβους και νέους ενήλικες.
   pico-intro:
-    title: "Introduction to Raspberry Pi Pico: LEDs, buzzers, switches, and dials"
-    description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
-    meta_title: Project path | Introduction to the Raspberry Pi Pico
-    meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+    title: "Εισαγωγή στο Raspberry Pi Pico: LED, buzzers, διακόπτες και καντράν"
+    description: Σε αυτήν την εισαγωγή στην ψηφιακή δημιουργία με το Raspberry Pi Pico για αρχάριους, θα μάθεις πώς να συνδέεις και να ελέγχεις LED, κουμπιά, διακόπτες, buzzers και ποτενσιόμετρα (καντράν).
+    meta_title: Διαδρομή έργων | Εισαγωγή στο Raspberry Pi Pico
+    meta_description: Σε αυτήν την εισαγωγή στην ψηφιακή δημιουργία με το Raspberry Pi Pico για αρχάριους, θα μάθεις πώς να συνδέεις και να ελέγχεις LED, κουμπιά, διακόπτες, buzzers κλπ.
   raspberry-pi:
     title: Raspberry Pi
-    description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+    description: Το Raspberry Pi είναι ένας ικανός μικρός υπολογιστής ο οποίος μπορεί να χρησιμοποιηθεί σε ηλεκτρονικά έργα και σε πολλές από τις εργασίες που κάνει ο επιτραπέζιος προσωπικός σου υπολογιστής.
   sense-hat:
     title: Sense HAT
-    description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+    description: Το Sense HAT είναι μία κάρτα επέκτασης για το Raspberry Pi, που περιλαμβάνει LEDs, ένα χειριστήριο και πολλούς αισθητήρες.
   sonic-pi:
     title: Sonic Pi
-    description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+    description: Το Sonic Pi είναι ένα νέο είδος μουσικού οργάνου, σχεδιασμένο για τη δημιουργία ήχων με προγραμματισμό.
   microbit:
     title: "BBC micro:bit"
-    description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+    description: "Το BBC micro: bit είναι ένας προγραμματιζόμενος υπολογιστής μεγέθους τσέπης, που σου επιτρέπει να γίνεις δημιουργικός/ή."
   look-after-yourself:
-    title: Look after yourself
-    description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+    title: Πρόσεχε τον εαυτό σου
+    description: Μάθε να φροντίζεις τον εαυτό σου, ενώ μαθαίνεις πώς να χρησιμοποιείς τη Scratch και προσπάθησε να γίνεις ανεξάρτητος/η προγραμματιστής/τρια.
   protect-our-planet:
-    title: Protect our planet
-    description: Use Scratch to learn about our planet and how to protect the environment for future generations
+    title: Προστάτεψε τον πλανήτη μας
+    description: Χρησιοποίησε τη Scratch για να μάθεις για τον πλανήτη μας και πώς να προστατεύσεις το περιβάλλον για τις μελλοντικές γενιές
   coderdojo-html_css:
     title: CoderDojo HTML & CSS
-    description: Create websites by following these projects.
+    description: Δημιούργησε ιστοσελίδες ακολουθώντας αυτά τα έργα.
   coderdojo-scratch:
     title: CoderDojo Scratch
-    description: Learn Scratch by working through these fun projects!
+    description: Μάθε Scratch ολοκληρώνοντας αυτά τα διασκεδαστικά έργα!
   coderdojo-wearables:
     title: CoderDojo Wearables
-    description: Create wearable technology projects by following these projects.
+    description: Δημιούργησε έργα τεχνολογίας wearable ακολουθώντας αυτά τα έργα.
   app-inventor-for-social-enterprise:
-    title: App Inventor for social innovation
-    description: Learn to make apps for Android devices by doing projects that can help people in your community.
+    title: App Inventor για την κοινωνική καινοτομία
+    description: Μάθε να φτιάχνεις εφαρμογές για συσκευές Android κάνοντας έργα που μπορούν να βοηθήσουν ανθρώπους στην κοινότητά σου.
   scratch-for-social-enterprise:
-    title: Scratch for social innovation
-    description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+    title: Scratch για την κοινωνική καινοτομία
+    description: Μάθε Scratch, μια γλώσσα προγραμματισμού με γραφικά, φιλική στους αρχάριους, δημιουργώντας παράλληλα εφαρμογές και παιχνίδια για να βοηθήσεις τους ανθρώπους να μάθουν για σημαντικά θέματα.
   html-css-for-social-enterprise:
-    title: HTML & CSS for social innovation
-    description: Learn HTML & CSS by creating a website about bird conservation.
+    title: HTML & CSS για την κοινωνική καινοτομία
+    description: Μάθε HTML & CSS δημιουργώντας μια ιστοσελίδα για την προστασία των πτηνών.
   getting-started-with-raspberry-pi:
-    title: Get started with Raspberry Pi
-    description: Set up your Raspberry Pi and see what it can do!
+    title: Ξεκίνησε με το Raspberry Pi
+    description: Ρύθμισε το Raspberry Pi και δες τι μπορεί να κάνει!
