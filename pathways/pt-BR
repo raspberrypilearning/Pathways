@@ -63,32 +63,32 @@ pt:
       - 
         title: "O que eu preciso saber?"
         content: |
-          - Habilidades básicas de digitação e navegação no computador
-          - Experiência em codificação em [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) ou [Python](https://projects.raspberrypi.org/en/pathways/python -intro)
+          - Basic typing and computer navigation skills
+          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
       - 
         title: "Do que eu preciso?"
         content: |
-          Este caminho requer um grande download e instalação que você deve completar antes de iniciar o primeiro projeto.
+          This path requires a large download and installation which you should complete before you start the first project.
 
-          - Você precisa instalar o Unity Hub e o Editor de Unidade para o seu sistema operacional. Você pode saber como fazer isso em nosso [Guia da Unidade](https://projects.raspberrypi.org/en/projects/unity-guide).
-          - Você também precisará de um editor de código. O editor recomendado é [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
-          - Você também precisará baixar o [pacote inicial da Unidade](https://rpf.io/p/en/explore-a-3d-world-go) dos ativos antes de iniciar.
+          - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+          - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
+          - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
       - 
         title: "Informações do mentor"
         content: |
-          ##321…Faça!
-          Este caminho segue [321…Faça!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+          ##321…Make!
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-          - 3 **Explore** projetos para apresentar aos criadores um conjunto de habilidades e fornecer instruções passo a passo para ajudá-los a desenvolver a confiança inicial.
-          - 2 **Projete** projetos para permitir que os criadores pratiquem as habilidades que aprenderam nos projetos anteriores do Explore e se expressem de forma criativa enquanto crescem em independência.
-          - 1 **Invente** projeto em que os criadores usam suas habilidades para atender a um resumo do projeto para um público específico.
+          - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+          - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
+          - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
 
-          ##Questionário Rápido
-          Cada projeto contém uma etapa de teste rápido. Cada questionário contém três questões de múltipla escolha. Os criadores são guiados para a resposta correta por meio de feedback útil.
+          ##Quick quiz
+          Each project contains a quick quiz step. Each quiz contains three multiple choice questions. Creators are guided to the correct answer through useful feedback.
 
-          ##Inspirando a comunidade
-          Os criadores são incentivados a inspirar outras pessoas na comunidade da Raspberry Pi Foundation compartilhando seus projetos conosco por meio do [formulário de envio de projetos](https://form.raspberrypi.org/f/community-project-submissions). Os projetos serão compartilhados anonimamente em nossas Galerias da Comunidade.
-          Você pode descobrir como [compartilhar projetos](https://projects.raspberrypi.org/en/projects/unity-guide/5) em nosso guia.
+          ##Inspiring the community
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
+          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
   physical-computing-with-scratch-and-the-raspberry-pi:
     title: Computação física com Scratch e Raspberry Pi
     description: Aprenda a usar a eletrônica de entrada e saída com o Scratch e seu computador Raspberry Pi.
