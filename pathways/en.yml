@@ -71,7 +71,7 @@ en:
           ##Inspiring the community
           Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
           You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide 
- further-scratch:
+  further-scratch:
     title: "Further Scratch: clones, my blocks, and boolean logic"
     description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
     meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
@@ -159,7 +159,7 @@ en:
           
           ##Inspiring the community
           Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
- more-python: 
+  more-python: 
     title: "More Python: Lists, dictionaries, and data"
     description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork. 
     meta_title: Project path | More Python projects for kids | Raspberry Pi
