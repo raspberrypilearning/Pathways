@@ -239,11 +239,70 @@ en:
     description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
     meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
     meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+    header:
+      - title: "What will I create?"
+        content: |
+         Make games, interactive devices, and a musical instrument. 
+         By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
+      - title: "What do I need to know?"
+        content: |
+         This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+      - title: "What do I need?"
+        content: |
+         - A Raspberry Pi Computer
+         - Various wires
+         - Single colour LEDs, buzzers, and resistors
+         - Scratch 3 desktop version installed
+         - Craft items including aluminium foil
+      - title: "Mentor information"
+        content: |
+         ##321…Make!
+         This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+         - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+         - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+         - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+         
+         ##Quick quiz
+         Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
   pico-intro: 
     title: "Introduction to Raspberry Pi Pico: LEDs, buzzers, switches, and dials"
     description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
     meta_title: Project path | Introduction to the Raspberry Pi Pico
     meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+    header:
+      - title: "What will I create?"
+        content: |
+         Program and craft interactive devices with light and sound.
+         By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
+      - title: "What do I need to know?"
+        content: |
+         - Basic typing and computer navigation skills
+         - This path is for beginners to physical computing
+      - title: "What do I need?"
+        content: |
+          ## Hardware
+          You can purchase all the required hardware for this  path from the:
+          - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
+          - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
+          
+          ## Software
+          - Thonny
+          - Raspberry Pi Pico Fireware (installed via Thonny)
+          - The picozero library (available via PyPi in Thonny)
+          Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"} 
+      - title: "Mentor information"
+        content: |
+          ##321…Make!
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+          - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+          - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+          - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+          
+          ##Quick quiz
+          Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge. 
+          
+          ##Inspiring the community
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
   raspberry-pi: 
     title: Raspberry Pi
     description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
