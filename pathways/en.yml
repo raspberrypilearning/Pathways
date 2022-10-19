@@ -18,12 +18,12 @@ en:
           This path requires:
           
           - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-          - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target=""_blank""}  for more details.
-          - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target=""_blank""}
+          - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+          - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
       - title: "Mentor information"
         content: |
           ##321…Make!
-          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target=""_blank""}:
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
           
           - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
           - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
@@ -33,8 +33,8 @@ en:
           Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge. 
           
           ##Inspiring the community
-          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
-          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target=""_blank""} in our guide 
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide 
   more-scratch:
     title: "More Scratch: broadcast, decisions and variables"
     description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
@@ -48,18 +48,18 @@ en:
       - title: "What do I need to know?"
         content: |
          This path is for creators comfortable with using Scratch.
-         If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target=""_blank""} path.
+         If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
       - title: "What do I need?"
         content: |
           This path requires:
           
           - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-          - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target=""_blank""}  for more details.
-          - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target=""_blank""}
+          - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+          - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
       - title: "Mentor information"
         content: |
           ##321…Make!
-          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target=""_blank""}:
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
           
           - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
           - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
@@ -70,7 +70,7 @@ en:
           
           ##Inspiring the community
           Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
-          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target=""_blank""} in our guide 
+          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide 
  further-scratch:
     title: "Further Scratch: clones, my blocks, and boolean logic"
     description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
@@ -84,18 +84,18 @@ en:
       - title: "What do I need to know?"
         content: |
          This path is for creators comfortable with using Scratch.
-         If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target=""_blank""} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target=""_blank""} path.
+         If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
       - title: "What do I need?"
         content: |
           This path requires:
           
           - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-          - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target=""_blank""}  for more details.
-          - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target=""_blank""}
+          - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+          - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
       - title: "Mentor information"
         content: |
           ##321…Make!
-          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target=""_blank""}:
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
           
           - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
           - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
@@ -105,8 +105,8 @@ en:
           Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge. 
           
           ##Inspiring the community
-          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
-          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target=""_blank""} in our guide 
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide 
 
   scratch-module-1:
     title: "Scratch: Module 1"
@@ -131,11 +131,67 @@ en:
     description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more. 
     meta_title: Project path | Intro to Python for kids | Raspberry Pi
     meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
-  more-python: 
+    header:
+      - title: "What will I create?"
+        content: |
+         Make interactive projects, art, games, and a simulation.
+         By the end of this path you will have created a scalable piece of geometric art.
+      - title: "What do I need to know?"
+        content: |
+         - Basic typing and computer navigation skills
+         - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+      - title: "What do I need?"
+        content: |
+          - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}. 
+          - Optionally, a Trinket account to save projects.
+          Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+      - title: "Mentor information"
+        content: |
+          ##321…Make!
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+          
+          - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+          - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+          - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+          
+          ##Quick quiz
+          Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge. 
+          
+          ##Inspiring the community
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+ more-python: 
     title: "More Python: Lists, dictionaries, and data"
     description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork. 
     meta_title: Project path | More Python projects for kids | Raspberry Pi
     meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
+    header:
+      - title: "What will I create?"
+        content: |
+         Visualise data by creating interactive charts, a simulator, and pieces of art.
+         By the end of this path you will have created a unique data visualisation on a topic of your choice
+      - title: "What do I need to know?"
+        content: |
+         - This path is for creators comfortable with using Python.
+         - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
+      - title: "What do I need?"
+        content: |
+          - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}. 
+          - Optionally, a Trinket account to save projects.
+          Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+      - title: "Mentor information"
+        content: |
+          ##321…Make!
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+          
+          - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+          - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+          - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+          
+          ##Quick quiz
+          Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge. 
+          
+          ##Inspiring the community
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
   python-module-1: 
     title: "Python: Module 1"
     description: Python is a widely used, general purpose, text-based programming language.
@@ -166,7 +222,7 @@ en:
       - title: "Mentor information"
         content: |
           ##321…Make!
-          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target=""_blank""}:
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
           
           - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
           - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
