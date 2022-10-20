@@ -35,7 +35,7 @@ en:
           ##Inspiring the community
           Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
           You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide 
-  more-scratch
+  more-scratch:
     title: "More Scratch: broadcast, decisions and variables"
     description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
     meta_title: Project path | More Scratch for kids | Raspberry Pi
