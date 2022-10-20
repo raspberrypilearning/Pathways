@@ -18,4 +18,4 @@ jobs:
           level: warning
           yamllint_flags: 'pathways'
           fail_on_error: true
-          filter_mode: diff_context
+          filter_mode: nofilter
