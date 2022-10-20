@@ -1,0 +1,20 @@
+---
+name: yamllint
+on:
+  pull_request:
+    branches:
+      - gh-pages
+jobs:
+  yamllint:
+    name: yamllint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: yamllint
+        uses: reviewdog/action-yamllint@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          reporter: github-pr-review
+          level: warning
+          yamllint_flags: 'pathways'
+          fail_on_error: true
