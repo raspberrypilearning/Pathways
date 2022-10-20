@@ -8,9 +8,11 @@ However, if you add data in the relevant translation file here to match the slug
 
 You can also add translations for metadata - title & description and for the new Pathway designs, you can add 'header' data to populate the sections in the Pathway page's header.
 
-# NB
+# Updating
 
-YAML should ideally be linted because if invalid syntax is pushed to the gh-pages branch it can cause server errors on Projects Admin!!
+YAML needs linting because if invalid syntax is pushed to the `gh-pages` branch it can cause server errors on Projects Admin!!
+
+We've automated this through CI using Github Actions, to trigger this you need to create a Pull Request into `gh-pages`, if any errors exist comments will be automatically added to your PR along with the suspected line.
 
 # Examples
 
