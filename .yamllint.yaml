@@ -1,0 +1,12 @@
+---
+# Config customised based on these docs:
+# https://yamllint.readthedocs.io/en/stable/configuration.html#configuration
+
+extends: default
+
+rules:
+  comments: disable
+  comments-indentation: disable
+  empty-lines: disable
+  line-length: disable
+  trailing-spaces: disable
