@@ -1,9 +1,9 @@
 ---
 ja:
   scratch-intro:
-    title: "Introduction to Scratch: sprites, scripts, and loops"
-    description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-    meta_title: Project path | Intro to Scratch programming for kids
+    title: "Scratch入門: スプライト、スクリプト、ループ"
+    description: この初心者向けScratchコーディング入門では、アニメーション、ゲーム、アプリ、本を作成するときに、コード、コスチューム、音をスプライトへ追加する方法を学びます。
+    meta_title: プロジェクトパス | 子ども向けのScratchプログラミング入門
     meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
     header:
       - 
