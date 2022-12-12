@@ -4,27 +4,27 @@ ja:
     title: "Scratch入門: スプライト、スクリプト、ループ"
     description: この初心者向けScratchコーディング入門では、アニメーション、ゲーム、アプリ、本を作成するときに、コード、コスチューム、音をスプライトへ追加する方法を学びます。
     meta_title: プロジェクトパス | 子ども向けのScratchプログラミング入門
-    meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+    meta_description: 子ども、ティーンエイジャー、若い大人向けのScratchプログラミングの入門編。アニメーション、ゲーム、アプリ、そして本の作り方を学びましょう。
     header:
       - 
-        title: "What will I create?"
+        title: "作るもの"
         content: |
-          Make interactive projects, animations and create a multiple level game.
-          By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
+          インタラクティブなプロジェクトやアニメーションを作ったり、複数レベルのゲームを作成します。
+          このパスの終わりまでには、新しいスキルを使用して、複数のページを持つデジタルブックの著者になることができます。
       - 
-        title: "What do I need to know?"
+        title: "必要な知識"
         content: |
-          This path is ideal for beginners to Scratch.
+          このパスはScratch の初心者に最適です。
       - 
-        title: "What do I need?"
+        title: "必要なもの"
         content: |
-          This path requires:
+          このパスに必要なもの
 
-          - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-          - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-          - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+          - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
+          - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
+          - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
       - 
-        title: "Mentor information"
+        title: "メンター情報"
         content: |
           ##321…Make!
           This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
