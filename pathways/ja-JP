@@ -26,23 +26,23 @@ ja:
       - 
         title: "メンター情報"
         content: |
-          ##321…Make!
-          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+          ##321…作るぞ！
+          このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
 
-          - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-          - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-          - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+          - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+          - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+          - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
 
-          ##Quick quiz
-          Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+          ##クイッククイズ
+          各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
 
-          ##Inspiring the community
-          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
-          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+          ## コミュニティに刺激を与える
+          クリエイターは、[プロジェクト提出フォーム] (https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分のプロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトは匿名でコミュニティギャラリーに共有されます。
+          [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
   more-scratch:
-    title: "More Scratch: broadcast, decisions and variables"
-    description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
-    meta_title: Project path | More Scratch for kids | Raspberry Pi
+    title: "Scratch続編: ブロードキャスト、条件判定、変数"
+    description: Scratch続編では、Scratch入門で紹介した基本の先へ行きます。メッセージの受け渡し、「もし..なら」および「もし..なら..でなければ」の条件判定と変数を使ってアプリ、ゲーム、シミュレーションを作成します。
+    meta_title: プロジェクトパス | 子ども向けのScratch続編 | Raspberry Pi
     meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
     header:
       - 
