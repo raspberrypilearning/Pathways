@@ -10,7 +10,7 @@ ja:
         title: "作るもの"
         content: |
           インタラクティブなプロジェクトやアニメーションを作ったり、複数レベルのゲームを作成します。
-          このパスの終わりまでには、新しいスキルを使用して、複数のページを持つデジタルブックの著者になることができます。
+          このパスの終わりまでに、新しいスキルを使用して、複数のページを持つデジタル書籍の著者になります。
       - 
         title: "必要な知識"
         content: |
@@ -43,20 +43,20 @@ ja:
     title: "Scratch続編: ブロードキャスト、条件判定、変数"
     description: Scratch続編では、Scratch入門で紹介した基本の先へ行きます。メッセージの受け渡し、「もし..なら」および「もし..なら..でなければ」の条件判定と変数を使ってアプリ、ゲーム、シミュレーションを作成します。
     meta_title: プロジェクトパス | 子ども向けのScratch続編 | Raspberry Pi
-    meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+    meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのScratch続編。これらの無料プロジェクトで、メッセージの受け渡しを使ったアプリ、ゲーム、アニメーションのコーディングの基本を超えて行きましょう。
     header:
       - 
-        title: "What will I create?"
+        title: "作るもの"
         content: |
-          Make interactive projects, simulators, and games.
-          By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
+          インタラクティブなプロジェクト、シミュレーター、ゲームを作成します。
+          このパスの終わりまでに、新しいスキルを使用して、ユーザーがやり取りする仮想ペットまたはキャラクターを作成します。
       - 
-        title: "What do I need to know?"
+        title: "必要な知識"
         content: |
           This path is for creators comfortable with using Scratch.
           If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
       - 
-        title: "What do I need?"
+        title: "必要なもの"
         content: |
           This path requires:
 
@@ -86,17 +86,17 @@ ja:
     meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
     header:
       - 
-        title: "What will I create?"
+        title: "作るもの"
         content: |
-          Make computer generated art, music, games and simulations.
-          By the end of this path you will have used your new skills to create a first person view simulation through an imagined world.
+          コンピューターで生成されたアート、音楽、ゲーム、シミュレーションを作成します。
+          このパスの終わりまでに、新しいスキルを使用して、想像上の世界を通じる一人称視点のシミュレーションを作成します。
       - 
-        title: "What do I need to know?"
+        title: "必要な知識"
         content: |
           This path is for creators comfortable with using Scratch.
           If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
       - 
-        title: "What do I need?"
+        title: "必要なもの"
         content: |
           This path requires:
 
@@ -121,16 +121,16 @@ ja:
           You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
   scratch-module-1:
     title: "Scratch: Module 1"
-    description: Learn how to program your own interactive stories, games and animations.
+    description: 自分自身のインタラクティブなストーリー、ゲーム、アニメーションをプログラムする方法を学びます。
   scratch-module-2:
     title: "Scratch: Module 2"
-    description: Learn how to program your own interactive stories, games and animations.
+    description: 自分自身のインタラクティブなストーリー、ゲーム、アニメーションをプログラムする方法を学びます。
   scratch-module-3:
     title: "Scratch: Module 3"
-    description: Learn how to program your own interactive stories, games and animations.
+    description: 自分自身のインタラクティブなストーリー、ゲーム、アニメーションをプログラムする方法を学びます。
   scratch-additional-projects:
     title: "Scratch: Additional Projects"
-    description: Learn how to program your own interactive stories, games and animations.
+    description: 自分自身のインタラクティブなストーリー、ゲーム、アニメーションをプログラムする方法を学びます。
   webdev-module-1:
     title: "HTML & CSS: Module 1"
     description: Build and style your own web pages.
@@ -139,22 +139,22 @@ ja:
     description: Build and style your own web pages.
   python-intro:
     title: "Introduction to Python: Variables, functions, and loops"
-    description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
+    description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
     meta_title: Project path | Intro to Python for kids | Raspberry Pi
-    meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+    meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作ります。
     header:
       - 
-        title: "What will I create?"
+        title: "作るもの"
         content: |
-          Make interactive projects, art, games, and a simulation.
-          By the end of this path you will have created a scalable piece of geometric art.
+          インタラクティブなプロジェクト、アート、ゲーム、シミュレーションを作成します。
+          このパスの終わりまでに拡大縮小ができる幾何学的アートを作成します。
       - 
-        title: "What do I need to know?"
+        title: "必要な知識"
         content: |
           - Basic typing and computer navigation skills
           - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
       - 
-        title: "What do I need?"
+        title: "必要なもの"
         content: |
           - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
           - Optionally, a Trinket account to save projects.
@@ -181,17 +181,17 @@ ja:
     meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
     header:
       - 
-        title: "What will I create?"
+        title: "作るもの"
         content: |
-          Visualise data by creating interactive charts, a simulator, and pieces of art.
-          By the end of this path you will have created a unique data visualisation on a topic of your choice
+          インタラクティブなチャート、シミュレーター、アート作品を作成してデータを視覚化します。
+          このパスの終わりまでに、選択したトピックについて独自のデータ視覚化を行います。
       - 
-        title: "What do I need to know?"
+        title: "必要な知識"
         content: |
           - This path is for creators comfortable with using Python.
           - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
       - 
-        title: "What do I need?"
+        title: "必要なもの"
         content: |
           - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
           - Optionally, a Trinket account to save projects.
@@ -218,23 +218,23 @@ ja:
     title: "Python: Module 2"
     description: Python is a widely used, general purpose, text-based programming language.
   unity-intro:
-    title: "Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons"
-    description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
+    title: "Unity入門: 3Dオブジェクト、キャラクターコントローラー、コライダー、テキスト、ボタン"
+    description: このUnity入門では、収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界やゲームを作成する方法を学びます。
     meta_title: Project path | Unity coding for kids | Raspberry Pi
-    meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+    meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのUnityコーディング入門。これらの無料リソースを使用して3Dの世界やゲームを作る方法を学びましょう。
     header:
       - 
-        title: "What will I create?"
+        title: "作るもの"
         content: |
-          Make 3D worlds and games with collectibles, timers and non-player characters.
-          By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+          収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界とゲームを作成します。
+          このパスの終わりまでに、新しいスキルを使用して、スターキャッチャーゲーム、探求の世界、および 3Dアドベンチャーを作ります。
       - 
-        title: "What do I need to know?"
+        title: "必要な知識"
         content: |
           - Basic typing and computer navigation skills
           - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
       - 
-        title: "What do I need?"
+        title: "必要なもの"
         content: |
           This path requires a large download and installation which you should complete before you start the first project.
 
@@ -264,16 +264,16 @@ ja:
     meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
     header:
       - 
-        title: "What will I create?"
+        title: "作るもの"
         content: |
-          Make games, interactive devices, and a musical instrument.
-          By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
+          インタラクティブなデバイスや楽器を作成します。
+          このパスの終わりまでに、新しいスキルを使って、複数のページを持つ電子書籍の著者になります。
       - 
-        title: "What do I need to know?"
+        title: "必要な知識"
         content: |
           This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
       - 
-        title: "What do I need?"
+        title: "必要なもの"
         content: |
           - A Raspberry Pi Computer
           - Various wires
@@ -298,17 +298,17 @@ ja:
     meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
     header:
       - 
-        title: "What will I create?"
+        title: "作るもの"
         content: |
-          Program and craft interactive devices with light and sound.
-          By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
+          光と音でインタラクティブに動作するデバイスをプログラミングして作成します。
+          このパスの終わりまでに、新しいスキルを使用して、人々がやり取りし続けたいと思う感知機能のあるユニークなガジェットを作成します
       - 
-        title: "What do I need to know?"
+        title: "必要な知識"
         content: |
           - Basic typing and computer navigation skills
           - This path is for beginners to physical computing
       - 
-        title: "What do I need?"
+        title: "必要なもの"
         content: |
           ## Hardware
           You can purchase all the required hardware for this  path from the:
@@ -372,4 +372,4 @@ ja:
     description: Learn HTML & CSS by creating a website about bird conservation.
   getting-started-with-raspberry-pi:
     title: Get started with Raspberry Pi
-    description: Set up your Raspberry Pi and see what it can do!
+    description: Raspberry Piをセットアップして、何ができるか見てみましょう。
