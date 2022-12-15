@@ -120,25 +120,25 @@ ja:
           クリエイターは、[プロジェクト提出フォーム] (https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
           [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
   scratch-module-1:
-    title: "Scratch: Module 1"
+    title: "Scratch: モジュール1"
     description: 自分自身のインタラクティブなストーリー、ゲーム、アニメーションをプログラムする方法を学びます。
   scratch-module-2:
-    title: "Scratch: Module 2"
+    title: "Scratch: モジュール2"
     description: 自分自身のインタラクティブなストーリー、ゲーム、アニメーションをプログラムする方法を学びます。
   scratch-module-3:
-    title: "Scratch: Module 3"
+    title: "Scratch: モジュール3"
     description: 自分自身のインタラクティブなストーリー、ゲーム、アニメーションをプログラムする方法を学びます。
   scratch-additional-projects:
-    title: "Scratch: Additional Projects"
+    title: "Scratch: 追加のプロジェクト"
     description: 自分自身のインタラクティブなストーリー、ゲーム、アニメーションをプログラムする方法を学びます。
   webdev-module-1:
-    title: "HTML & CSS: Module 1"
-    description: Build and style your own web pages.
+    title: "HTMLとCSS: モジュール1"
+    description: 自分のウェブページを構築しスタイルを設定します。
   webdev-module-2:
-    title: "HTML & CSS: Module 2"
-    description: Build and style your own web pages.
+    title: "HTMLとCSS: モジュール2"
+    description: 自分のウェブページを構築しスタイルを設定します。
   python-intro:
-    title: "Introduction to Python: Variables, functions, and loops"
+    title: "Python入門: 変数、関数、ループ"
     description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
     meta_title: Project path | Intro to Python for kids | Raspberry Pi
     meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作ります。
@@ -151,8 +151,8 @@ ja:
       - 
         title: "必要な知識"
         content: |
-          - Basic typing and computer navigation skills
-          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+          - 基本的なタイピングとコンピューター操作のスキル
+          - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}のコーディング経験があると役立ちます
       - 
         title: "必要なもの"
         content: |
@@ -175,10 +175,10 @@ ja:
           ## コミュニティに刺激を与える
           クリエイターは、[プロジェクト提出フォーム] (https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
   more-python:
-    title: "More Python: Lists, dictionaries, and data"
-    description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
-    meta_title: Project path | More Python projects for kids | Raspberry Pi
-    meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
+    title: "Python続編: リスト、辞書、データ"
+    description: Python続編は、Python入門で紹介した基本を超えて行きます。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
+    meta_title: プロジェクトパス | 子ども向けのPythonプロジェクト続編 | Raspberry Pi
+    meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPythonプロジェクト続編です。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
     header:
       - 
         title: "作るもの"
@@ -212,15 +212,15 @@ ja:
           ## コミュニティに刺激を与える
           クリエイターは、[プロジェクト提出フォーム] (https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
   python-module-1:
-    title: "Python: Module 1"
+    title: "Python: モジュール1"
     description: Python is a widely used, general purpose, text-based programming language.
   python-module-2:
-    title: "Python: Module 2"
+    title: "Python: モジュール2"
     description: Python is a widely used, general purpose, text-based programming language.
   unity-intro:
     title: "Unity入門: 3Dオブジェクト、キャラクターコントローラー、コライダー、テキスト、ボタン"
     description: このUnity入門では、収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界やゲームを作成する方法を学びます。
-    meta_title: Project path | Unity coding for kids | Raspberry Pi
+    meta_title: プロジェクトパス | 子ども向けのUnityコーディング | Raspberry Pi
     meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのUnityコーディング入門。これらの無料リソースを使用して3Dの世界やゲームを作る方法を学びましょう。
     header:
       - 
@@ -231,8 +231,8 @@ ja:
       - 
         title: "必要な知識"
         content: |
-          - Basic typing and computer navigation skills
-          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+          - 基本的なタイピングとコンピューター操作のスキル
+          - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}または[Python](https://projects.raspberrypi.org/en/pathways/python){:target="_blank"}のコーディング経験
       - 
         title: "必要なもの"
         content: |
@@ -258,10 +258,10 @@ ja:
           クリエイターは、[プロジェクト提出フォーム] (https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分のプロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトは匿名でコミュニティギャラリーに共有されます。
           [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"}方法についてガイドをご覧ください。
   physical-computing-with-scratch-and-the-raspberry-pi:
-    title: Physical computing with Scratch and the Raspberry Pi
-    description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
-    meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
-    meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+    title: ScratchとRaspberryPiを使用した物理コンピューティング
+    description: ScratchとRaspberry Piコンピューターで入出力機器を使う方法を学びます。
+    meta_title: プロジェクトパス | 子ども向けのScratchコーディング | Raspberry Pi
+    meta_description: Raspberry Piコンピューター上のScratchで入出力機器を使う方法を学びます。子ども、ティーンエイジャー、ヤングアダルト向けのScratchコーディングの無料リソース。
     header:
       - 
         title: "作るもの"
@@ -292,10 +292,10 @@ ja:
           ##クイッククイズ
           各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
   pico-intro:
-    title: "Introduction to Raspberry Pi Pico: LEDs, buzzers, switches, and dials"
-    description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
-    meta_title: Project path | Introduction to the Raspberry Pi Pico
-    meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+    title: "Raspberry Pi Pico入門: LED、ブザー、スイッチ、ダイヤル"
+    description: この初心者向けのRaspberry Pi Picoを使ったデジタル工作入門では、LED、ボタン、スイッチ、ブザー、ポテンショメーター（ダイヤル） の接続および制御方法を学びます。
+    meta_title: プロジェクトパス | Raspberry Pi Pico入門
+    meta_description: この初心者向けのRaspberry Pi Picoを使ったデジタル工作入門では、LED、ボタン、スイッチ、ブザーなどの接続および制御方法を学びます。
     header:
       - 
         title: "作るもの"
@@ -336,7 +336,7 @@ ja:
           クリエイターは、[プロジェクト提出フォーム] (https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトのビデオを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
   raspberry-pi:
     title: Raspberry Pi
-    description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+    description: Raspberry Piは電子工作プロジェクトで使用できる性能のよい小さなコンピュータで、デスクトップパソコンで行うことの多くに向いています。
   sense-hat:
     title: Sense HAT
     description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
@@ -353,8 +353,8 @@ ja:
     title: Protect our planet
     description: Use Scratch to learn about our planet and how to protect the environment for future generations
   coderdojo-html_css:
-    title: CoderDojo HTML & CSS
-    description: Create websites by following these projects.
+    title: CoderDojo HTMLとCSS
+    description: これらのプロジェクトに従ってウェブサイトを作りましょう。
   coderdojo-scratch:
     title: CoderDojo Scratch
     description: Learn Scratch by working through these fun projects!
@@ -368,8 +368,8 @@ ja:
     title: Scratch for social innovation
     description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
   html-css-for-social-enterprise:
-    title: HTML & CSS for social innovation
-    description: Learn HTML & CSS by creating a website about bird conservation.
+    title: HTMLとCSSによるソーシャルイノベーション
+    description: 鳥の保全についてのウェブサイトを作成して、HTMLとCSSを学びましょう。
   getting-started-with-raspberry-pi:
     title: Get started with Raspberry Pi
     description: Raspberry Piをセットアップして、何ができるか見てみましょう。
