@@ -53,8 +53,8 @@ ja:
       - 
         title: "必要な知識"
         content: |
-          This path is for creators comfortable with using Scratch.
-          If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+          このパスはScratchの使用に慣れているクリエイター向けです。
+          Scratchを初めて使用する場合は、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスを試すことができます。
       - 
         title: "必要なもの"
         content: |
@@ -93,8 +93,8 @@ ja:
       - 
         title: "必要な知識"
         content: |
-          This path is for creators comfortable with using Scratch.
-          If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
+          このパスはScratchの使用に慣れているクリエイター向けです。
+          Scratchを初めて使用する場合は、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスまたは[Scratch続編](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"}パスを試すことができます。
       - 
         title: "必要なもの"
         content: |
@@ -188,8 +188,8 @@ ja:
       - 
         title: "必要な知識"
         content: |
-          - This path is for creators comfortable with using Python.
-          - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
+          - このパスはPythonの使用に慣れているクリエイター向けです。
+          - Pythonを初めて使用する場合は、[Python入門](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}パスを試すことができます。
       - 
         title: "必要なもの"
         content: |
@@ -271,7 +271,7 @@ ja:
       - 
         title: "必要な知識"
         content: |
-          This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+          このパスはScratchと物理コンピューティングの初心者向けです。ただし、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスを先に終わらせることもできます。
       - 
         title: "必要なもの"
         content: |
