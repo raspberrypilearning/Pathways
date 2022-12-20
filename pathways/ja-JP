@@ -140,7 +140,7 @@ ja:
   python-intro:
     title: "Python入門: 変数、関数、ループ"
     description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
-    meta_title: Project path | Intro to Python for kids | Raspberry Pi
+    meta_title: プロジェクトパス | 子ども向けのPython入門 | Raspberry Pi
     meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作ります。
     header:
       - 
@@ -213,7 +213,7 @@ ja:
           クリエイターは、[プロジェクト提出フォーム] (https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
   python-module-1:
     title: "Python: モジュール1"
-    description: Python is a widely used, general purpose, text-based programming language.
+    description: Pythonは一般的な用途に広く使われている、テキストベースのプログラミング言語です。
   python-module-2:
     title: "Python: モジュール2"
     description: Python is a widely used, general purpose, text-based programming language.
