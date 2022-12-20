@@ -156,9 +156,9 @@ ja:
       - 
         title: "必要なもの"
         content: |
-          - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
-          - Optionally, a Trinket account to save projects.
-          Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+          - オンラインのコーディングプラットフォーム である[Trinket](https://trinket.io){:target="_blank"}を実行できるコンピューターまたはモバイルデバイス。
+          - オプションでプロジェクトを保存するためのTrinketアカウント。
+          Trinketの詳細はウェブサイトの[Trinket FAQ](https://trinket.io/faq){:target="_blank"}でご覧いただけます
       - 
         title: "メンター情報"
         content: |
@@ -193,9 +193,9 @@ ja:
       - 
         title: "必要なもの"
         content: |
-          - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
-          - Optionally, a Trinket account to save projects.
-          Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+          - オンラインのコーディングプラットフォーム である[Trinket](https://trinket.io){:target="_blank"}を実行できるコンピューターまたはモバイルデバイス。
+          - オプションでプロジェクトを保存するためのTrinketアカウント。
+          Trinketの詳細はウェブサイトの[Trinket FAQ](https://trinket.io/faq){:target="_blank"}でご覧いただけます
       - 
         title: "メンター情報"
         content: |
@@ -216,7 +216,7 @@ ja:
     description: Pythonは一般的な用途に広く使われている、テキストベースのプログラミング言語です。
   python-module-2:
     title: "Python: モジュール2"
-    description: Python is a widely used, general purpose, text-based programming language.
+    description: Pythonは一般的な用途に広く使われている、テキストベースのプログラミング言語です。
   unity-intro:
     title: "Unity入門: 3Dオブジェクト、キャラクターコントローラー、コライダー、テキスト、ボタン"
     description: このUnity入門では、収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界やゲームを作成する方法を学びます。
@@ -275,11 +275,11 @@ ja:
       - 
         title: "必要なもの"
         content: |
-          - A Raspberry Pi Computer
-          - Various wires
-          - Single colour LEDs, buzzers, and resistors
-          - Scratch 3 desktop version installed
-          - Craft items including aluminium foil
+          - Raspberry Piコンピューター
+          - 各種ケーブル
+          - 単色LED、ブザー、および抵抗器
+          - Scratch 3デスクトップ版のインストール
+          - アルミホイルなどの工作アイテム
       - 
         title: "メンター情報"
         content: |
@@ -339,37 +339,37 @@ ja:
     description: Raspberry Piは電子工作プロジェクトで使用できる性能のよい小さなコンピュータで、デスクトップパソコンで行うことの多くに向いています。
   sense-hat:
     title: Sense HAT
-    description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+    description: Sense HATは、LED、ジョイスティック、多くのセンサーなどを含む、Raspberry Piのアドオンボードです。
   sonic-pi:
     title: Sonic Pi
-    description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+    description: Sonic Piは新しい種類の楽器で、コードで音を作るように設計されています。
   microbit:
     title: "BBC micro:bit"
-    description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+    description: "BBC micro:bitはプログラムできるポケットサイズのコンピューターで、創造性を発揮することを可能にします。"
   look-after-yourself:
-    title: Look after yourself
-    description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+    title: 自分をいたわる
+    description: Scratchの使い方や独立したプログラマーになる方法を学びながら、自分のいたわり方を学びましょう。
   protect-our-planet:
-    title: Protect our planet
-    description: Use Scratch to learn about our planet and how to protect the environment for future generations
+    title: 地球を守る
+    description: Scratchを使って地球について学び、次世代のために環境を保護する方法を学びましょう
   coderdojo-html_css:
     title: CoderDojo HTMLとCSS
     description: これらのプロジェクトに従ってウェブサイトを作りましょう。
   coderdojo-scratch:
     title: CoderDojo Scratch
-    description: Learn Scratch by working through these fun projects!
+    description: 楽しいプロジェクトを通じてScratchを学びましょう！
   coderdojo-wearables:
-    title: CoderDojo Wearables
-    description: Create wearable technology projects by following these projects.
+    title: CoderDojoウェアラブル
+    description: これらのプロジェクトに従ってウェアラブル技術のプロジェクトを作りましょう。
   app-inventor-for-social-enterprise:
-    title: App Inventor for social innovation
-    description: Learn to make apps for Android devices by doing projects that can help people in your community.
+    title: App Inventorによるソーシャルイノベーション
+    description: コミュニティで役立つプロジェクトを通じてAndroidデバイスのアプリ作成について学びましょう。
   scratch-for-social-enterprise:
-    title: Scratch for social innovation
-    description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+    title: Scratchによるソーシャルイノベーション
+    description: 初心者に優しいグラフィカルプログラミング言語であるScratchを学び、重要課題について学ぶのに役立つアプリやゲームを作成します。
   html-css-for-social-enterprise:
     title: HTMLとCSSによるソーシャルイノベーション
     description: 鳥の保全についてのウェブサイトを作成して、HTMLとCSSを学びましょう。
   getting-started-with-raspberry-pi:
-    title: Get started with Raspberry Pi
-    description: Raspberry Piをセットアップして、何ができるか見てみましょう。
+    title: Raspberry Pi入門
+    description: Raspberry Piをセットアップして何ができるか見てみましょう！
