@@ -2,7 +2,8 @@
 en:
   pathways:
     scratch-intro:
-      title: "Introduction to Scratch: sprites, scripts, and loops"
+      title: "Introduction to Scratch"
+      subtitle: "sprites, scripts, and loops"
       description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
       meta_title: Project path | Intro to Scratch programming for kids
       meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
@@ -37,7 +38,8 @@ en:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide 
     more-scratch:
-      title: "More Scratch: broadcast, decisions and variables"
+      title: "More Scratch"
+      subtitle: "broadcast, decisions and variables"
       description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
       meta_title: Project path | More Scratch for kids | Raspberry Pi
       meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
@@ -73,7 +75,8 @@ en:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide 
     further-scratch:
-      title: "Further Scratch: clones, my blocks, and boolean logic"
+      title: "Further Scratch"
+      subtitle: "clones, my blocks, and boolean logic"
       description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
       meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
       meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
@@ -128,7 +131,8 @@ en:
       title: "HTML & CSS: Module 2"
       description: Build and style your own web pages.
     python-intro: 
-      title: "Introduction to Python: Variables, functions, and loops"
+      title: "Introduction to Python"
+      subtitle: "Variables, functions, and loops"
       description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more. 
       meta_title: Project path | Intro to Python for kids | Raspberry Pi
       meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
@@ -161,7 +165,8 @@ en:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-intro-code-editor:
-      title: "Introduction to Python: Variables, functions, and loops"
+      title: "Introduction to Python"
+      subtitle: "variables, functions, and loops"
       description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more. 
       meta_title: Project path | Intro to Python for kids | Raspberry Pi
       meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
@@ -194,7 +199,8 @@ en:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     more-python: 
-      title: "More Python: Lists, dictionaries, and data"
+      title: "More Python"
+      subtitle: "lists, dictionaries, and data"
       description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork. 
       meta_title: Project path | More Python projects for kids | Raspberry Pi
       meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
@@ -233,7 +239,8 @@ en:
       title: "Python: Module 2"
       description: Python is a widely used, general purpose, text-based programming language.
     unity-intro: 
-      title: "Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons"
+      title: "Introduction to Unity"
+      subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
       description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
       meta_title: Project path | Unity coding for kids | Raspberry Pi
       meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources. 
@@ -299,7 +306,8 @@ en:
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
     pico-intro: 
-      title: "Introduction to Raspberry Pi Pico: LEDs, buzzers, switches, and dials"
+      title: "Introduction to Raspberry Pi Pico"
+      subtitle: "LEDs, buzzers, switches, and dials"
       description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
       meta_title: Project path | Introduction to the Raspberry Pi Pico
       meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
@@ -380,8 +388,9 @@ en:
       meta_title: Life on Earth Astro Pi resources
       meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
     web-intro:
-      meta_title: Project path | Introduction to Web
-      meta_description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
+      title: Introduction to Web
+      subtitle: HTML, CSS, and animations
+      description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
       meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
       meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
       header:
