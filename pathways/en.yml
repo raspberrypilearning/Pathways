@@ -425,10 +425,10 @@ en:
       meta_title: Introduction to the Sense HAT
       meta_description: Sense HAT, Astro Pi, Mission Zero
     experience-ai-challenge-music-quest:
-      title: "ExperienceAI Challenge: Music Quest"
+      title: "Experience AI Challenge: Music Quest"
       subtitle: "Stream the soundtrack to your life with AI"
       description: The Experience AI Music Quest is a series of sessions that will teach you how to design and create your own 'AI DJ' using Scratch, Machine Learning for Kids, and the Spotify API.  
-      meta_title: Project path | ExperienceAI Challenge - Music Quest 
+      meta_title: Project path | Experience AI Challenge - Music Quest 
       meta_description: Introduction to Scratch programming and Machine Learning for kids, teenagers and young adults. Learn how to classify data into an ML model and use it to predict music you will like.
       header:
         - title: "What will I create?"
@@ -450,10 +450,10 @@ en:
           content: |
             ## Experience AI Challenge: Music Quest
 
-            This pathway provides the content for young creators to begin their first forays into creating with machine learning and artificial intelligence as part of the ExperienceAI Challenge.
+            This pathway provides the content for young creators to begin their first forays into creating with machine learning and artificial intelligence as part of the Experience AI Challenge.
 
             The Music Quest takes around five hours of project time to complete and is designed to be flexible in delivery - it can be run as individual sessions or a single-day 'hackathon'. The content also provides the opportunity to continue work on projects between stages.
 
             The [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contains instructions for creating the needed accounts, running notes for each stage of the Quest, as well as debugging tips and suggestions for extra features creators can add.
 
-            It also contains instructions for submitting your Creators' finished apps to the ExperienceAI Showcase, to be appreciated and shortlisted by a panel of industry experts and researchers. Shortlisted entrants will be invited to attend our special showcase event, in collaboration with Google Deepmind!
+            It also contains instructions for submitting your Creators' finished apps to the Experience AI Showcase, to be appreciated and shortlisted by a panel of industry experts and researchers. Shortlisted entrants will be invited to attend our special showcase event, in collaboration with Google Deepmind!
