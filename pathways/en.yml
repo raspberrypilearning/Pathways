@@ -278,7 +278,7 @@ en:
     more-unity: 
       title: "More Unity"
       subtitle: "Physics and Materials"
-      description: In this More Unity path you will use physics and materials to create interactive 3d puzzle worlds with custom designed marbles.
+      description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
       meta_title: Project path | Unity coding for kids | Raspberry Pi
       meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources. 
       header:
@@ -289,7 +289,7 @@ en:
         - title: "What do I need to know?"
           content: |
             - Familiarity with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path
-            - Experience coding in C#(https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} 
+            - Experience coding in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} 
         - title: "What do I need?"
           content: |
             This path requires a large download and installation which you should complete before you start the first project.
