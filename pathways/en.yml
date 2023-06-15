@@ -277,7 +277,7 @@ en:
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     more-unity: 
       title: "More Unity"
-      subtitle: "Physics and Materials"
+      subtitle: "Rigidbodies, Physics and Materials"
       description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
       meta_title: Project path | Unity coding for kids | Raspberry Pi
       meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources. 
