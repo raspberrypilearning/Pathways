@@ -278,7 +278,7 @@ en:
     more-unity: 
       title: "More Unity"
       subtitle: "Rigidbodies, Physics and Materials"
-      description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
+      description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles. To see what you can create in Unity and try out some mini challenges, have a look at our [Discover Project](https://projects.raspberrypi.org/en/projects/collisions-and-colours?branch=master){:target="_blank"}
       meta_title: Project path | Unity coding for kids | Raspberry Pi
       meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources. 
       header:
