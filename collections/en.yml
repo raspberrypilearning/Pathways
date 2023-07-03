@@ -3,25 +3,25 @@ en:
   collections:
     scratch:
       title: "Scratch"
-      description: "Begin your adventure in Digital Making, by learning to code animations, stories and games in Scratch."
+      description: "Begin your adventure in digital making, by learning to code animations, stories, and games in Scratch."
       meta_description: "scratch, kids, child, children, coding, programming, games, animations"
       additional_paths_title: "Additional Scratch paths"
       additional_paths_description: "Additional Scratch paths to help you continue on your coding journey."
     python:
       title: "Python"
-      description: "Python is one of the world's most popular languages, for fun and for work."
+      description: "Learn about Python one of the world’s most popular programming languages to create digital art, interactive maps and models."
       meta_description: "python, kids, child, children, coding, programming, games, animations"
       additional_paths_title: "Additional Python paths"
       additional_paths_description: "Additional Python paths to help you continue on your coding journey."
     html_and_css:
-      title: "Web Design"
-      description: "Build websites and apps by learning HTML, CSS and JavaScript, and share with your friends."
+      title: "Web design"
+      description: "Build websites and apps by learning HTML, CSS, and JavaScript, and share with your friends."
       meta_description: "web, html, css, javascript, websites, hild, children, coding, programming"
       additional_paths_title: "Additional web design paths"
       additional_paths_description: "Additional web design paths to help you continue on your coding journey."
     physical_computing:
-      title: "Physical Computing"
-      description: "Control and interact with the real world using code."
+      title: "Physical computing"
+      description: "Control and interact with the real world combining code with electronics."
       meta_description: "physical computing, electronics, iot, internet of things, kids, child, children, coding, programming"
       additional_paths_title: "Additional Physical Computing paths"
       additional_paths_description: "Additional Physical Computing paths to help you continue on your coding journey."
