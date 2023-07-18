@@ -494,3 +494,23 @@ en:
             The [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contains instructions for creating the needed accounts, running notes for each stage of the Quest, as well as debugging tips and suggestions for extra features creators can add.
 
             It also contains instructions for submitting your Creators' finished apps to the Experience AI Showcase, to be appreciated and shortlisted by a panel of industry experts and researchers. Shortlisted entrants will be invited to attend our special showcase event, in collaboration with Google Deepmind!
+    prepare-to-run-a-code-club:
+      title: "Prepare to run a Code Club"
+      subtitle: "Your first steps toward running a Code Club for young people."
+      description: In this course, we’ll be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.  
+      meta_title: Project path | Prepare to run a Code Club
+      meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+      header:
+        - title: "What will I learn?"
+          content: |
+            In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements. 
+        - title: "What do I need to know?"
+          content: |
+          This course will be useful to you if;
+		        * You would like to volunteer at a club in your community, helping young people learn how to code
+		        * You are a teacher who wants to set up an extracurricular coding club for the students in your school.
+        - title: "What do I need?"
+          content: |
+            This path requires:
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch and other applications online.
