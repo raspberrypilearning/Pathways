@@ -497,7 +497,7 @@ en:
     prepare-to-run-a-code-club:
       title: "Prepare to run a Code Club"
       subtitle: "Your first steps toward running a Code Club for young people."
-      description: In this course, we’ll be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.  
+      description: In this course, we will be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.  
       meta_title: Project path | Prepare to run a Code Club
       meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
       header:
@@ -512,3 +512,4 @@ en:
             This path requires:
             - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
             - Access to the internet to use Scratch and other applications online.
+
