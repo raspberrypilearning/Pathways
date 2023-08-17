@@ -524,43 +524,43 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            This path requires:
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch and Machine Learning 4 Kids online.
-            - A [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}account. (Instructions available in the Mentor Guide below.)
-            - Headphones (recommended) or speakers
-            - A copy of the [Creator Blueprint document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
+            このパスには次のものが必要です。
+            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Pi コンピューター
+            - Scratch および Machine Learning 4 Kids をオンラインで使用するためのインターネットへの接続
+            - [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}のアカウント (手順については、以下のメンター ガイドをご覧ください。)
+            - ヘッドフォン (推奨) またはスピーカー
+            - [クリエイター ブループリント ドキュメント](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:ターゲット="_blank"}のコピー
         - 
-          title: "Mentor information"
+          title: "メンター情報"
           content: |
-            ## Experience AI Challenge: Music Quest
+            ## Experience AI チャレンジ: Music Quest
 
-            This pathway provides the content for young creators to begin their first forays into creating with machine learning and artificial intelligence as part of the Experience AI Challenge.
+            このパスウェイは、若いクリエイターが Experience AI チャレンジの一環として機械学習と人工知能を使った創作に初めて挑戦するためのコンテンツを提供します。
 
-            The Music Quest takes around five hours of project time to complete and is designed to be flexible in delivery - it can be run as individual sessions or a single-day 'hackathon'. The content also provides the opportunity to continue work on projects between stages.
+            Music Quest は完了までに約 5 時間のプロジェクト時間を要し、柔軟に実施できるように設計されています。個別のセッションまたは 1 日の「ハッカソン」として実行できます。このコンテンツは、ステージ間でプロジェクトの作業を継続する機会も提供します。
 
-            The [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contains instructions for creating the needed accounts, running notes for each stage of the Quest, as well as debugging tips and suggestions for extra features creators can add.
+            [クエストのメンター ガイド](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) には、必要なアカウントの作成方法、クエストの各段階のメモの実行方法、およびデバッグのヒントと、作成者が追加できる追加機能の提案が含まれています。
 
-            It also contains instructions for submitting your Creators' finished apps to the Experience AI Showcase, to be appreciated and shortlisted by a panel of industry experts and researchers. Shortlisted entrants will be invited to attend our special showcase event, in collaboration with Google Deepmind!
+            また、クリエイターが完成したアプリを Experience AI Showcase に提出して、業界の専門家や研究者からなるパネルによって評価され、最終候補に挙げられるようにするための手順も含まれています。最終候補者リストに残った参加者は、Google Deepmind と協力した特別なショーケース イベントに招待されます。
     prepare-to-run-a-code-club:
-      title: "Prepare to run a Code Club"
-      subtitle: "Your first steps toward running a Code Club for young people."
-      description: In this course, we will be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.
-      meta_title: Project path | Prepare to run a Code Club
-      meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+      title: "Code Clubを運営する準備をする"
+      subtitle: "若者向けにCode Clubを運営するための最初のステップ。"
+      description: このコースでは、Code Club を始めるための段階的なガイダンスを提供します。計画と設定の実践から始まり、最初のセッションの計画と実施までをガイドし、最後に学習者のモチベーションを高め、成果を祝う方法に関するアイデアとヒントで終わります。
+      meta_title: プロジェクト パス | Code Club を運営する準備をする
+      meta_description: このコースでは、初期設定と計画から最初のセッションの実施、そして最後に学習者のモチベーションを高めて成果を祝うまで、Code Club の立ち上げについて説明します。
       header:
         - 
-          title: "What will I learn?"
+          title: "何を学べますか?"
           content: |
-            In this course, we will guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+            このコースでは、初期設定と計画から最初のセッションの実施、そして最後に学習者のモチベーションを高めて成果を祝うまで、Code Club の立ち上げについて説明します。
         - 
-          title: "What do I need to know?"
+          title: "必要な知識"
           content: |
-            This course will be useful to you if you would like to volunteer at a club in your community, helping young people learn how to code, or you are a teacher who wants to set up an extracurricular coding club for the students in your school.
+            このコースは、地域のクラブでボランティア活動をして若者がコーディング方法を学ぶのを手助けしたい場合、またはあなたが教師で学校の生徒のために課外コーディング クラブを立ち上げたいと考えている場合に役立ちます。
         - 
-          title: "What do I need?"
+          title: "必要なもの"
           content: |
-            This path requires:
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch and other applications online.
+            このパスには次のものが必要です。
+            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Pi コンピューター
+            - Scratch およびその他のアプリケーションをオンラインで使用するためのインターネットへの接続
 
