@@ -84,7 +84,7 @@ ja:
             [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
     further-scratch:
       title: "Scratch発展編"
-      subtitle: "クローン、ブロック定義、ブールロジック"
+      subtitle: "クローン、ブロック定義、ブール論理"
       description: Scratch応用では、Scratch入門と続編で紹介したスキルを超えて行きます。ブール論理、関数、クローンなどを使用して、アプリ、ゲーム、コンピューターアート、シミュレーションを作ります。
       meta_title: プロジェクトパス | 子ども向けのScratchコーディング応用 | Raspberry Pi
       meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのScratch応用コーディング。これらの無料のコーディングリソースを使用して、アプリ、ゲーム、コンピューターアート、アニメーションを作成します。
@@ -133,7 +133,7 @@ ja:
       title: "Scratch: モジュール3"
       description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
     scratch-additional-projects:
-      title: "スクラッチ：追加のプロジェクト"
+      title: "Scratch: 追加のプロジェクト"
       description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
     webdev-module-1:
       title: "HTMLとCSS: モジュール1"
@@ -467,7 +467,7 @@ ja:
     web-intro:
       title: ウェブ入門
       subtitle: HTML、CSS、アニメーション
-      description: HTML と CSS を使用した 初心者向けの Web 開発のこの入門編では、画像、リスト、フォント、引用、リンク、アニメーションを使用して Web ページを構造化し、スタイルを設定する方法を学びます。
+      description: この初心者向けの、HTMLとCSSを使用したウェブ開発入門編では、画像、リスト、フォント、引用、リンク、アニメーションを使用してウェブページを組み立て、スタイルを設定する方法を学びます。
       meta_title: プロジェクトパス | 子供向けのHTMLとCSS入門 | 子供向けのウェブ開発 | ウェブサイトを作る
       meta_description: 子供、ティーンエイジャー、若者向けの HTML の入門。これらの無料リソースを使用してインタラクティブな Web サイトを作成します。
       header:
@@ -506,7 +506,7 @@ ja:
       meta_title: Sense HATの紹介
       meta_description: Sense Hat、アストロパイ、ミッションゼロ
     experience-ai-challenge-music-quest:
-      title: "AIチャレンジを体験：ミュージック チャレンジクエスト"
+      title: "AIチャレンジを体験: 音楽クエスト"
       subtitle: "AI を使用してサウンドトラックをあなたの生活にストリーミング"
       description: Experience AI Music Quest は、Scratch、子供向け機械学習、Spotify API を使用して独自の「AI DJ」を設計および作成する方法を学ぶ一連のセッションです。
       meta_title: プロジェクトパス |Experience AI チャレンジ - Music Quest
