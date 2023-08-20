@@ -2,59 +2,59 @@
 fr:
   pathways:
     scratch-intro:
-      title: "Introduction to Scratch"
-      subtitle: "sprites, scripts, and loops"
-      description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-      meta_title: Project path | Intro to Scratch programming for kids
-      meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+      title: "Introduction à Scratch"
+      subtitle: "sprites, scripts et boucles"
+      description: Dans cette introduction au codage dans Scratch pour les débutants, tu apprendras à ajouter du code, des costumes et des sons aux sprites lorsque tu crées des animations, un jeu, une application et un livre.
+      meta_title: Parcours du projet | Introduction à la programmation Scratch pour les enfants
+      meta_description: Introduction à la programmation Scratch pour les enfants, les adolescents et les jeunes adultes. Apprends à faire des animations, un jeu, une application et un livre.
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Make interactive projects, animations and create a multiple level game.
-            By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
+            Réalise des projets interactifs, des animations et crée un jeu à plusieurs niveaux.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour devenir l'auteur d'un livre numérique de plusieurs pages.
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
-            This path is ideal for beginners to Scratch.
+            Ce parcours est idéal pour les débutants sur Scratch.
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            This path requires:
+            Ce parcours nécessite :
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile, ou un ordinateur Raspberry Pi
+            - Accès à Internet pour utiliser Scratch en ligne ou la possibilité de télécharger et installer Scratch. Consulte notre [guide d'installation Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/1){:target="_blank"} pour plus d'informations.
+            - Optionnellement, un [compte Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Informations pour le mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Ce parcours fait suite à [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"} :
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - 3 projets **Explorer** pour initier les créateurs à un ensemble de compétences et leur fournir des instructions étape par étape pour les aider à développer leur confiance en soi.
+            - 2 projets **Conception** permettant aux créateurs de mettre en pratique les compétences acquises dans les projets Explorer précédents et de s'exprimer de manière créative tout en développant leur autonomie.
+            - 1 projet **Inventer** dans lequel les créateurs utilisent leurs compétences pour répondre aux exigences d'un projet destiné à un public particulier.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Questionnaire rapide
+            Chaque projet contient une étape de test rapide. Chaque questionnaire contient trois questions à choix multiples. Les créateurs sont guidés pour obtenir la bonne réponse par le biais de commentaires utiles.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+            ##Inspirer la communauté
+            Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions). Les projets seront partagés anonymement dans nos galeries communautaires.
+            Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide
     more-scratch:
-      title: "More Scratch"
-      subtitle: "broadcast, decisions and variables"
-      description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
-      meta_title: Project path | More Scratch for kids | Raspberry Pi
-      meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+      title: "Plus de Scratch"
+      subtitle: "diffusion, décisions et variables"
+      description: Plus de Scratch va au-delà des bases présentées dans Introduction à Scratch. Tu créeras des applications, des jeux et des simulations en utilisant la diffusion de messages, des décisions et des variables si..alors et si..alors..sinon.
+      meta_title: Parcours du projet | Plus de Scratch pour les enfants | Raspberry Pi
+      meta_description: Plus de Scratch pour les enfants, les adolescents et les jeunes adultes. Va au-delà des bases pour coder des applications, des jeux et des animations à l'aide de messages diffusés, avec ces projets gratuits.
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Make interactive projects, simulators, and games.
-            By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
+            Crée des projets interactifs, des simulateurs et des jeux.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer un familier ou un personnage virtuel avec lequel les utilisateurs peuvent interagir.
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
             This path is for creators comfortable with using Scratch.
             If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
