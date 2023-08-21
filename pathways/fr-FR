@@ -468,28 +468,28 @@ fr:
     web-intro:
       title: Introduction au web
       subtitle: HTML, CSS et animations
-      description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
-      meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
-      meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
+      description: Dans cette introduction au développement web avec HTML et CSS pour les débutants, tu apprendras comment structurer et styliser les pages web avec des images, des listes, des polices, des citations, des liens et des animations.
+      meta_title: Parcours du projet | Introduction à l'HTML et le CSS pour les enfants | Développement web pour les enfants | Créer des sites web
+      meta_description: Introduction au code HTML pour les enfants, les adolescents et les jeunes adultes. Crée des sites web interactifs avec ces ressources gratuites.
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Make interactive websites with art, emojis and flip cards.
-            By the end of this path you will have created a website about something you want to share.
+            Crée des sites web interactifs avec de l'art, des émoticônes et des cartes à retourner.
+            À la fin de ce parcours, tu auras créé un site web sur quelque chose que tu souhaites partager.
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
             - Compétences de base en dactylographie et en navigation informatique.
             - Une expérience de codage sur [Scratch](https://projects.raspberrypi.org/fr-Fr/pathways/scratch-intro){:target="_blank"} est un plus
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
-            - Optionally, a Trinket account to save projects.
-            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+            - Un ordinateur ou un appareil mobile capable d'exécuter la plateforme de codage en ligne [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionnellement, un compte Trinket pour enregistrer des projets.
+            Tu trouveras tous les détails sur Trinket dans la [FAQ Trinket](https://trinket.io/faq){:target="_blank"} de leur site web
         - 
-          title: "Mentor information"
+          title: "Informations pour le mentor"
           content: |
             ##321…Make!
             Ce parcours fait suite à [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"} :
@@ -504,64 +504,64 @@ fr:
             ##Inspirer la communauté
             Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Les projets seront partagés anonymement dans nos galeries communautaires.
     sense-hat-intro:
-      meta_title: Introduction to the Sense HAT
+      meta_title: Introduction au Sense HAT
       meta_description: Sense HAT, Astro Pi, Mission Zero
     experience-ai-challenge-music-quest:
-      title: "Experience AI Challenge: Music Quest"
-      subtitle: "Stream the soundtrack to your life with AI"
-      description: The Experience AI Music Quest is a series of sessions that will teach you how to design and create your own 'AI DJ' using Scratch, Machine Learning for Kids, and the Spotify API.
-      meta_title: Project path | Experience AI Challenge - Music Quest
-      meta_description: Introduction to Scratch programming and Machine Learning for kids, teenagers and young adults. Learn how to classify data into an ML model and use it to predict music you will like.
+      title: "Découvre Experience AI : Music Quest"
+      subtitle: "Diffuse la bande-son de ta vie avec l'IA"
+      description: L'Experience AI Music Quest est une série de sessions qui t'apprendront à concevoir et créer ta propre « AI DJ » en utilisant Scratch, Machine Learning for Kids et l'API Spotify.
+      meta_title: 'Parcours du projet | Défi Experience AI : Music Quest'
+      meta_description: Introduction à la programmation Scratch et Machine Learning pour les enfants, les adolescents et les jeunes adultes. Apprends à classer les données dans un modèle ML et utilise-les pour prédire la musique que tu aimeras.
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Make interactive Scratch projects and create and train a Machine Learning model.
-            By the end of this path you will have used your new skills to create an app which can make playlists of music based on your preferences.
+            Réalise des projets Scratch interactifs et crée et entraîne un modèle de Machine Learning.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer une application capable de créer des listes de lecture de musique en fonction de tes préférences.
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
-            This path is ideal for beginners to Scratch and machine learning.
+            Ce parcours est idéal pour les débutants sur Scratch et en machine learning.
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            This path requires:
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch and Machine Learning 4 Kids online.
-            - A [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}account. (Instructions available in the Mentor Guide below.)
-            - Headphones (recommended) or speakers
-            - A copy of the [Creator Blueprint document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
+            Ce parcours nécessite :
+            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile ou un ordinateur Raspberry Pi
+            - Un accès à Internet pour utiliser Scratch et Machine Learning 4 Kids en ligne.
+            - Un compte [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}. (Instructions disponibles dans le guide du mentor ci-dessous.)
+             - Écouteurs (recommandé) ou haut-parleurs
+             - Une copie du [Creator Blueprint document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Informations pour le mentor"
           content: |
-            ## Experience AI Challenge: Music Quest
+            ## Défi Experience AI : Music Quest
 
-            This pathway provides the content for young creators to begin their first forays into creating with machine learning and artificial intelligence as part of the Experience AI Challenge.
+            Ce parcours fournit le contenu permettant aux jeunes créateurs de commencer leurs premières incursions dans la création avec le machine learning et l'intelligence artificielle dans le cadre du Défi Experience AI.
 
-            The Music Quest takes around five hours of project time to complete and is designed to be flexible in delivery - it can be run as individual sessions or a single-day 'hackathon'. The content also provides the opportunity to continue work on projects between stages.
+            Music Quest prend environ cinq heures pour sa réalisation et est conçu pour être flexible dans la livraison. Il peut être organisé sous forme de sessions individuelles ou en « hackathon » d'une journée. Le contenu permet également de continuer à travailler sur des projets entre les étapes.
 
-            The [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contains instructions for creating the needed accounts, running notes for each stage of the Quest, as well as debugging tips and suggestions for extra features creators can add.
+            Le [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contient des instructions pour créer les comptes nécessaires, exécuter des notes pour chaque étape de la quête, ainsi que des conseils de débogage et des suggestions de fonctionnalités supplémentaires que les créateurs peuvent ajouter.
 
-            It also contains instructions for submitting your Creators' finished apps to the Experience AI Showcase, to be appreciated and shortlisted by a panel of industry experts and researchers. Shortlisted entrants will be invited to attend our special showcase event, in collaboration with Google Deepmind!
+            Il contient également des instructions pour soumettre les applications terminées de tes créateurs à l'Experience AI Showcase, afin qu'elles soient appréciées et présélectionnées par un panel d'experts et de chercheurs du secteur. Les participants présélectionnés seront invités à assister à notre showcase spécial, en collaboration avec Google Deepmind !
     prepare-to-run-a-code-club:
-      title: "Prepare to run a Code Club"
-      subtitle: "Your first steps toward running a Code Club for young people."
-      description: In this course, we will be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.
-      meta_title: Project path | Prepare to run a Code Club
-      meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+      title: "Se préparer à animer un Code Club"
+      subtitle: "Vos premiers pas vers la gestion d'un Code Club pour les jeunes."
+      description: Dans ce cours, nous vous proposerons des conseils étape par étape pour démarrer votre Code Club. Nous commencerons par les aspects pratiques de la planification et de la mise en place, nous vous guiderons tout au long de la planification et de la prestation de votre première session, et nous terminerons par des idées et des conseils sur la façon de motiver vos apprenants et de célébrer leurs réalisations.
+      meta_title: Parcours du projet | Se préparer à animer un Code Club
+      meta_description: Dans ce cours, nous vous guiderons tout au long du démarrage de votre Code Club, de la configuration et de la planification initiales à la présentation de votre première session, et enfin, à la motivation et à la célébration des réalisations de vos apprenants.
       header:
         - 
-          title: "What will I learn?"
+          title: "Que vais-je apprendre ?"
           content: |
-            In this course, we will guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+            Dans ce cours, nous vous guiderons tout au long du démarrage de votre Code Club, de la configuration et de la planification initiales à la présentation de votre première session, et enfin, à la motivation et à la célébration des réalisations de vos apprenants.
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
-            This course will be useful to you if you would like to volunteer at a club in your community, helping young people learn how to code, or you are a teacher who wants to set up an extracurricular coding club for the students in your school.
+            Ce cours vous sera utile si vous souhaitez devenir bénévole dans un club de votre communauté, aider les jeunes à apprendre à coder, ou vous êtes un enseignant qui veut mettre en place un club de codage extracurriculaire pour les élèves de votre école.
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            This path requires:
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch and other applications online.
+            Ce chemin nécessite :
+            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile ou un ordinateur Raspberry Pi
+            - Un accès à Internet pour utiliser Scratch et d'autres applications en ligne.
 
