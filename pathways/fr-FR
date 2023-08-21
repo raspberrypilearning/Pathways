@@ -57,7 +57,7 @@ fr:
           title: "Que dois-je savoir ?"
           content: |
             Ce parcours s'adresse aux créateurs qui sont à l'aise avec Scratch.
-            Si tu es nouveau sur Scratch, tu peux essayer notre [Introduction à Scratch](https://projects.raspberrypi.org/fr-Fr/pathways/scratch-intro){:target="_blank"}.
+            Si tu es nouveau sur Scratch, tu peux essayer notre parcours [Introduction à Scratch](https://projects.raspberrypi.org/fr-Fr/pathways/scratch-intro){:target="_blank"}.
         - 
           title: "De quoi ai-je besoin ?"
           content: |
@@ -257,37 +257,37 @@ fr:
             Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Les projets seront partagés anonymement dans nos galeries communautaires.
     python-module-1:
       title: "Python : Module 1"
-      description: Python est un langage de programmation d'usage général et largement utilisé.
+      description: Python est un langage de programmation textuel à usage général largement utilisé.
     python-module-2:
-      title: "Python: Module 2"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python : Module 2"
+      description: Python est un langage de programmation textuel à usage général largement utilisé.
     unity-intro:
-      title: "Introduction to Unity"
-      subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
-      description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
-      meta_title: Project path | Unity coding for kids | Raspberry Pi
-      meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+      title: "Introduction à Unity"
+      subtitle: "Objets 3D, contrôleurs de personnages, collisions, texte et boutons"
+      description: Dans cette introduction à Unity, tu apprendras à créer des mondes et des jeux en 3D avec des collectibles, des timers et des personnages non-joueurs.
+      meta_title: Parcours du projet | Codage Unity pour les enfants | Raspberry Pi
+      meta_description: Introduction au codage Unity pour les enfants, les adolescents et les jeunes adultes. Apprends à créer des mondes et des jeux en 3D à l'aide de ces ressources gratuites.
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Make 3D worlds and games with collectibles, timers and non-player characters.
-            By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+            Crée des mondes et des jeux en 3D avec des collectibles, des timers et des personnages non-joueurs.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer un jeu d'attrape-étoiles, un monde avec des quêtes et une aventure en 3D.
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+            - Compétences de base en dactylographie et en navigation informatique
+            - Expérience de codage sur [Scratch](https://projects.raspberrypi.org/fr-FR/pathways/scratch-intro){:target="_blank"} ou [Python](https://projects.raspberrypi.org/fr-FR/pathways/python-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            This path requires a large download and installation which you should complete before you start the first project.
+            Ce parcours nécessite un téléchargement et une installation volumineux que tu dois effectuer avant de démarrer le premier projet.
 
-            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
-            - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
-            - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
+            - Tu dois installer Unity Hub et Unity Editor pour ton système d'exploitation. Tu peux découvrir comment procéder dans notre [guide Unity](https://projects.raspberrypi.org/fr-FR/projects/unity-guide){:target="_blank"}.
+            - Tu auras également besoin d'un éditeur de code. L'éditeur recommandé est [Visual Studio](https://projects.raspberrypi.org/fr-FR/projects/unity-guide/3){:target="_blank"}.
+            - Tu dois aussi télécharger le [pack de démarrage Unity](https://rpf.io/p/en/explore-a-3d-world-go) de ressources avant de commencer.
         - 
-          title: "Mentor information"
+          title: "Informations pour le mentor"
           content: |
             ##321…Make!
             Ce parcours fait suite à [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"} :
@@ -303,32 +303,32 @@ fr:
             Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Les projets seront partagés anonymement dans nos galeries communautaires.
             Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide.
     more-unity:
-      title: "More Unity"
-      subtitle: "Rigidbodies, Physics and Materials"
-      description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
-      meta_title: Project path | Unity coding for kids | Raspberry Pi
-      meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+      title: "Plus d'Unity"
+      subtitle: "Corps rigides, physique et matériaux"
+      description: Dans ce parcours Plus d'Unity, tu utiliseras la physique et les matériaux pour créer des mondes interactifs en 3D avec des billes personnalisées.
+      meta_title: Parcours du projet | Codage Unity pour les enfants | Raspberry Pi
+      meta_description: Codage Unity pour les enfants, les adolescents et les jeunes adultes. Apprends à créer des mondes et des jeux en 3D à l'aide de ces ressources gratuites.
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Make marble runs and problem solving 3D world projects.
-            By the end of this path you will have used your new skills to create unique materials and use realistic physics in your Unity projects
+            Fais des courses de billes et résous des problèmes dans le cadre de projets en 3D.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer des matériaux uniques et utiliser une physique réaliste dans tes projets Unity
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
-            - Familiarity with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path
-            - Experience coding in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+            - Avoir suivi notre parcours [Introduction à Unity](https://projects.raspberrypi.org/fr-FR/pathways/unity-intro){:target="_blank"}
+            - Expérience de codage en [C#](https:// projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} ou [Python](https://projects.raspberrypi.org/fr-FR/pathways/unity-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            This path requires a large download and installation which you should complete before you start the first project.
+            Ce parcours nécessite un téléchargement et une installation volumineux que tu dois effectuer avant de démarrer le premier projet.
 
-            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
-            - You will also need a code editor. The recommended editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
-            - You will also need to download the [Unity starter package](https://rpf.io/p/en/rainbow-run-go) of assets before starting.
+            - Tu dois installer Unity Hub et Unity Editor pour ton système d'exploitation. Tu peux découvrir comment procéder dans notre [guide Unity](https://projects.raspberrypi.org/fr-FR/projects/unity-guide){:target="_blank"}.
+            - Tu auras également besoin d'un éditeur de code. L'éditeur recommandé est [Visual Studio](https://projects.raspberrypi.org/fr-FR/projects/unity-guide/3){:target="_blank"}.
+            - Tu dois aussi télécharger le [pack de démarrage Unity](https://rpf.io/p/en/explore-a-3d-world-go) de ressources avant de commencer.
         - 
-          title: "Mentor information"
+          title: "Informations pour le mentor"
           content: |
             ##321…Make!
             Ce parcours fait suite à [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"} :
@@ -344,30 +344,30 @@ fr:
             Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Les projets seront partagés anonymement dans nos galeries communautaires.
             Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide.
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Physical computing with Scratch and the Raspberry Pi
-      description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
-      meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
-      meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+      title: L'informatique physique avec Scratch et le Raspberry Pi
+      description: Apprends à utiliser l'électronique d'entrée et de sortie avec Scratch et ton ordinateur Raspberry Pi.
+      meta_title: Parcours du projet | Codage avec Scratch pour les enfants | Raspberry Pi
+      meta_description: 'Apprends à utiliser l''électronique d''entrée et de sortie avec Scratch sur ton ordinateur Raspberry Pi. Des ressources gratuites : coder avec Scratch pour les enfants, les adolescents et les jeunes adultes.'
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Make games, interactive devices, and a musical instrument.
-            By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
+            Réalise des jeux, des appareils interactifs et un instrument de musique.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour devenir l'auteur d'un livre électronique de plusieurs pages.
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
-            This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+            Ce parcours s'adresse aux débutants en Scratch et en informatique physique. Cependant, tu peux d'abord suivre notre parcours [Introduction à Scratch](https://projects.raspberrypi.org/fr-FR/pathways/scratch-intro){:target="_blank"}.
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            - A Raspberry Pi Computer
-            - Various wires
-            - Single colour LEDs, buzzers, and resistors
-            - Scratch 3 desktop version installed
-            - Craft items including aluminium foil
+            - Un ordinateur Raspberry Pi
+            - Divers fils
+            - Des LED de couleur unique, des buzzers et des résistances
+            - Version de bureau Scratch 3 installée
+            - Fabriquer des objets incluant du papier aluminium
         - 
-          title: "Mentor information"
+          title: "Informations pour le mentor"
           content: |
             ##321…Make!
             Ce parcours fait suite à [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"} :
@@ -379,7 +379,7 @@ fr:
             ##Questionnaire rapide
             Chaque projet contient un questionnaire rapide composé de trois questions à choix multiples. Les créateurs sont guidés vers la bonne réponse grâce à des commentaires utiles et reçoivent un badge de projet.
     pico-intro:
-      title: "Introduction to Raspberry Pi Pico"
+      title: "Introduction à Raspberry Pi Pico"
       subtitle: "LED, buzzers, interrupteurs et cadrans"
       description: Dans cette introduction à la création numérique avec Raspberry Pi Pico pour les débutants, tu apprendras à connecter et à contrôler les LED, les boutons, les interrupteurs, les buzzers et les potentiomètres (cadrans).
       meta_title: Parcours du projet | Introduction au Raspberry Pi Pico
@@ -394,7 +394,7 @@ fr:
           title: "Que dois-je savoir ?"
           content: |
             - Compétences de base en dactylographie et en navigation informatique
-            - Ce parcours est destiné aux débutants en système interactif
+            - Ce parcours est destiné aux débutants en informatique physique
         - 
           title: "De quoi ai-je besoin ?"
           content: |
@@ -454,20 +454,20 @@ fr:
       title: App Inventor pour l'innovation sociale
       description: Apprends à créer des applications pour les appareils Android en faisant des projets qui peuvent aider les gens de ta communauté.
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: Scratch pour l'innovation sociale
+      description: Apprends Scratch, un langage de programmation graphique convivial pour les débutants, tout en développant des applications et des jeux afin d'aider les gens s'informer au sujet des problèmes importants.
     html-css-for-social-enterprise:
-      title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      title: HTML et CSS pour l'innovation sociale
+      description: Apprends l'HTML et le CSS en créant un site sur la protection des oiseaux.
     getting-started-with-raspberry-pi:
-      title: Get started with Raspberry Pi
-      description: Set up your Raspberry Pi and see what it can do!
+      title: Démarrer avec Raspberry Pi
+      description: Configure ton Raspberry Pi et vois ce qu'il peut faire !
     life-on-earth:
-      meta_title: Life on Earth Astro Pi resources
-      meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
+      meta_title: Ressources Astro Pi Life on Earth
+      meta_description: Aide à préparer le défi Astro Pi Life on Earth avec cette collection de Raspberry Pi, module Caméra, Sense HAT et Google Coral.
     web-intro:
-      title: Introduction to web
-      subtitle: HTML, CSS, and animations
+      title: Introduction au web
+      subtitle: HTML, CSS et animations
       description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
       meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
       meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
@@ -480,8 +480,8 @@ fr:
         - 
           title: "What do I need to know?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+            - Compétences de base en dactylographie et en navigation informatique.
+            - Une expérience de codage sur [Scratch](https://projects.raspberrypi.org/fr-Fr/pathways/scratch-intro){:target="_blank"} est un plus
         - 
           title: "What do I need?"
           content: |
