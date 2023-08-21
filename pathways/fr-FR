@@ -220,28 +220,28 @@ fr:
     more-python:
       title: "Plus de Python"
       subtitle: "listes, dictionnaires et données"
-      description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
-      meta_title: Project path | More Python projects for kids | Raspberry Pi
-      meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
+      description: Plus de Python va au-delà des bases introduites dans Introduction à Python. Tu apprendras comment utiliser des listes, des dictionnaires et des fichiers pour créer des graphiques, des modèles et des illustrations.
+      meta_title: Parcours du projet | Projets Plus de Python pour les enfants | Raspberry Pi
+      meta_description: Projets Plus de Python pour les enfants, les adolescents et les jeunes adultes. Apprends à utiliser des listes, des dictionnaires et des fichiers pour créer des graphiques, des modèles et des illustrations.
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Visualise data by creating interactive charts, a simulator, and pieces of art.
-            By the end of this path you will have created a unique data visualisation on a topic of your choice
+            Visualise les données en créant des graphiques interactifs, un simulateur et des œuvres d'art.
+            À la fin de ce parcours, tu auras créé une visualisation de données unique sur un sujet de ton choix
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
-            - This path is for creators comfortable with using Python.
-            - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
+            Ce parcours s'adresse aux créateurs qui sont à l'aise avec Python.
+            Si tu es nouveau sur Python, tu peux essayer notre parcours [Introduction à Python](https://projects.raspberrypi.org/fr-Fr/pathways/python-intro){:target="_blank"}.
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
-            - Optionally, a Trinket account to save projects.
-            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+            - Un ordinateur ou un appareil mobile capable d'exécuter la plateforme de codage en ligne [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionnellement, un compte Trinket pour enregistrer des projets.
+            Tu trouveras tous les détails sur Trinket dans la [FAQ Trinket](https://trinket.io/faq){:target="_blank"} de leur site web
         - 
-          title: "Mentor information"
+          title: "Informations pour le mentor"
           content: |
             ##321…Make!
             Ce parcours fait suite à [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"} :
@@ -256,8 +256,8 @@ fr:
             ##Inspirer la communauté
             Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Les projets seront partagés anonymement dans nos galeries communautaires.
     python-module-1:
-      title: "Python: Module 1"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python : Module 1"
+      description: Python est un langage de programmation d'usage général et largement utilisé.
     python-module-2:
       title: "Python: Module 2"
       description: Python is a widely used, general purpose, text-based programming language.
