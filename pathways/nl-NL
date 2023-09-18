@@ -2,31 +2,31 @@
 nl:
   pathways:
     scratch-intro:
-      title: "Introduction to Scratch"
+      title: "Inleiding tot Scratch"
       subtitle: "sprites, scripts, and loops"
       description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-      meta_title: Project path | Intro to Scratch programming for kids
-      meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+      meta_title: Projectpad | Inleiding tot Scratch-programmering voor kinderen
+      meta_description: Inleiding tot Scratch-programmering voor kinderen, tieners en jonge volwassenen. Leer hoe je animaties, een game, een app en een boek maakt.
       header:
         - 
-          title: "What will I create?"
+          title: "Wat ga ik maken?"
           content: |
             Make interactive projects, animations and create a multiple level game.
             By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
-            This path is ideal for beginners to Scratch.
+            Dit pad is ideaal voor beginners.
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
-            This path requires:
+            Dit pad vereist:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
+            - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
+            - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Mentorinformatie"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -42,32 +42,32 @@ nl:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     more-scratch:
-      title: "More Scratch"
-      subtitle: "broadcast, decisions and variables"
-      description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
+      title: "Meer Scratch"
+      subtitle: "signalen verzenden, beslissingen en variabelen"
+      description: Meer Scratch gaat verder na de basis die in Inleiding tot Scratch is geïntroduceerd. Je maakt apps, games en simulaties met behulp van berichten verzenden, als..dan en als..dan..anders beslissingen en variabelen.
       meta_title: Project path | More Scratch for kids | Raspberry Pi
       meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
       header:
         - 
-          title: "What will I create?"
+          title: "Wat ga ik maken?"
           content: |
-            Make interactive projects, simulators, and games.
-            By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
+            Maak interactieve projecten, simulaties en games.
+            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een virtueel huisdier of personage te creëren waarmee gebruikers kunnen communiceren.
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
-            This path is for creators comfortable with using Scratch.
-            If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+            Dit pad is voor makers die vertrouwd zijn met het gebruik van Scratch.
+            Als je nieuw bent bij Scratch, kun je ons pad [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} proberen.
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
-            This path requires:
+            Dit pad vereist:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
+            - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
+            - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Mentorinformatie"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -83,19 +83,19 @@ nl:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     further-scratch:
-      title: "Further Scratch"
-      subtitle: "clones, my blocks, and boolean logic"
-      description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
+      title: "Verder met Scratch"
+      subtitle: "klonen, mijn blokken en booleaanse logica"
+      description: Verder met Scratch gaat verder dan de vaardigheden die zijn geïntroduceerd in Inleiding tot Scratch en Meer Scratch. Je maakt apps, games, door de computer gegenereerde kunst en simulaties met behulp van booleaanse logica, functies, klonen en meer.
       meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
       meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
       header:
         - 
-          title: "What will I create?"
+          title: "Wat ga ik maken?"
           content: |
             Make computer generated art, music, games and simulations.
             By the end of this path you will have used your new skills to create a first person view simulation through an imagined world.
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
             This path is for creators comfortable with using Scratch.
             If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
