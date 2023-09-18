@@ -97,18 +97,18 @@ nl:
         - 
           title: "Wat moet ik weten?"
           content: |
-            This path is for creators comfortable with using Scratch.
-            If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
+            Dit pad is voor makers die vertrouwd zijn met het gebruik van Scratch.
+            Als je nieuw bent bij Scratch, kun je ons pad [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} of ons pad [Meer Scratch] proberen (https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} proberen.
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
-            This path requires:
+            Dit pad vereist:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
+            - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
+            - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Mentorinformatie"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -125,47 +125,47 @@ nl:
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
       title: "Scratch: Module 1"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
     scratch-module-2:
       title: "Scratch: Module 2"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
     scratch-module-3:
       title: "Scratch: Module 3"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
     scratch-additional-projects:
-      title: "Scratch: Additional Projects"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Scratch: Extra projecten"
+      description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
     webdev-module-1:
       title: "HTML & CSS: Module 1"
-      description: Build and style your own web pages.
+      description: Bouw je eigen webpagina's en pas vormgeving toe.
     webdev-module-2:
       title: "HTML & CSS: Module 2"
-      description: Build and style your own web pages.
+      description: Bouw je eigen webpagina's en pas vormgeving toe.
     python-intro:
-      title: "Introduction to Python"
+      title: "Inleiding tot Python"
       subtitle: "Variables, functions, and loops"
       description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
       meta_title: Project path | Intro to Python for kids | Raspberry Pi
       meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "Wat ga ik maken?"
           content: |
-            Make interactive projects, art, games, and a simulation.
-            By the end of this path you will have created a scalable piece of geometric art.
+            Maak interactieve projecten, kunst, games en een simulatie.
+            Aan het einde van dit pad heb je een schaalbaar geometrisch kunstwerk gemaakt.
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
             - Basic typing and computer navigation skills
             - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
             - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
             - Optionally, a Trinket account to save projects.
             Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
-          title: "Mentor information"
+          title: "Mentorinformatie"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -180,30 +180,30 @@ nl:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-intro-code-editor:
-      title: "Introduction to Python"
-      subtitle: "variables, functions, and loops"
-      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
-      meta_title: Project path | Intro to Python for kids | Raspberry Pi
-      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+      title: "Inleiding tot Python"
+      subtitle: "variabelen, functies en lussen"
+      description: In deze inleiding programmeren in Python voor beginners, leer je hoe je variabelen, lussen en functies kunt gebruiken om visuele en interactieve kunstwerken, animaties, simulaties, spelletjes en nog veel meer te maken.
+      meta_title: Projectpad | Inleiding tot Python voor kinderen | Raspberry Pi
+      meta_description: Inleiding tot Python voor kinderen, tieners en jonge volwassenen. Maak interactieve kunst, animaties en games met deze gratis bronnen.
       header:
         - 
-          title: "What will I create?"
+          title: "Wat ga ik maken?"
           content: |
-            Make interactive projects, art, games, and a simulation.
-            By the end of this path you will have created a scalable piece of geometric art.
+            Maak interactieve projecten, kunst, games en een simulatie.
+            Aan het einde van dit pad heb je een schaalbaar geometrisch kunstwerk gemaakt.
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
             - Basic typing and computer navigation skills
             - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
             - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
             - Optionally, a Trinket account to save projects.
             Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
-          title: "Mentor information"
+          title: "Mentorinformatie"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -257,12 +257,12 @@ nl:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
       title: "Python: Module 1"
-      description: Python is a widely used, general purpose, text-based programming language.
+      description: Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
     python-module-2:
       title: "Python: Module 2"
-      description: Python is a widely used, general purpose, text-based programming language.
+      description: Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
     unity-intro:
-      title: "Introduction to Unity"
+      title: "Inleiding tot Unity"
       subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
       description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
       meta_title: Project path | Unity coding for kids | Raspberry Pi
@@ -315,12 +315,12 @@ nl:
             Make marble runs and problem solving 3D world projects.
             By the end of this path you will have used your new skills to create unique materials and use realistic physics in your Unity projects
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
             - Familiarity with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path
             - Experience coding in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
             This path requires a large download and installation which you should complete before you start the first project.
 
@@ -328,7 +328,7 @@ nl:
             - You will also need a code editor. The recommended editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
             - You will also need to download the [Unity starter package](https://rpf.io/p/en/rainbow-run-go) of assets before starting.
         - 
-          title: "Mentor information"
+          title: "Mentorinformatie"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -385,17 +385,17 @@ nl:
       meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
       header:
         - 
-          title: "What will I create?"
+          title: "Wat ga ik maken?"
           content: |
             Program and craft interactive devices with light and sound.
             By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
             - Basic typing and computer navigation skills
             - This path is for beginners to physical computing
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
             ## Hardware
             You can purchase all the required hardware for this  path from the:
@@ -408,7 +408,7 @@ nl:
             - The picozero library (available via PyPi in Thonny)
             Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Mentorinformatie"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -423,13 +423,13 @@ nl:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: De Raspberry Pi is een kleine computer die kan worden gebruikt in elektronica-projecten en voor veel dingen die je computer doet.
     sense-hat:
       title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: De Sense HAT is een uitbreidingskaart voor de Raspberry Pi, inclusief LED's, een joystick en veel sensoren.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden met behulp van code te maken.
     microbit:
       title: "BBC micro:bit"
       description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
@@ -437,14 +437,14 @@ nl:
       title: Look after yourself
       description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
     protect-our-planet:
-      title: Protect our planet
-      description: Use Scratch to learn about our planet and how to protect the environment for future generations
+      title: Bescherm onze planeet
+      description: Gebruik Scratch om meer te weten te komen over onze planeet en hoe we het milieu kunnen beschermen voor toekomstige generaties
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: Create websites by following these projects.
+      description: Maak websites door deze projecten uit te voeren.
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      description: Leer Scratch door deze leuke projecten te doorlopen!
     coderdojo-wearables:
       title: CoderDojo Wearables
       description: Create wearable technology projects by following these projects.
