@@ -225,17 +225,17 @@ nl:
       meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
       header:
         - 
-          title: "What will I create?"
+          title: "Wat ga ik maken?"
           content: |
             Visualise data by creating interactive charts, a simulator, and pieces of art.
             By the end of this path you will have created a unique data visualisation on a topic of your choice
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
             - This path is for creators comfortable with using Python.
             - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
             - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
             - Optionally, a Trinket account to save projects.
