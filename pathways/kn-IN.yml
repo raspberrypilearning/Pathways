@@ -1,0 +1,139 @@
+kn:
+  scratch-intro:
+    title: "Scratch ಪರಿಚಯ: ಸ್ಪ್ರೈಟ್‌ಗಳು, ಬರಹಗಳು ಮತ್ತು ಲೂಪ್‌ಗಳು"
+    description: ಆರಂಭಿಕರಿಗಾಗಿ Scratch ನಲ್ಲಿ ಕೋಡಿಂಗ್ ಮಾಡುವ ಈ ಪರಿಚಯದಲ್ಲಿ, ನೀವು ಅನಿಮೇಷನ್‌ಗಳು, ಆಟ, ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಪುಸ್ತಕವನ್ನು ಮಾಡುವಾಗ ಸ್ಪ್ರೈಟ್‌ಗಳಿಗೆ ಕೋಡ್, ಉಡುಗೆಗಳು ಮತ್ತು ಧ್ವನಿಗಳನ್ನು ಹೇಗೆ ಸೇರಿಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+    meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Scratch ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಪರಿಚಯ
+    meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Scratch ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಪರಿಚಯ. ಅನಿಮೇಷನ್‌ಗಳು, ಆಟ, ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಪುಸ್ತಕವನ್ನು ಹೇಗೆ ಮಾಡಬೇಕೆಂದು ತಿಳಿಯಿರಿ.
+  more-scratch:
+    title: "ಇನ್ನಷ್ಟು Scratch:: ಪ್ರಸಾರ, ನಿರ್ಧಾರಗಳು ಮತ್ತು ವೇರಿಯೇಬಲ್‌ಗಳು"
+    description: Scratch ಪರಿಚಯದಲ್ಲಿ ಪರಿಚಯಿಸಲಾದ ಮೂಲಭೂತ ಅಂಶಗಳಿಗಿಂತ ಮುಂದಕ್ಕೆ ಇನ್ನಷ್ಟು Scratch ಮುಂದುವರಿಯುತ್ತದೆ. ಸಂದೇಶ ಪ್ರಸಾರವನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಆಟಗಳು ಮತ್ತು ಸಿಮ್ಯುಲೇಶನ್‌ಗಳನ್ನು ಮಾಡುತ್ತೀರಿ, if.. then and if.. then..alse ನಿರ್ಧಾರಗಳು ಮತ್ತು ವೇರಿಯಬಲ್‌ಗಳು.
+    meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ ಇನ್ನಷ್ಟು ಸ್ಕ್ರಾಚ್ | Raspberry Pi
+    meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ ಇನ್ನಷ್ಟು Scratch. ಈ ಉಚಿತ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳೊಂದಿಗೆ ಸಂದೇಶ ಪ್ರಸಾರಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಕೋಡ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳಿಗೆ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಮೀರಿ ಮುಂದುವರಿಯಿರಿ.
+  further-scratch:
+    title: "ಮತ್ತಷ್ಟು Scratch: ತದ್ರೂಪಗಳು, ನನ್ನ ಬ್ಲಾಕ್‌ಗಳು ಮತ್ತು ಬೂಲಿಯನ್ ತರ್ಕ"
+    description: Scratch ಮತ್ತು ಇನ್ನಷ್ಟು Scratch ಪರಿಚಯದಲ್ಲಿ ಪರಿಚಯಿಸಲಾದ ಕೌಶಲ್ಯಗಳನ್ನು ಮೀರಿ ಮತ್ತಷ್ಟು Scratch ಮುಂದುವರಿಯುತ್ತದೆ. ಬೂಲಿಯನ್ ತರ್ಕ, ಫಂಕ್ಷನ್‌ಗಳು, ತದ್ರೂಪುಗಳು ಮತ್ತು ಇನ್ನಿತರೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಆಟಗಳು, ಕಂಪ್ಯೂಟರ್-ರಚಿತ ಕಲೆ ಮತ್ತು ಸಿಮ್ಯುಲೇಶನ್‌ಗಳನ್ನು ಮಾಡುತ್ತೀರಿ.
+    meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ ಮತ್ತಷ್ಟು Scratch | Raspberry Pi
+    meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ ಮತ್ತಷ್ಟು Scratch ಕೋಡಿಂಗ್. ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಆಟಗಳು, ಕಂಪ್ಯೂಟರ್-ರಚಿತ ಕಲೆ ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಮಾಡಲು ಈ ಉಚಿತ ಕೋಡಿಂಗ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಬಳಸಿ.
+  scratch-module-1:
+    title: "Scratch: ಘಟಕ 1"
+    description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
+  scratch-module-2:
+    title: "Scratch: ಘಟಕ 2"
+    description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
+  scratch-module-3:
+    title: "Scratch: ಘಟಕ 3"
+    description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
+  scratch-additional-projects:
+    title: "Scratch: ಹೆಚ್ಚುವರಿ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು"
+    description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
+  webdev-module-1:
+    title: "HTML & CSS: ಘಟಕ 1"
+    description: ನಿಮ್ಮದೇ ಆದಂತಹ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು ನಿರ್ಮಿಸಬಹುದು.
+  webdev-module-2:
+    title: "HTML & CSS: ಘಟಕ 2"
+    description: ನಿಮ್ಮದೇ ಆದಂತಹ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು ನಿರ್ಮಿಸಬಹುದು.
+  python-intro:
+    title: "Python ಪರಿಚಯ: ವೇರಿಯೇಬಲ್‌ಗಳು, ಫಂಕ್ಷನ್‌ಗಳು ಮತ್ತು ಲೂಪ್‌ಗಳು"
+    description: ಆರಂಭಿಕರಿಗಾಗಿ Pythonನಲ್ಲಿ ಕೋಡಿಂಗ್ ಮಾಡುವ ಈ ಪರಿಚಯದಲ್ಲಿ, ದೃಶ್ಯ ಮತ್ತು ಸಂವಾದಾತ್ಮಕ ಕಲಾಕೃತಿಗಳು, ಅನಿಮೇಷನ್‌ಗಳು, ಸಿಮ್ಯುಲೇಶನ್‌ಗಳು, ಆಟಗಳು ಮತ್ತು ಹೆಚ್ಚಿನದನ್ನು ರಚಿಸಲು ವೇರಿಯೇಬಲ್‌ಗಳು, ಲೂಪ್‌ಗಳು ಮತ್ತು ಫಂಕ್ಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+    meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Python ಪರಿಚಯ | Raspberry Pi
+    meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Python ನ ಪರಿಚಯ. ಈ ಉಚಿತ ಸಂಪನ್ಮೂಲಗಳೊಂದಿಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲಾಕೃತಿ, ಅನಿಮೇಷನ್‌ಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ರಚಿಸಿ.
+  more-python:
+    title: "ಇನ್ನಷ್ಟು Python: ಪಟ್ಟಿಗಳು, ನಿಘಂಟುಗಳು ಮತ್ತು ದತ್ತಾಂಶ"
+    description: Python ಪರಿಚಯದಲ್ಲಿ ಪರಿಚಯಿಸಲಾದ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಮೀರಿ ಇನ್ನಷ್ಟು Python ಮುಂದುವರಿಯುತ್ತದೆ. ಚಾರ್ಟ್‌ಗಳು, ಮಾದರಿಗಳು ಮತ್ತು ಕಲಾಕೃತಿಗಳನ್ನು ರಚಿಸಲು ಪಟ್ಟಿಗಳು, ನಿಘಂಟುಗಳು ಮತ್ತು ಫೈಲ್‌ಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+    meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ ಇನ್ನಷ್ಟು Python ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು | Raspberry Pi
+    meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ ಇನ್ನಷ್ಟು Python ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು. ಚಾರ್ಟ್‌ಗಳು, ಮಾದರಿಗಳು ಮತ್ತು ಕಲಾಕೃತಿಗಳನ್ನು ರಚಿಸಲು ಪಟ್ಟಿಗಳು, ನಿಘಂಟುಗಳು ಮತ್ತು ಫೈಲ್‌ಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
+  python-module-1:
+    title: "Python: ಘಟಕ 1"
+    description: Python ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುವ, ಸಾಮಾನ್ಯ ಉದ್ದೇಶ, ಆಂಗ್ಲ ಭಾಷೆಯ ಪದಗಳ ಆಧಾರಿತ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯಾಗಿದೆ.
+  python-module-2:
+    title: "Python: ಘಟಕ 2"
+    description: Python ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುವ, ಸಾಮಾನ್ಯ ಉದ್ದೇಶ, ಆಂಗ್ಲ ಭಾಷೆಯ ಪದಗಳ ಆಧಾರಿತ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯಾಗಿದೆ.
+  unity-intro:
+    title: "Unity ಪರಿಚಯ: 3D ವಸ್ತುಗಳು, ಪಾತ್ರಗಳ ನಿಯಂತ್ರಕಗಳು, ಕೊಲೈಡರ್‌ಗಳು, ಪಠ್ಯ ಮತ್ತು ಬಟನ್‌ಗಳು"
+    description: Unity ಯ ಈ ಪರಿಚಯದಲ್ಲಿ ನೀವು ಸಂಗ್ರಹಣೆಗಳು, ಟೈಮರ್‌ಗಳು ಮತ್ತು ಆಟಗಾರರಲ್ಲದ ಪಾತ್ರಗಳೊಂದಿಗೆ 3D ಪ್ರಪಂಚಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ಹೇಗೆ ಮಾಡಬೇಕೆಂದು ಕಲಿಯುವಿರಿ.
+    meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Unity ಕೋಡಿಂಗ್ | Raspberry Pi
+    meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Unity ಕೋಡಿಂಗ್ ಪರಿಚಯ. ಈ ಉಚಿತ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಬಳಸಿಕೊಂಡು 3D ಪ್ರಪಂಚಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ಹೇಗೆ ಮಾಡಬೇಕೆಂದು ತಿಳಿಯಿರಿ.
+    header:
+      - 
+        title: "What will I create?"
+        content: |
+          Make 3D worlds and games with collectibles, timers and non-player characters.
+          By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+      - 
+        title: "What do I need to know?"
+        content: |
+          - Basic typing and computer navigation skills
+          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) or [Python](https://projects.raspberrypi.org/en/pathways/python-intro)
+      - 
+        title: "What do I need?"
+        content: |
+          This path requires a large download and installation which you should complete before you start the first project.
+
+          - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
+          - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
+          - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
+      - 
+        title: "Mentor information"
+        content: |
+          ##321…Make!
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+          - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+          - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
+          - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
+
+          ##Quick quiz
+          Each project contains a quick quiz step. Each quiz contains three multiple choice questions. Creators are guided to the correct answer through useful feedback.
+
+          ##Inspiring the community
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
+          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5) in our guide.
+  physical-computing-with-scratch-and-the-raspberry-pi:
+    title: Scratch ಮತ್ತು Raspberry Pi ಜೊತೆಗೆ ಭೌತಿಕ ಕಂಪ್ಯೂಟಿಂಗ್
+    description: Scratch ಮತ್ತು ನಿಮ್ಮ Raspberry Pi ಕಂಪ್ಯೂಟರ್ನೊಂದಿಗೆ ಇನ್ಪುಟ್ ಮತ್ತು ಔಟ್ಪುಟ್ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
+    meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Scratch‌ ನಲ್ಲಿ ಕೋಡಿಂಗ್ | Raspberry Pi
+    meta_description: Scratch ಮತ್ತು ನಿಮ್ಮ Raspberry Pi ಕಂಪ್ಯೂಟರ್ನೊಂದಿಗೆ ಇನ್ಪುಟ್ ಮತ್ತು ಔಟ್ಪುಟ್ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ತಿಳಿಯಿರಿ - ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Scratch ನಲ್ಲಿ ಕೋಡಿಂಗ್.
+  pico-intro:
+    title: "Raspberry Pi Pico ಪರಿಚಯ: ಎಲ್ಇಡಿಗಳು, ಬಜರ್‌ಗಳು, ಸ್ವಿಚ್‌ಗಳು ಮತ್ತು ಡಯಲ್‌ಗಳು"
+    description: ಆರಂಭಿಕರಿಗಾಗಿ Raspberry Pi Pico ದೊಂದಿಗೆ ಡಿಜಿಟಲ್ ತಯಾರಿಕೆಯ ಈ ಪರಿಚಯದಲ್ಲಿ, ಎಲ್ಇಡಿಗಳು, ಬಟನ್‌ಗಳು, ಸ್ವಿಚ್‌ಗಳು, ಬಜರ್‌ಗಳು ಮತ್ತು ಪೊಟೆನ್ಟಿಯೋಮೀಟರ್‌ಗಳನ್ನು(ಡಯಲ್‌ಗಳು) ಹೇಗೆ ಸಂಪರ್ಕಿಸುವುದು ಮತ್ತು ನಿಯಂತ್ರಿಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+    meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | Raspberry Pi Pico ಪರಿಚಯ
+    meta_description: ಆರಂಭಿಕರಿಗಾಗಿ Raspberry Pi Pico ದೊಂದಿಗೆ ಡಿಜಿಟಲ್ ತಯಾರಿಕೆಯ ಈ ಪರಿಚಯದಲ್ಲಿ, ಎಲ್ಇಡಿಗಳು, ಬಟನ್‌ಗಳು, ಸ್ವಿಚ್‌ಗಳು, ಬಜರ್‌ಗಳು ಇತ್ಯಾದಿಗಳನ್ನು ಹೇಗೆ ಸಂಪರ್ಕಿಸುವುದು ಮತ್ತು ನಿಯಂತ್ರಿಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+  raspberry-pi:
+    title: Raspberry Pi
+    description: Raspberry Pi‌ ಒಂದು ಚಿಕ್ಕದಾದ ಶಕ್ತಿಯುತ ಕಂಪ್ಯೂಟರ್. ಇದನ್ನು ಇಲೆಕ್ಟ್ರಾನಿಕ್ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳಲ್ಲಿ, ಮತ್ತು ನಿಮ್ಮ ಡೆಸ್ಕ್ ಟಾಪ್ ಕಂಪ್ಯೂಟರ್ ಮಾಡಬಲ್ಲ ಸಾಕಷ್ಟು ಕೆಲಸಗಳಿಗೂ ಉಪಯೋಗಿಸಬಹುದು.
+  sense-hat:
+    title: Sense HAT
+    description: Sense HAT ಒಂದು Raspberry Pi ನಿರ್ಮಿಸಿದ ಹೆಚ್ಚುವರಿ ಬೋರ್ಡ್‌, ಇದು ಎಲ್ಇಡಿಗಳು, ಜಾಯ್ ಸ್ಟಿಕ್ ಮತ್ತು ಸಾಕಷ್ಟು ಸೆನ್ಸಾರ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.
+  sonic-pi:
+    title: Sonic Pi
+    description: Sonic Pi ಒಂದು ಹೊಸ ಜಾತಿಯ ಸಂಗೀತ ವಾದ್ಯ, ಇದನ್ನು ಕೋಡ್ ನಿಂದ ಶಬ್ದವನ್ನು ನಿರ್ಮಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.
+  microbit:
+    title: "BBC micro:bit"
+    description: "BBC micro:bit ಪಾಕೆಟ್ ಗಾತ್ರದ, ಕೋಡ್ ಮಾಡಬಹುದಾದ ಕಂಪ್ಯೂಟರ್ ಆಗಿದ್ದು, ಇದು ನಿಮ್ಮನ್ನು ಸೃಜನಶೀಲರಾಗಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ."
+  look-after-yourself:
+    title: ನಿಮ್ಮನ್ನು ನೋಡಿಕೊಳ್ಳಿ
+    description: Scratch ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಮತ್ತು ಸ್ವತಂತ್ರ ಪ್ರೋಗ್ರಾಮರ್ ಆಗುವ ಮಾರ್ಗವನ್ನು ಕಂಡುಕೊಳ್ಳುವಾಗ, ನಿಮ್ಮನ್ನು ನೋಡಿಕೊಳ್ಳಲು ಕಲಿಯಿರಿ.
+  protect-our-planet:
+    title: ನಮ್ಮ ಗ್ರಹವನ್ನು ರಕ್ಷಿಸುವುದು
+    description: ನಮ್ಮ ಗ್ರಹದ ಬಗೆಗೆ ಮತ್ತು ಭವಿಷ್ಯದ ಪೀಳಿಗೆಗೆ ಪರಿಸರವನ್ನು ಹೇಗೆ ರಕ್ಷಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ತಿಳಿಯಲು Scratch ಬಳಸಿ
+  coderdojo-html_css:
+    title: CoderDojo HTML & CSS
+    description: ಈ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಅನುಸರಿಸುವ ಮೂಲಕ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ರಚಿಸಿ.
+  coderdojo-scratch:
+    title: CoderDojo Scratch
+    description: ಈ ಮೋಜಿನ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡುವ ಮೂಲಕ Scratch ನ್ನು ಕಲಿಯಿರಿ!
+  coderdojo-wearables:
+    title: CoderDojo ಧರಿಸಬಹುದಾದ ವಸ್ತುಗಳು
+    description: ಈ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಅನುಸರಿಸುವ ಮೂಲಕ ಧರಿಸಬಹುದಾದ ತಂತ್ರಜ್ಞಾನ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ರಚಿಸಿ.
+  app-inventor-for-social-enterprise:
+    title: ಸಾಮಾಜಿಕ ನಾವೀನ್ಯತೆಗಾಗಿ App Inventor
+    description: ನಿಮ್ಮ ಸಮುದಾಯದಲ್ಲಿರುವ ಜನರಿಗೆ ಸಹಾಯ ಮಾಡುವಂತಹ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಮಾಡುವ ಮೂಲಕ ಆಂಡ್ರಾಯಿಡ್ ಸಾಧನಗಳಿಗೆ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಮಾಡಲು ತಿಳಿಯಿರಿ.
+  scratch-for-social-enterprise:
+    title: ಸಾಮಾಜಿಕ ನಾವೀನ್ಯತೆಗಾಗಿ Scratch
+    description: ಆರಂಭಿಕರ ಸ್ನೇಹಿ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯಾದ Scratch ಕಲಿಯಿರಿ, ಜೊತೆಗೆ ಜನರಿಗೆ ಪ್ರಮುಖ ವಿಷಯಗಳ ಬಗೆಗೆ ತಿಳಿದುಕೊಳ್ಳಲು ಸಹಾಯವಾಗಲು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ನಿರ್ಮಿಸಿ.
+  html-css-for-social-enterprise:
+    title: ಸಾಮಾಜಿಕ ನಾವೀನ್ಯತೆಗಾಗಿ HTML & CSS
+    description: ಪಕ್ಷಿ ಸಂರಕ್ಷಣೆಯ ಬಗೆಗೆ ವೆಬ್‌ಸೈಟ್ ರಚಿಸುವ ಮೂಲಕ HTML & CSS ಕಲಿಯಿರಿ.
+  getting-started-with-raspberry-pi:
+    title: Raspberry Pi ನೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸಿ
+    description: ನಿಮ್ಮ Raspberry Pi ನ್ನು ಹೊಂದಿಸಿ ಮತ್ತು ಅದು ಏನು ಮಾಡಬಹುದೆಂದು ನೋಡಿ!
