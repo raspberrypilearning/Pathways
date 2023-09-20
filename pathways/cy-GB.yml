@@ -1,141 +1,139 @@
----
-cy-GB:
-  pathways:
-    scratch-intro:
-      title: "Cyflwyniad i Scratch: corluniau, sgriptiau, a dolenni"
-      description: Yn y cyflwyniad hwn i godio yn Scratch ar gyfer dechreuwyr, byddwch yn dysgu sut i ychwanegu cod, gwisgoedd, a synau at gorluniau wrth i chi wneud animeiddiadau, gêm, app, a llyfr.
-      meta_title: Llwybr y prosiect | Cyflwyniad i raglennu Scratch i blant
-      meta_description: Cyflwyniad i raglennu Scratch ar gyfer plant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i wneud animeiddiadau, gêm, ap, a llyfr.
-    more-scratch:
-      title: "Mwy o Scratch: darllediad, penderfyniadau a newidynnau"
-      description: Mwy o symudiadu Scratch y tu hwnt i'r pethau sylfaenol a gyflwynwyd yn Cyflwyniad i Scratch. Byddwch yn gwneud apiau, gemau ac efelychiadau gan ddefnyddio darlledu neges, penderfyniadai 'os..yna' ac 'os..yna..fel arall' a newidynnau eraill.
-      meta_title: Llwybr y prosiect | Mwy o Scratch i blant | Raspberry Pi
-      meta_description: Mwy o Scratch i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Symudwch y tu hwnt i'r pethau sylfaenol i godio apiau, gemau ac animeiddiadau gan ddefnyddio darllediadau neges, gyda'r prosiectau rhad ac am ddim hyn.
-    further-scratch:
-      title: "Scratch pellach: clonau, fy mlociau, a rhesymeg boolean"
-      description: Mae Scratch pellach yn symud y tu hwnt i'r sgiliau a gyflwynwyd yn Cyflwyniad i Scratch a Mwy o Scratch. Byddwch yn gwneud apiau, gemau, celf a gynhyrchir gan gyfrifiadur, ac efelychiadau gan ddefnyddio rhesymeg boolean, swyddogaethau, clonau, a mwy.
-      meta_title: Llwybr y prosiect | Rhagor o godio Scratch i blant | Raspberry Pi
-      meta_description: Rhagor o godio Scratch ar gyfer plant, pobl ifanc yn eu harddegau ac oedolion ifanc. Defnyddiwch yr adnoddau codio rhad ac am ddim hyn i wneud apiau, gemau, celf a gynhyrchir gan gyfrifiadur, ac animeiddiadau.
-    scratch-module-1:
-      title: "Scratch: Modiwl 1"
-      description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
-    scratch-module-2:
-      title: "Scratch: Modiwl 2"
-      description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
-    scratch-module-3:
-      title: "Scratch: Modiwl 3"
-      description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
-    scratch-additional-projects:
-      title: "Scratch: Prosiectau Ychwanegol"
-      description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
-    webdev-module-1:
-      title: "HTML a CSS: Modiwl 1"
-      description: Adeiladwch ac arddulliwch eich tudalennau gwe eich hun.
-    webdev-module-2:
-      title: "HTML a CSS: Modiwl 2"
-      description: Adeiladwch ac arddulliwch eich tudalennau gwe eich hun.
-    python-intro:
-      title: "Cyflwyniad i Python: Newidynnau, ffwythiannau, a dolenni"
-      description: Yn y cyflwyniad hwn i godio yn Python ar gyfer dechreuwyr, byddwch yn dysgu sut i ddefnyddio newidynnau, dolenni, a ffwythiannau i greu gwaith celf gweledol a rhyngweithiol, animeiddiadau, efelychiadau, gemau, a mwy.
-      meta_title: Llwybr y prosiect | Cyflwyniad i Python i blant | Raspberry Pi
-      meta_description: Cyflwyniad i Python i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Creu gwaith celf rhyngweithiol, animeiddiadau, a gemau gyda'r adnoddau rhad ac am ddim hyn.
-    more-python:
-      title: "Mwy o Python: Rhestrau, geiriaduron, a data"
-      description: Mwy Mae Python yn symud y tu hwnt i'r pethau sylfaenol a gyflwynwyd yn Cyflwyniad i Python. Byddwch yn dysgu sut i ddefnyddio rhestrau, geiriaduron a ffeiliau i greu siartiau, modelau a gwaith celf.
-      meta_title: Llwybr y prosiect | Mwy o brosiectau Python i blant | Raspberry Pi
-      meta_description: Mwy o brosiectau Python i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i ddefnyddio rhestrau, geiriaduron a ffeiliau i greu siartiau, modelau a gwaith celf.
-    python-module-1:
-      title: "Python: Modiwl 1"
-      description: Mae Python yn iaith raglennu, pwrpas cyffredinol, poblogaidd sy'n seiliedig ar destun.
-    python-module-2:
-      title: "Python: Modiwl 2"
-      description: Mae Python yn iaith raglennu, pwrpas cyffredinol, poblogaidd sy'n seiliedig ar destun.
-    unity-intro:
-      title: "Cyflwyniad i Unity: Gwrthrychau 3D, Rheolyddion Cymeriadau, Gwrthdarwyr, Testun a Botymau"
-      description: Yn y cyflwyniad hwn i Unity byddwch yn dysgu sut i wneud bydoedd a gemau 3D gyda phethau casgladwy, amseryddion a chymeriadau nad ydynt yn chwaraewyr.
-      meta_title: Llwybr y prosiect | Codio Unity i blant | Raspberry Pi
-      meta_description: Cyflwyniad i godio Unity i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i wneud bydoedd a gemau 3D gan ddefnyddio'r adnoddau rhad ac am ddim hyn.
-      header:
-        - 
-          title: "Beth fyddaf yn ei greu?"
-          content: |
-            Gwnewch fydoedd a gemau 3D gyda phethau casgladwy, amseryddion a chymeriadau nad ydynt yn chwaraewyr.
-            Erbyn diwedd y llwybr hwn byddwch wedi defnyddio'ch sgiliau newydd i greu gêm dal sêr, byd gyda chwestau, ac antur 3D.
-        - 
-          title: "Beth sydd angen i mi ei wybod?"
-          content: |
-            - Sgiliau teipio a llywio cyfrifiadurol sylfaenol
-            - Profiad codio mewn [Scratch]( https://projects.raspberrypi.org/en/pathways/scratch-intro ) neu [Python]( https://projects.raspberrypi.org/en/pathways/python - cyflwyniad)
-        - 
-          title: "Beth sydd ei angen arnaf?"
-          content: |
-            Mae'r llwybr hwn yn gofyn am lawrlwythiad a gosodiad mawr y dylech ei gwblhau cyn i chi ddechrau'r prosiect cyntaf.
+cy:
+  scratch-intro:
+    title: "Cyflwyniad i Scratch: corluniau, sgriptiau, a dolenni"
+    description: Yn y cyflwyniad hwn i godio yn Scratch ar gyfer dechreuwyr, byddwch yn dysgu sut i ychwanegu cod, gwisgoedd, a synau at gorluniau wrth i chi wneud animeiddiadau, gêm, app, a llyfr.
+    meta_title: Llwybr y prosiect | Cyflwyniad i raglennu Scratch i blant
+    meta_description: Cyflwyniad i raglennu Scratch ar gyfer plant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i wneud animeiddiadau, gêm, ap, a llyfr.
+  more-scratch:
+    title: "Mwy o Scratch: darllediad, penderfyniadau a newidynnau"
+    description: Mwy o symudiadu Scratch y tu hwnt i'r pethau sylfaenol a gyflwynwyd yn Cyflwyniad i Scratch. Byddwch yn gwneud apiau, gemau ac efelychiadau gan ddefnyddio darlledu neges, penderfyniadai 'os..yna' ac 'os..yna..fel arall' a newidynnau eraill.
+    meta_title: Llwybr y prosiect | Mwy o Scratch i blant | Raspberry Pi
+    meta_description: Mwy o Scratch i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Symudwch y tu hwnt i'r pethau sylfaenol i godio apiau, gemau ac animeiddiadau gan ddefnyddio darllediadau neges, gyda'r prosiectau rhad ac am ddim hyn.
+  further-scratch:
+    title: "Scratch pellach: clonau, fy mlociau, a rhesymeg boolean"
+    description: Mae Scratch pellach yn symud y tu hwnt i'r sgiliau a gyflwynwyd yn Cyflwyniad i Scratch a Mwy o Scratch. Byddwch yn gwneud apiau, gemau, celf a gynhyrchir gan gyfrifiadur, ac efelychiadau gan ddefnyddio rhesymeg boolean, swyddogaethau, clonau, a mwy.
+    meta_title: Llwybr y prosiect | Rhagor o godio Scratch i blant | Raspberry Pi
+    meta_description: Rhagor o godio Scratch ar gyfer plant, pobl ifanc yn eu harddegau ac oedolion ifanc. Defnyddiwch yr adnoddau codio rhad ac am ddim hyn i wneud apiau, gemau, celf a gynhyrchir gan gyfrifiadur, ac animeiddiadau.
+  scratch-module-1:
+    title: "Scratch: Modiwl 1"
+    description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
+  scratch-module-2:
+    title: "Scratch: Modiwl 2"
+    description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
+  scratch-module-3:
+    title: "Scratch: Modiwl 3"
+    description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
+  scratch-additional-projects:
+    title: "Scratch: Prosiectau Ychwanegol"
+    description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
+  webdev-module-1:
+    title: "HTML a CSS: Modiwl 1"
+    description: Adeiladwch ac arddulliwch eich tudalennau gwe eich hun.
+  webdev-module-2:
+    title: "HTML a CSS: Modiwl 2"
+    description: Adeiladwch ac arddulliwch eich tudalennau gwe eich hun.
+  python-intro:
+    title: "Cyflwyniad i Python: Newidynnau, ffwythiannau, a dolenni"
+    description: Yn y cyflwyniad hwn i godio yn Python ar gyfer dechreuwyr, byddwch yn dysgu sut i ddefnyddio newidynnau, dolenni, a ffwythiannau i greu gwaith celf gweledol a rhyngweithiol, animeiddiadau, efelychiadau, gemau, a mwy.
+    meta_title: Llwybr y prosiect | Cyflwyniad i Python i blant | Raspberry Pi
+    meta_description: Cyflwyniad i Python i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Creu gwaith celf rhyngweithiol, animeiddiadau, a gemau gyda'r adnoddau rhad ac am ddim hyn.
+  more-python:
+    title: "Mwy o Python: Rhestrau, geiriaduron, a data"
+    description: Mwy Mae Python yn symud y tu hwnt i'r pethau sylfaenol a gyflwynwyd yn Cyflwyniad i Python. Byddwch yn dysgu sut i ddefnyddio rhestrau, geiriaduron a ffeiliau i greu siartiau, modelau a gwaith celf.
+    meta_title: Llwybr y prosiect | Mwy o brosiectau Python i blant | Raspberry Pi
+    meta_description: Mwy o brosiectau Python i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i ddefnyddio rhestrau, geiriaduron a ffeiliau i greu siartiau, modelau a gwaith celf.
+  python-module-1:
+    title: "Python: Modiwl 1"
+    description: Mae Python yn iaith raglennu, pwrpas cyffredinol, poblogaidd sy'n seiliedig ar destun.
+  python-module-2:
+    title: "Python: Modiwl 2"
+    description: Mae Python yn iaith raglennu, pwrpas cyffredinol, poblogaidd sy'n seiliedig ar destun.
+  unity-intro:
+    title: "Cyflwyniad i Unity: Gwrthrychau 3D, Rheolyddion Cymeriadau, Gwrthdarwyr, Testun a Botymau"
+    description: Yn y cyflwyniad hwn i Unity byddwch yn dysgu sut i wneud bydoedd a gemau 3D gyda phethau casgladwy, amseryddion a chymeriadau nad ydynt yn chwaraewyr.
+    meta_title: Llwybr y prosiect | Codio Unity i blant | Raspberry Pi
+    meta_description: Cyflwyniad i godio Unity i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i wneud bydoedd a gemau 3D gan ddefnyddio'r adnoddau rhad ac am ddim hyn.
+    header:
+      - 
+        title: "Beth fyddaf yn ei greu?"
+        content: |
+          Gwnewch fydoedd a gemau 3D gyda phethau casgladwy, amseryddion a chymeriadau nad ydynt yn chwaraewyr.
+          Erbyn diwedd y llwybr hwn byddwch wedi defnyddio'ch sgiliau newydd i greu gêm dal sêr, byd gyda chwestau, ac antur 3D.
+      - 
+        title: "Beth sydd angen i mi ei wybod?"
+        content: |
+          - Sgiliau teipio a llywio cyfrifiadurol sylfaenol
+          - Profiad codio mewn [Scratch]( https://projects.raspberrypi.org/en/pathways/scratch-intro ) neu [Python]( https://projects.raspberrypi.org/en/pathways/python - cyflwyniad)
+      - 
+        title: "Beth sydd ei angen arnaf?"
+        content: |
+          Mae'r llwybr hwn yn gofyn am lawrlwythiad a gosodiad mawr y dylech ei gwblhau cyn i chi ddechrau'r prosiect cyntaf.
 
-            - Mae angen i chi osod yr Unity Hub a'r Unity Editor ar gyfer eich system weithredu. Gallwch ddarganfod sut i wneud hyn yn ein [Canllaw Unity]( https://projects.raspberrypi.org/cy/projects/unity-guide).
-            - Bydd angen golygydd côd arnoch hefyd. Y golygydd a argymhellir yw [Visual Studio]( https://projects.raspberrypi.org/en/projects/unity-guide/3).
-            - Bydd angen i chi hefyd lawrlwytho'r [pecyn cychwyn Unity] (https://rpf.io/p/en/explore-a-3d-world-go) o asedau cyn dechrau.
-        - 
-          title: "Gwybodaeth mentor"
-          content: |
-            ##321…Gwnewch!
-            Mae'r llwybr hwn yn dilyn [321…Gwnewch!]( https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+          - Mae angen i chi osod yr Unity Hub a'r Unity Editor ar gyfer eich system weithredu. Gallwch ddarganfod sut i wneud hyn yn ein [Canllaw Unity]( https://projects.raspberrypi.org/cy/projects/unity-guide).
+          - Bydd angen golygydd côd arnoch hefyd. Y golygydd a argymhellir yw [Visual Studio]( https://projects.raspberrypi.org/en/projects/unity-guide/3).
+          - Bydd angen i chi hefyd lawrlwytho'r [pecyn cychwyn Unity] (https://rpf.io/p/en/explore-a-3d-world-go) o asedau cyn dechrau.
+      - 
+        title: "Gwybodaeth mentor"
+        content: |
+          ##321…Gwnewch!
+          Mae'r llwybr hwn yn dilyn [321…Gwnewch!]( https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
 
-            - 3 Prosiectau **Archwilio** i gyflwyno set o sgiliau i grewyr a darparu cyfarwyddiadau cam-wrth-gam i'w helpu i ddatblygu hyder cychwynnol.
-            - 2 Prosiectau **Dylunio** i alluogi crewyr i ymarfer y sgiliau a ddysgwyd ganddynt yn y prosiectau Archwilio blaenorol, ac i fynegi eu hunain yn greadigol wrth iddynt dyfu mewn annibyniaeth.
-            - 1 Prosiect **Dyfeisio** lle mae crewyr yn defnyddio eu sgiliau i gyflawni briff prosiect ar gyfer cynulleidfa benodol.
+          - 3 Prosiectau **Archwilio** i gyflwyno set o sgiliau i grewyr a darparu cyfarwyddiadau cam-wrth-gam i'w helpu i ddatblygu hyder cychwynnol.
+          - 2 Prosiectau **Dylunio** i alluogi crewyr i ymarfer y sgiliau a ddysgwyd ganddynt yn y prosiectau Archwilio blaenorol, ac i fynegi eu hunain yn greadigol wrth iddynt dyfu mewn annibyniaeth.
+          - 1 Prosiect **Dyfeisio** lle mae crewyr yn defnyddio eu sgiliau i gyflawni briff prosiect ar gyfer cynulleidfa benodol.
 
-            ##Cwis cyflym
-            Mae pob prosiect yn cynnwys cam cwis cyflym. Mae pob cwis yn cynnwys tri chwestiwn amlddewis. Mae crewyr yn cael eu harwain at yr ateb cywir trwy adborth defnyddiol.
+          ##Cwis cyflym
+          Mae pob prosiect yn cynnwys cam cwis cyflym. Mae pob cwis yn cynnwys tri chwestiwn amlddewis. Mae crewyr yn cael eu harwain at yr ateb cywir trwy adborth defnyddiol.
 
-            ##Ysbrydoli’r gymuned
-            Mae crewyr yn cael eu hannog i ysbrydoli eraill yng nghymuned y Raspberry Pi Foundation drwy rannu eu prosiectau â ni drwy’r [ffurflen cyflwyno prosiect]( https://form.raspberrypi.org/f/community-project-submissions ). Bydd prosiectau'n cael eu rhannu'n ddienw â'n Orielau Cymunedol.
-            Gallwch ddarganfod sut i [rhannu prosiectau](https://projects.raspberrypi.org/en/projects/unity-guide/5) yn ein canllaw.
-    physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Cyfrifiadura corfforol gyda Scratch a'r Raspberry Pi
-      description: Dysgwch sut i ddefnyddio electroneg mewnbwn ac allbwn gyda Scratch a'ch cyfrifiadur Raspberry Pi.
-      meta_title: Llwybr y prosiect | Codio yn Scratch i blant | Raspberry Pi
-      meta_description: Dysgwch sut i ddefnyddio electroneg mewnbwn ac allbwn gyda Scratch ar eich cyfrifiadur Raspberry Pi. Adnoddau am ddim - codio o'r newydd i blant, pobl ifanc yn eu harddegau ac oedolion ifanc.
-    pico-intro:
-      title: "Cyflwyniad i Raspberry Pi Pico: LEDs, swnwyr, switshis, a deialau"
-      description: Yn y cyflwyniad hwn i wneuthuro digidol gyda Raspberry Pi Pico ar gyfer dechreuwyr, byddwch yn dysgu sut i gysylltu a rheoli LEDs, botymau, switshis, seinyddion a photensiomedrau (deialau).
-      meta_title: Llwybr y prosiect | Cyflwyniad i'r Raspberry Pi Pico
-      meta_description: Yn y cyflwyniad hwn i wneuthuro digidol gyda Raspberry Pi Pico ar gyfer dechreuwyr, byddwch yn dysgu sut i gysylltu a rheoli LEDs, botymau, switshis, seinyddion, ac ati.
-    raspberry-pi:
-      title: Raspberry Pi
-      description: Cyfrifiadur bach galluog yw'r Raspberry Pi, y gellir ei ddefnyddio mewn prosiectau electroneg, ac ar gyfer llawer o'r pethau y mae eich cyfrifiadur personol yn eu gwneud.
-    sense-hat:
-      title: Sense HAT
-      description: Bwrdd ychwanegol ar gyfer y Raspberry Pi yw'r Sense HAT, sy'n cynnwys LEDs, joystick a llawer o synwyryddion.
-    sonic-pi:
-      title: Sonic Pi
-      description: Math newydd o offeryn cerddorol yw'r Sonic Pi, sydd wedi'i gynllunio ar gyfer creu synau gyda chod.
-    microbit:
-      title: "BBC micro:bit"
-      description: "Cyfrifiadur maint-poced, codadwy yw'r BBC micro:bit, sy'n eich galluogi i fod yn greadigol."
-    look-after-yourself:
-      title: Gofalwch amdanoch chi'ch hun
-      description: Dysgwch sut i ofalu amdanoch eich hun, wrth ddysgu sut i ddefnyddio Scratch a gweithio'ch ffordd tuag at fod yn rhaglennydd annibynnol.
-    protect-our-planet:
-      title: Gwarchod ein planed
-      description: Defnyddiwch Scratch i ddysgu am ein planed a sut i warchod yr amgylchedd ar gyfer cenedlaethau'r dyfodol
-    coderdojo-html_css:
-      title: CoderDojo HTML & CSS
-      description: Crewch gwefannau trwy ddilyn y Cardiau Sushi hyn.
-    coderdojo-scratch:
-      title: Scratch CoderDojo
-      description: Dysgwch Scratch trwy weithio trwy'r prosiectau hwyliog hyn!
-    coderdojo-wearables:
-      title: Technoleg Gwisgadwy CoderDojo
-      description: Creu prosiectau technoleg gwisgadwy trwy ddilyn y prosiectau hyn.
-    app-inventor-for-social-enterprise:
-      title: Dyfeisiwr Ap ar gyfer arloesi cymdeithasol
-      description: Dysgwch sut i wneud apiau ar gyfer dyfeisiau Android trwy wneud prosiectau a all helpu pobl yn eich cymuned.
-    scratch-for-social-enterprise:
-      title: Scratch ar gyfer arloesi cymdeithasol
-      description: Dysgwch Scratch, iaith raglennu graffigol gyfeillgar i ddechreuwyr, wrth adeiladu apiau a gemau i helpu pobl i ddysgu am faterion pwysig.
-    html-css-for-social-enterprise:
-      title: HTML a CSS ar gyfer arloesi cymdeithasol
-      description: Dysgwch HTML a CSS trwy greu gwefan am gadwraeth adar.
-    getting-started-with-raspberry-pi:
-      title: Dechrau arni gyda Raspberry Pi
-      description: Gosod dy Raspberry Pi a darganfod beth mae'n gallu ei wneud!
+          ##Ysbrydoli’r gymuned
+          Mae crewyr yn cael eu hannog i ysbrydoli eraill yng nghymuned y Raspberry Pi Foundation drwy rannu eu prosiectau â ni drwy’r [ffurflen cyflwyno prosiect]( https://form.raspberrypi.org/f/community-project-submissions ). Bydd prosiectau'n cael eu rhannu'n ddienw â'n Orielau Cymunedol.
+          Gallwch ddarganfod sut i [rhannu prosiectau](https://projects.raspberrypi.org/en/projects/unity-guide/5) yn ein canllaw.
+  physical-computing-with-scratch-and-the-raspberry-pi:
+    title: Cyfrifiadura corfforol gyda Scratch a'r Raspberry Pi
+    description: Dysgwch sut i ddefnyddio electroneg mewnbwn ac allbwn gyda Scratch a'ch cyfrifiadur Raspberry Pi.
+    meta_title: Llwybr y prosiect | Codio yn Scratch i blant | Raspberry Pi
+    meta_description: Dysgwch sut i ddefnyddio electroneg mewnbwn ac allbwn gyda Scratch ar eich cyfrifiadur Raspberry Pi. Adnoddau am ddim - codio o'r newydd i blant, pobl ifanc yn eu harddegau ac oedolion ifanc.
+  pico-intro:
+    title: "Cyflwyniad i Raspberry Pi Pico: LEDs, swnwyr, switshis, a deialau"
+    description: Yn y cyflwyniad hwn i wneuthuro digidol gyda Raspberry Pi Pico ar gyfer dechreuwyr, byddwch yn dysgu sut i gysylltu a rheoli LEDs, botymau, switshis, seinyddion a photensiomedrau (deialau).
+    meta_title: Llwybr y prosiect | Cyflwyniad i'r Raspberry Pi Pico
+    meta_description: Yn y cyflwyniad hwn i wneuthuro digidol gyda Raspberry Pi Pico ar gyfer dechreuwyr, byddwch yn dysgu sut i gysylltu a rheoli LEDs, botymau, switshis, seinyddion, ac ati.
+  raspberry-pi:
+    title: Raspberry Pi
+    description: Cyfrifiadur bach galluog yw'r Raspberry Pi, y gellir ei ddefnyddio mewn prosiectau electroneg, ac ar gyfer llawer o'r pethau y mae eich cyfrifiadur personol yn eu gwneud.
+  sense-hat:
+    title: Sense HAT
+    description: Bwrdd ychwanegol ar gyfer y Raspberry Pi yw'r Sense HAT, sy'n cynnwys LEDs, joystick a llawer o synwyryddion.
+  sonic-pi:
+    title: Sonic Pi
+    description: Math newydd o offeryn cerddorol yw'r Sonic Pi, sydd wedi'i gynllunio ar gyfer creu synau gyda chod.
+  microbit:
+    title: "BBC micro:bit"
+    description: "Cyfrifiadur maint-poced, codadwy yw'r BBC micro:bit, sy'n eich galluogi i fod yn greadigol."
+  look-after-yourself:
+    title: Gofalwch amdanoch chi'ch hun
+    description: Dysgwch sut i ofalu amdanoch eich hun, wrth ddysgu sut i ddefnyddio Scratch a gweithio'ch ffordd tuag at fod yn rhaglennydd annibynnol.
+  protect-our-planet:
+    title: Gwarchod ein planed
+    description: Defnyddiwch Scratch i ddysgu am ein planed a sut i warchod yr amgylchedd ar gyfer cenedlaethau'r dyfodol
+  coderdojo-html_css:
+    title: CoderDojo HTML & CSS
+    description: Crewch gwefannau trwy ddilyn y Cardiau Sushi hyn.
+  coderdojo-scratch:
+    title: Scratch CoderDojo
+    description: Dysgwch Scratch trwy weithio trwy'r prosiectau hwyliog hyn!
+  coderdojo-wearables:
+    title: Technoleg Gwisgadwy CoderDojo
+    description: Creu prosiectau technoleg gwisgadwy trwy ddilyn y prosiectau hyn.
+  app-inventor-for-social-enterprise:
+    title: Dyfeisiwr Ap ar gyfer arloesi cymdeithasol
+    description: Dysgwch sut i wneud apiau ar gyfer dyfeisiau Android trwy wneud prosiectau a all helpu pobl yn eich cymuned.
+  scratch-for-social-enterprise:
+    title: Scratch ar gyfer arloesi cymdeithasol
+    description: Dysgwch Scratch, iaith raglennu graffigol gyfeillgar i ddechreuwyr, wrth adeiladu apiau a gemau i helpu pobl i ddysgu am faterion pwysig.
+  html-css-for-social-enterprise:
+    title: HTML a CSS ar gyfer arloesi cymdeithasol
+    description: Dysgwch HTML a CSS trwy greu gwefan am gadwraeth adar.
+  getting-started-with-raspberry-pi:
+    title: Dechrau arni gyda Raspberry Pi
+    description: Gosod dy Raspberry Pi a darganfod beth mae'n gallu ei wneud!
