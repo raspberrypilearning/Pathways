@@ -2,20 +2,127 @@
 nl-NL:
   pathways:
     scratch-intro:
-      title: "Inleiding tot Scratch: sprites, scripts en lussen"
+      title: "Inleiding tot Scratch"
+      subtitle: "sprites, scripts en lussen"
       description: In deze inleiding tot programmeren in Scratch voor beginners, leer je hoe je code, uiterlijken en geluiden aan sprites kunt toevoegen terwijl je animaties, een game, een app en een boek maakt.
       meta_title: Projectpad | Inleiding tot Scratch-programmering voor kinderen
       meta_description: Inleiding tot Scratch-programmering voor kinderen, tieners en jonge volwassenen. Leer hoe je animaties, een game, een app en een boek maakt.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve projecten, animaties en creëer een spel met meerdere niveaus.
+            Aan het einde van dit traject heb je je nieuwe vaardigheden gebruikt om auteur te worden van een digitaal boek met meerdere pagina's.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            Dit pad is ideaal voor beginners.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Dit pad vereist:
+
+            - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
+            - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
+            - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden anoniem gedeeld met onze Community Galleries.
+            In onze gids kun je lezen hoe je [projecten deelt](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/5)
     more-scratch:
-      title: "Meer Scratch: signalen verzenden, beslissingen en variabelen"
-      description: Meer Scratch gaat verder dan de basis die in Inleiding tot Scratch is geïntroduceerd. Je maakt apps, games en simulaties met behulp van berichten verzenden, als..dan en als..dan..anders beslissingen en variabelen.
+      title: "Meer Scratch"
+      subtitle: "signalen verzenden, beslissingen en variabelen"
+      description: Meer Scratch gaat verder na de basis die in Inleiding tot Scratch is geïntroduceerd. Je maakt apps, games en simulaties met behulp van berichten verzenden, als..dan en als..dan..anders beslissingen en variabelen.
       meta_title: Projectpad | Meer Scratch voor kinderen | Raspberry Pi
-      meta_description: Meer Scratch voor kinderen, tieners en jonge volwassenen. Ga met deze gratis projecten verder dan de basis om apps, games en animaties te coderen met behulp van het verzenden van berichten.
+      meta_description: Meer Scratch voor kinderen, tieners en jonge volwassenen. Ga met deze gratis projecten verder na de basis om apps, games en animaties te coderen met behulp van het verzenden van berichten.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve projecten, simulaties en games.
+            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een virtueel huisdier of personage te creëren waarmee gebruikers kunnen communiceren.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            Dit pad is voor makers die vertrouwd zijn met het gebruik van Scratch.
+            Als je nieuw bent bij Scratch, kun je ons pad [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} proberen.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Dit pad vereist:
+
+            - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
+            - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
+            - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden anoniem gedeeld met onze Community Galleries.
+            In onze gids kun je lezen hoe je [projecten deelt](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/5)
     further-scratch:
-      title: "Verder met Scratch: klonen, mijn blokken en booleaanse logica"
+      title: "Verder met Scratch"
+      subtitle: "klonen, mijn blokken en booleaanse logica"
       description: Verder met Scratch gaat verder dan de vaardigheden die zijn geïntroduceerd in Inleiding tot Scratch en Meer Scratch. Je maakt apps, games, door de computer gegenereerde kunst en simulaties met behulp van booleaanse logica, functies, klonen en meer.
       meta_title: Projectpad | Verder met Scratch coderen voor kinderen | Raspberry Pi
       meta_description: Verder met Scratch coderen voor kinderen, tieners en jonge volwassenen. Gebruik deze gratis programmeerbronnen om apps, games, computergegenereerde kunst en animaties te maken.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak computer gegenereerde kunst, muziek, games en simulaties.
+            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een first-person view-simulatie te creëren in een denkbeeldige wereld.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            Dit pad is voor makers die vertrouwd zijn met het gebruik van Scratch.
+            Als je nieuw bent bij Scratch, kun je ons pad [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} of ons pad [Meer Scratch] proberen (https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} proberen.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Dit pad vereist:
+
+            - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
+            - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
+            - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden anoniem gedeeld met onze Community Galleries.
+            In onze gids kun je lezen hoe je [projecten deelt](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/5)
     scratch-module-1:
       title: "Scratch: Module 1"
       description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
@@ -30,20 +137,124 @@ nl-NL:
       description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
     webdev-module-1:
       title: "HTML & CSS: Module 1"
-      description: Bouw en style je eigen webpagina's.
+      description: Bouw je eigen webpagina's en pas vormgeving toe.
     webdev-module-2:
       title: "HTML & CSS: Module 2"
-      description: Bouw en style je eigen webpagina's.
+      description: Bouw je eigen webpagina's en pas vormgeving toe.
     python-intro:
-      title: "Inleiding tot Python: variabelen, functies en lussen"
+      title: "Inleiding tot Python"
+      subtitle: "Variabelen, functies en lussen"
       description: In deze inleiding programmeren in Python voor beginners, leer je hoe je variabelen, lussen en functies kunt gebruiken om visuele en interactieve kunstwerken, animaties, simulaties, spelletjes en nog veel meer te maken.
       meta_title: Projectpad | Inleiding tot Python voor kinderen | Raspberry Pi
       meta_description: Inleiding tot Python voor kinderen, tieners en jonge volwassenen. Maak interactieve kunst, animaties en games met deze gratis bronnen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve projecten, kunst, games en een simulatie.
+            Aan het einde van dit pad heb je een schaalbaar geometrisch kunstwerk gemaakt.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Basisvaardigheden voor typen en computernavigatie
+            - Ervaring met coderen in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kan nuttig zijn
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            - Een computer of mobiel apparaat waarop het online coderingsplatform [Trinket](https://trinket.io){:target="_blank"} kan worden uitgevoerd.
+            - Optioneel een Trinket-account om projecten op te slaan.
+            Volledige details over Trinket zijn te vinden in de [Trinket FAQ](https://trinket.io/faq){:target="_blank"} sectie van hun website
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden anoniem gedeeld met onze Community Galleries.
+    python-intro-code-editor:
+      title: "Inleiding tot Python"
+      subtitle: "variabelen, functies en lussen"
+      description: In deze inleiding programmeren in Python voor beginners, leer je hoe je variabelen, lussen en functies kunt gebruiken om visuele en interactieve kunstwerken, animaties, simulaties, spelletjes en nog veel meer te maken.
+      meta_title: Projectpad | Inleiding tot Python voor kinderen | Raspberry Pi
+      meta_description: Inleiding tot Python voor kinderen, tieners en jonge volwassenen. Maak interactieve kunst, animaties en games met deze gratis bronnen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve projecten, kunst, games en een simulatie.
+            Aan het einde van dit pad heb je een schaalbaar geometrisch kunstwerk gemaakt.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Basisvaardigheden voor typen en computernavigatie
+            - Ervaring met coderen in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kan nuttig zijn
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            - Een computer of mobiel apparaat waarop het online coderingsplatform [Trinket](https://trinket.io){:target="_blank"} kan worden uitgevoerd.
+            - Optioneel een Trinket-account om projecten op te slaan.
+            Volledige details over Trinket zijn te vinden in de [Trinket FAQ](https://trinket.io/faq){:target="_blank"} sectie van hun website
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden anoniem gedeeld met onze Community Galleries.
     more-python:
-      title: "Meer Python: lijsten, woordenboeken en gegevens"
-      description: Meer Python gaat verder dan de basis die is geïntroduceerd in Inleiding tot Python. Je leert hoe je lijsten, woordenboeken en bestanden kunt gebruiken om grafieken, modellen en kunst te maken.
+      title: "Meer Python"
+      subtitle: "lijsten, dictionaries en gegevens"
+      description: Meer Python gaat verder dan de basis die is geïntroduceerd in Inleiding tot Python. Je leert hoe je lijsten, dictionaries en bestanden kunt gebruiken om grafieken, modellen en kunst te maken.
       meta_title: Projectpad | Meer Python-projecten voor kinderen | Raspberry Pi
-      meta_description: Meer Python-projecten voor kinderen, tieners en jonge volwassenen. Leer hoe je lijsten, woordenboeken en bestanden kunt gebruiken om grafieken, modellen en kunst te maken.
+      meta_description: Meer Python-projecten voor kinderen, tieners en jonge volwassenen. Leer hoe je lijsten, dictionaries en bestanden kunt gebruiken om grafieken, modellen en kunst te maken.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Visualiseer gegevens door interactieve grafieken, een simulatie en kunstwerken te maken.
+            Aan het einde van dit pad heb je een unieke datavisualisatie gemaakt over een onderwerp naar keuze
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Dit pad is voor makers die vertrouwd zijn met het gebruik van Python.
+            Als je Python nog niet eerder hebt gebruikt, kun je ons pad [Inleiding tot Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} proberen.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            - Een computer of mobiel apparaat waarop het online coderingsplatform [Trinket](https://trinket.io){:target="_blank"} kan worden uitgevoerd.
+            - Optioneel een Trinket-account om projecten op te slaan.
+            Volledige details over Trinket zijn te vinden in de [Trinket FAQ](https://trinket.io/faq){:target="_blank"} sectie van hun website
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden anoniem gedeeld met onze Community Galleries.
     python-module-1:
       title: "Python: Module 1"
       description: Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
@@ -51,7 +262,8 @@ nl-NL:
       title: "Python: Module 2"
       description: Python is een veelgebruikte, op tekst gebaseerde programmeertaal voor algemene doeleinden.
     unity-intro:
-      title: "Inleiding tot Unity: 3D-objecten, karaktercontrollers, colliders, tekst en knoppen"
+      title: "Inleiding tot Unity"
+      subtitle: "3D-objecten, character controllers, colliders, tekst en knoppen"
       description: In deze inleiding tot Unity leer je hoe je 3D-werelden en games kunt maken met verzamelobjecten, timers en niet-spelerpersonages.
       meta_title: Projectpad | Unity-programmeren voor kinderen | Raspberry Pi
       meta_description: Inleiding tot Unity-programmeren voor kinderen, tieners en jonge volwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
@@ -64,51 +276,161 @@ nl-NL:
         - 
           title: "Wat moet ik weten?"
           content: |
-            - Basis typ- en computernavigatievaardigheden
-            - Ervaring coderen in [Scratch](https://projects.raspberrypi.org/nl-NL/pathways/scratch-intro) of [Python](https://projects.raspberrypi.org/nl-NL/pathways/python-intro)
+            - Basisvaardigheden voor typen en computernavigatie
+            - Ervaring met coderen in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} of [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
           title: "Wat heb ik nodig?"
           content: |
             Dit pad vereist een grote download en installatie die je moet voltooien voordat je het eerste project start.
 
-            - Je moet de Unity Hub en Unity Editor installeren voor jouw besturingssysteem. Je kunt erachter komen hoe dit te doen in onze [Unity-gids](https://projects.raspberrypi.org/nl-NL/projects/unity-guide).
+            - Je moet de Unity Hub en Unity Editor installeren voor jouw besturingssysteem. Een uitleg vind je in onze [Unity-gids](https://projects.raspberrypi.org/nl-NL/projects/unity-guide).
             - Je hebt ook een code editor nodig. De aanbevolen editor is [Visual Studio](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/3).
-            - Je moet ook het [Unity startpakket](https://rpf.io/p/nl-NL/explore-a-3d-world-go) met middelen downloaden voordat je begint.
+            - Je moet ook het [Unity startpakket](https://rpf.io/p/nl-NL/explore-a-3d-world-go) met assets downloaden voordat je begint.
         - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
-            Dit pad volgt [321…Maken!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
 
-            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geef stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
             - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
             - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
 
-            ##Snellequiz
+            ##Snelle quiz
             Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
 
             ##De gemeenschap inspireren
             Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden anoniem gedeeld met onze Community Galleries.
             In onze gids kun je lezen hoe je [projecten deelt](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/5).
+    more-unity:
+      title: "Meer Unity"
+      subtitle: "Rigidbodies, natuurkunde en materialen"
+      description: In dit More Unity-pad gebruik je fysica en materialen om interactieve 3D-puzzelwerelden te creëren met speciaal ontworpen knikkers.
+      meta_title: Projectpad | Unity-programmeren voor kinderen | Raspberry Pi
+      meta_description: Inleiding tot Unity-programmeren voor kinderen, tieners en jonge volwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak knikkerbanen en probleemoplossende 3D-wereld projecten.
+            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om unieke materialen te maken en realistische fysica te gebruiken in je Unity-projecten
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Bekendheid met ons[Inleiding tot Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} pad
+            - Ervaring met coderen in [C#](https:// projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} of [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Dit pad vereist een grote download en installatie die je moet voltooien voordat je het eerste project start.
+
+            - Je moet de Unity Hub en Unity Editor installeren voor jouw besturingssysteem. Een uitleg vind je in onze [Unity-gids](https://projects.raspberrypi.org/nl-NL/projects/unity-guide).
+            - Je hebt ook een code editor nodig. De aanbevolen editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
+            - Je moet ook het [Unity starter package](https://rpf.io/p/en/rainbow-run-go) met assets downloaden voordat je begint.
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden gedeeld met onze Community Galleries.
+            In onze gids kun je lezen hoe je [projecten deelt](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/5).
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Fysiek computergebruik met Scratch en de Raspberry Pi
+      title: Physical computing met Scratch en de Raspberry Pi
       description: Leer hoe je invoer- en uitvoerelektronica gebruikt met Scratch en je Raspberry Pi-computer.
       meta_title: Projectpad | Programmeren in Scratch voor kinderen | Raspberry Pi
       meta_description: Leer hoe je invoer- en uitvoerelektronica met Scratch op je Raspberry Pi computer kunt gebruiken. Gratis bronnen - programmeren in Scratch voor kinderen, tieners en jongvolwassenen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak spellen, interactieve apparaten en een muziekinstrument.
+            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om auteur te worden van een digitaal boek met meerdere pagina's.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            Dit pad is voor beginners tot Scratch en physical computing. Je zou ook eerst ons [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}-pad kunnen voltooien.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            - Een Raspberry Pi-computer
+            - Diverse draden
+            - Eenkleurige LED's, zoemers en weerstanden
+            - Scratch 3 desktopversie geïnstalleerd
+            - Knutselspullen inclusief aluminiumfolie
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            - **3 Explore** projecten: laat makers kennismaken met een reeks vaardigheden en geef stapsgewijze instructies om hen te helpen aanvankelijk vertrouwen te ontwikkelen.
+            - **2 Design**-projecten: laat makers vaardigheden uit de Explore-projecten oefenen en zichzelf creatief uitdrukken terwijl ze groeien in onafhankelijkheid.
+            - **1 Invent**-project: moedigt makers aan hun vaardigheden te gebruiken om een uniek project te maken dat voldoet aan een projectopdracht voor een bepaald publiek.
+
+            ##Quick quiz
+            Elk project bevat een quick quiz met drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid en krijgen een projectbadge.
     pico-intro:
-      title: "Inleiding tot Raspberry Pi Pico: LED's, zoemers, schakelaars en draaiknoppen"
+      title: "Inleiding tot Raspberry Pi Pico"
+      subtitle: "LED's, zoemers, schakelaars en draaiknoppen"
       description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers en potentiometers (draaiknoppen) kunt aansluiten en bedienen.
       meta_title: Projectpad | Inleiding tot de Raspberry Pi Pico
       meta_description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers enz. kunt aansluiten en bedienen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Programmeer en maak interactieve apparaten met licht en geluid.
+            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een uniek sensorisch gadget te maken waar mensen mee willen blijven communiceren
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Basisvaardigheden op het gebied van typen en computernavigatie
+            - Dit pad is voor beginners op het gebied van physical computing
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            ## Hardware
+            Je kunt alle benodigde hardware voor dit pad kopen bij de:
+            - [Pimoroni webwinkel](https://shop.pimoroni.com/producten/pico-intro-kit?variant=39893512945747){:target="_blank"} (bevat een Raspberry Pi Pico)
+            - [Kitronik webwinkel](https://kitronik.co.uk/producten/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (exclusief een Raspberry Pi Pico)
+
+            ## Software
+            - Thonny
+            - Raspberry Pi Pico Fireware (geïnstalleerd via Thonny)
+            - De picozero library (beschikbaar via PyPi in Thonny)
+            Installatiegegevens vind je in het eerste project en in onze [Raspberry Pi Pico gids](https://projecten.raspberrypi.org/nl/projects/introduction-to-the-pico){:target="_blank"}
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Maken!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door een video van hun Ontwerp en Bedenk projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden gedeeld met onze Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: De Raspberry Pi is een kleine computer die kan worden gebruikt in elektronica-projecten en voor veel dingen die je met je computer doet.
+      description: De Raspberry Pi is een kleine computer die kan worden gebruikt in elektronica-projecten en voor veel dingen die je computer doet.
     sense-hat:
       title: Sense HAT
       description: De Sense HAT is een uitbreidingskaart voor de Raspberry Pi, inclusief LED's, een joystick en veel sensoren.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden en muziek met behulp van programma's te creëren.
+      description: Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden met behulp van code te maken.
     microbit:
       title: "BBC micro:bit"
       description: "De BBC micro:bit is een zakformaat, programmeerbare computer waarmee je jouw creativiteit kunt vergroten."
@@ -117,19 +439,19 @@ nl-NL:
       description: Leer voor jezelf te zorgen, leer hoe je Scratch kunt gebruiken en werk eraan om een onafhankelijke programmeur te worden.
     protect-our-planet:
       title: Bescherm onze planeet
-      description: Gebruik Scratch om meer te weten te komen over onze planeet en hoe het milieu te beschermen voor toekomstige generaties
+      description: Gebruik Scratch om meer te weten te komen over onze planeet en hoe we het milieu kunnen beschermen voor toekomstige generaties
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: Maak websites door deze projecten te volgen.
+      description: Maak websites door deze projecten uit te voeren.
     coderdojo-scratch:
       title: CoderDojo Scratch
       description: Leer Scratch door deze leuke projecten te doorlopen!
     coderdojo-wearables:
       title: CoderDojo Wearables
-      description: Maak projecten voor draagbare (wearable) technologie door deze projecten te volgen.
+      description: Maak projecten voor draagbare (wearable) technologie door deze projecten uit te voeren.
     app-inventor-for-social-enterprise:
       title: App Inventor voor sociale innovatie
-      description: Leer hoe je apps voor Android-apparaten kunt maken door projecten te doen die mensen in jouw omgeving kunnen helpen.
+      description: Leer hoe je apps voor Android-apparaten kunt maken door projecten uit te voeren die mensen in jouw omgeving kunnen helpen.
     scratch-for-social-enterprise:
       title: Scratch voor sociale innovatie
       description: Leer Scratch, een beginnersvriendelijke grafische programmeertaal, terwijl je apps en games maakt om mensen te helpen leren over belangrijke zaken.
@@ -139,3 +461,106 @@ nl-NL:
     getting-started-with-raspberry-pi:
       title: Aan de slag met de Raspberry Pi
       description: Installeer je Raspberry Pi en kijk wat je ermee kunt doen!
+    life-on-earth:
+      meta_title: Leven op de Aarde Astro Pi-bronnen
+      meta_description: Help je voor te bereiden op de Astro Pi leven op aarde met deze collectie van Raspberry Pi, cameramodule, Sense HAT en Google Coral resources.
+    web-intro:
+      title: Inleiding tot webontwikkeling
+      subtitle: HTML, CSS en animaties
+      description: In deze inleiding tot webontwikkeling met HTML en CSS voor beginners, leer je hoe je webpagina's bouwt en vormgeven met afbeeldingen, lijsten, lettertypen, citaten, links en animatie.
+      meta_title: Projectpad | Inleiding tot HTML en CSS voor kinderen | Webontwikkeling voor kinderen | Websites maken
+      meta_description: Inleiding tot HTML voor kinderen, tieners en jonge volwassenen. Maak interactieve websites met deze gratis bronnen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve websites met kunst, emoji's en flipcards.
+            Aan het einde van dit pad heb je een website gemaakt over iets dat je wilt delen.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Basisvaardigheden voor typen en computernavigatie
+            - Ervaring met coderen in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kan nuttig zijn
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            - Een computer of mobiel apparaat waarop het online coderingsplatform [Trinket](https://trinket.io){:target="_blank"} kan worden uitgevoerd.
+            - Optioneel een Trinket-account om projecten op te slaan.
+            Volledige details over Trinket zijn te vinden in de [Trinket FAQ](https://trinket.io/faq){:target="_blank"} sectie van hun website
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden gedeeld met onze Community Galleries.
+    sense-hat-intro:
+      meta_title: Inleiding tot de Sense HAT
+      meta_description: Sense HAT, Astro Pi, Mission Zero
+    experience-ai-challenge-music-quest:
+      title: "Experience AI Challenge: Muziek Ontdekkingstocht"
+      subtitle: "Stream de soundtrack naar je leven met AI"
+      description: De Experience AI Muziek Ontdekkingstocht is een reeks sessies waarin je leert hoe je je eigen 'AI DJ' ontwerpt en maakt met behulp van Scratch, Machine Learning for Kids en de Spotify API.
+      meta_title: Projectpad | Experience AI Challenge - Muziek Ontdekkingstocht
+      meta_description: Inleiding tot Scratch-programmeren en Machine Learning voor kinderen, tieners en jonge volwassenen. Leer hoe je gegevens kunt indelen in een ML-model en dit kunt gebruiken om muziek te voorspellen die je leuk zal vinden.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve Scratch-projecten en maak en train een Machine Learning-model.
+            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een app te maken die afspeellijsten met muziek kan maken op basis van je voorkeuren.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            Dit pad is ideaal voor beginners in Scratch en machine learning.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Dit pad vereist:
+            - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
+            - Toegang tot internet om Scratch en Machine Learning 4 Kids online te gebruiken.
+            - Een [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}account. (Instructies zijn beschikbaar in de mentorgids hieronder.)
+            - Koptelefoon (aanbevolen) of luidsprekers
+            - Een kopie van het [Creator Blueprint-document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ## Experience AI Challenge: Muziek Ontdekkingstocht
+
+            Dit pad geeft jonge makers content om te beginnen machine learning en AI (kunstmatige intelligentie) als onderdeel van de Experience AI Challenge.
+
+            De Muziek Ontdekkingstocht duurt ongeveer vijf uur en is flexibel ontworpen- het kan worden uitgevoerd als individuele sessies of een 'hackathon'. De inhoud biedt ook de mogelijkheid om door te gaan met projecten tussen de fases door.
+
+            De [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) bevat instructies voor het maken van de benodigde accounts, notities voor elke fase van de opdracht, evenals debugging tips en suggesties voor extra functies die makers kunnen toevoegen.
+
+            Het bevat ook instructies voor het indienen van de voltooide apps van je Makers bij de Experience AI Showcase om te worden gewaardeerd en geselecteerd door een panel van deskundigen uit de sector en onderzoekers. In samenwerking met Google Deepmined worden geselecteerde deelnemers uitgenodigd om ons speciale showcase evenement bij te wonen!
+    prepare-to-run-a-code-club:
+      title: "Voorbereidingen om een Code Club te starten"
+      subtitle: "Je eerste stappen op weg naar starten van een Code Club voor jongeren."
+      description: In deze cursus bieden we je stap-voor-stap begeleiding om je Code Club van start te laten gaan. We zullen beginnen met de praktische aspecten van het plannen en opzetten en we zullen je begeleiden in het plannen en uitvoeren van je eerste sessie, en we eindigen met ideeën en tips over hoe je je leerlingen kunt motiveren en hun prestaties kunt vieren.
+      meta_title: Projectpad | Voorbereidingen om een Code Club te starten
+      meta_description: In deze cursus zullen we je begeleiden bij het starten van je Code Club, van de eerste opzet en planning, om je eerste sessie uit te voeren en tot slot om de prestaties van je leerlingen te motiveren en te vieren.
+      header:
+        - 
+          title: "Wat zal ik leren?"
+          content: |
+            In deze cursus zullen we je begeleiden bij het starten van je Code Club, van de eerste opzet en planning, om je eerste sessie uit te voeren en tot slot om de prestaties van je leerlingen te motiveren en te vieren.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            Deze cursus is handig voor je als je vrijwilliger wilt zijn in een club in je gemeenschap om jonge mensen helpen te leren programmeren of als je een leraar bent die een naschoolse programmeerclub voor de leerlingen in je school wil oprichten.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Dit pad vereist:
+            - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
+            - Toegang tot internet om Scratch en andere toepassingen online te gebruiken.
+
