@@ -1,29 +1,31 @@
 ---
-
 nl-NL:
-pathways:
-scratch-intro:
-title: "Inleiding tot Scratch"
-subtitle: "sprites, scripts en lussen"
-description: In deze inleiding tot programmeren in Scratch voor beginners, leer je hoe je code, uiterlijken en geluiden aan sprites kunt toevoegen terwijl je animaties, een game, een app en een boek maakt.
-meta_title: Projectpad | Inleiding tot Scratch-programmering voor kinderen
-meta_description: Inleiding tot Scratch-programmering voor kinderen, tieners en jonge volwassenen. Leer hoe je animaties, een game, een app en een boek maakt.
-header: -
-title: "Wat ga ik maken?"
-content: |
-Maak interactieve projecten, animaties en creëer een spel met meerdere niveaus.
-Aan het einde van dit traject heb je je nieuwe vaardigheden gebruikt om auteur te worden van een digitaal boek met meerdere pagina's. -
-title: "Wat moet ik weten?"
-content: |
-Dit pad is ideaal voor beginners. -
-title: "Wat heb ik nodig?"
-content: |
-Dit pad vereist:
+  pathways:
+    scratch-intro:
+      title: "Inleiding tot Scratch"
+      subtitle: "sprites, scripts en lussen"
+      description: In deze inleiding tot programmeren in Scratch voor beginners, leer je hoe je code, uiterlijken en geluiden aan sprites kunt toevoegen terwijl je animaties, een game, een app en een boek maakt.
+      meta_title: Projectpad | Inleiding tot Scratch-programmering voor kinderen
+      meta_description: Inleiding tot Scratch-programmering voor kinderen, tieners en jonge volwassenen. Leer hoe je animaties, een game, een app en een boek maakt.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve projecten, animaties en creëer een spel met meerdere niveaus.
+            Aan het einde van dit traject heb je je nieuwe vaardigheden gebruikt om auteur te worden van een digitaal boek met meerdere pagina's.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            Dit pad is ideaal voor beginners.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Dit pad vereist:
 
             - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
             - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
             - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -46,17 +48,17 @@ Dit pad vereist:
       meta_title: Projectpad | Meer Scratch voor kinderen | Raspberry Pi
       meta_description: Meer Scratch voor kinderen, tieners en jonge volwassenen. Ga met deze gratis projecten verder na de basis om apps, games en animaties te coderen met behulp van het verzenden van berichten.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak interactieve projecten, simulaties en games.
             Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een virtueel huisdier of personage te creëren waarmee gebruikers kunnen communiceren.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             Dit pad is voor makers die vertrouwd zijn met het gebruik van Scratch.
             Als je nieuw bent bij Scratch, kun je ons pad [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} proberen.
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             Dit pad vereist:
@@ -64,7 +66,7 @@ Dit pad vereist:
             - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
             - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
             - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -87,17 +89,17 @@ Dit pad vereist:
       meta_title: Projectpad | Verder met Scratch coderen voor kinderen | Raspberry Pi
       meta_description: Verder met Scratch coderen voor kinderen, tieners en jonge volwassenen. Gebruik deze gratis programmeerbronnen om apps, games, computergegenereerde kunst en animaties te maken.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak computer gegenereerde kunst, muziek, games en simulaties.
             Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een first-person view-simulatie te creëren in een denkbeeldige wereld.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             Dit pad is voor makers die vertrouwd zijn met het gebruik van Scratch.
             Als je nieuw bent bij Scratch, kun je ons pad [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} of ons pad [Meer Scratch] proberen (https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} proberen.
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             Dit pad vereist:
@@ -105,7 +107,7 @@ Dit pad vereist:
             - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
             - Toegang tot internet om Scratch online te gebruiken of de mogelijkheid om Scratch te downloaden en te installeren. Zie onze [Scratch-installatiehandleiding](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} voor meer informatie.
             - Optioneel een [Scratch-account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -146,23 +148,23 @@ Dit pad vereist:
       meta_title: Projectpad | Inleiding tot Python voor kinderen | Raspberry Pi
       meta_description: Inleiding tot Python voor kinderen, tieners en jonge volwassenen. Maak interactieve kunst, animaties en games met deze gratis bronnen.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak interactieve projecten, kunst, games en een simulatie.
             Aan het einde van dit pad heb je een schaalbaar geometrisch kunstwerk gemaakt.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             - Basisvaardigheden voor typen en computernavigatie
             - Ervaring met coderen in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kan nuttig zijn
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             - Een computer of mobiel apparaat waarop het online coderingsplatform [Trinket](https://trinket.io){:target="_blank"} kan worden uitgevoerd.
             - Optioneel een Trinket-account om projecten op te slaan.
             Volledige details over Trinket zijn te vinden in de [Trinket FAQ](https://trinket.io/faq){:target="_blank"} sectie van hun website
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -184,23 +186,23 @@ Dit pad vereist:
       meta_title: Projectpad | Inleiding tot Python voor kinderen | Raspberry Pi
       meta_description: Inleiding tot Python voor kinderen, tieners en jonge volwassenen. Maak interactieve kunst, animaties en games met deze gratis bronnen.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak interactieve projecten, kunst, games en een simulatie.
             Aan het einde van dit pad heb je een schaalbaar geometrisch kunstwerk gemaakt.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             - Basisvaardigheden voor typen en computernavigatie
             - Ervaring met coderen in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kan nuttig zijn
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             - Een computer of mobiel apparaat waarop het online coderingsplatform [Trinket](https://trinket.io){:target="_blank"} kan worden uitgevoerd.
             - Optioneel een Trinket-account om projecten op te slaan.
             Volledige details over Trinket zijn te vinden in de [Trinket FAQ](https://trinket.io/faq){:target="_blank"} sectie van hun website
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -222,23 +224,23 @@ Dit pad vereist:
       meta_title: Projectpad | Meer Python-projecten voor kinderen | Raspberry Pi
       meta_description: Meer Python-projecten voor kinderen, tieners en jonge volwassenen. Leer hoe je lijsten, dictionaries en bestanden kunt gebruiken om grafieken, modellen en kunst te maken.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Visualiseer gegevens door interactieve grafieken, een simulatie en kunstwerken te maken.
             Aan het einde van dit pad heb je een unieke datavisualisatie gemaakt over een onderwerp naar keuze
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             - Dit pad is voor makers die vertrouwd zijn met het gebruik van Python.
             Als je Python nog niet eerder hebt gebruikt, kun je ons pad [Inleiding tot Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} proberen.
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             - Een computer of mobiel apparaat waarop het online coderingsplatform [Trinket](https://trinket.io){:target="_blank"} kan worden uitgevoerd.
             - Optioneel een Trinket-account om projecten op te slaan.
             Volledige details over Trinket zijn te vinden in de [Trinket FAQ](https://trinket.io/faq){:target="_blank"} sectie van hun website
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -266,17 +268,17 @@ Dit pad vereist:
       meta_title: Projectpad | Unity-programmeren voor kinderen | Raspberry Pi
       meta_description: Inleiding tot Unity-programmeren voor kinderen, tieners en jonge volwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak 3D-werelden en games met verzamelobjecten, timers en niet-spelerpersonages.
             Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een sterrenvangerspel, een wereld met missies en een 3D-avontuur te creëren.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             - Basisvaardigheden voor typen en computernavigatie
             - Ervaring met coderen in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} of [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             Dit pad vereist een grote download en installatie die je moet voltooien voordat je het eerste project start.
@@ -284,7 +286,7 @@ Dit pad vereist:
             - Je moet de Unity Hub en Unity Editor installeren voor jouw besturingssysteem. Een uitleg vind je in onze [Unity-gids](https://projects.raspberrypi.org/nl-NL/projects/unity-guide).
             - Je hebt ook een code editor nodig. De aanbevolen editor is [Visual Studio](https://projects.raspberrypi.org/nl-NL/projects/unity-guide/3).
             - Je moet ook het [Unity startpakket](https://rpf.io/p/nl-NL/explore-a-3d-world-go) met assets downloaden voordat je begint.
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -307,17 +309,17 @@ Dit pad vereist:
       meta_title: Projectpad | Unity-programmeren voor kinderen | Raspberry Pi
       meta_description: Inleiding tot Unity-programmeren voor kinderen, tieners en jonge volwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak knikkerbanen en probleemoplossende 3D-wereld projecten.
             Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om unieke materialen te maken en realistische fysica te gebruiken in je Unity-projecten
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             - Bekendheid met ons[Inleiding tot Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} pad
             - Ervaring met coderen in [C#](https:// projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} of [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             Dit pad vereist een grote download en installatie die je moet voltooien voordat je het eerste project start.
@@ -325,7 +327,7 @@ Dit pad vereist:
             - Je moet de Unity Hub en Unity Editor installeren voor jouw besturingssysteem. Een uitleg vind je in onze [Unity-gids](https://projects.raspberrypi.org/nl-NL/projects/unity-guide).
             - Je hebt ook een code editor nodig. De aanbevolen editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
             - Je moet ook het [Unity starter package](https://rpf.io/p/en/rainbow-run-go) met assets downloaden voordat je begint.
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -347,16 +349,16 @@ Dit pad vereist:
       meta_title: Projectpad | Programmeren in Scratch voor kinderen | Raspberry Pi
       meta_description: Leer hoe je invoer- en uitvoerelektronica met Scratch op je Raspberry Pi computer kunt gebruiken. Gratis bronnen - programmeren in Scratch voor kinderen, tieners en jongvolwassenen.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak spellen, interactieve apparaten en een muziekinstrument.
             Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om auteur te worden van een digitaal boek met meerdere pagina's.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             Dit pad is voor beginners tot Scratch en physical computing. Je zou ook eerst ons [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}-pad kunnen voltooien.
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             - Een Raspberry Pi-computer
@@ -364,7 +366,7 @@ Dit pad vereist:
             - Eenkleurige LED's, zoemers en weerstanden
             - Scratch 3 desktopversie geïnstalleerd
             - Knutselspullen inclusief aluminiumfolie
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…maken!
@@ -382,17 +384,17 @@ Dit pad vereist:
       meta_title: Projectpad | Inleiding tot de Raspberry Pi Pico
       meta_description: In deze introductie tot digitaal maken met Raspberry Pi Pico voor beginners, leer je hoe je LED's, knoppen, schakelaars, zoemers enz. kunt aansluiten en bedienen.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Programmeer en maak interactieve apparaten met licht en geluid.
             Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een uniek sensorisch gadget te maken waar mensen mee willen blijven communiceren
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             - Basisvaardigheden op het gebied van typen en computernavigatie
             - Dit pad is voor beginners op het gebied van physical computing
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             ## Hardware
@@ -405,7 +407,7 @@ Dit pad vereist:
             - Raspberry Pi Pico Fireware (geïnstalleerd via Thonny)
             - De picozero library (beschikbaar via PyPi in Thonny)
             Installatiegegevens vind je in het eerste project en in onze [Raspberry Pi Pico gids](https://projecten.raspberrypi.org/nl/projects/introduction-to-the-pico){:target="_blank"}
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -469,23 +471,23 @@ Dit pad vereist:
       meta_title: Projectpad | Inleiding tot HTML en CSS voor kinderen | Webontwikkeling voor kinderen | Websites maken
       meta_description: Inleiding tot HTML voor kinderen, tieners en jonge volwassenen. Maak interactieve websites met deze gratis bronnen.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak interactieve websites met kunst, emoji's en flipcards.
             Aan het einde van dit pad heb je een website gemaakt over iets dat je wilt delen.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             - Basisvaardigheden voor typen en computernavigatie
             - Ervaring met coderen in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kan nuttig zijn
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             - Een computer of mobiel apparaat waarop het online coderingsplatform [Trinket](https://trinket.io){:target="_blank"} kan worden uitgevoerd.
             - Optioneel een Trinket-account om projecten op te slaan.
             Volledige details over Trinket zijn te vinden in de [Trinket FAQ](https://trinket.io/faq){:target="_blank"} sectie van hun website
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ##321…Maken!
@@ -510,16 +512,16 @@ Dit pad vereist:
       meta_title: Projectpad | Experience AI Challenge - Muziek Ontdekkingstocht
       meta_description: Inleiding tot Scratch-programmeren en Machine Learning voor kinderen, tieners en jonge volwassenen. Leer hoe je gegevens kunt indelen in een ML-model en dit kunt gebruiken om muziek te voorspellen die je leuk zal vinden.
       header:
-        -
+        - 
           title: "Wat ga ik maken?"
           content: |
             Maak interactieve Scratch-projecten en maak en train een Machine Learning-model.
             Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om een app te maken die afspeellijsten met muziek kan maken op basis van je voorkeuren.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             Dit pad is ideaal voor beginners in Scratch en machine learning.
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             Dit pad vereist:
@@ -528,7 +530,7 @@ Dit pad vereist:
             - Een [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}account. (Instructies zijn beschikbaar in de mentorgids hieronder.)
             - Koptelefoon (aanbevolen) of luidsprekers
             - Een kopie van het [Creator Blueprint-document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
-        -
+        - 
           title: "Mentorinformatie"
           content: |
             ## Experience AI Challenge: Muziek Ontdekkingstocht
@@ -547,17 +549,18 @@ Dit pad vereist:
       meta_title: Projectpad | Voorbereidingen om een Code Club te starten
       meta_description: In deze cursus zullen we je begeleiden bij het starten van je Code Club, van de eerste opzet en planning, om je eerste sessie uit te voeren en tot slot om de prestaties van je leerlingen te motiveren en te vieren.
       header:
-        -
+        - 
           title: "Wat zal ik leren?"
           content: |
             In deze cursus zullen we je begeleiden bij het starten van je Code Club, van de eerste opzet en planning, om je eerste sessie uit te voeren en tot slot om de prestaties van je leerlingen te motiveren en te vieren.
-        -
+        - 
           title: "Wat moet ik weten?"
           content: |
             Deze cursus is handig voor je als je vrijwilliger wilt zijn in een club in je gemeenschap om jonge mensen helpen te leren programmeren of als je een leraar bent die een naschoolse programmeerclub voor de leerlingen in je school wil oprichten.
-        -
+        - 
           title: "Wat heb ik nodig?"
           content: |
             Dit pad vereist:
             - Een desktopcomputer, laptop, tablet, mobiel apparaat of Raspberry Pi-computer
             - Toegang tot internet om Scratch en andere toepassingen online te gebruiken.
+
