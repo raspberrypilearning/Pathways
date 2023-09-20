@@ -1,0 +1,139 @@
+es-419:
+  scratch-intro:
+    title: "Introducción a Scratch: objetos, scripts y ciclos"
+    description: En esta introducción a la programación en Scratch para principiantes, aprenderás a añadir código, disfraces y sonidos a los objetos mientras creas animaciones, un juego, una aplicación y un libro.
+    meta_title: Ruta del proyecto | Introducción a la programación en Scratch para niños
+    meta_description: Introducción a la programación en Scratch para niños, adolescentes y jóvenes adultos. Aprende a hacer animaciones, un juego, una aplicación y un libro.
+  more-scratch:
+    title: "Más sobre Scratch: difusión, decisiones y variables"
+    description: Más Scratch, va más allá de los conceptos básicos presentados en Introducción a Scratch. Harás aplicaciones, juegos y simulaciones utilizando el envío de mensajes, decisiones si... entonces y y si... entonces... si no y variables.
+    meta_title: Ruta del proyecto | Más Scratch para niños | Raspberry Pi
+    meta_description: Más Scratch para niños, adolescentes y adultos jóvenes. Ve más allá de lo básico para programar aplicaciones, juegos y animaciones usando envío de mensajes con estos proyectos gratuitos.
+  further-scratch:
+    title: "Todavía más Scratch: clones, mis bloques y lógica booleana"
+    description: Todavía más Scratch, va más allá de las habilidades presentadas en Introducción a Scratch y Más Scratch. Crearás aplicaciones, juegos, arte generado por computadora y simulaciones usando lógica booleana, funciones, clones y más.
+    meta_title: Ruta del proyecto | Todavía más Scratch para niños | Raspberry Pi
+    meta_description: Todavía más programación de Scratch para niños, adolescentes y adultos jóvenes. Utiliza estos recursos gratuitos para crear aplicaciones, juegos, arte generado por computadora y animaciones.
+  scratch-module-1:
+    title: "Scratch: Módulo 1"
+    description: Aprende cómo programar tus propias historias interactivas, juegos y animaciones.
+  scratch-module-2:
+    title: "Scratch: Módulo 2"
+    description: Aprende cómo programar tus propias historias interactivas, juegos y animaciones.
+  scratch-module-3:
+    title: "Scratch: Módulo 3"
+    description: Aprende cómo programar tus propias historias interactivas, juegos y animaciones.
+  scratch-additional-projects:
+    title: "Scratch: Proyectos adicionales"
+    description: Aprende cómo programar tus propias historias interactivas, juegos y animaciones.
+  webdev-module-1:
+    title: "HTML y CSS: Módulo 1"
+    description: Crea y diseña tus propias páginas web.
+  webdev-module-2:
+    title: "HTML y CSS: Módulo 2"
+    description: Crea y diseña tus propias páginas web.
+  python-intro:
+    title: "Introducción a Python: variables, funciones y bucles"
+    description: En esta introducción a la programación en Python para principiantes, aprenderás a usar variables, bucles, y funciones para crear obras de arte visuales e interactivas, animaciones, simulaciones, juegos y más.
+    meta_title: Ruta del proyecto | Introducción a Python para niños | Raspberry Pi
+    meta_description: Introducción a Python para niños, adolescentes y adultos jóvenes. Crea obras de arte interactivas, animaciones y juegos con estos recursos gratuitos.
+  more-python:
+    title: "Más Python: Listas, diccionarios y datos"
+    description: Más Python va más allá de lo básico presentado en Introducción a Python. Aprenderás a utilizar listas, diccionarios y archivos para crear gráficos, modelos y obras de arte.
+    meta_title: Ruta del proyecto | Más proyectos Python para niños | Raspberry Pi
+    meta_description: Más proyectos Python para niños, adolescentes y adultos jóvenes. Aprende a usar listas, diccionarios y archivos para crear gráficos, modelos y obras de arte.
+  python-module-1:
+    title: "Python: Módulo 1"
+    description: Python es un lenguaje de programación basado en texto, de uso general y muy utilizado.
+  python-module-2:
+    title: "Python: Módulo 2"
+    description: Python es un lenguaje de programación basado en texto, de uso general y muy utilizado.
+  unity-intro:
+    title: "Introducción a Unity: objetos 3D, controladores de caracteres, colisionadores, texto y botones"
+    description: En esta introducción a Unity, aprenderás a crear mundos y juegos en 3D con coleccionables, cronómetros y personajes que no son jugadores.
+    meta_title: Ruta del proyecto | Programación en Unity para niños | Raspberry Pi
+    meta_description: Introducción a la programación en Unity para niños, adolescentes y adultos jóvenes. Aprende cómo hacer mundos 3D y juegos usando estos recursos gratuitos.
+    header:
+      - 
+        title: "What will I create?"
+        content: |
+          Make 3D worlds and games with collectibles, timers and non-player characters.
+          By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+      - 
+        title: "What do I need to know?"
+        content: |
+          - Basic typing and computer navigation skills
+          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) or [Python](https://projects.raspberrypi.org/en/pathways/python-intro)
+      - 
+        title: "What do I need?"
+        content: |
+          This path requires a large download and installation which you should complete before you start the first project.
+
+          - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
+          - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
+          - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
+      - 
+        title: "Mentor information"
+        content: |
+          ##321…Make!
+          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+          - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+          - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
+          - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
+
+          ##Quick quiz
+          Each project contains a quick quiz step. Each quiz contains three multiple choice questions. Creators are guided to the correct answer through useful feedback.
+
+          ##Inspiring the community
+          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
+          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5) in our guide.
+  physical-computing-with-scratch-and-the-raspberry-pi:
+    title: Computación física con Scratch y el Raspberry Pi
+    description: Aprenda a usar la electrónica de entrada y salida con Scratch y tu computadora Raspberry Pi.
+    meta_title: Ruta del proyecto | Programación en Scratch para niños | Raspberry Pi
+    meta_description: Aprende cómo utilizar los electrónicos de entrada y salida con Scratch en tu computadora Raspberry Pi. Recursos gratuitos - programación en scratch para niños, adolescentes y adultos jóvenes.
+  pico-intro:
+    title: "Introducción a Raspberry Pi Pico: LEDs, zumbadores, interruptores y diales"
+    description: En esta introducción a la creación digital con Raspberry Pi Pico para principiantes, aprenderás a conectar y controlar LEDs, botones, interruptores, zumbadores y potenciómetros (diales).
+    meta_title: Ruta del proyecto | Introducción a la Raspberry Pi Pico
+    meta_description: En esta introducción a la creación digital con Raspberry Pi Pico para principiantes, aprenderás a conectar y controlar LEDs, botones, interruptores, zumbadores, etc.
+  raspberry-pi:
+    title: Raspberry Pi
+    description: La Raspberry Pi es una pequeña y capaz computadora que se puede usar en proyectos de electrónica y para muchas de las cosas que hace tu PC de escritorio.
+  sense-hat:
+    title: Sense HAT
+    description: El Sense HAT es un periférico para la Raspberry Pi que incluye LEDs, un joystick y muchos sensores.
+  sonic-pi:
+    title: Sonic Pi
+    description: Sonic Pi es un nuevo tipo de instrumento musical, diseñado para crear sonidos con código.
+  microbit:
+    title: "BBC micro:bit"
+    description: "BBC micro:bit es una computadora programable de bolsillo que te permite ser creativo."
+  look-after-yourself:
+    title: Cuídate
+    description: Aprende a cuidarte mientras aprendes a usar Scratch y trabaja para convertirte en un programador independiente.
+  protect-our-planet:
+    title: Proteger nuestro planeta
+    description: Use Scratch para aprender sobre nuestro planeta y cómo proteger el medio ambiente para las generaciones futuras
+  coderdojo-html_css:
+    title: CoderDojo HTML y CSS
+    description: Crea páginas web siguiendo estos proyectos.
+  coderdojo-scratch:
+    title: Scratch de CoderDojo
+    description: '¡Aprende Scratch trabajando con estos divertidos proyectos!'
+  coderdojo-wearables:
+    title: CoderDojo Wearables
+    description: Crear proyectos de tecnología "wearable" (para llevar puesta) siguiendo estos proyectos.
+  app-inventor-for-social-enterprise:
+    title: Inventor de aplicaciones para innovación social
+    description: Aprende a crear aplicaciones para dispositivos Android haciendo proyectos que puedan ayudar a la gente de tu comunidad.
+  scratch-for-social-enterprise:
+    title: Scratch para la innovación social
+    description: Aprende Scratch, un lenguaje de programación gráfico amigable para principiantes, mientras construyes aplicaciones y juegos para ayudar a la gente a aprender sobre temas importantes.
+  html-css-for-social-enterprise:
+    title: HTML y CSS para la innovación social
+    description: Aprende HTML y CSS creando un sitio web sobre la conservación de aves.
+  getting-started-with-raspberry-pi:
+    title: Comienza con Raspberry Pi
+    description: '¡Configura tu Raspberry Pi y mira lo que puede hacer!'
