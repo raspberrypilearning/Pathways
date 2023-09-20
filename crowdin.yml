@@ -1,3 +1,5 @@
 files:
   - source: /pathways/en.yml
-    translation: /pathways/%locale%
+    translation: /pathways/%locale%.yml
+  - source: /collections/en.yml
+    translation: /collections/%locale%.yml
