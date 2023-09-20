@@ -1,139 +1,565 @@
+---
 ar:
-  scratch-intro:
-    title: "مقدمة إلى Scratch: النقوش المتحركة، النصوص والحلقات"
-    description: في هذه المقدمة حول البرمجة في Scratch للمبتدئين، ستتعلم كيفية إضافة التعليمات البرمجية والمظاهر والأصوات إلى الكائنات أثناء إنشاء الرسوم المتحركة للعبة وتطبيق وكتاب.
-    meta_title: مسار المشروع | مقدمة إلى البرمجة باستخدام برنامَج Scratch للأطفال
-    meta_description: مقدمة عن برنامج Scratch للأطفال، المراهقين والشباب. تعرف على كيفية إنشاء رسوم متحركة ،لُعْبَة ،تطبيق وكتاب.
-  more-scratch:
-    title: "المزيد من Scratch: البث والقرارات والمتغيرات"
-    description: المزيد عن برنامج Scratch للذهاب أبعد من الأساسيات التي تعرفت عليها في المقدمة. ستقوم بإنشاء تطبيقات وألعاب ومحاكاة باستخدام بث الرسائل، إذا..ثم و إذا..ثم..خلاف ذلك من القرارات والمتغيرات.
-    meta_title: مسار المشروع | المزيد من سكراتش للأطفال | Raspberry Pi
-    meta_description: المزيد من سكراتش للأطفال والمراهقين والشباب البالغين. انتقل إلى أبعد من أساسيات برمجة التطبيقات والألعاب والرسوم المتحركة باستخدام بث الرسائل مع هذه المشاريع المجانية.
-  further-scratch:
-    title: "المزيد عن برنامج سكراتش: الاستنساخ ، كتلتي ، والتحليل المنطقي"
-    description: أبعد من ذلك مع Scratch تجاوز المهارات المقدمة في مقدمة إلى Scratch والمزيد من Scratch. ستقوم بإنشاء تطبيقات, ألعاب وفن تم إنشاؤه بواسطة الحاسوب، عمليات محاكاة باستخدام المنطق البوليني، الوظائف،الإستنساخ وأكتر من ذلك.
-    meta_title: مسار المشروع | المزيد من Scratch للأطفال | Raspberry Pi
-    meta_description: المزيد من البرمجة بواسطة Scratch للأطفال، المراهقين و الشباب. إستخدم هذه الموارد البرمجية المجانية لتستطيع إنشاء تطبيقات، ألعابا، أعمالا فنية منشأة بالحاسوب، و رسوما متحركة.
-  scratch-module-1:
-    title: "Scratch: الوحدة //1"
-    description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
-  scratch-module-2:
-    title: "Scratch: الوحدة //2"
-    description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
-  scratch-module-3:
-    title: "Scratch: الوحدة //3"
-    description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
-  scratch-additional-projects:
-    title: "Scratch: مشاريع إضافية"
-    description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
-  webdev-module-1:
-    title: "HTML & CSS: الوحدة //1"
-    description: بناء وتنسيق صفحات الويب الخاصة بك.
-  webdev-module-2:
-    title: "HTML & CSS: الوحدة //2"
-    description: بناء وتنسيق صفحات الويب الخاصة بك.
-  python-intro:
-    title: "مقدمة إلىبرنامج Python: المتغيرات، الوظائف والحلقات"
-    description: في هذه المقدمة في البرمجة بلغة بايثون(Python) للمبتدئين، ستتعلم كيفية استخدام المتغيرات، الحلقات، ووظائف لإنشاء أعمال فنية بصرية وتفاعلية، رسوم متحركة، محاكاة، ألعاب، والمزيد.
-    meta_title: مسار المشروع | مقدمة إلى برنامج بايثون(Python) للأطفال | Raspberry Pi
-    meta_description: مقدمة إلى برنامج بايثون(Python) للأطفال، المراهقين والشباب. أنشئ أعمال فنية تفاعلية,، رسوم متحركة وألعاب باستخدام هذه الموارد المجانية.
-  more-python:
-    title: "المزيد من لغة البرمجة بايثون: القوائم، القواميس والبيانات"
-    description: المزيد من بايثون يتجاوز الأساسيات المقدمة في مقدمة إلى بايثون. سوف تتعلم كيفية استخدام القوائم، القواميس والملفات لإنشاء مخططات، نماذج وأعمال فنية.
-    meta_title: مسار المشروع | مقدمة إلى برنامج بايثون(Python) للأطفال | Raspberry Pi
-    meta_description: المزيد من مشاريع بايثون للأطفال، المراهقين والشباب. تعرف على كيفية استخدام القوائم، القواميس والملفات لإنشاء المخططات والنماذج والأعمال الفنية.
-  python-module-1:
-    title: "Python: الوحدة //1"
-    description: "Python هي لغة برمجة نصية تُستخدم على نطاق واسع للأغراض العامة.\n"
-  python-module-2:
-    title: "Python: الوحدة //2"
-    description: "Python هي لغة برمجة نصية تُستخدم على نطاق واسع للأغراض العامة.\n"
-  unity-intro:
-    title: "مقدمة إلى برنامج يونيتي(Unity): أجسام ثلاثية الأبعاد 3D ، وحدات التحكم في الشخصيات ، المصادمات ، نص وأزرار"
-    description: في هذه المقدمة إلى يونيتي (Unity) سوف تتعلم كيفية صنع عوالم ثلاثية الأبعاد وألعاب بإستخدام المقتنيات، مؤقتات وشخصيات غير لاعب.
-    meta_title: مسار المشروع | البرمجة بإسعمال برنامج يونيتي (Unity) للأطفال | Raspberry Pi
-    meta_description: مقدمة إلى برمجة يونيتي للأطفال، المراهقين و اليافعين. تعلم كيف تصنع عوالم و ألعابا ثلاثية الأبعاد بإستعمال هذه الموارد المجانية.
-    header:
-      - 
-        title: "What will I create?"
-        content: |
-          Make 3D worlds and games with collectibles, timers and non-player characters.
-          By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
-      - 
-        title: "What do I need to know?"
-        content: |
-          - Basic typing and computer navigation skills
-          - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) or [Python](https://projects.raspberrypi.org/en/pathways/python-intro)
-      - 
-        title: "What do I need?"
-        content: |
-          This path requires a large download and installation which you should complete before you start the first project.
+  pathways:
+    scratch-intro:
+      title: "مقدمة إلى Scratch: النقوش المتحركة، النصوص والحلقات"
+      subtitle: "sprites, scripts, and loops"
+      description: في هذه المقدمة حول البرمجة في Scratch للمبتدئين، ستتعلم كيفية إضافة التعليمات البرمجية والمظاهر والأصوات إلى الكائنات أثناء إنشاء الرسوم المتحركة للعبة وتطبيق وكتاب.
+      meta_title: مسار المشروع | مقدمة إلى البرمجة باستخدام برنامَج Scratch للأطفال
+      meta_description: مقدمة عن برنامج Scratch للأطفال، المراهقين والشباب. تعرف على كيفية إنشاء رسوم متحركة ،لُعْبَة ،تطبيق وكتاب.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive projects, animations and create a multiple level game.
+            By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
+        - 
+          title: "What do I need to know?"
+          content: |
+            This path is ideal for beginners to Scratch.
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires:
 
-          - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide).
-          - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3).
-          - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
-      - 
-        title: "Mentor information"
-        content: |
-          ##321…Make!
-          This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-          - 3 **Explore** projects to introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-          - 2 **Design** projects to allow creators to practise the skills they learned in the previous Explore projects, and to express themselves creatively while they grow in independence.
-          - 1 **Invent** project where creators use their skills to meet a project brief for a particular audience.
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
 
-          ##Quick quiz
-          Each project contains a quick quiz step. Each quiz contains three multiple choice questions. Creators are guided to the correct answer through useful feedback.
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-          ##Inspiring the community
-          Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions). Projects will be anonymously shared to our Community Galleries.
-          You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5) in our guide.
-  physical-computing-with-scratch-and-the-raspberry-pi:
-    title: الحوسبة الفيزيائية باستخدام برنامج Scratch وجهاز Raspberry Pi
-    description: تعرف على كيفية استخدام إلكترونيات الإدخال والإخراج مع Scratch وحاسوب Raspberry Pi الخاص بك.
-    meta_title: مسار المشروع | البرمجة بإستعمال سكراتش للأطفال | Raspberry Pi
-    meta_description: تعلم كيفية استعمال إلكترونيات الإدخال و الإخراج بواسطة برنامَج سكراتش و حاسوب  Raspberry Pi الخاص بك. موارد مجانية - البرمجة في سكراتش للأطفال، المراهقين و الشباب البالغين
-  pico-intro:
-    title: "مقدمة إلى Raspberry Pi Pico: مصابيح LED، مكبرات الصوت، أزرار، والمقاييس"
-    description: في هذه المقدمة للإنشاء الرقمي باستخدام Raspberry Pi Pico للمبتدئين ، ستتعلم كيفية توصيل مصابيح LED، أزرار، مفاتيح، اجراس(مكبرات الصوت) ومقاييس الجهد الانزلاقي(الأقراص) والتحكم فيها.
-    meta_title: مسار المشروع | المقدمة إلى Raspberry Pi Pico
-    meta_description: في هذه المقدمة للإنشاء الرقمي باستخدام Raspberry Pi Pico للمبتدئين ، ستتعلم كيفية توصيل مصابيح LED، أزرار، مفاتيح، اجراس(مكبرات الصوت) ومقاييس الجهد الانزلاقي(الأقراص) والتحكم فيها.
-  raspberry-pi:
-    title: Raspberry Pi
-    description: Raspberry Pi هو جهاز حاسوب صغير ذو قدرة عالية يمكن إستخدامه في المشاريع الإلكترونية، والعديد من الأشياء التي يقوم بها جهاز الحاسوب الشخصي الخاص بك.
-  sense-hat:
-    title: Sense HAT
-    description: Sense HAT هي لوحة إضافية قابلة للدمج مع Raspberry Pi، تتوفر على مصابيح Led، عصا تحكم، و العديد من المجسات.
-  sonic-pi:
-    title: Sonic Pi
-    description: Sonic Pi هو نوع جديد من الآلات الموسيقية ، مصمم لإنشاء الأصوات بالتعليمات البرمجية.
-  microbit:
-    title: "BBC micro:bit"
-    description: " BBC micro:bit هو جهاز كمبيوتر بحجم الجيب، يمكن برمجته ليتيح لك أن تصبح مبدعا."
-  look-after-yourself:
-    title: إعتني بنفسك
-    description: تعلم الإعتناء بنفسك، وأنت تتعلم كيفية استخدام سكراتش Scratch لتصبح مبرمجًا مستقلاً.
-  protect-our-planet:
-    title: حماية كوكبنا
-    description: استخدم Scratch للتعرف على كوكبنا وكيفية حماية البيئة للأجيال القادمة
-  coderdojo-html_css:
-    title: CoderDojo HTML & CSS
-    description: إنشاء مواقع ويب عن طريق متابعة هذه المشاريع.
-  coderdojo-scratch:
-    title: CoderDojo ScratchCreate
-    description: تعلم Scratch عن طريق العمل من خلال هذه المشاريع الممتعة!
-  coderdojo-wearables:
-    title: CoderDojo للاجهزة الإلكترونية القابلة للارتداء
-    description: إنشاء مشاريع تقنية للأجهزة القابلة للارتداء من خلال متابعة هذه المشاريع.
-  app-inventor-for-social-enterprise:
-    title: App Inventor للإبتكار الإجتماعي
-    description: تعلم كيفية إنشاء تطبيقات لأجهزة Android من خلال تنفيذ مشاريع يمكنها مساعدة أفراد مجتمعك.
-  scratch-for-social-enterprise:
-    title: Scratch للابتكار الإجتماعي
-    description: تعلم Scratch، لغة برمجة رسومية ملائمة للمبتدئين، وأنت تطور تطبيقات وألعاب لمساعدة الناس على دراسة المشاكل المهمة.
-  html-css-for-social-enterprise:
-    title: HTML و CSS للإبتكار الإجتماعي
-    description: تعلم HTML و CSS من خلال إنشاء موقع على شبكة الإنترنت حول المحافظة على الطيور.
-  getting-started-with-raspberry-pi:
-    title: إبدأ مع Raspberry Pi
-    description: قم بإعداد Raspberry Pi الخاص بك وانظر ماذا يمكنه أن يفعل!
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+    more-scratch:
+      title: "المزيد من Scratch: البث والقرارات والمتغيرات"
+      subtitle: "broadcast, decisions and variables"
+      description: المزيد عن برنامج Scratch للذهاب أبعد من الأساسيات التي تعرفت عليها في المقدمة. ستقوم بإنشاء تطبيقات وألعاب ومحاكاة باستخدام بث الرسائل، إذا..ثم و إذا..ثم..خلاف ذلك من القرارات والمتغيرات.
+      meta_title: مسار المشروع | المزيد من سكراتش للأطفال | Raspberry Pi
+      meta_description: المزيد من سكراتش للأطفال والمراهقين والشباب البالغين. انتقل إلى أبعد من أساسيات برمجة التطبيقات والألعاب والرسوم المتحركة باستخدام بث الرسائل مع هذه المشاريع المجانية.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive projects, simulators, and games.
+            By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
+        - 
+          title: "What do I need to know?"
+          content: |
+            This path is for creators comfortable with using Scratch.
+            If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires:
+
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+    further-scratch:
+      title: "المزيد عن برنامج سكراتش: الاستنساخ ، كتلتي ، والتحليل المنطقي"
+      subtitle: "clones, my blocks, and boolean logic"
+      description: أبعد من ذلك مع Scratch تجاوز المهارات المقدمة في مقدمة إلى Scratch والمزيد من Scratch. ستقوم بإنشاء تطبيقات, ألعاب وفن تم إنشاؤه بواسطة الحاسوب، عمليات محاكاة باستخدام المنطق البوليني، الوظائف،الإستنساخ وأكتر من ذلك.
+      meta_title: مسار المشروع | المزيد من Scratch للأطفال | Raspberry Pi
+      meta_description: المزيد من البرمجة بواسطة Scratch للأطفال، المراهقين و الشباب. إستخدم هذه الموارد البرمجية المجانية لتستطيع إنشاء تطبيقات، ألعابا، أعمالا فنية منشأة بالحاسوب، و رسوما متحركة.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make computer generated art, music, games and simulations.
+            By the end of this path you will have used your new skills to create a first person view simulation through an imagined world.
+        - 
+          title: "What do I need to know?"
+          content: |
+            This path is for creators comfortable with using Scratch.
+            If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires:
+
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+    scratch-module-1:
+      title: "Scratch: الوحدة //1"
+      description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+    scratch-module-2:
+      title: "Scratch: الوحدة //2"
+      description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+    scratch-module-3:
+      title: "Scratch: الوحدة //3"
+      description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+    scratch-additional-projects:
+      title: "Scratch: مشاريع إضافية"
+      description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+    webdev-module-1:
+      title: "HTML & CSS: الوحدة //1"
+      description: بناء وتنسيق صفحات الويب الخاصة بك.
+    webdev-module-2:
+      title: "HTML & CSS: الوحدة //2"
+      description: بناء وتنسيق صفحات الويب الخاصة بك.
+    python-intro:
+      title: "مقدمة إلىبرنامج Python: المتغيرات، الوظائف والحلقات"
+      subtitle: "Variables, functions, and loops"
+      description: في هذه المقدمة في البرمجة بلغة بايثون(Python) للمبتدئين، ستتعلم كيفية استخدام المتغيرات، الحلقات، ووظائف لإنشاء أعمال فنية بصرية وتفاعلية، رسوم متحركة، محاكاة، ألعاب، والمزيد.
+      meta_title: مسار المشروع | مقدمة إلى برنامج بايثون(Python) للأطفال | Raspberry Pi
+      meta_description: مقدمة إلى برنامج بايثون(Python) للأطفال، المراهقين والشباب. أنشئ أعمال فنية تفاعلية,، رسوم متحركة وألعاب باستخدام هذه الموارد المجانية.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive projects, art, games, and a simulation.
+            By the end of this path you will have created a scalable piece of geometric art.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+        - 
+          title: "What do I need?"
+          content: |
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+    python-intro-code-editor:
+      title: "Introduction to Python"
+      subtitle: "variables, functions, and loops"
+      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
+      meta_title: Project path | Intro to Python for kids | Raspberry Pi
+      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive projects, art, games, and a simulation.
+            By the end of this path you will have created a scalable piece of geometric art.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+        - 
+          title: "What do I need?"
+          content: |
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+    more-python:
+      title: "المزيد من لغة البرمجة بايثون: القوائم، القواميس والبيانات"
+      subtitle: "lists, dictionaries, and data"
+      description: المزيد من بايثون يتجاوز الأساسيات المقدمة في مقدمة إلى بايثون. سوف تتعلم كيفية استخدام القوائم، القواميس والملفات لإنشاء مخططات، نماذج وأعمال فنية.
+      meta_title: مسار المشروع | مقدمة إلى برنامج بايثون(Python) للأطفال | Raspberry Pi
+      meta_description: المزيد من مشاريع بايثون للأطفال، المراهقين والشباب. تعرف على كيفية استخدام القوائم، القواميس والملفات لإنشاء المخططات والنماذج والأعمال الفنية.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Visualise data by creating interactive charts, a simulator, and pieces of art.
+            By the end of this path you will have created a unique data visualisation on a topic of your choice
+        - 
+          title: "What do I need to know?"
+          content: |
+            - This path is for creators comfortable with using Python.
+            - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
+        - 
+          title: "What do I need?"
+          content: |
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+    python-module-1:
+      title: "Python: الوحدة //1"
+      description: "Python هي لغة برمجة نصية تُستخدم على نطاق واسع للأغراض العامة.\n"
+    python-module-2:
+      title: "Python: الوحدة //2"
+      description: "Python هي لغة برمجة نصية تُستخدم على نطاق واسع للأغراض العامة.\n"
+    unity-intro:
+      title: "مقدمة إلى برنامج يونيتي(Unity): أجسام ثلاثية الأبعاد 3D ، وحدات التحكم في الشخصيات ، المصادمات ، نص وأزرار"
+      subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
+      description: في هذه المقدمة إلى يونيتي (Unity) سوف تتعلم كيفية صنع عوالم ثلاثية الأبعاد وألعاب بإستخدام المقتنيات، مؤقتات وشخصيات غير لاعب.
+      meta_title: مسار المشروع | البرمجة بإسعمال برنامج يونيتي (Unity) للأطفال | Raspberry Pi
+      meta_description: مقدمة إلى برمجة يونيتي للأطفال، المراهقين و اليافعين. تعلم كيف تصنع عوالم و ألعابا ثلاثية الأبعاد بإستعمال هذه الموارد المجانية.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make 3D worlds and games with collectibles, timers and non-player characters.
+            By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires a large download and installation which you should complete before you start the first project.
+
+            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+            - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
+            - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
+    more-unity:
+      title: "More Unity"
+      subtitle: "Rigidbodies, Physics and Materials"
+      description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
+      meta_title: Project path | Unity coding for kids | Raspberry Pi
+      meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make marble runs and problem solving 3D world projects.
+            By the end of this path you will have used your new skills to create unique materials and use realistic physics in your Unity projects
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Familiarity with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path
+            - Experience coding in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires a large download and installation which you should complete before you start the first project.
+
+            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+            - You will also need a code editor. The recommended editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
+            - You will also need to download the [Unity starter package](https://rpf.io/p/en/rainbow-run-go) of assets before starting.
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
+    physical-computing-with-scratch-and-the-raspberry-pi:
+      title: الحوسبة الفيزيائية باستخدام برنامج Scratch وجهاز Raspberry Pi
+      description: تعرف على كيفية استخدام إلكترونيات الإدخال والإخراج مع Scratch وحاسوب Raspberry Pi الخاص بك.
+      meta_title: مسار المشروع | البرمجة بإستعمال سكراتش للأطفال | Raspberry Pi
+      meta_description: تعلم كيفية استعمال إلكترونيات الإدخال و الإخراج بواسطة برنامَج سكراتش و حاسوب  Raspberry Pi الخاص بك. موارد مجانية - البرمجة في سكراتش للأطفال، المراهقين و الشباب البالغين
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make games, interactive devices, and a musical instrument.
+            By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
+        - 
+          title: "What do I need to know?"
+          content: |
+            This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+        - 
+          title: "What do I need?"
+          content: |
+            - A Raspberry Pi Computer
+            - Various wires
+            - Single colour LEDs, buzzers, and resistors
+            - Scratch 3 desktop version installed
+            - Craft items including aluminium foil
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+    pico-intro:
+      title: "مقدمة إلى Raspberry Pi Pico: مصابيح LED، مكبرات الصوت، أزرار، والمقاييس"
+      subtitle: "LEDs, buzzers, switches, and dials"
+      description: في هذه المقدمة للإنشاء الرقمي باستخدام Raspberry Pi Pico للمبتدئين ، ستتعلم كيفية توصيل مصابيح LED، أزرار، مفاتيح، اجراس(مكبرات الصوت) ومقاييس الجهد الانزلاقي(الأقراص) والتحكم فيها.
+      meta_title: مسار المشروع | المقدمة إلى Raspberry Pi Pico
+      meta_description: في هذه المقدمة للإنشاء الرقمي باستخدام Raspberry Pi Pico للمبتدئين ، ستتعلم كيفية توصيل مصابيح LED، أزرار، مفاتيح، اجراس(مكبرات الصوت) ومقاييس الجهد الانزلاقي(الأقراص) والتحكم فيها.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Program and craft interactive devices with light and sound.
+            By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+            - This path is for beginners to physical computing
+        - 
+          title: "What do I need?"
+          content: |
+            ## Hardware
+            You can purchase all the required hardware for this  path from the:
+            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
+            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
+
+            ## Software
+            - Thonny
+            - Raspberry Pi Pico Fireware (installed via Thonny)
+            - The picozero library (available via PyPi in Thonny)
+            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+    raspberry-pi:
+      title: Raspberry Pi
+      description: Raspberry Pi هو جهاز حاسوب صغير ذو قدرة عالية يمكن إستخدامه في المشاريع الإلكترونية، والعديد من الأشياء التي يقوم بها جهاز الحاسوب الشخصي الخاص بك.
+    sense-hat:
+      title: Sense HAT
+      description: Sense HAT هي لوحة إضافية قابلة للدمج مع Raspberry Pi، تتوفر على مصابيح Led، عصا تحكم، و العديد من المجسات.
+    sonic-pi:
+      title: Sonic Pi
+      description: Sonic Pi هو نوع جديد من الآلات الموسيقية ، مصمم لإنشاء الأصوات بالتعليمات البرمجية.
+    microbit:
+      title: "BBC micro:bit"
+      description: " BBC micro:bit هو جهاز كمبيوتر بحجم الجيب، يمكن برمجته ليتيح لك أن تصبح مبدعا."
+    look-after-yourself:
+      title: إعتني بنفسك
+      description: تعلم الإعتناء بنفسك، وأنت تتعلم كيفية استخدام سكراتش Scratch لتصبح مبرمجًا مستقلاً.
+    protect-our-planet:
+      title: حماية كوكبنا
+      description: استخدم Scratch للتعرف على كوكبنا وكيفية حماية البيئة للأجيال القادمة
+    coderdojo-html_css:
+      title: CoderDojo HTML & CSS
+      description: إنشاء مواقع ويب عن طريق متابعة هذه المشاريع.
+    coderdojo-scratch:
+      title: CoderDojo ScratchCreate
+      description: تعلم Scratch عن طريق العمل من خلال هذه المشاريع الممتعة!
+    coderdojo-wearables:
+      title: CoderDojo للاجهزة الإلكترونية القابلة للارتداء
+      description: إنشاء مشاريع تقنية للأجهزة القابلة للارتداء من خلال متابعة هذه المشاريع.
+    app-inventor-for-social-enterprise:
+      title: App Inventor للإبتكار الإجتماعي
+      description: تعلم كيفية إنشاء تطبيقات لأجهزة Android من خلال تنفيذ مشاريع يمكنها مساعدة أفراد مجتمعك.
+    scratch-for-social-enterprise:
+      title: Scratch للابتكار الإجتماعي
+      description: تعلم Scratch، لغة برمجة رسومية ملائمة للمبتدئين، وأنت تطور تطبيقات وألعاب لمساعدة الناس على دراسة المشاكل المهمة.
+    html-css-for-social-enterprise:
+      title: HTML و CSS للإبتكار الإجتماعي
+      description: تعلم HTML و CSS من خلال إنشاء موقع على شبكة الإنترنت حول المحافظة على الطيور.
+    getting-started-with-raspberry-pi:
+      title: إبدأ مع Raspberry Pi
+      description: قم بإعداد Raspberry Pi الخاص بك وانظر ماذا يمكنه أن يفعل!
+    life-on-earth:
+      meta_title: Life on Earth Astro Pi resources
+      meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
+    web-intro:
+      title: Introduction to web
+      subtitle: HTML, CSS, and animations
+      description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
+      meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
+      meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive websites with art, emojis and flip cards.
+            By the end of this path you will have created a website about something you want to share.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+        - 
+          title: "What do I need?"
+          content: |
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+    sense-hat-intro:
+      meta_title: Introduction to the Sense HAT
+      meta_description: Sense HAT, Astro Pi, Mission Zero
+    experience-ai-challenge-music-quest:
+      title: "Experience AI Challenge: Music Quest"
+      subtitle: "Stream the soundtrack to your life with AI"
+      description: The Experience AI Music Quest is a series of sessions that will teach you how to design and create your own 'AI DJ' using Scratch, Machine Learning for Kids, and the Spotify API.
+      meta_title: Project path | Experience AI Challenge - Music Quest
+      meta_description: Introduction to Scratch programming and Machine Learning for kids, teenagers and young adults. Learn how to classify data into an ML model and use it to predict music you will like.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive Scratch projects and create and train a Machine Learning model.
+            By the end of this path you will have used your new skills to create an app which can make playlists of music based on your preferences.
+        - 
+          title: "What do I need to know?"
+          content: |
+            This path is ideal for beginners to Scratch and machine learning.
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires:
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch and Machine Learning 4 Kids online.
+            - A [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}account. (Instructions available in the Mentor Guide below.)
+            - Headphones (recommended) or speakers
+            - A copy of the [Creator Blueprint document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
+        - 
+          title: "Mentor information"
+          content: |
+            ## Experience AI Challenge: Music Quest
+
+            This pathway provides the content for young creators to begin their first forays into creating with machine learning and artificial intelligence as part of the Experience AI Challenge.
+
+            The Music Quest takes around five hours of project time to complete and is designed to be flexible in delivery - it can be run as individual sessions or a single-day 'hackathon'. The content also provides the opportunity to continue work on projects between stages.
+
+            The [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contains instructions for creating the needed accounts, running notes for each stage of the Quest, as well as debugging tips and suggestions for extra features creators can add.
+
+            It also contains instructions for submitting your Creators' finished apps to the Experience AI Showcase, to be appreciated and shortlisted by a panel of industry experts and researchers. Shortlisted entrants will be invited to attend our special showcase event, in collaboration with Google Deepmind!
+    prepare-to-run-a-code-club:
+      title: "Prepare to run a Code Club"
+      subtitle: "Your first steps toward running a Code Club for young people."
+      description: In this course, we will be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.
+      meta_title: Project path | Prepare to run a Code Club
+      meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+      header:
+        - 
+          title: "What will I learn?"
+          content: |
+            In this course, we will guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+        - 
+          title: "What do I need to know?"
+          content: |
+            This course will be useful to you if you would like to volunteer at a club in your community, helping young people learn how to code, or you are a teacher who wants to set up an extracurricular coding club for the students in your school.
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires:
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch and other applications online.
+
