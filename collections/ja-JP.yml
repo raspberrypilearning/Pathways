@@ -4,9 +4,9 @@ ja:
     scratch:
       title: "Scratch"
       description: "Scratch でアニメーション、ストーリー、ゲームのコードを学んで、デジタル呼応作の冒険を始めましょう。"
-      meta_description: "scratch, kids, child, children, coding, programming, games, animations"
-      additional_paths_title: "Additional Scratch paths"
-      additional_paths_description: "Additional Scratch paths to help you continue on your coding journey."
+      meta_description: "スクラッチ、ちびっこ、子ども、子どもたち、コーディング、プログラミング、ゲーム、アニメーション"
+      additional_paths_title: "追加の Scratch パス"
+      additional_paths_description: "コーディングの旅を続けるのに役立つ追加の Scratch パス。"
     python:
       title: "Python"
       description: "Learn about Python one of the world’s most popular programming languages to create digital art, interactive maps and models."
