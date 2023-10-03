@@ -1,6 +1,46 @@
 ---
 or:
   pathways:
+    microbit-intro:
+      title: "Introduction to micro:bit"
+      subtitle: "sensors, buttons and lights!"
+      description: In this introduction to coding for the micro:bit, you will learn how to sense and respond to the world around you while looking after yourself.
+      meta_title: Project path | Intro to micro:bit coding for kids
+      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
+            By the end of this path you will have used your new skills to create a party game to play and share with your friends.
+        - 
+          title: "What do I need to know?"
+          content: |
+            This path is ideal for beginners to micro:bit.
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires:
+
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
+            - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} in our guide.
     scratch-intro:
       title: "Introduction to Scratch"
       subtitle: "sprites, scripts, and loops"
@@ -33,7 +73,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -74,7 +114,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -115,7 +155,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -172,7 +212,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -210,7 +250,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -248,7 +288,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -294,7 +334,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -335,7 +375,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -373,7 +413,7 @@ or:
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -393,7 +433,7 @@ or:
           title: "What do I need to know?"
           content: |
             - Basic typing and computer navigation skills
-            - This path is for beginners to physical computing
+            - This path is for beginners new to physical computing
         - 
           title: "What do I need?"
           content: |
@@ -414,7 +454,7 @@ or:
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
@@ -494,7 +534,7 @@ or:
 
             - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
             - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators use their skills to create a unique project that meets a project brief for a particular audience.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
