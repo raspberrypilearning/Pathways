@@ -1,6 +1,46 @@
 ---
 ja:
   pathways:
+    microbit-intro:
+      title: "Introduction to micro:bit"
+      subtitle: "sensors, buttons and lights!"
+      description: In this introduction to coding for the micro:bit, you will learn how to sense and respond to the world around you while looking after yourself.
+      meta_title: Project path | Intro to micro:bit coding for kids
+      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
+            By the end of this path you will have used your new skills to create a party game to play and share with your friends.
+        - 
+          title: "What do I need to know?"
+          content: |
+            This path is ideal for beginners to micro:bit.
+        - 
+          title: "What do I need?"
+          content: |
+            This path requires:
+
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
+            - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} in our guide.
     scratch-intro:
       title: "Scratch入門"
       subtitle: "スプライト、スクリプト、ループ"
@@ -28,19 +68,19 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
-            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     more-scratch:
       title: "Scratch続編"
       subtitle: "ブロードキャスト、条件判定、変数"
@@ -69,19 +109,19 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
-            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     further-scratch:
       title: "Scratch発展編"
       subtitle: "クローン、ブロック定義、ブール論理"
@@ -110,19 +150,19 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
-            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
       title: "Scratch: モジュール1"
       description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
@@ -167,18 +207,18 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-intro-code-editor:
       title: "Python入門"
       subtitle: "変数、関数、ループ"
@@ -205,18 +245,18 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     more-python:
       title: "Python続編"
       subtitle: "リスト、辞書、データ"
@@ -243,18 +283,18 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
       title: "Python: モジュール1"
       description: Python は、一般的な用途で広く使用されている、テキスト ベースのプログラミング言語です。
@@ -289,19 +329,19 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分のプロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトは匿名でコミュニティギャラリーに共有されます。
-            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"}方法についてガイドをご覧ください。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     more-unity:
       title: "Unity続編"
       subtitle: "リジッドボディ、物理演算、マテリアル"
@@ -331,19 +371,19 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分のプロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトは匿名でコミュニティギャラリーに共有されます。
-            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"}方法についてガイドをご覧ください。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
+            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     physical-computing-with-scratch-and-the-raspberry-pi:
       title: ScratchとRaspberryPiを使用した物理コンピューティング
       description: ScratchとRaspberry Piコンピューターで入出力機器を使う方法を学びます。
@@ -370,14 +410,14 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
     pico-intro:
       title: "Raspberry Pi Pico入門"
       subtitle: "LED、ブザー、スイッチ、ダイヤル"
@@ -393,8 +433,8 @@ ja:
         - 
           title: "必要な知識"
           content: |
-            - 基本的なタイピングとコンピューター操作のスキル
-            - このパスは物理コンピューティング初心者向けです
+            - Basic typing and computer navigation skills
+            - This path is for beginners new to physical computing
         - 
           title: "必要なもの"
           content: |
@@ -411,17 +451,17 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトのビデオを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
       description: Raspberry Piは、電子工作に使用できる小さな良いコンピュータです。デスクトップパソコンでできることの多くも、Raspberry Piでできます。
@@ -490,18 +530,18 @@ ja:
         - 
           title: "メンター情報"
           content: |
-            ##321…作るぞ！
-            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
-            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
-            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
 
-            ##クイッククイズ
-            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
 
-            ## コミュニティに刺激を与える
-            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     sense-hat-intro:
       meta_title: Sense HATの紹介
       meta_description: Sense Hat、アストロパイ、ミッションゼロ
