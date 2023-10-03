@@ -1,4 +1,3 @@
----
 ar:
   pathways:
     microbit-intro:
@@ -42,11 +41,11 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} in our guide.
     scratch-intro:
-      title: "مقدمة إلى Scratch: النقوش المتحركة، النصوص والحلقات"
+      title: "Introduction to Scratch"
       subtitle: "sprites, scripts, and loops"
-      description: في هذه المقدمة حول البرمجة في Scratch للمبتدئين، ستتعلم كيفية إضافة التعليمات البرمجية والمظاهر والأصوات إلى الكائنات أثناء إنشاء الرسوم المتحركة للعبة وتطبيق وكتاب.
-      meta_title: مسار المشروع | مقدمة إلى البرمجة باستخدام برنامَج Scratch للأطفال
-      meta_description: مقدمة عن برنامج Scratch للأطفال، المراهقين والشباب. تعرف على كيفية إنشاء رسوم متحركة ،لُعْبَة ،تطبيق وكتاب.
+      description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
+      meta_title: Project path | Intro to Scratch programming for kids
+      meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
       header:
         - 
           title: "What will I create?"
@@ -82,11 +81,11 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     more-scratch:
-      title: "المزيد من Scratch: البث والقرارات والمتغيرات"
+      title: "More Scratch"
       subtitle: "broadcast, decisions and variables"
-      description: المزيد عن برنامج Scratch للذهاب أبعد من الأساسيات التي تعرفت عليها في المقدمة. ستقوم بإنشاء تطبيقات وألعاب ومحاكاة باستخدام بث الرسائل، إذا..ثم و إذا..ثم..خلاف ذلك من القرارات والمتغيرات.
-      meta_title: مسار المشروع | المزيد من سكراتش للأطفال | Raspberry Pi
-      meta_description: المزيد من سكراتش للأطفال والمراهقين والشباب البالغين. انتقل إلى أبعد من أساسيات برمجة التطبيقات والألعاب والرسوم المتحركة باستخدام بث الرسائل مع هذه المشاريع المجانية.
+      description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
+      meta_title: Project path | More Scratch for kids | Raspberry Pi
+      meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
       header:
         - 
           title: "What will I create?"
@@ -123,11 +122,11 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     further-scratch:
-      title: "المزيد عن برنامج سكراتش: الاستنساخ ، كتلتي ، والتحليل المنطقي"
+      title: "Further Scratch"
       subtitle: "clones, my blocks, and boolean logic"
-      description: أبعد من ذلك مع Scratch تجاوز المهارات المقدمة في مقدمة إلى Scratch والمزيد من Scratch. ستقوم بإنشاء تطبيقات, ألعاب وفن تم إنشاؤه بواسطة الحاسوب، عمليات محاكاة باستخدام المنطق البوليني، الوظائف،الإستنساخ وأكتر من ذلك.
-      meta_title: مسار المشروع | المزيد من Scratch للأطفال | Raspberry Pi
-      meta_description: المزيد من البرمجة بواسطة Scratch للأطفال، المراهقين و الشباب. إستخدم هذه الموارد البرمجية المجانية لتستطيع إنشاء تطبيقات، ألعابا، أعمالا فنية منشأة بالحاسوب، و رسوما متحركة.
+      description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
+      meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
+      meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
       header:
         - 
           title: "What will I create?"
@@ -164,29 +163,29 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
-      title: "Scratch: الوحدة //1"
-      description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+      title: "Scratch: Module 1"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-module-2:
-      title: "Scratch: الوحدة //2"
-      description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+      title: "Scratch: Module 2"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-module-3:
-      title: "Scratch: الوحدة //3"
-      description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+      title: "Scratch: Module 3"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-additional-projects:
-      title: "Scratch: مشاريع إضافية"
-      description: تعلم كيفية برمجة القصص التفاعلية والألعاب والرسوم المتحركة الخاصة بك.
+      title: "Scratch: Additional Projects"
+      description: Learn how to program your own interactive stories, games and animations.
     webdev-module-1:
-      title: "HTML & CSS: الوحدة //1"
-      description: بناء وتنسيق صفحات الويب الخاصة بك.
+      title: "HTML & CSS: Module 1"
+      description: Build and style your own web pages.
     webdev-module-2:
-      title: "HTML & CSS: الوحدة //2"
-      description: بناء وتنسيق صفحات الويب الخاصة بك.
+      title: "HTML & CSS: Module 2"
+      description: Build and style your own web pages.
     python-intro:
-      title: "مقدمة إلىبرنامج Python: المتغيرات، الوظائف والحلقات"
+      title: "Introduction to Python"
       subtitle: "Variables, functions, and loops"
-      description: في هذه المقدمة في البرمجة بلغة بايثون(Python) للمبتدئين، ستتعلم كيفية استخدام المتغيرات، الحلقات، ووظائف لإنشاء أعمال فنية بصرية وتفاعلية، رسوم متحركة، محاكاة، ألعاب، والمزيد.
-      meta_title: مسار المشروع | مقدمة إلى برنامج بايثون(Python) للأطفال | Raspberry Pi
-      meta_description: مقدمة إلى برنامج بايثون(Python) للأطفال، المراهقين والشباب. أنشئ أعمال فنية تفاعلية,، رسوم متحركة وألعاب باستخدام هذه الموارد المجانية.
+      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
+      meta_title: Project path | Intro to Python for kids | Raspberry Pi
+      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
       header:
         - 
           title: "What will I create?"
@@ -258,11 +257,11 @@ ar:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     more-python:
-      title: "المزيد من لغة البرمجة بايثون: القوائم، القواميس والبيانات"
+      title: "More Python"
       subtitle: "lists, dictionaries, and data"
-      description: المزيد من بايثون يتجاوز الأساسيات المقدمة في مقدمة إلى بايثون. سوف تتعلم كيفية استخدام القوائم، القواميس والملفات لإنشاء مخططات، نماذج وأعمال فنية.
-      meta_title: مسار المشروع | مقدمة إلى برنامج بايثون(Python) للأطفال | Raspberry Pi
-      meta_description: المزيد من مشاريع بايثون للأطفال، المراهقين والشباب. تعرف على كيفية استخدام القوائم، القواميس والملفات لإنشاء المخططات والنماذج والأعمال الفنية.
+      description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
+      meta_title: Project path | More Python projects for kids | Raspberry Pi
+      meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
       header:
         - 
           title: "What will I create?"
@@ -296,17 +295,17 @@ ar:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
-      title: "Python: الوحدة //1"
-      description: "Python هي لغة برمجة نصية تُستخدم على نطاق واسع للأغراض العامة.\n"
+      title: "Python: Module 1"
+      description: Python is a widely used, general purpose, text-based programming language.
     python-module-2:
-      title: "Python: الوحدة //2"
-      description: "Python هي لغة برمجة نصية تُستخدم على نطاق واسع للأغراض العامة.\n"
+      title: "Python: Module 2"
+      description: Python is a widely used, general purpose, text-based programming language.
     unity-intro:
-      title: "مقدمة إلى برنامج يونيتي(Unity): أجسام ثلاثية الأبعاد 3D ، وحدات التحكم في الشخصيات ، المصادمات ، نص وأزرار"
+      title: "Introduction to Unity"
       subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
-      description: في هذه المقدمة إلى يونيتي (Unity) سوف تتعلم كيفية صنع عوالم ثلاثية الأبعاد وألعاب بإستخدام المقتنيات، مؤقتات وشخصيات غير لاعب.
-      meta_title: مسار المشروع | البرمجة بإسعمال برنامج يونيتي (Unity) للأطفال | Raspberry Pi
-      meta_description: مقدمة إلى برمجة يونيتي للأطفال، المراهقين و اليافعين. تعلم كيف تصنع عوالم و ألعابا ثلاثية الأبعاد بإستعمال هذه الموارد المجانية.
+      description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
+      meta_title: Project path | Unity coding for kids | Raspberry Pi
+      meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
       header:
         - 
           title: "What will I create?"
@@ -384,10 +383,10 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: الحوسبة الفيزيائية باستخدام برنامج Scratch وجهاز Raspberry Pi
-      description: تعرف على كيفية استخدام إلكترونيات الإدخال والإخراج مع Scratch وحاسوب Raspberry Pi الخاص بك.
-      meta_title: مسار المشروع | البرمجة بإستعمال سكراتش للأطفال | Raspberry Pi
-      meta_description: تعلم كيفية استعمال إلكترونيات الإدخال و الإخراج بواسطة برنامَج سكراتش و حاسوب  Raspberry Pi الخاص بك. موارد مجانية - البرمجة في سكراتش للأطفال، المراهقين و الشباب البالغين
+      title: Physical computing with Scratch and the Raspberry Pi
+      description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
+      meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
+      meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
       header:
         - 
           title: "What will I create?"
@@ -418,11 +417,11 @@ ar:
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
     pico-intro:
-      title: "مقدمة إلى Raspberry Pi Pico: مصابيح LED، مكبرات الصوت، أزرار، والمقاييس"
+      title: "Introduction to Raspberry Pi Pico"
       subtitle: "LEDs, buzzers, switches, and dials"
-      description: في هذه المقدمة للإنشاء الرقمي باستخدام Raspberry Pi Pico للمبتدئين ، ستتعلم كيفية توصيل مصابيح LED، أزرار، مفاتيح، اجراس(مكبرات الصوت) ومقاييس الجهد الانزلاقي(الأقراص) والتحكم فيها.
-      meta_title: مسار المشروع | المقدمة إلى Raspberry Pi Pico
-      meta_description: في هذه المقدمة للإنشاء الرقمي باستخدام Raspberry Pi Pico للمبتدئين ، ستتعلم كيفية توصيل مصابيح LED، أزرار، مفاتيح، اجراس(مكبرات الصوت) ومقاييس الجهد الانزلاقي(الأقراص) والتحكم فيها.
+      description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
+      meta_title: Project path | Introduction to the Raspberry Pi Pico
+      meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
       header:
         - 
           title: "What will I create?"
@@ -463,43 +462,43 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: Raspberry Pi هو جهاز حاسوب صغير ذو قدرة عالية يمكن إستخدامه في المشاريع الإلكترونية، والعديد من الأشياء التي يقوم بها جهاز الحاسوب الشخصي الخاص بك.
+      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
     sense-hat:
       title: Sense HAT
-      description: Sense HAT هي لوحة إضافية قابلة للدمج مع Raspberry Pi، تتوفر على مصابيح Led، عصا تحكم، و العديد من المجسات.
+      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi هو نوع جديد من الآلات الموسيقية ، مصمم لإنشاء الأصوات بالتعليمات البرمجية.
+      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
     microbit:
       title: "BBC micro:bit"
-      description: " BBC micro:bit هو جهاز كمبيوتر بحجم الجيب، يمكن برمجته ليتيح لك أن تصبح مبدعا."
+      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
     look-after-yourself:
-      title: إعتني بنفسك
-      description: تعلم الإعتناء بنفسك، وأنت تتعلم كيفية استخدام سكراتش Scratch لتصبح مبرمجًا مستقلاً.
+      title: Look after yourself
+      description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
     protect-our-planet:
-      title: حماية كوكبنا
-      description: استخدم Scratch للتعرف على كوكبنا وكيفية حماية البيئة للأجيال القادمة
+      title: Protect our planet
+      description: Use Scratch to learn about our planet and how to protect the environment for future generations
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: إنشاء مواقع ويب عن طريق متابعة هذه المشاريع.
+      description: Create websites by following these projects.
     coderdojo-scratch:
-      title: CoderDojo ScratchCreate
-      description: تعلم Scratch عن طريق العمل من خلال هذه المشاريع الممتعة!
+      title: CoderDojo Scratch
+      description: Learn Scratch by working through these fun projects!
     coderdojo-wearables:
-      title: CoderDojo للاجهزة الإلكترونية القابلة للارتداء
-      description: إنشاء مشاريع تقنية للأجهزة القابلة للارتداء من خلال متابعة هذه المشاريع.
+      title: CoderDojo Wearables
+      description: Create wearable technology projects by following these projects.
     app-inventor-for-social-enterprise:
-      title: App Inventor للإبتكار الإجتماعي
-      description: تعلم كيفية إنشاء تطبيقات لأجهزة Android من خلال تنفيذ مشاريع يمكنها مساعدة أفراد مجتمعك.
+      title: App Inventor for social innovation
+      description: Learn to make apps for Android devices by doing projects that can help people in your community.
     scratch-for-social-enterprise:
-      title: Scratch للابتكار الإجتماعي
-      description: تعلم Scratch، لغة برمجة رسومية ملائمة للمبتدئين، وأنت تطور تطبيقات وألعاب لمساعدة الناس على دراسة المشاكل المهمة.
+      title: Scratch for social innovation
+      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
     html-css-for-social-enterprise:
-      title: HTML و CSS للإبتكار الإجتماعي
-      description: تعلم HTML و CSS من خلال إنشاء موقع على شبكة الإنترنت حول المحافظة على الطيور.
+      title: HTML & CSS for social innovation
+      description: Learn HTML & CSS by creating a website about bird conservation.
     getting-started-with-raspberry-pi:
-      title: إبدأ مع Raspberry Pi
-      description: قم بإعداد Raspberry Pi الخاص بك وانظر ماذا يمكنه أن يفعل!
+      title: Get started with Raspberry Pi
+      description: Set up your Raspberry Pi and see what it can do!
     life-on-earth:
       meta_title: Life on Earth Astro Pi resources
       meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
