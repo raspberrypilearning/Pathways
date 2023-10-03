@@ -1,4 +1,3 @@
----
 ja:
   pathways:
     microbit-intro:
@@ -42,31 +41,31 @@ ja:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} in our guide.
     scratch-intro:
-      title: "Scratch入門"
-      subtitle: "スプライト、スクリプト、ループ"
-      description: この初心者向けScratchコーディング入門では、アニメーション、ゲーム、アプリ、本を作成するときに、コード、コスチューム、音をスプライトへ追加する方法を学びます。
-      meta_title: プロジェクトパス | 子ども向けのScratchプログラミング入門
-      meta_description: 子ども、ティーンエイジャー、若い大人向けのScratchプログラミングの入門編。アニメーション、ゲーム、アプリ、そして本の作り方を学びましょう。
+      title: "Introduction to Scratch"
+      subtitle: "sprites, scripts, and loops"
+      description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
+      meta_title: Project path | Intro to Scratch programming for kids
+      meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            インタラクティブなプロジェクトやアニメーションを作ったり、複数レベルのゲームを作成します。
-            このパスの終わりまでに、新しいスキルを使用して、複数のページを持つデジタル書籍の著者になります。
+            Make interactive projects, animations and create a multiple level game.
+            By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            このパスはScratchの初心者に最適です。
+            This path is ideal for beginners to Scratch.
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            このパスに必要なもの
+            This path requires:
 
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
-            - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
-            - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -82,32 +81,32 @@ ja:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     more-scratch:
-      title: "Scratch続編"
-      subtitle: "ブロードキャスト、条件判定、変数"
-      description: Scratch続編では、Scratch入門で紹介した基本の先へ行きます。メッセージの受け渡し、「もし..なら」および「もし..なら..でなければ」の条件判定と変数を使ってアプリ、ゲーム、シミュレーションを作成します。
-      meta_title: プロジェクトパス | 子ども向けのScratch続編 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのScratch続編。これらの無料プロジェクトで、メッセージの受け渡しを使ったアプリ、ゲーム、アニメーションのコーディングの基本を超えて行きましょう。
+      title: "More Scratch"
+      subtitle: "broadcast, decisions and variables"
+      description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
+      meta_title: Project path | More Scratch for kids | Raspberry Pi
+      meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            インタラクティブなプロジェクト、シミュレーター、ゲームを作成します。
-            このパスの終わりまでに、新しいスキルを使用して、ユーザーがやり取りする仮想ペットまたはキャラクターを作成します。
+            Make interactive projects, simulators, and games.
+            By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            このパスはScratchの使用に慣れているクリエイター向けです。
-            Scratchを初めて使用する場合は、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスを試すことができます。
+            This path is for creators comfortable with using Scratch.
+            If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            このパスに必要なもの
+            This path requires:
 
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
-            - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
-            - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -123,32 +122,32 @@ ja:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     further-scratch:
-      title: "Scratch発展編"
-      subtitle: "クローン、ブロック定義、ブール論理"
-      description: Scratch応用では、Scratch入門と続編で紹介したスキルを超えて行きます。ブール論理、関数、クローンなどを使用して、アプリ、ゲーム、コンピューターアート、シミュレーションを作ります。
-      meta_title: プロジェクトパス | 子ども向けのScratchコーディング応用 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのScratch応用コーディング。これらの無料のコーディングリソースを使用して、アプリ、ゲーム、コンピューターアート、アニメーションを作成します。
+      title: "Further Scratch"
+      subtitle: "clones, my blocks, and boolean logic"
+      description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
+      meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
+      meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            コンピューターで生成されたアート、音楽、ゲーム、シミュレーションを作成します。
-            このパスの終わりまでに、新しいスキルを使用して、想像上の世界を通じる一人称視点のシミュレーションを作成します。
+            Make computer generated art, music, games and simulations.
+            By the end of this path you will have used your new skills to create a first person view simulation through an imagined world.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            このパスはScratchの使用に慣れているクリエイター向けです。
-            Scratchを初めて使用する場合は、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスまたは[Scratch続編](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"}パスを試すことができます。
+            This path is for creators comfortable with using Scratch.
+            If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            このパスに必要なもの
+            This path requires:
 
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
-            - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
-            - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
+            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -164,48 +163,48 @@ ja:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
-      title: "Scratch: モジュール1"
-      description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+      title: "Scratch: Module 1"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-module-2:
-      title: "Scratch: モジュール2"
-      description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+      title: "Scratch: Module 2"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-module-3:
-      title: "Scratch: モジュール3"
-      description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+      title: "Scratch: Module 3"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-additional-projects:
-      title: "Scratch: 追加のプロジェクト"
-      description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+      title: "Scratch: Additional Projects"
+      description: Learn how to program your own interactive stories, games and animations.
     webdev-module-1:
-      title: "HTMLとCSS: モジュール1"
-      description: 自分のWebページを構築し、スタイルを設定します。
+      title: "HTML & CSS: Module 1"
+      description: Build and style your own web pages.
     webdev-module-2:
-      title: "HTMLとCSS: モジュール2"
-      description: 自分のWebページを構築し、スタイルを設定します。
+      title: "HTML & CSS: Module 2"
+      description: Build and style your own web pages.
     python-intro:
-      title: "Python入門"
-      subtitle: "変数、関数、ループ"
-      description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
-      meta_title: プロジェクトパス | 子ども向けのPython入門 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作ります。
+      title: "Introduction to Python"
+      subtitle: "Variables, functions, and loops"
+      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
+      meta_title: Project path | Intro to Python for kids | Raspberry Pi
+      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            インタラクティブなプロジェクト、アート、ゲーム、シミュレーションを作成します。
-            このパスの終わりまでに拡大縮小ができる幾何学的アートを作成します。
+            Make interactive projects, art, games, and a simulation.
+            By the end of this path you will have created a scalable piece of geometric art.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            - 基本的なタイピングとコンピューター操作のスキル
-            - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}のコーディング経験があると役立ちます
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            - オンラインのコーディングプラットフォーム である[Trinket](https://trinket.io){:target="_blank"}を実行できるコンピューターまたはモバイルデバイス。
-            - オプションでプロジェクトを保存するためのTrinketアカウント。
-            Trinketの詳細はウェブサイトの[Trinket FAQ](https://trinket.io/faq){:target="_blank"}でご覧いただけます
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -220,30 +219,30 @@ ja:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-intro-code-editor:
-      title: "Python入門"
-      subtitle: "変数、関数、ループ"
-      description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
-      meta_title: プロジェクトパス | 子ども向けのPython入門 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作ります。
+      title: "Introduction to Python"
+      subtitle: "variables, functions, and loops"
+      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
+      meta_title: Project path | Intro to Python for kids | Raspberry Pi
+      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            インタラクティブなプロジェクト、アート、ゲーム、シミュレーションを作成します。
-            このパスの終わりまでに拡大縮小ができる幾何学的アートを作成します。
+            Make interactive projects, art, games, and a simulation.
+            By the end of this path you will have created a scalable piece of geometric art.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            - 基本的なタイピングとコンピューター操作のスキル
-            - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}のコーディング経験があると役立ちます
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            - オンラインのコーディングプラットフォーム である[Trinket](https://trinket.io){:target="_blank"}を実行できるコンピューターまたはモバイルデバイス。
-            - オプションでプロジェクトを保存するためのTrinketアカウント。
-            Trinketの詳細はウェブサイトの[Trinket FAQ](https://trinket.io/faq){:target="_blank"}でご覧いただけます
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -258,30 +257,30 @@ ja:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     more-python:
-      title: "Python続編"
-      subtitle: "リスト、辞書、データ"
-      description: Python続編は、Python入門で紹介した基本を超えて行きます。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
-      meta_title: プロジェクトパス | 子ども向けのPythonプロジェクト続編 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPythonプロジェクト続編です。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
+      title: "More Python"
+      subtitle: "lists, dictionaries, and data"
+      description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
+      meta_title: Project path | More Python projects for kids | Raspberry Pi
+      meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            インタラクティブなチャート、シミュレーター、アート作品を作成してデータを視覚化します。
-            このパスの終わりまでに、選択したトピックについて独自のデータ視覚化を行います。
+            Visualise data by creating interactive charts, a simulator, and pieces of art.
+            By the end of this path you will have created a unique data visualisation on a topic of your choice
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            - このパスはPythonの使用に慣れているクリエイター向けです。
-            - Pythonを初めて使用する場合は、[Python入門](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}パスを試すことができます。
+            - This path is for creators comfortable with using Python.
+            - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            - オンラインのコーディングプラットフォーム である[Trinket](https://trinket.io){:target="_blank"}を実行できるコンピューターまたはモバイルデバイス。
-            - オプションでプロジェクトを保存するためのTrinketアカウント。
-            Trinketの詳細はウェブサイトの[Trinket FAQ](https://trinket.io/faq){:target="_blank"}でご覧いただけます
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -296,38 +295,38 @@ ja:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
-      title: "Python: モジュール1"
-      description: Python は、一般的な用途で広く使用されている、テキスト ベースのプログラミング言語です。
+      title: "Python: Module 1"
+      description: Python is a widely used, general purpose, text-based programming language.
     python-module-2:
-      title: "Python: モジュール2"
-      description: Python は、一般的な用途で広く使用されている、テキスト ベースのプログラミング言語です。
+      title: "Python: Module 2"
+      description: Python is a widely used, general purpose, text-based programming language.
     unity-intro:
-      title: "Unity の概要"
-      subtitle: "3Dオブジェクト、キャラクターコントローラー、コライダー、テキスト、ボタン"
-      description: このUnity入門では、収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界やゲームを作成する方法を学びます。
-      meta_title: プロジェクトパス | 子ども向けのUnityコーディング | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのUnityコーディング入門。これらの無料リソースを使用して3Dの世界やゲームを作る方法を学びましょう。
+      title: "Introduction to Unity"
+      subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
+      description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
+      meta_title: Project path | Unity coding for kids | Raspberry Pi
+      meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界とゲームを作成します。
-            このパスの終わりまでに、新しいスキルを使用して、スターキャッチャーゲーム、探求の世界、および 3Dアドベンチャーを作ります。
+            Make 3D worlds and games with collectibles, timers and non-player characters.
+            By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            - 基本的なタイピングとコンピューター操作のスキル
-            - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}または[Python](https://projects.raspberrypi.org/en/pathways/python){:target="_blank"}のコーディング経験
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            このパスの最初のプロジェクトを開始する前に、大きなサイズのダウンロードとインストールが必要です。
+            This path requires a large download and installation which you should complete before you start the first project.
 
-            - お使いのオペレーティングシステム向けのUnity HubとUnityエディターをインストールする必要があります。これを行う方法については、[Unity ガイド](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}を参照してください。
-            - コードエディターも必要です。推奨エディターは[Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}です。
-            - 開始する前に、[Unityスターターパッケージ](https://rpf.io/p/en/explore-a-3d-world-go)もダウンロードする必要があります。
+            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+            - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
+            - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -343,33 +342,32 @@ ja:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     more-unity:
-      title: "Unity続編"
-      subtitle: "リジッドボディ、物理演算、マテリアル"
-      description: この Unity続編 パスでは、物理演算とマテリアルを使用して、独自にデザインしたビー玉でインタラクティブな 3D パズルの世界を作成します。
-      meta_title: プロジェクトパス | 子ども向けのUnityコーディング | Raspberry Pi
-      meta_description: 子供、ティーンエイジャー、若者向けの Unity コーディング。これらの無料リソースを使用して 3D ワールドやゲームを作成する方法を学びましょう。
+      title: "More Unity"
+      subtitle: "Rigidbodies, Physics and Materials"
+      description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
+      meta_title: Project path | Unity coding for kids | Raspberry Pi
+      meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            ビー玉転がしと問題を解決する 3D ワールド プロジェクトを作成します。
-            このパスの終えると、Unity プロジェクトでユニークなマテリアルを作成し、現実的な物理演算を使用できる新しいスキルが身につきます。
+            Make marble runs and problem solving 3D world projects.
+            By the end of this path you will have used your new skills to create unique materials and use realistic physics in your Unity projects
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            - [Unity の概要](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} パス
-            を理解していること
-            - [C#](https:// project.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} または [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}のコーディング経験があること
+            - Familiarity with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path
+            - Experience coding in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            このパスの最初のプロジェクトを開始する前に、大きなサイズのファイルのダウンロードとインストールが必要です。
+            This path requires a large download and installation which you should complete before you start the first project.
 
-            - オペレーティング システムに Unity ハブ と Unity エディタ をインストールする必要があります。これを行う方法については、[Unity ガイド](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"} でご覧いただけます。
-            - コード エディターも必要です。推奨エディタは[Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}です。
-            - 開始する前に、[Unity スターター パッケージ](https://rpf.io/p/en/rainbow-run-go) もダウンロードしてください。
+            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+            - You will also need a code editor. The recommended editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
+            - You will also need to download the [Unity starter package](https://rpf.io/p/en/rainbow-run-go) of assets before starting.
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -385,30 +383,30 @@ ja:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: ScratchとRaspberryPiを使用した物理コンピューティング
-      description: ScratchとRaspberry Piコンピューターで入出力機器を使う方法を学びます。
-      meta_title: プロジェクトパス | 子ども向けのScratchコーディング | Raspberry Pi
-      meta_description: Raspberry Piコンピューター上のScratchで入出力機器を使う方法を学びます。子ども、ティーンエイジャー、ヤングアダルト向けのScratchコーディングの無料リソース。
+      title: Physical computing with Scratch and the Raspberry Pi
+      description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
+      meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
+      meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            インタラクティブなデバイスや楽器を作成します。
-            このパスの終わりまでに、新しいスキルを使って、複数のページを持つ電子書籍の著者になります。
+            Make games, interactive devices, and a musical instrument.
+            By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            このパスはScratchと物理コンピューティングの初心者向けです。ただし、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスを先に終わらせることもできます。
+            This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            - Raspberry Piコンピューター
-            - 各種ケーブル
-            - 単色LED、ブザー、および抵抗器
-            - Scratch 3デスクトップ版のインストール
-            - アルミホイルなどの工作アイテム
+            - A Raspberry Pi Computer
+            - Various wires
+            - Single colour LEDs, buzzers, and resistors
+            - Scratch 3 desktop version installed
+            - Craft items including aluminium foil
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -419,37 +417,37 @@ ja:
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
     pico-intro:
-      title: "Raspberry Pi Pico入門"
-      subtitle: "LED、ブザー、スイッチ、ダイヤル"
-      description: この初心者向けのRaspberry Pi Picoを使ったデジタル工作入門では、LED、ボタン、スイッチ、ブザー、ポテンショメーター（ダイヤル） の接続および制御方法を学びます。
-      meta_title: プロジェクトパス | Raspberry Pi Pico入門
-      meta_description: この初心者向けのRaspberry Pi Picoを使ったデジタル工作入門では、LED、ボタン、スイッチ、ブザーなどの接続および制御方法を学びます。
+      title: "Introduction to Raspberry Pi Pico"
+      subtitle: "LEDs, buzzers, switches, and dials"
+      description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
+      meta_title: Project path | Introduction to the Raspberry Pi Pico
+      meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            光と音でインタラクティブに動作するデバイスをプログラミングして作成します。
-            このパスの終わりまでに、新しいスキルを使用して、人々がやり取りし続けたいと思う感知機能のあるユニークなガジェットを作成します
+            Program and craft interactive devices with light and sound.
+            By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
             - Basic typing and computer navigation skills
             - This path is for beginners new to physical computing
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            ## ハードウェア
-            このパスに必要なハードウェアはすべて以下から購入できます。
-            - [Pimoroniウェブストア](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}（Raspberry Pi Picoを含む）
-            - [Kitronikウェブストア](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"}（Raspberry Pi Picoを含まない）
+            ## Hardware
+            You can purchase all the required hardware for this  path from the:
+            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
+            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
 
-            ## ソフトウェア
+            ## Software
             - Thonny
-            - Raspberry Pi Picoファームウェア（Thonny経由でインストール）
-            - picozeroライブラリ（ThonnyのPyPi経由で入手可能）
-            インストールの詳細は1つ目のプロジェクトや[Raspberry Pi Picoガイド](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}にあります
+            - Raspberry Pi Pico Fireware (installed via Thonny)
+            - The picozero library (available via PyPi in Thonny)
+            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -464,71 +462,71 @@ ja:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: Raspberry Piは、電子工作に使用できる小さな良いコンピュータです。デスクトップパソコンでできることの多くも、Raspberry Piでできます。
+      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
     sense-hat:
       title: Sense HAT
-      description: Sense HATは、LED、ジョイスティック、多くのセンサーなどをそなえたRaspberry Piのアドオンボードです。
+      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Piは、コードでサウンドを作成するために設計された新しい種類の楽器です。
+      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
     microbit:
       title: "BBC micro:bit"
-      description: "BBC micro:bitは、コーディングできる小さいコンピュータで、ユーザーが創造性 (そうぞうせい) を発揮 (はっき) できます。"
+      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
     look-after-yourself:
-      title: 自分をいたわる
-      description: Scratchの使い方や独立したプログラマーになる方法を学びながら、自分のいたわり方を学びましょう。
+      title: Look after yourself
+      description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
     protect-our-planet:
-      title: 地球を守る
-      description: Scratchを使って地球について学び、次世代のために環境を保護する方法を学びましょう
+      title: Protect our planet
+      description: Use Scratch to learn about our planet and how to protect the environment for future generations
     coderdojo-html_css:
-      title: CoderDojo HTMLとCSS
-      description: これらのプロジェクトを使ってウェブサイトを作りましょう。
+      title: CoderDojo HTML & CSS
+      description: Create websites by following these projects.
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: 楽しいプロジェクトを通じてScratchを学びましょう！
+      description: Learn Scratch by working through these fun projects!
     coderdojo-wearables:
-      title: CoderDojo ウェアラブル
-      description: これらのプロジェクトに従ってウェアラブル技術のプロジェクトを作りましょう。
+      title: CoderDojo Wearables
+      description: Create wearable technology projects by following these projects.
     app-inventor-for-social-enterprise:
-      title: App Inventorによるソーシャルイノベーション
-      description: コミュニティで役立つプロジェクトを通じてAndroidデバイスのアプリ作成について学びましょう。
+      title: App Inventor for social innovation
+      description: Learn to make apps for Android devices by doing projects that can help people in your community.
     scratch-for-social-enterprise:
-      title: Scratchによるソーシャルイノベーション
-      description: 初心者に優しいグラフィカルプログラミング言語であるScratchを学び、重要課題について学ぶのに役立つアプリやゲームを作成します。
+      title: Scratch for social innovation
+      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
     html-css-for-social-enterprise:
-      title: HTMLとCSSによるソーシャルイノベーション
-      description: 鳥の保全についてのウェブサイトを作成して、HTMLとCSSを学びましょう。
+      title: HTML & CSS for social innovation
+      description: Learn HTML & CSS by creating a website about bird conservation.
     getting-started-with-raspberry-pi:
-      title: Raspberry Pi入門
-      description: Raspberry Piをセットアップして何ができるか見てみましょう！
+      title: Get started with Raspberry Pi
+      description: Set up your Raspberry Pi and see what it can do!
     life-on-earth:
-      meta_title: Life on Earth実験のAstro Pi のリソース
-      meta_description: Raspberry Pi、カメラ モジュール、Sense HAT、Google Coral リソースのこのコレクションを使用して、Astro Pi Life on Earth チャレンジの準備を支援します。
+      meta_title: Life on Earth Astro Pi resources
+      meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
     web-intro:
-      title: ウェブ入門
-      subtitle: HTML、CSS、アニメーション
-      description: この初心者向けの、HTMLとCSSを使用したウェブ開発入門編では、画像、リスト、フォント、引用、リンク、アニメーションを使用してウェブページを組み立て、スタイルを設定する方法を学びます。
-      meta_title: プロジェクトパス | 子供向けのHTMLとCSS入門 | 子供向けのウェブ開発 | ウェブサイトを作る
-      meta_description: 子供、ティーンエイジャー、若者向けの HTML の入門。これらの無料リソースを使用してインタラクティブな Web サイトを作成します。
+      title: Introduction to web
+      subtitle: HTML, CSS, and animations
+      description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
+      meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
+      meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            アート、絵文字、フリップカードでインタラクティブなウェブサイトを作成します。
-            このパスの終わりまでに、あなたが共有したいものについてのウェブサイトを作成できます。
+            Make interactive websites with art, emojis and flip cards.
+            By the end of this path you will have created a website about something you want to share.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            - 基本的なタイピングとコンピューター操作のスキル
-            - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}のコーディング経験があると役立ちます
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            - オンラインのコーディングプラットフォーム である[Trinket](https://trinket.io){:target="_blank"}を実行できるコンピューターまたはモバイルデバイス。
-            - オプションでプロジェクトを保存するためのTrinketアカウント。
-            Trinketの詳細はウェブサイトの[Trinket FAQ](https://trinket.io/faq){:target="_blank"}でご覧いただけます
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -543,64 +541,64 @@ ja:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     sense-hat-intro:
-      meta_title: Sense HATの紹介
-      meta_description: Sense Hat、アストロパイ、ミッションゼロ
+      meta_title: Introduction to the Sense HAT
+      meta_description: Sense HAT, Astro Pi, Mission Zero
     experience-ai-challenge-music-quest:
-      title: "AIチャレンジを体験: 音楽クエスト"
-      subtitle: "AI を使用してサウンドトラックをあなたの生活にストリーミング"
-      description: Experience AI Music Quest は、Scratch、子供向け機械学習、Spotify API を使用して独自の「AI DJ」を設計および作成する方法を学ぶ一連のセッションです。
-      meta_title: プロジェクトパス |Experience AI チャレンジ - Music Quest
-      meta_description: 子供、ティーンエイジャー、若者向けの Scratch プログラミングと機械学習の入門。データを ML モデルに分類し、それを使用して好みの音楽を予測する方法を学びます。
+      title: "Experience AI Challenge: Music Quest"
+      subtitle: "Stream the soundtrack to your life with AI"
+      description: The Experience AI Music Quest is a series of sessions that will teach you how to design and create your own 'AI DJ' using Scratch, Machine Learning for Kids, and the Spotify API.
+      meta_title: Project path | Experience AI Challenge - Music Quest
+      meta_description: Introduction to Scratch programming and Machine Learning for kids, teenagers and young adults. Learn how to classify data into an ML model and use it to predict music you will like.
       header:
         - 
-          title: "作るもの"
+          title: "What will I create?"
           content: |
-            インタラクティブな Scratch プロジェクトを作成し、機械学習モデルを作成してトレーニングします。
-            このパスを終わりまでやりとげると、好みに基づいて音楽のプレイリストを作成できるアプリを作成する新しいスキルを身につけることができます。
+            Make interactive Scratch projects and create and train a Machine Learning model.
+            By the end of this path you will have used your new skills to create an app which can make playlists of music based on your preferences.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            このパスは、Scratch と機械学習の初心者に最適です。
+            This path is ideal for beginners to Scratch and machine learning.
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            このパスには次のものが必要です。
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Pi コンピューター
-            - Scratch および Machine Learning 4 Kids をオンラインで使用するためのインターネットへの接続
-            - [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}のアカウント (手順については、以下のメンター ガイドをご覧ください。)
-            - ヘッドフォン (推奨) またはスピーカー
-            - [クリエイター ブループリント ドキュメント](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:ターゲット="_blank"}のコピー
+            This path requires:
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch and Machine Learning 4 Kids online.
+            - A [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}account. (Instructions available in the Mentor Guide below.)
+            - Headphones (recommended) or speakers
+            - A copy of the [Creator Blueprint document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
         - 
-          title: "メンター情報"
+          title: "Mentor information"
           content: |
-            ## Experience AI チャレンジ: Music Quest
+            ## Experience AI Challenge: Music Quest
 
-            このパスウェイは、若いクリエイターが Experience AI チャレンジの一環として機械学習と人工知能を使った創作に初めて挑戦するためのコンテンツを提供します。
+            This pathway provides the content for young creators to begin their first forays into creating with machine learning and artificial intelligence as part of the Experience AI Challenge.
 
-            Music Quest は完了までに約 5 時間のプロジェクト時間を要し、柔軟に実施できるように設計されています。個別のセッションまたは 1 日の「ハッカソン」として実行できます。このコンテンツは、ステージ間でプロジェクトの作業を継続する機会も提供します。
+            The Music Quest takes around five hours of project time to complete and is designed to be flexible in delivery - it can be run as individual sessions or a single-day 'hackathon'. The content also provides the opportunity to continue work on projects between stages.
 
-            [クエストのメンター ガイド](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) には、必要なアカウントの作成方法、クエストの各段階のメモの実行方法、およびデバッグのヒントと、作成者が追加できる追加機能の提案が含まれています。
+            The [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contains instructions for creating the needed accounts, running notes for each stage of the Quest, as well as debugging tips and suggestions for extra features creators can add.
 
-            また、クリエイターが完成したアプリを Experience AI Showcase に提出して、業界の専門家や研究者からなるパネルによって評価され、最終候補に挙げられるようにするための手順も含まれています。最終候補者リストに残った参加者は、Google Deepmind と協力した特別なショーケース イベントに招待されます。
+            It also contains instructions for submitting your Creators' finished apps to the Experience AI Showcase, to be appreciated and shortlisted by a panel of industry experts and researchers. Shortlisted entrants will be invited to attend our special showcase event, in collaboration with Google Deepmind!
     prepare-to-run-a-code-club:
-      title: "Code Clubを運営する準備をする"
-      subtitle: "若者向けにCode Clubを運営するための最初のステップ。"
-      description: このコースでは、Code Club を始めるための段階的なガイダンスを提供します。計画と設定の実践から始まり、最初のセッションの計画と実施までをガイドし、最後に学習者のモチベーションを高め、成果を祝う方法に関するアイデアとヒントで終わります。
-      meta_title: プロジェクト パス | Code Club を運営する準備をする
-      meta_description: このコースでは、初期設定と計画から最初のセッションの実施、そして最後に学習者のモチベーションを高めて成果を祝うまで、Code Club の立ち上げについて説明します。
+      title: "Prepare to run a Code Club"
+      subtitle: "Your first steps toward running a Code Club for young people."
+      description: In this course, we will be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.
+      meta_title: Project path | Prepare to run a Code Club
+      meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
       header:
         - 
-          title: "何を学べますか?"
+          title: "What will I learn?"
           content: |
-            このコースでは、初期設定と計画から最初のセッションの実施、そして最後に学習者のモチベーションを高めて成果を祝うまで、Code Club の立ち上げについて説明します。
+            In this course, we will guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
         - 
-          title: "必要な知識"
+          title: "What do I need to know?"
           content: |
-            このコースは、地域のクラブでボランティア活動をして若者がコーディング方法を学ぶのを手助けしたい場合、またはあなたが教師で学校の生徒のために課外コーディング クラブを立ち上げたいと考えている場合に役立ちます。
+            This course will be useful to you if you would like to volunteer at a club in your community, helping young people learn how to code, or you are a teacher who wants to set up an extracurricular coding club for the students in your school.
         - 
-          title: "必要なもの"
+          title: "What do I need?"
           content: |
-            このパスには次のものが必要です。
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Pi コンピューター
-            - Scratch およびその他のアプリケーションをオンラインで使用するためのインターネットへの接続
+            This path requires:
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
+            - Access to the internet to use Scratch and other applications online.
 
