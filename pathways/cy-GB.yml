@@ -1,4 +1,3 @@
----
 cy:
   pathways:
     microbit-intro:
@@ -42,11 +41,11 @@ cy:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} in our guide.
     scratch-intro:
-      title: "Cyflwyniad i Scratch: corluniau, sgriptiau, a dolenni"
+      title: "Introduction to Scratch"
       subtitle: "sprites, scripts, and loops"
-      description: Yn y cyflwyniad hwn i godio yn Scratch ar gyfer dechreuwyr, byddwch yn dysgu sut i ychwanegu cod, gwisgoedd, a synau at gorluniau wrth i chi wneud animeiddiadau, gêm, app, a llyfr.
-      meta_title: Llwybr y prosiect | Cyflwyniad i raglennu Scratch i blant
-      meta_description: Cyflwyniad i raglennu Scratch ar gyfer plant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i wneud animeiddiadau, gêm, ap, a llyfr.
+      description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
+      meta_title: Project path | Intro to Scratch programming for kids
+      meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
       header:
         - 
           title: "What will I create?"
@@ -82,11 +81,11 @@ cy:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     more-scratch:
-      title: "Mwy o Scratch: darllediad, penderfyniadau a newidynnau"
+      title: "More Scratch"
       subtitle: "broadcast, decisions and variables"
-      description: Mwy o symudiadu Scratch y tu hwnt i'r pethau sylfaenol a gyflwynwyd yn Cyflwyniad i Scratch. Byddwch yn gwneud apiau, gemau ac efelychiadau gan ddefnyddio darlledu neges, penderfyniadai 'os..yna' ac 'os..yna..fel arall' a newidynnau eraill.
-      meta_title: Llwybr y prosiect | Mwy o Scratch i blant | Raspberry Pi
-      meta_description: Mwy o Scratch i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Symudwch y tu hwnt i'r pethau sylfaenol i godio apiau, gemau ac animeiddiadau gan ddefnyddio darllediadau neges, gyda'r prosiectau rhad ac am ddim hyn.
+      description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
+      meta_title: Project path | More Scratch for kids | Raspberry Pi
+      meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
       header:
         - 
           title: "What will I create?"
@@ -123,11 +122,11 @@ cy:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     further-scratch:
-      title: "Scratch pellach: clonau, fy mlociau, a rhesymeg boolean"
+      title: "Further Scratch"
       subtitle: "clones, my blocks, and boolean logic"
-      description: Mae Scratch pellach yn symud y tu hwnt i'r sgiliau a gyflwynwyd yn Cyflwyniad i Scratch a Mwy o Scratch. Byddwch yn gwneud apiau, gemau, celf a gynhyrchir gan gyfrifiadur, ac efelychiadau gan ddefnyddio rhesymeg boolean, swyddogaethau, clonau, a mwy.
-      meta_title: Llwybr y prosiect | Rhagor o godio Scratch i blant | Raspberry Pi
-      meta_description: Rhagor o godio Scratch ar gyfer plant, pobl ifanc yn eu harddegau ac oedolion ifanc. Defnyddiwch yr adnoddau codio rhad ac am ddim hyn i wneud apiau, gemau, celf a gynhyrchir gan gyfrifiadur, ac animeiddiadau.
+      description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
+      meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
+      meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
       header:
         - 
           title: "What will I create?"
@@ -164,29 +163,29 @@ cy:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
-      title: "Scratch: Modiwl 1"
-      description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
+      title: "Scratch: Module 1"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-module-2:
-      title: "Scratch: Modiwl 2"
-      description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
+      title: "Scratch: Module 2"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-module-3:
-      title: "Scratch: Modiwl 3"
-      description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
+      title: "Scratch: Module 3"
+      description: Learn how to program your own interactive stories, games and animations.
     scratch-additional-projects:
-      title: "Scratch: Prosiectau Ychwanegol"
-      description: Dysgwch sut i raglennu eich straeon, gemau ac animeiddiadau rhyngweithiol eich hun.
+      title: "Scratch: Additional Projects"
+      description: Learn how to program your own interactive stories, games and animations.
     webdev-module-1:
-      title: "HTML a CSS: Modiwl 1"
-      description: Adeiladwch ac arddulliwch eich tudalennau gwe eich hun.
+      title: "HTML & CSS: Module 1"
+      description: Build and style your own web pages.
     webdev-module-2:
-      title: "HTML a CSS: Modiwl 2"
-      description: Adeiladwch ac arddulliwch eich tudalennau gwe eich hun.
+      title: "HTML & CSS: Module 2"
+      description: Build and style your own web pages.
     python-intro:
-      title: "Cyflwyniad i Python: Newidynnau, ffwythiannau, a dolenni"
+      title: "Introduction to Python"
       subtitle: "Variables, functions, and loops"
-      description: Yn y cyflwyniad hwn i godio yn Python ar gyfer dechreuwyr, byddwch yn dysgu sut i ddefnyddio newidynnau, dolenni, a ffwythiannau i greu gwaith celf gweledol a rhyngweithiol, animeiddiadau, efelychiadau, gemau, a mwy.
-      meta_title: Llwybr y prosiect | Cyflwyniad i Python i blant | Raspberry Pi
-      meta_description: Cyflwyniad i Python i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Creu gwaith celf rhyngweithiol, animeiddiadau, a gemau gyda'r adnoddau rhad ac am ddim hyn.
+      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
+      meta_title: Project path | Intro to Python for kids | Raspberry Pi
+      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
       header:
         - 
           title: "What will I create?"
@@ -258,11 +257,11 @@ cy:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     more-python:
-      title: "Mwy o Python: Rhestrau, geiriaduron, a data"
+      title: "More Python"
       subtitle: "lists, dictionaries, and data"
-      description: Mwy Mae Python yn symud y tu hwnt i'r pethau sylfaenol a gyflwynwyd yn Cyflwyniad i Python. Byddwch yn dysgu sut i ddefnyddio rhestrau, geiriaduron a ffeiliau i greu siartiau, modelau a gwaith celf.
-      meta_title: Llwybr y prosiect | Mwy o brosiectau Python i blant | Raspberry Pi
-      meta_description: Mwy o brosiectau Python i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i ddefnyddio rhestrau, geiriaduron a ffeiliau i greu siartiau, modelau a gwaith celf.
+      description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
+      meta_title: Project path | More Python projects for kids | Raspberry Pi
+      meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
       header:
         - 
           title: "What will I create?"
@@ -296,38 +295,38 @@ cy:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
-      title: "Python: Modiwl 1"
-      description: Mae Python yn iaith raglennu, pwrpas cyffredinol, poblogaidd sy'n seiliedig ar destun.
+      title: "Python: Module 1"
+      description: Python is a widely used, general purpose, text-based programming language.
     python-module-2:
-      title: "Python: Modiwl 2"
-      description: Mae Python yn iaith raglennu, pwrpas cyffredinol, poblogaidd sy'n seiliedig ar destun.
+      title: "Python: Module 2"
+      description: Python is a widely used, general purpose, text-based programming language.
     unity-intro:
-      title: "Cyflwyniad i Unity: Gwrthrychau 3D, Rheolyddion Cymeriadau, Gwrthdarwyr, Testun a Botymau"
+      title: "Introduction to Unity"
       subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
-      description: Yn y cyflwyniad hwn i Unity byddwch yn dysgu sut i wneud bydoedd a gemau 3D gyda phethau casgladwy, amseryddion a chymeriadau nad ydynt yn chwaraewyr.
-      meta_title: Llwybr y prosiect | Codio Unity i blant | Raspberry Pi
-      meta_description: Cyflwyniad i godio Unity i blant, pobl ifanc yn eu harddegau ac oedolion ifanc. Dysgwch sut i wneud bydoedd a gemau 3D gan ddefnyddio'r adnoddau rhad ac am ddim hyn.
+      description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
+      meta_title: Project path | Unity coding for kids | Raspberry Pi
+      meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
       header:
         - 
-          title: "Beth fyddaf yn ei greu?"
+          title: "What will I create?"
           content: |
-            Gwnewch fydoedd a gemau 3D gyda phethau casgladwy, amseryddion a chymeriadau nad ydynt yn chwaraewyr.
-            Erbyn diwedd y llwybr hwn byddwch wedi defnyddio'ch sgiliau newydd i greu gêm dal sêr, byd gyda chwestau, ac antur 3D.
+            Make 3D worlds and games with collectibles, timers and non-player characters.
+            By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
         - 
-          title: "Beth sydd angen i mi ei wybod?"
+          title: "What do I need to know?"
           content: |
-            - Sgiliau teipio a llywio cyfrifiadurol sylfaenol
-            - Profiad codio mewn [Scratch]( https://projects.raspberrypi.org/en/pathways/scratch-intro ) neu [Python]( https://projects.raspberrypi.org/en/pathways/python - cyflwyniad)
+            - Basic typing and computer navigation skills
+            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "Beth sydd ei angen arnaf?"
+          title: "What do I need?"
           content: |
-            Mae'r llwybr hwn yn gofyn am lawrlwythiad a gosodiad mawr y dylech ei gwblhau cyn i chi ddechrau'r prosiect cyntaf.
+            This path requires a large download and installation which you should complete before you start the first project.
 
-            - Mae angen i chi osod yr Unity Hub a'r Unity Editor ar gyfer eich system weithredu. Gallwch ddarganfod sut i wneud hyn yn ein [Canllaw Unity]( https://projects.raspberrypi.org/cy/projects/unity-guide).
-            - Bydd angen golygydd côd arnoch hefyd. Y golygydd a argymhellir yw [Visual Studio]( https://projects.raspberrypi.org/en/projects/unity-guide/3).
-            - Bydd angen i chi hefyd lawrlwytho'r [pecyn cychwyn Unity] (https://rpf.io/p/en/explore-a-3d-world-go) o asedau cyn dechrau.
+            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+            - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
+            - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
         - 
-          title: "Gwybodaeth mentor"
+          title: "Mentor information"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -384,10 +383,10 @@ cy:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Cyfrifiadura corfforol gyda Scratch a'r Raspberry Pi
-      description: Dysgwch sut i ddefnyddio electroneg mewnbwn ac allbwn gyda Scratch a'ch cyfrifiadur Raspberry Pi.
-      meta_title: Llwybr y prosiect | Codio yn Scratch i blant | Raspberry Pi
-      meta_description: Dysgwch sut i ddefnyddio electroneg mewnbwn ac allbwn gyda Scratch ar eich cyfrifiadur Raspberry Pi. Adnoddau am ddim - codio o'r newydd i blant, pobl ifanc yn eu harddegau ac oedolion ifanc.
+      title: Physical computing with Scratch and the Raspberry Pi
+      description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
+      meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
+      meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
       header:
         - 
           title: "What will I create?"
@@ -418,11 +417,11 @@ cy:
             ##Quick quiz
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
     pico-intro:
-      title: "Cyflwyniad i Raspberry Pi Pico: LEDs, swnwyr, switshis, a deialau"
+      title: "Introduction to Raspberry Pi Pico"
       subtitle: "LEDs, buzzers, switches, and dials"
-      description: Yn y cyflwyniad hwn i wneuthuro digidol gyda Raspberry Pi Pico ar gyfer dechreuwyr, byddwch yn dysgu sut i gysylltu a rheoli LEDs, botymau, switshis, seinyddion a photensiomedrau (deialau).
-      meta_title: Llwybr y prosiect | Cyflwyniad i'r Raspberry Pi Pico
-      meta_description: Yn y cyflwyniad hwn i wneuthuro digidol gyda Raspberry Pi Pico ar gyfer dechreuwyr, byddwch yn dysgu sut i gysylltu a rheoli LEDs, botymau, switshis, seinyddion, ac ati.
+      description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
+      meta_title: Project path | Introduction to the Raspberry Pi Pico
+      meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
       header:
         - 
           title: "What will I create?"
@@ -463,43 +462,43 @@ cy:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: Cyfrifiadur bach galluog yw'r Raspberry Pi, y gellir ei ddefnyddio mewn prosiectau electroneg, ac ar gyfer llawer o'r pethau y mae eich cyfrifiadur personol yn eu gwneud.
+      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
     sense-hat:
       title: Sense HAT
-      description: Bwrdd ychwanegol ar gyfer y Raspberry Pi yw'r Sense HAT, sy'n cynnwys LEDs, joystick a llawer o synwyryddion.
+      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
     sonic-pi:
       title: Sonic Pi
-      description: Math newydd o offeryn cerddorol yw'r Sonic Pi, sydd wedi'i gynllunio ar gyfer creu synau gyda chod.
+      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
     microbit:
       title: "BBC micro:bit"
-      description: "Cyfrifiadur maint-poced, codadwy yw'r BBC micro:bit, sy'n eich galluogi i fod yn greadigol."
+      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
     look-after-yourself:
-      title: Gofalwch amdanoch chi'ch hun
-      description: Dysgwch sut i ofalu amdanoch eich hun, wrth ddysgu sut i ddefnyddio Scratch a gweithio'ch ffordd tuag at fod yn rhaglennydd annibynnol.
+      title: Look after yourself
+      description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
     protect-our-planet:
-      title: Gwarchod ein planed
-      description: Defnyddiwch Scratch i ddysgu am ein planed a sut i warchod yr amgylchedd ar gyfer cenedlaethau'r dyfodol
+      title: Protect our planet
+      description: Use Scratch to learn about our planet and how to protect the environment for future generations
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: Crewch gwefannau trwy ddilyn y Cardiau Sushi hyn.
+      description: Create websites by following these projects.
     coderdojo-scratch:
-      title: Scratch CoderDojo
-      description: Dysgwch Scratch trwy weithio trwy'r prosiectau hwyliog hyn!
+      title: CoderDojo Scratch
+      description: Learn Scratch by working through these fun projects!
     coderdojo-wearables:
-      title: Technoleg Gwisgadwy CoderDojo
-      description: Creu prosiectau technoleg gwisgadwy trwy ddilyn y prosiectau hyn.
+      title: CoderDojo Wearables
+      description: Create wearable technology projects by following these projects.
     app-inventor-for-social-enterprise:
-      title: Dyfeisiwr Ap ar gyfer arloesi cymdeithasol
-      description: Dysgwch sut i wneud apiau ar gyfer dyfeisiau Android trwy wneud prosiectau a all helpu pobl yn eich cymuned.
+      title: App Inventor for social innovation
+      description: Learn to make apps for Android devices by doing projects that can help people in your community.
     scratch-for-social-enterprise:
-      title: Scratch ar gyfer arloesi cymdeithasol
-      description: Dysgwch Scratch, iaith raglennu graffigol gyfeillgar i ddechreuwyr, wrth adeiladu apiau a gemau i helpu pobl i ddysgu am faterion pwysig.
+      title: Scratch for social innovation
+      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
     html-css-for-social-enterprise:
-      title: HTML a CSS ar gyfer arloesi cymdeithasol
-      description: Dysgwch HTML a CSS trwy greu gwefan am gadwraeth adar.
+      title: HTML & CSS for social innovation
+      description: Learn HTML & CSS by creating a website about bird conservation.
     getting-started-with-raspberry-pi:
-      title: Dechrau arni gyda Raspberry Pi
-      description: Gosod dy Raspberry Pi a darganfod beth mae'n gallu ei wneud!
+      title: Get started with Raspberry Pi
+      description: Set up your Raspberry Pi and see what it can do!
     life-on-earth:
       meta_title: Life on Earth Astro Pi resources
       meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
