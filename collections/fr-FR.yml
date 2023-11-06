@@ -31,3 +31,9 @@ fr:
       meta_description: "unity, 3D, jeux, animations, simulations, enfants, jeunes, codage, programmation"
       additional_paths_title: ""
       additional_paths_description: ""
+    microbit:
+      title: "micro:bit"
+      description: "Create engaging physical computing project with the BBC micro:bit."
+      meta_description: "microbit, child, children, coding, programming, games, animations"
+      additional_paths_title: ""
+      additional_paths_description: ""
