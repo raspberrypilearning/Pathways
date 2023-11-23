@@ -9,7 +9,7 @@ uk:
       additional_paths_description: "Додаткові напрями Скретчу, які допоможуть тобі на шляху до програмування."
     python:
       title: "Python"
-      description: "Learn about Python one of the world’s most popular programming languages to create digital art, interactive maps and models."
+      description: "Дізнайся про Python — одну з найпопулярніших мов програмування у світі — і створюй цифрові зображення, інтерактивні мапи й моделі."
       meta_description: "python, діти, дитина, кодування, програмування, ігри, анімація"
       additional_paths_title: "Додаткові напрями Python"
       additional_paths_description: "Додаткові напрями Python, які допоможуть тобі на шляху до програмування."
@@ -21,7 +21,7 @@ uk:
       additional_paths_description: "Додаткові напрями вебдизайну, які допоможуть тобі на шляху до програмування."
     physical_computing:
       title: "Програмування пристроїв"
-      description: "Control and interact with the real world combining code with electronics."
+      description: "Керуй і взаємодій з навколишнім світом, поєднуючи кодування з електронікою."
       meta_description: "програмування пристроїв, електроніка, iot, інтернет речей, діти, дитина, кодування, програмування"
       additional_paths_title: "Додаткові напрями програмування пристроїв"
       additional_paths_description: "Додаткові напрями програмування пристроїв, які допоможуть тобі на шляху до програмування."
