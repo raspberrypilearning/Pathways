@@ -1,29 +1,29 @@
 ja:
   pathways:
     microbit-intro:
-      title: "Introduction to micro:bit"
-      subtitle: "sensors, buttons and lights!"
-      description: In this introduction to coding for the micro:bit, you will learn how to sense and respond to the world around you while looking after yourself.
-      meta_title: Project path | Intro to micro:bit coding for kids
-      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      title: "micro:bit入門"
+      subtitle: "センサー、ボタン、ライト！"
+      description: この micro:bit のコーディング入門では、自分自身の面倒を見ながら、身の回りの世界を感知し、それに反応する方法を学びます。
+      meta_title: プロジェクトパス | 子ども向けのmicro:bitコーディング入門
+      meta_description: 子ども、ティーンエイジャー、若者向けの micro:bit コーディング入門編。自分自身の管理に役立つ micro:bit プロジェクトの作成方法を学びましょう。
       header:
         - 
           title: "作るもの"
           content: |
-            Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
-            By the end of this path you will have used your new skills to create a party game to play and share with your friends.
+            micro:bit に搭載されているセンサー、ボタン、ライトを使用してインタラクティブなプロジェクトを作成します。
+            このパスの終わりまでに、新しいスキルを使ってパーティー ゲームを作成し、友達とプレイしたり共有したりできるようになります。
         - 
           title: "必要な知識"
           content: |
-            This path is ideal for beginners to micro:bit.
+            このパスはmicro:bitの初心者に最適です。
         - 
           title: "必要なもの"
           content: |
-            This path requires:
+            このパスに必要なもの
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
-            - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
+            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
+            - MakeCodeをオンラインで使用するため、またはMakeCodeをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[micro:bitを始める人へのガイド](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"}をご覧ください。
+            - オプションで、[MakeCodeアカウント](https://makecode.microbit.org){:target="_blank"}とmicro:bit本体
         - 
           title: "メンター情報"
           content: |
@@ -200,8 +200,8 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - オンライン コーディング プラットフォームを実行できるコンピューターまたはモバイル デバイス。
+            - オプションで、プロジェクトを保存するためのアカウント。
         - 
           title: "メンター情報"
           content: |
