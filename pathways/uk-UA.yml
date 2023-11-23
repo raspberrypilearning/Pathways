@@ -5,13 +5,13 @@ uk:
       subtitle: "сенсори, кнопки та світлодіоди!"
       description: У вступі до кодування на micro:bit ти дізнаєшся, як сприймати та реагувати на світ навколо, одночасно піклуючися про себе.
       meta_title: Проєктний напрям | Вступ до програмування у micro:bit для дітей
-      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      meta_description: Вступ до кодування на micro:bit для дітей, підлітків і молоді. Дізнайся, як створювати проєкти на micro:bit, які допоможуть тобі піклуватися про себе.
       header:
         - 
           title: "Що я створюватиму?"
           content: |
-            Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
-            By the end of this path you will have used your new skills to create a party game to play and share with your friends.
+            Створюй інтерактивні проєкти за допомогою сенсорів, кнопок і світлодіодів на micro:bit.
+            Під час проходження цього напряму ти використовуватимеш свої навички для створення гри, якою можна поділитися з друзями.
         - 
           title: "Що я маю знати?"
           content: |
@@ -19,11 +19,11 @@ uk:
         - 
           title: "Що мені потрібно?"
           content: |
-            This path requires:
+            Для цього напряму потрібні:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
-            - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
+            - персональний компʼютер, ноутбук, планшет, мобільний пристрій або компʼютер Raspberry Pi;
+            - доступ до інтернету для роботи у MakeCode онлайн або можливість завантажити та встановити MakeCode. Ознайомся з нашим [матеріалом про початок роботи з micro:bit](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"}, щоб дізнатися більше;
+            - за бажанням [акаунт у MakeCode](https://makecode.microbit.org/){:target="_blank"} та фізичний пристрій micro:bit.
         - 
           title: "Інформація для менторів"
           content: |
@@ -197,8 +197,8 @@ uk:
         - 
           title: "Що мені потрібно?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - компʼютер або мобільний пристрій, на якому можна запустити онлайн-платформу для кодування.
+            - акаунт для зберігання проєктів (за бажанням).
         - 
           title: "Інформація для менторів"
           content: |
@@ -234,8 +234,8 @@ uk:
         - 
           title: "Що мені потрібно?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - компʼютер або мобільний пристрій, на якому можна запустити онлайн-платформу для кодування.
+            - акаунт для зберігання проєктів (за бажанням).
         - 
           title: "Інформація для менторів"
           content: |
@@ -270,8 +270,8 @@ uk:
         - 
           title: "Що мені потрібно?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - компʼютер або мобільний пристрій, на якому можна запустити онлайн-платформу для кодування.
+            - акаунт для зберігання проєктів (за бажанням).
         - 
           title: "Інформація для менторів"
           content: |
@@ -515,8 +515,8 @@ uk:
         - 
           title: "Що мені потрібно?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - компʼютер або мобільний пристрій, на якому можна запустити онлайн-платформу для кодування.
+            - акаунт для зберігання проєктів (за бажанням).
         - 
           title: "Інформація для менторів"
           content: |
