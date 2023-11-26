@@ -470,8 +470,8 @@ ja:
       title: 自分をいたわる
       description: Scratchの使い方や独立したプログラマーになる方法を学びながら、自分のいたわり方を学びましょう。
     protect-our-planet:
-      title: 地球を守る
-      description: Scratchを使って地球について学び、次世代のために環境を保護する方法を学びましょう
+      title: 私たちの地球を守る
+      description: Scratchを使って私たちの地球について学び、次世代のために環境を保護する方法を学びましょう
     coderdojo-html_css:
       title: CoderDojo HTMLとCSS
       description: これらのプロジェクトを使ってウェブサイトを作りましょう。
@@ -479,8 +479,8 @@ ja:
       title: CoderDojo Scratch
       description: 楽しいプロジェクトを通じてScratchを学びましょう！
     coderdojo-wearables:
-      title: CoderDojo ウェアラブル
-      description: これらのプロジェクトに従ってウェアラブル技術のプロジェクトを作りましょう。
+      title: CoderDojoウェアラブル
+      description: これらのプロジェクトを通じてウェアラブル技術のプロジェクトを作りましょう。
     app-inventor-for-social-enterprise:
       title: App Inventorによるソーシャルイノベーション
       description: コミュニティで役立つプロジェクトを通じてAndroidデバイスのアプリ作成について学びましょう。
@@ -494,20 +494,20 @@ ja:
       title: Raspberry Pi入門
       description: Raspberry Piをセットアップして何ができるか見てみましょう！
     life-on-earth:
-      meta_title: Life on Earth実験のAstro Pi のリソース
-      meta_description: Raspberry Pi、カメラ モジュール、Sense HAT、Google Coral リソースのこのコレクションを使用して、Astro Pi Life on Earth チャレンジの準備を支援します。
+      meta_title: 地球上の生物のAstro Piリソース
+      meta_description: Raspberry Pi、カメラモジュール、Sense HAT、Google Coralのリソースコレクションを使用して、Astro Pi地球上の生物チャレンジの準備を支援します。
     web-intro:
       title: ウェブ入門
       subtitle: HTML、CSS、アニメーション
-      description: この初心者向けの、HTMLとCSSを使用したウェブ開発入門編では、画像、リスト、フォント、引用、リンク、アニメーションを使用してウェブページを組み立て、スタイルを設定する方法を学びます。
+      description: この初心者向けのHTMLとCSSによるウェブ開発入門では、画像、リスト、フォント、引用、リンク、アニメーションを使用してウェブページを組み立て、スタイルを設定する方法を学びます。
       meta_title: プロジェクトパス | 子ども向けのHTMLとCSS入門 | 子供向けのウェブ開発 | ウェブサイトを作る
-      meta_description: 子供、ティーンエイジャー、若者向けの HTML の入門。これらの無料リソースを使用してインタラクティブな Web サイトを作成します。
+      meta_description: 子ども、ティーンエイジャー、若者向けのHTML入門。これらの無料リソースを使用してインタラクティブなウェブサイトを作成します。
       header:
         - 
           title: "作るもの"
           content: |
             アート、絵文字、フリップカードでインタラクティブなウェブサイトを作成します。
-            このパスの終わりまでに、あなたが共有したいものについてのウェブサイトを作成できます。
+            このパスの終わりまでに、あなたが共有したいと思うものに関するウェブサイトを作成できます。
         - 
           title: "必要な知識"
           content: |
@@ -516,7 +516,7 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            - オンライン コーディング プラットフォームを実行できるコンピューターまたはモバイル デバイス。
+            - オンラインコーディングプラットフォームを実行できるコンピューターまたはモバイルデバイス。
             - オプションで、プロジェクトを保存するためのアカウント。
         - 
           title: "メンター情報"
@@ -533,24 +533,24 @@ ja:
             ## コミュニティに刺激を与える
             クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
     sense-hat-intro:
-      meta_title: Sense HATの紹介
-      meta_description: Sense Hat、アストロパイ、ミッションゼロ
+      meta_title: Sense HAT入門
+      meta_description: Sense Hat、Astro Pi、ミッションゼロ
     experience-ai-challenge-music-quest:
       title: "Experience AIチャレンジ: ミュージッククエスト"
-      subtitle: "AI を使用してサウンドトラックをあなたの生活にストリーミング"
+      subtitle: "あなたの生活にAIを使用してサウンドトラックをストリーミングしましょう"
       description: Experience AIミュージッククエストは、Scratch、子ども向け機械学習、Spotify APIを使用して、独自の「AI DJ」を設計し作成する方法を学ぶ一連のセッションです。
       meta_title: プロジェクトパス | Experience AIチャレンジ - ミュージッククエスト
-      meta_description: 子供、ティーンエイジャー、若者向けの Scratch プログラミングと機械学習の入門。データを ML モデルに分類し、それを使用して好みの音楽を予測する方法を学びます。
+      meta_description: 子ども、ティーンエイジャー、若者向けのScratchプログラミングと機械学習の入門。データをMLモデルに分類し、それを使用して好みの音楽を推測する方法を学びます。
       header:
         - 
           title: "作るもの"
           content: |
-            インタラクティブな Scratch プロジェクトを作成し、機械学習モデルを作成してトレーニングします。
-            このパスを終わりまでやりとげると、好みに基づいて音楽のプレイリストを作成できるアプリを作成する新しいスキルを身につけることができます。
+            インタラクティブなScratchプロジェクトを作成し、機械学習モデルを作成してトレーニングします。
+            このパスの終わりまでに、好みに応じた音楽プレイリストを作成するアプリを作るスキルを身につけることができます。
         - 
           title: "必要な知識"
           content: |
-            このパスは、Scratch と機械学習の初心者に最適です。
+            このパスはScratchと機械学習の初心者に最適です。
         - 
           title: "必要なもの"
           content: |
@@ -573,16 +573,16 @@ ja:
 
             また、クリエイターが完成したアプリをExperience AIショーケースに提出して、業界の専門家や研究者からなるパネルによって評価され、最終候補に挙げられるようにするための手順も含まれています。最終候補者リストに残った参加者は、Google Deepmindと協力して実施する特別なショーケースイベントに招待されます。
     prepare-to-run-a-code-club:
-      title: "Code Clubを運営する準備をする"
+      title: "Code Clubの運営を準備する"
       subtitle: "若者向けにCode Clubを運営するための最初のステップ。"
-      description: このコースでは、Code Club を始めるための段階的なガイダンスを提供します。計画と設定の実践から始まり、最初のセッションの計画と実施までをガイドし、最後に学習者のモチベーションを高め、成果を祝う方法に関するアイデアとヒントで終わります。
+      description: このコースでは、Code Clubを始めるための段階的なガイダンスを提供します。計画と立ち上げの実践から始まり、最初のセッションの計画から実施までをガイドし、最後に学習者のモチベーションを高め、成果を祝う方法に関するアイデアとヒントで終わります。
       meta_title: プロジェクトパス | Code Clubを運営する準備
-      meta_description: このコースでは、初期設定と計画から最初のセッションの実施、そして最後に学習者のモチベーションを高めて成果を祝うまで、Code Club の立ち上げについて説明します。
+      meta_description: このコースでは、初期セットアップと計画、初めてのセッションの実施、そして学習者のモチベーションを高めて成果を祝うまでの、Code Clubの立ち上げについて説明します。
       header:
         - 
-          title: "何を学べますか?"
+          title: "学ぶこと"
           content: |
-            このコースでは、初期設定と計画から最初のセッションの実施、そして最後に学習者のモチベーションを高めて成果を祝うまで、Code Club の立ち上げについて説明します。
+            このコースでは、初期セットアップと計画、初めてのセッションの実施、そして学習者のモチベーションを高めて成果を祝うまでの、Code Clubの立ち上げについて説明します。
         - 
           title: "必要な知識"
           content: |
