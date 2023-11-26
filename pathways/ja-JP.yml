@@ -176,16 +176,16 @@ ja:
       description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
     webdev-module-1:
       title: "HTMLとCSS: モジュール1"
-      description: 自分のWebページを構築し、スタイルを設定します。
+      description: 自分のウェブページを構築し、スタイルを設定します。
     webdev-module-2:
       title: "HTMLとCSS: モジュール2"
-      description: 自分のWebページを構築し、スタイルを設定します。
+      description: 自分のウェブページを構築し、スタイルを設定します。
     python-intro:
       title: "Python入門"
       subtitle: "変数、関数、ループ"
       description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
       meta_title: プロジェクトパス | 子ども向けのPython入門 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作ります。
+      meta_description: 子ども、ティーンエイジャー、若者向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作りましょう。
       header:
         - 
           title: "作るもの"
@@ -200,7 +200,7 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            - オンライン コーディング プラットフォームを実行できるコンピューターまたはモバイル デバイス。
+            - オンラインコーディングプラットフォームを実行できるコンピューターまたはモバイルデバイス。
             - オプションで、プロジェクトを保存するためのアカウント。
         - 
           title: "メンター情報"
@@ -221,7 +221,7 @@ ja:
       subtitle: "変数、関数、ループ"
       description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
       meta_title: プロジェクトパス | 子ども向けのPython入門 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作ります。
+      meta_description: 子ども、ティーンエイジャー、若者向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作りましょう。
       header:
         - 
           title: "作るもの"
@@ -236,7 +236,7 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            - オンライン コーディング プラットフォームを実行できるコンピューターまたはモバイル デバイス。
+            - オンラインコーディングプラットフォームを実行できるコンピューターまたはモバイルデバイス。
             - オプションで、プロジェクトを保存するためのアカウント。
         - 
           title: "メンター情報"
@@ -257,7 +257,7 @@ ja:
       subtitle: "リスト、辞書、データ"
       description: Python続編は、Python入門で紹介した基本を超えて行きます。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
       meta_title: プロジェクトパス | 子ども向けのPythonプロジェクト続編 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのPythonプロジェクト続編です。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
+      meta_description: 子ども、ティーンエイジャー、若者向けのPythonプロジェクト続編です。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
       header:
         - 
           title: "作るもの"
@@ -272,7 +272,7 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            - オンライン コーディング プラットフォームを実行できるコンピューターまたはモバイル デバイス。
+            - オンラインコーディングプラットフォームを実行できるコンピューターまたはモバイルデバイス。
             - オプションで、プロジェクトを保存するためのアカウント。
         - 
           title: "メンター情報"
@@ -290,16 +290,16 @@ ja:
             クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
     python-module-1:
       title: "Python: モジュール1"
-      description: Python は、一般的な用途で広く使用されている、テキスト ベースのプログラミング言語です。
+      description: Pythonは一般的な用途に広く使われている、テキストベースのプログラミング言語です。
     python-module-2:
       title: "Python: モジュール2"
-      description: Python は、一般的な用途で広く使用されている、テキスト ベースのプログラミング言語です。
+      description: Pythonは一般的な用途に広く使われている、テキストベースのプログラミング言語です。
     unity-intro:
-      title: "Unity の概要"
+      title: "Unity入門"
       subtitle: "3Dオブジェクト、キャラクターコントローラー、コライダー、テキスト、ボタン"
       description: このUnity入門では、収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界やゲームを作成する方法を学びます。
       meta_title: プロジェクトパス | 子ども向けのUnityコーディング | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのUnityコーディング入門。これらの無料リソースを使用して3Dの世界やゲームを作る方法を学びましょう。
+      meta_description: 子ども、ティーンエイジャー、若者向けのUnityコーディング入門。これらの無料リソースを使用して3Dの世界やゲームを作る方法を学びましょう。
       header:
         - 
           title: "作るもの"
@@ -338,21 +338,20 @@ ja:
     more-unity:
       title: "Unity続編"
       subtitle: "リジッドボディ、物理演算、マテリアル"
-      description: この Unity続編 パスでは、物理演算とマテリアルを使用して、独自にデザインしたビー玉でインタラクティブな 3D パズルの世界を作成します。
+      description: このUnity続編パスでは、物理演算とマテリアルを使用して、独自にデザインしたビー玉でインタラクティブな3Dパズルの世界を作成します。
       meta_title: プロジェクトパス | 子ども向けのUnityコーディング | Raspberry Pi
-      meta_description: 子供、ティーンエイジャー、若者向けの Unity コーディング。これらの無料リソースを使用して 3D ワールドやゲームを作成する方法を学びましょう。
+      meta_description: 子ども、ティーンエイジャー、若者向けのUnityコーディング。これらの無料リソースを使用して3Dワールドやゲームを作成する方法を学びましょう。
       header:
         - 
           title: "作るもの"
           content: |
-            ビー玉転がしと問題を解決する 3D ワールド プロジェクトを作成します。
-            このパスの終えると、Unity プロジェクトでユニークなマテリアルを作成し、現実的な物理演算を使用できる新しいスキルが身につきます。
+            ビー玉転がしと3Dワールドで問題解決するプロジェクトを作成します。
+            このパスの終わりまでに、独自のマテリアルを作成し、Unityプロジェクトで現実的な物理演算を使用する新しいスキルを使用します。
         - 
           title: "必要な知識"
           content: |
-            - [Unity の概要](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} パス
-            を理解していること
-            - [C#](https:// project.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} または [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}のコーディング経験があること
+            - [Unity入門](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}パスの理解
+            - [C#](https://project.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}または[Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}のコーディング経験
         - 
           title: "必要なもの"
           content: |
@@ -378,10 +377,10 @@ ja:
             クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分のプロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトは匿名でコミュニティギャラリーに共有されます。
             [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"}方法についてガイドをご覧ください。
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: ScratchとRaspberryPiを使用した物理コンピューティング
+      title: ScratchとRaspberryPiを使用したフィジカルコンピューティング
       description: ScratchとRaspberry Piコンピューターで入出力機器を使う方法を学びます。
       meta_title: プロジェクトパス | 子ども向けのScratchコーディング | Raspberry Pi
-      meta_description: Raspberry Piコンピューター上のScratchで入出力機器を使う方法を学びます。子ども、ティーンエイジャー、ヤングアダルト向けのScratchコーディングの無料リソース。
+      meta_description: Raspberry Piコンピューター上のScratchで入出力機器を使う方法を学びます。子ども、ティーンエイジャー、若者向けのScratchコーディングの無料リソース。
       header:
         - 
           title: "作るもの"
@@ -391,7 +390,7 @@ ja:
         - 
           title: "必要な知識"
           content: |
-            このパスはScratchと物理コンピューティングの初心者向けです。ただし、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスを先に終わらせることもできます。
+            このパスはScratchとフィジカルコンピューティングの初心者向けです。ただし、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスを先に終わらせることもできます。
         - 
           title: "必要なもの"
           content: |
@@ -427,7 +426,7 @@ ja:
           title: "必要な知識"
           content: |
             - 基本的なタイピングとコンピューター操作のスキル
-            - このパスは物理コンピューティング初心者向けです
+            - このパスはフィジカルコンピューティング初心者向けです
         - 
           title: "必要なもの"
           content: |
@@ -457,7 +456,7 @@ ja:
             クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトのビデオを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
     raspberry-pi:
       title: Raspberry Pi
-      description: Raspberry Piは、電子工作に使用できる小さな良いコンピュータです。デスクトップパソコンでできることの多くも、Raspberry Piでできます。
+      description: Raspberry Piは電子工作プロジェクトで使用できる性能のよい小さなコンピュータで、デスクトップパソコンで行うことの多くに向いています。
     sense-hat:
       title: Sense HAT
       description: Sense HATは、LED、ジョイスティック、多くのセンサーなどをそなえたRaspberry Piのアドオンボードです。
@@ -466,7 +465,7 @@ ja:
       description: Sonic Piは、コードでサウンドを作成するために設計された新しい種類の楽器です。
     microbit:
       title: "BBC micro:bit"
-      description: "BBC micro:bitは、コーディングできる小さいコンピュータで、ユーザーが創造性 (そうぞうせい) を発揮 (はっき) できます。"
+      description: "BBC micro:bit は、創造性を発揮できるポケットサイズのコーディング可能なコンピューターです。"
     look-after-yourself:
       title: 自分をいたわる
       description: Scratchの使い方や独立したプログラマーになる方法を学びながら、自分のいたわり方を学びましょう。
