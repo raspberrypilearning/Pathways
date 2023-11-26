@@ -3,15 +3,15 @@ ja:
     microbit-intro:
       title: "micro:bit入門"
       subtitle: "センサー、ボタン、ライト！"
-      description: この micro:bit のコーディング入門では、自分自身の面倒を見ながら、身の回りの世界を感知し、それに反応する方法を学びます。
+      description: このmicro:bitのコーディング入門では、身の回りのことをするときに、自分の周りの世界を感知し、それに反応する方法を学びます。
       meta_title: プロジェクトパス | 子ども向けのmicro:bitコーディング入門
-      meta_description: 子ども、ティーンエイジャー、若者向けの micro:bit コーディング入門編。自分自身の管理に役立つ micro:bit プロジェクトの作成方法を学びましょう。
+      meta_description: 子ども、ティーンエイジャー、若者向けのmicro:bitコーディング入門編。自分の身の回りのことをするときに役立つmicro:bitプロジェクトの作成方法を学びましょう。
       header:
         - 
           title: "作るもの"
           content: |
-            micro:bit に搭載されているセンサー、ボタン、ライトを使用してインタラクティブなプロジェクトを作成します。
-            このパスの終わりまでに、新しいスキルを使ってパーティー ゲームを作成し、友達とプレイしたり共有したりできるようになります。
+            micro:bitに搭載されているセンサー、ボタン、ライトの機能を使用してインタラクティブなプロジェクトを作成します。
+            このパスの終わりまでに、新しいスキルを使ってパーティーゲームを作成し、友達と遊んだり共有できるようになります。
         - 
           title: "必要な知識"
           content: |
@@ -21,8 +21,8 @@ ja:
           content: |
             このパスに必要なもの
 
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
-            - MakeCodeをオンラインで使用するため、またはMakeCodeをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[micro:bitを始める人へのガイド](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"}をご覧ください。
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - MakeCodeをオンラインで使用するため、またはMakeCodeをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[micro:bit入門ガイド](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"}をご覧ください。
             - オプションで、[MakeCodeアカウント](https://makecode.microbit.org){:target="_blank"}とmicro:bit本体
         - 
           title: "メンター情報"
@@ -45,7 +45,7 @@ ja:
       subtitle: "スプライト、スクリプト、ループ"
       description: この初心者向けScratchコーディング入門では、アニメーション、ゲーム、アプリ、本を作成するときに、コード、コスチューム、音をスプライトへ追加する方法を学びます。
       meta_title: プロジェクトパス | 子ども向けのScratchプログラミング入門
-      meta_description: 子ども、ティーンエイジャー、若い大人向けのScratchプログラミングの入門編。アニメーション、ゲーム、アプリ、そして本の作り方を学びましょう。
+      meta_description: 子ども、ティーンエイジャー、若者向けのScratchプログラミングの入門編。アニメーション、ゲーム、アプリ、そして本の作り方を学びましょう。
       header:
         - 
           title: "作るもの"
@@ -61,7 +61,7 @@ ja:
           content: |
             このパスに必要なもの
 
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
             - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
             - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
@@ -102,7 +102,7 @@ ja:
           content: |
             このパスに必要なもの
 
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
             - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
             - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
@@ -122,11 +122,11 @@ ja:
             クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
             [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
     further-scratch:
-      title: "Scratch発展編"
+      title: "Scratch応用"
       subtitle: "クローン、ブロック定義、ブール論理"
       description: Scratch応用では、Scratch入門と続編で紹介したスキルを超えて行きます。ブール論理、関数、クローンなどを使用して、アプリ、ゲーム、コンピューターアート、シミュレーションを作ります。
       meta_title: プロジェクトパス | 子ども向けのScratchコーディング応用 | Raspberry Pi
-      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのScratch応用コーディング。これらの無料のコーディングリソースを使用して、アプリ、ゲーム、コンピューターアート、アニメーションを作成します。
+      meta_description: 子ども、ティーンエイジャー、若者向けのScratch応用コーディング。これらの無料のコーディングリソースを使用して、アプリ、ゲーム、コンピューターアート、アニメーションを作成します。
       header:
         - 
           title: "作るもの"
@@ -143,7 +143,7 @@ ja:
           content: |
             このパスに必要なもの
 
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Piコンピューター
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
             - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
             - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
@@ -316,7 +316,7 @@ ja:
           content: |
             このパスの最初のプロジェクトを開始する前に、大きなサイズのダウンロードとインストールが必要です。
 
-            - お使いのオペレーティングシステム向けのUnity HubとUnityエディターをインストールする必要があります。これを行う方法については、[Unity ガイド](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}を参照してください。
+            - お使いのオペレーティングシステム向けのUnity HubとUnityエディターをインストールする必要があります。これを行う方法については、[Unityガイド](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}を参照してください。
             - コードエディターも必要です。推奨エディターは[Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}です。
             - 開始する前に、[Unityスターターパッケージ](https://rpf.io/p/en/explore-a-3d-world-go)もダウンロードする必要があります。
         - 
@@ -356,11 +356,11 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            このパスの最初のプロジェクトを開始する前に、大きなサイズのファイルのダウンロードとインストールが必要です。
+            このパスの最初のプロジェクトを開始する前に、大きなサイズのダウンロードとインストールが必要です。
 
-            - オペレーティング システムに Unity ハブ と Unity エディタ をインストールする必要があります。これを行う方法については、[Unity ガイド](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"} でご覧いただけます。
-            - コード エディターも必要です。推奨エディタは[Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}です。
-            - 開始する前に、[Unity スターター パッケージ](https://rpf.io/p/en/rainbow-run-go) もダウンロードしてください。
+            - お使いのオペレーティングシステム向けのUnity HubとUnityエディターをインストールする必要があります。これを行う方法については、[Unityガイド](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}を参照してください。
+            - コードエディターも必要です。推奨エディターは[Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}です。
+            - 開始する前に、[Unityスターターパッケージ](https://rpf.io/p/en/rainbow-run-go)もダウンロードする必要があります。
         - 
           title: "メンター情報"
           content: |
@@ -501,7 +501,7 @@ ja:
       title: ウェブ入門
       subtitle: HTML、CSS、アニメーション
       description: この初心者向けの、HTMLとCSSを使用したウェブ開発入門編では、画像、リスト、フォント、引用、リンク、アニメーションを使用してウェブページを組み立て、スタイルを設定する方法を学びます。
-      meta_title: プロジェクトパス | 子供向けのHTMLとCSS入門 | 子供向けのウェブ開発 | ウェブサイトを作る
+      meta_title: プロジェクトパス | 子ども向けのHTMLとCSS入門 | 子供向けのウェブ開発 | ウェブサイトを作る
       meta_description: 子供、ティーンエイジャー、若者向けの HTML の入門。これらの無料リソースを使用してインタラクティブな Web サイトを作成します。
       header:
         - 
@@ -537,10 +537,10 @@ ja:
       meta_title: Sense HATの紹介
       meta_description: Sense Hat、アストロパイ、ミッションゼロ
     experience-ai-challenge-music-quest:
-      title: "AIチャレンジを体験: 音楽クエスト"
+      title: "Experience AIチャレンジ: ミュージッククエスト"
       subtitle: "AI を使用してサウンドトラックをあなたの生活にストリーミング"
-      description: Experience AI Music Quest は、Scratch、子供向け機械学習、Spotify API を使用して独自の「AI DJ」を設計および作成する方法を学ぶ一連のセッションです。
-      meta_title: プロジェクトパス |Experience AI チャレンジ - Music Quest
+      description: Experience AIミュージッククエストは、Scratch、子ども向け機械学習、Spotify APIを使用して、独自の「AI DJ」を設計し作成する方法を学ぶ一連のセッションです。
+      meta_title: プロジェクトパス | Experience AIチャレンジ - ミュージッククエスト
       meta_description: 子供、ティーンエイジャー、若者向けの Scratch プログラミングと機械学習の入門。データを ML モデルに分類し、それを使用して好みの音楽を予測する方法を学びます。
       header:
         - 
@@ -555,29 +555,29 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            このパスには次のものが必要です。
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Pi コンピューター
-            - Scratch および Machine Learning 4 Kids をオンラインで使用するためのインターネットへの接続
-            - [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}のアカウント (手順については、以下のメンター ガイドをご覧ください。)
-            - ヘッドフォン (推奨) またはスピーカー
-            - [クリエイター ブループリント ドキュメント](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:ターゲット="_blank"}のコピー
+            このパスに必要なもの
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - ScratchとMachine Learning 4 Kidsをオンラインで使用するためのインターネットへの接続
+            - [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}のアカウント（以下のメンターガイドに説明があります）
+            - ヘッドフォン（推奨）またはスピーカー
+            - [クリエイターブループリントドキュメント](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}のコピー
         - 
           title: "メンター情報"
           content: |
-            ## Experience AI チャレンジ: Music Quest
+            ## Experience AIチャレンジ: ミュージッククエスト
 
-            このパスウェイは、若いクリエイターが Experience AI チャレンジの一環として機械学習と人工知能を使った創作に初めて挑戦するためのコンテンツを提供します。
+            このパスウェイは、若いクリエイターがExperience AIチャレンジの一環として機械学習と人工知能を使った創作に初めて挑戦するためのコンテンツを提供します。
 
-            Music Quest は完了までに約 5 時間のプロジェクト時間を要し、柔軟に実施できるように設計されています。個別のセッションまたは 1 日の「ハッカソン」として実行できます。このコンテンツは、ステージ間でプロジェクトの作業を継続する機会も提供します。
+            ミュージッククエストを完了するのには約5時間のプロジェクト時間がかかり、柔軟に実施できるように設計されています。個別のセッションまたは1日の「ハッカソン」として実行できます。コンテンツはステージ間でプロジェクト作業を継続する機会も提供します。
 
-            [クエストのメンター ガイド](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) には、必要なアカウントの作成方法、クエストの各段階のメモの実行方法、およびデバッグのヒントと、作成者が追加できる追加機能の提案が含まれています。
+            [クエストのメンターガイド](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC)には、必要なアカウントの作成方法、クエストの各ステージの実行方法、およびデバッグのヒントや作成者が追加できる追加機能の提案が含まれています。
 
-            また、クリエイターが完成したアプリを Experience AI Showcase に提出して、業界の専門家や研究者からなるパネルによって評価され、最終候補に挙げられるようにするための手順も含まれています。最終候補者リストに残った参加者は、Google Deepmind と協力した特別なショーケース イベントに招待されます。
+            また、クリエイターが完成したアプリをExperience AIショーケースに提出して、業界の専門家や研究者からなるパネルによって評価され、最終候補に挙げられるようにするための手順も含まれています。最終候補者リストに残った参加者は、Google Deepmindと協力して実施する特別なショーケースイベントに招待されます。
     prepare-to-run-a-code-club:
       title: "Code Clubを運営する準備をする"
       subtitle: "若者向けにCode Clubを運営するための最初のステップ。"
       description: このコースでは、Code Club を始めるための段階的なガイダンスを提供します。計画と設定の実践から始まり、最初のセッションの計画と実施までをガイドし、最後に学習者のモチベーションを高め、成果を祝う方法に関するアイデアとヒントで終わります。
-      meta_title: プロジェクト パス | Code Club を運営する準備をする
+      meta_title: プロジェクトパス | Code Clubを運営する準備
       meta_description: このコースでは、初期設定と計画から最初のセッションの実施、そして最後に学習者のモチベーションを高めて成果を祝うまで、Code Club の立ち上げについて説明します。
       header:
         - 
@@ -591,7 +591,7 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            このパスには次のものが必要です。
-            - デスクトップ コンピューター、ラップトップ、タブレット、モバイル デバイス、または Raspberry Pi コンピューター
-            - Scratch およびその他のアプリケーションをオンラインで使用するためのインターネットへの接続
+            このパスに必要なもの
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - Scratchと他のアプリケーションをオンラインで使用するためのインターネットへの接続
 
