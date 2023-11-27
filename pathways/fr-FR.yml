@@ -1,11 +1,11 @@
 fr:
   pathways:
     microbit-intro:
-      title: "Introduction to micro:bit"
-      subtitle: "sensors, buttons and lights!"
-      description: In this introduction to coding for the micro:bit, you will learn how to sense and respond to the world around you while looking after yourself.
-      meta_title: Project path | Intro to micro:bit coding for kids
-      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      title: "Introduction à micro:bit"
+      subtitle: "capteurs, boutons et lumières !"
+      description: Dans cette introduction au codage pour le micro:bit, tu apprendras à sentir et à répondre au monde qui t'entoure tout en s'occupant de toi.
+      meta_title: Parcours du projet | Introduction au codage micro:bit pour les enfants
+      meta_description: Introduction au codage micro:bit pour les enfants, les adolescents et les jeunes adultes. Apprends à faire des projets micro:bit pour t'aider à t'occuper de toi.
       header:
         - 
           title: "Que vais-je créer ?"
