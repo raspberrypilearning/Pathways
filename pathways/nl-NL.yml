@@ -341,15 +341,15 @@ nl:
     more-unity:
       title: "Meer Unity"
       subtitle: "Rigidbodies, natuurkunde en materialen"
-      description: In dit Meer Unity-pad gebruik je natuurkunde en materialen om interactieve 3D-puzzelwerelden te creëren met speciaal ontworpen knikkers.
+      description: In dit More Unity-pad gebruik je fysica en materialen om interactieve 3D-puzzelwerelden te creëren met speciaal ontworpen knikkers.
       meta_title: Projectpad | Unity-programmeren voor kinderen | Raspberry Pi
       meta_description: Unity-programmeren voor kinderen, tieners en jongvolwassenen. Leer hoe je 3D-werelden en games kunt maken met behulp van deze gratis bronnen.
       header:
         - 
           title: "Wat ga ik maken?"
           content: |
-            Maak knikkerbanen en probleemoplossende 3D-wereld-projecten.
-            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om unieke materialen te maken en realistische natuurkunde te gebruiken in je Unity-projecten
+            Maak knikkerbanen en probleemoplossende 3D-wereld projecten.
+            Aan het einde van dit pad heb je je nieuwe vaardigheden gebruikt om unieke materialen te maken en realistische fysica te gebruiken in je Unity-projecten
         - 
           title: "Wat moet ik weten?"
           content: |
@@ -380,7 +380,7 @@ nl:
             Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden gedeeld met onze Community Galleries.
             In onze gids kun je lezen hoe je [projecten deelt](https://projects.raspberrypi.org/nl-Nl/projects/unity-guide/5).
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Fysiek computergebruik met Scratch en de Raspberry Pi
+      title: Physical computing met Scratch en de Raspberry Pi
       description: Leer hoe je invoer- en uitvoerelektronica gebruikt met Scratch en je Raspberry Pi-computer.
       meta_title: Projectpad | Programmeren in Scratch voor kinderen | Raspberry Pi
       meta_description: Leer hoe je invoer- en uitvoerelektronica met Scratch op je Raspberry Pi computer kunt gebruiken. Gratis bronnen - programmeren in Scratch voor kinderen, tieners en jongvolwassenen.
