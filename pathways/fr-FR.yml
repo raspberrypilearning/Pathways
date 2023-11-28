@@ -22,8 +22,8 @@ fr:
             Ce parcours nécessite :
 
             - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile ou un ordinateur Raspberry Pi.
-            - Un accès à Internet pour utiliser MakeCode en ligne ou la possibilité de télécharger et d'installer MakeCode. Consulte notre [guide de démarrage de micro:bit](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} pour plus de détails
-             – Facultativement, un [ Compte MakeCode](https://makecode.microbit.org/){:target="_blank"} et un micro:bit physique.
+            - Un accès à Internet pour utiliser MakeCode en ligne ou la possibilité de télécharger et d'installer MakeCode. Consulte notre [guide de démarrage de micro:bit](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} pour plus d'informations
+             – Optionnellement, un [compte MakeCode](https://makecode.microbit.org/){:target="_blank"} et un micro:bit physique.
         - 
           title: "Informations pour le mentor"
           content: |
@@ -61,8 +61,8 @@ fr:
           content: |
             Ce parcours nécessite :
 
-            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile, ou un ordinateur Raspberry Pi
-            - Accès à Internet pour utiliser Scratch en ligne ou la possibilité de télécharger et installer Scratch. Consulte notre [guide d'installation Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/1){:target="_blank"} pour plus d'informations.
+            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile ou un ordinateur Raspberry Pi
+            - Un accès à Internet pour utiliser Scratch en ligne ou la possibilité de télécharger et d'installer Scratch. Consulte notre [guide d'installation Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/1){:target="_blank"} pour plus d'informations.
             - Optionnellement, un [compte Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/2){:target="_blank"}
         - 
           title: "Informations pour le mentor"
@@ -79,7 +79,7 @@ fr:
 
             ##Inspirer la communauté
             Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Les projets seront partagés anonymement dans nos galeries communautaires.
-            Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide
+            Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide.
     more-scratch:
       title: "Plus de Scratch"
       subtitle: "diffusion, décisions et variables"
@@ -102,8 +102,8 @@ fr:
           content: |
             Ce parcours nécessite :
 
-            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile, ou un ordinateur Raspberry Pi
-            - Accès à Internet pour utiliser Scratch en ligne ou la possibilité de télécharger et installer Scratch. Consulte notre [guide d'installation Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/1){:target="_blank"} pour plus d'informations.
+            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile ou un ordinateur Raspberry Pi
+            - Un accès à Internet pour utiliser Scratch en ligne ou la possibilité de télécharger et d'installer Scratch. Consulte notre [guide d'installation Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/1){:target="_blank"} pour plus d'informations.
             - Optionnellement, un [compte Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/2){:target="_blank"}
         - 
           title: "Informations pour le mentor"
@@ -120,7 +120,7 @@ fr:
 
             ##Inspirer la communauté
             Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Les projets seront partagés anonymement dans nos galeries communautaires.
-            Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide
+            Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide.
     further-scratch:
       title: "Encore plus loin avec Scratch"
       subtitle: "clones, mes blocs et logique booléenne"
@@ -143,8 +143,8 @@ fr:
           content: |
             Ce parcours nécessite :
 
-            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile, ou un ordinateur Raspberry Pi
-            - Accès à Internet pour utiliser Scratch en ligne ou la possibilité de télécharger et installer Scratch. Consulte notre [guide d'installation Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/1){:target="_blank"} pour plus d'informations.
+            - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile ou un ordinateur Raspberry Pi
+            - Un accès à Internet pour utiliser Scratch en ligne ou la possibilité de télécharger et d'installer Scratch. Consulte notre [guide d'installation Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/1){:target="_blank"} pour plus d'informations.
             - Optionnellement, un [compte Scratch](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/2){:target="_blank"}
         - 
           title: "Informations pour le mentor"
@@ -161,7 +161,7 @@ fr:
 
             ##Inspirer la communauté
             Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Les projets seront partagés anonymement dans nos galeries communautaires.
-            Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide
+            Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide.
     scratch-module-1:
       title: "Scratch : Module 1"
       description: Apprends à programmer tes propres histoires, jeux et animations interactives.
@@ -265,7 +265,7 @@ fr:
           title: "Que vais-je créer ?"
           content: |
             Visualise les données en créant des graphiques interactifs, un simulateur et des œuvres d'art.
-            À la fin de ce parcours, tu auras créé une visualisation de données unique sur un sujet de ton choix
+            À la fin de ce parcours, tu auras créé une visualisation de données unique sur un sujet de ton choix.
         - 
           title: "Que dois-je savoir ?"
           content: |
@@ -299,7 +299,7 @@ fr:
       description: Python est un langage de programmation textuel à usage général largement utilisé.
     unity-intro:
       title: "Introduction à Unity"
-      subtitle: "Objets 3D, contrôleurs de personnages, collisions, texte et boutons"
+      subtitle: "Objets 3D, character controllers, colliders, texte et boutons"
       description: Dans cette introduction à Unity, tu apprendras à créer des mondes et des jeux en 3D avec des collectibles, des timers et des personnages non-joueurs.
       meta_title: Parcours du projet | Codage Unity pour les enfants | Raspberry Pi
       meta_description: Introduction au codage Unity pour les enfants, les adolescents et les jeunes adultes. Apprends à créer des mondes et des jeux en 3D à l'aide de ces ressources gratuites.
@@ -340,7 +340,7 @@ fr:
             Tu peux trouver comment [partager des projets](https://projects.raspberrypi.org/fr-Fr/projects/getting-started-scratch/19){:target="_blank"} dans notre guide.
     more-unity:
       title: "Plus d'Unity"
-      subtitle: "Corps rigides, physique et matériaux"
+      subtitle: "Rigidbodies, physique et matériaux"
       description: Dans ce parcours Plus d'Unity, tu utiliseras la physique et les matériaux pour créer des mondes interactifs en 3D avec des billes personnalisées.
       meta_title: Parcours du projet | Codage Unity pour les enfants | Raspberry Pi
       meta_description: Codage Unity pour les enfants, les adolescents et les jeunes adultes. Apprends à créer des mondes et des jeux en 3D à l'aide de ces ressources gratuites.
@@ -349,7 +349,7 @@ fr:
           title: "Que vais-je créer ?"
           content: |
             Fais des courses de billes et résous des problèmes dans le cadre de projets en 3D.
-            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer des matériaux uniques et utiliser une physique réaliste dans tes projets Unity
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer des matériaux uniques et utiliser une physique réaliste dans tes projets Unity.
         - 
           title: "Que dois-je savoir ?"
           content: |
@@ -419,13 +419,13 @@ fr:
       subtitle: "LED, buzzers, interrupteurs et cadrans"
       description: Dans cette introduction à la création numérique avec Raspberry Pi Pico pour les débutants, tu apprendras à connecter et à contrôler les LED, les boutons, les interrupteurs, les buzzers et les potentiomètres (cadrans).
       meta_title: Parcours du projet | Introduction au Raspberry Pi Pico
-      meta_description: Dans cette introduction à la création numérique avec le Raspberry Pi Pico pour les débutants, tu apprendras comment se connecter et contrôler les LED, les boutons, les commutateurs, les buzzers, etc.
+      meta_description: Dans cette introduction à la création numérique avec le Raspberry Pi Pico pour les débutants, tu apprendras comment connecter et contrôler des LED, des boutons, des commutateurs, des buzzers, etc.
       header:
         - 
           title: "Que vais-je créer ?"
           content: |
             Programme et crée des appareils interactifs avec de la lumière et du son.
-            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer un gadget sensoriel unique avec lequel les gens voudront continuer à interagir
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer un gadget sensoriel unique avec lequel les gens voudront continuer à interagir.
         - 
           title: "Que dois-je savoir ?"
           content: |
@@ -437,7 +437,7 @@ fr:
             ## Matériel
             Tu peux acheter tout le matériel nécessaire pour ce parcours sur :
             - [boutique en ligne Pimoroni](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target ="_blank"} (comprend un Raspberry Pi Pico)
-            - [Boutique en ligne Kitronik](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target= "_blank"} (exclut un Raspberry Pi Pico)
+            - [boutique en ligne Kitronik](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target= "_blank"} (exclut un Raspberry Pi Pico)
 
             ## Logiciel
             - Thonny
@@ -552,7 +552,7 @@ fr:
           title: "Que vais-je créer ?"
           content: |
             Réalise des projets Scratch interactifs et crée et entraîne un modèle de Machine Learning.
-            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer une application capable de créer des listes de lecture de musique en fonction de tes préférences.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer une application capable de créer des playlists de musique en fonction de tes préférences.
         - 
           title: "Que dois-je savoir ?"
           content: |
@@ -592,7 +592,7 @@ fr:
         - 
           title: "Que dois-je savoir ?"
           content: |
-            Ce cours vous sera utile si vous souhaitez devenir bénévole dans un club de votre communauté, aider les jeunes à apprendre à coder, ou vous êtes un enseignant qui veut mettre en place un club de codage extracurriculaire pour les élèves de votre école.
+            Ce cours vous sera utile si vous souhaitez devenir bénévole dans un club de votre communauté, aider les jeunes à apprendre à coder, ou vous êtes un enseignant qui veut mettre en place un club de codage extrascolaire pour les élèves de votre école.
         - 
           title: "De quoi ai-je besoin ?"
           content: |
