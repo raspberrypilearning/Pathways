@@ -429,7 +429,7 @@ nl:
           title: "Wat moet ik weten?"
           content: |
             - Basisvaardigheden op het gebied van typen en computernavigatie
-            - Dit pad is voor beginners op het gebied van fysiek computergebruik
+            - Dit pad is voor beginners op het gebied van physical computing
         - 
           title: "Wat heb ik nodig?"
           content: |
@@ -469,7 +469,7 @@ nl:
       description: Sonic Pi is een nieuw soort muziekinstrument, ontworpen om geluiden met behulp van code te maken.
     microbit:
       title: "BBC micro:bit"
-      description: "De BBC micro:bit is een zakformaat, programmeerbare computer waarmee je jouw creativiteit kunt vergroten."
+      description: "De BBC micro:bit is een programmeerbare computer in zakformaat waarmee je jouw creativiteit kunt vergroten."
     look-after-yourself:
       title: Zorg voor jezelf
       description: Leer voor jezelf te zorgen, leer hoe je Scratch kunt gebruiken en werk eraan om een onafhankelijke programmeur te worden.
@@ -542,10 +542,10 @@ nl:
       meta_description: Sense HAT, Astro Pi, Mission Zero
     experience-ai-challenge-music-quest:
       title: "Ervaar AI-uitdaging: Muziekontdekkingstocht"
-      subtitle: "Stream de soundtrack van je leven met AI"
+      subtitle: "Stream de soundtrack naar je leven met AI"
       description: De Ervaar AI-muziekontdekkingstocht is een reeks sessies waarin je leert hoe je je eigen 'AI DJ' ontwerpt en maakt met behulp van Scratch, Machine Learning for Kids en de Spotify API.
       meta_title: Projectpad | Ervaar AI-uitdaging - Muziekontdekkingstocht
-      meta_description: Inleiding tot Scratch-programmeren en Machine Learning voor kinderen, tieners en jongvolwassenen. Leer hoe je gegevens kunt indelen in een ML-model en dit kunt gebruiken om muziek te voorspellen die je leuk zal vinden.
+      meta_description: Inleiding tot Scratch-programmeren en Machine Learning voor kinderen, tieners en jongvolwassenen. Leer hoe je gegevens kunt indelen in een ML-model en dit kunt gebruiken om te voorspellen welke muziek je leuk zult vinden.
       header:
         - 
           title: "Wat ga ik maken?"
@@ -585,7 +585,7 @@ nl:
       meta_description: In deze cursus zullen we je begeleiden bij het starten van je Code Club, van de eerste opzet en planning, om je eerste sessie uit te voeren en tot slot om de prestaties van je leerlingen te motiveren en te vieren.
       header:
         - 
-          title: "Wat zal ik leren?"
+          title: "Wat ga ik leren?"
           content: |
             In deze cursus zullen we je begeleiden bij het starten van je Code Club, van de eerste opzet en planning, om je eerste sessie uit te voeren en tot slot om de prestaties van je leerlingen te motiveren en te vieren.
         - 
