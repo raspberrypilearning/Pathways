@@ -1,48 +1,48 @@
 el:
   pathways:
     microbit-intro:
-      title: "Introduction to micro:bit"
-      subtitle: "sensors, buttons and lights!"
-      description: In this introduction to coding for the micro:bit, you will learn how to sense and respond to the world around you while looking after yourself.
-      meta_title: Project path | Intro to micro:bit coding for kids
-      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      title: "Εισαγωγή στο micro:bit"
+      subtitle: "αισθητήρες, κουμπιά και φώτα!"
+      description: Σε αυτήν την εισαγωγή στον προγραμματισμό για το micro:bit, θα μάθετε πώς να αισθάνεστε και να ανταποκρίνεστε στον κόσμο γύρω σας ενώ φροντίζετε τον εαυτό σας.
+      meta_title: Διαδρομή έργων | Εισαγωγή στον προγραμματισμό με micro:bit για παιδιά
+      meta_description: Εισαγωγή στον προγραμματισμό micro:bit για παιδιά, εφήβους και νέους ενήλικες. Μάθε πώς να κάνεις έργα micro:bit για να σε βοηθήσουν να φροντίσεις τον εαυτό σου.
       header:
         - 
           title: "Τι θα δημιουργήσω;"
           content: |
-            Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
-            By the end of this path you will have used your new skills to create a party game to play and share with your friends.
+            Δημιούργησε διαδραστικά έργα χρησιμοποιώντας τους αισθητήρες, τα κουμπιά και τα φώτα που εμφανίζονται στο micro:bit.
+            Στο τέλος αυτής της διαδρομής θα έχεις χρησιμοποιήσει τις νέες σου δεξιότητες για να δημιουργήσεις ένα παιχνίδι πάρτι για να παίξεις και να το μοιραστείς με τους φίλους σου.
         - 
           title: "Τι πρέπει να ξέρω;"
           content: |
-            This path is ideal for beginners to micro:bit.
+            Αυτή η διαδρομή είναι ιδανική για αρχάριους στο micro:bit.
         - 
           title: "Τι χρειάζομαι;"
           content: |
-            This path requires:
+            Αυτή η διαδρομή απαιτεί:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
-            - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
+            - Επιτραπέζιο υπολογιστή, φορητό υπολογιστή, tablet, κινητό ή υπολογιστή Raspberry Pi
+            - Πρόσβαση στο Διαδίκτυο για χρήση του MakeCode στο διαδίκτυο ή τη δυνατότητα λήψης και εγκατάστασης του MakeCode. Δες στον [οδηγό έναρξης micro:bit](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} για περισσότερες λεπτομέρειες
+            - Προαιρετικά, ένα [Λογαριασμό MakeCode](https://makecode.microbit.org/){:target="_blank"} και ένα φυσικό micro:bit.
         - 
           title: "Πληροφορίες για τον μέντορα"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Δημιούργησε!
+            Αυτή η διαδρομή ακολουθεί το [321…Δημιούργησε!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - **3 Εξερεύνησε** έργα: Εισάγει τους δημιουργούς σε ένα σύνολο δεξιοτήτων και και να τους προσφέρει οδηγίες βήμα προς βήμα για να τους βοηθήσει να αναπτύξουν αυτοπεποίθηση από την αρχή.
+            - **2 Σχεδίασε** έργα: Επιτρέπει στους δημιουργούς να εξασκήσουν τις δεξιότητες που έμαθαν στα προηγούμενα έργα του Εξερεύνησε και να εκφραστούν δημιουργικά ενώ αναπτύσσουν την ανεξαρτησία τους.
+            - **1 Επινόησε** έργο: Ενθαρύνει τους δημιουργούς να χρησιμοποιήσουν τις δεξιότητές τους για να ανταποκριθούν σε ένα θέμα έργου για ένα συγκεκριμένο κοινό.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Γρήγορο κουίζ
+            Κάθε έργο περιέχει ένα γρήγορο κουίζ με τρεις ερωτήσεις πολλαπλής επιλογής. Οι δημιουργοί καθοδηγούνται στη σωστή απάντηση μέσω χρήσιμης ανατροφοδότησης και επιβραβεύονται με ένα ψηφιακό σήμα για το έργο.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} in our guide.
+            ##Εμπνέοντας την κοινότητα
+            Οι δημιουργοί ενθαρρύνονται να εμπνεύσουν άλλους στην κοινότητα του Ιδρύματος Raspberry Pi με το να μοιράζονται τα έργα τους μαζί μας μέσω της [φόρμας υποβολής έργου](https://form.raspberrypi.org/f/community-project-submissions). Τα έργα θα κοινοποιούνται ανώνυμα στις συλλογές της Κοινότητας μας.
+            Μπορείτε να μάθετε πώς να [μοιραστείτε έργα](https://projects.raspberrypi.org/en/projects/unity-guide/5) στον οδηγό μας.
     scratch-intro:
       title: "Εισαγωγή στη Scratch: αντικείμενα, scripts και βρόχοι"
-      subtitle: "sprites, scripts, and loops"
+      subtitle: "αντικείμενα, σενάρια και βρόχοι"
       description: Σε αυτή την εισαγωγή στον προγραμματισμό με Scratch για αρχάριους, θα μάθεις πώς να προσθέτεις κώδικα, ενδυμασίες και ήχους σε αντικείμενα για να φτιάξεις κινούμενα σχέδια, ένα παιχνίδι, μία εφαρμογή και ένα βιβλίο.
       meta_title: Διαδρομή έργων | Εισαγωγή στον προγραμματισμό με Scratch για παιδιά
       meta_description: Εισαγωγή στον προγραμματισμό με Scratch για παιδιά, εφήβους και νέους ενήλικες. Μάθε πώς να δημιουργείς κινούμενα σχέδια, ένα παιχνίδι, μια εφαρμογή και ένα βιβλίο.
@@ -50,39 +50,39 @@ el:
         - 
           title: "Τι θα δημιουργήσω;"
           content: |
-            Make interactive projects, animations and create a multiple level game.
-            By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
+            Δημιούργησε διαδραστικά έργα, κινούμενα σχέδια και ένα παιχνίδι πολλαπλών επιπέδων.
+            Στο τέλος αυτής της διαδρομής θα έχεις χρησιμοποιήσει τις νέες σου δεξιότητες για να γίνεις συγγραφέας ενός ψηφιακού βιβλίου με πολλές σελίδες.
         - 
           title: "Τι πρέπει να ξέρω;"
           content: |
-            This path is ideal for beginners to Scratch.
+            Αυτή η διαδρομή είναι ιδανική για αρχάριους στο Scratch.
         - 
           title: "Τι χρειάζομαι;"
           content: |
-            This path requires:
+            Αυτή η διαδρομή απαιτεί:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - Επιτραπέζιο υπολογιστή, φορητό υπολογιστή, tablet, κινητό ή υπολογιστή Raspberry Pi
+            - Πρόσβαση στο Διαδίκτυο για χρήση του Scratch στο διαδίκτυο ή τη δυνατότητα λήψης και εγκατάστασης του Scratch. Δες στον [οδηγό ρύθμισης Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} για περισσότερες λεπτομέρειες.
+            - Προαιρετικά, ένα [λογαριασμός Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
           title: "Πληροφορίες για τον μέντορα"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Δημιούργησε!
+            Αυτή η διαδρομή ακολουθεί το [321…Δημιούργησε!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - **3 Εξερεύνησε** έργα: Εισάγει τους δημιουργούς σε ένα σύνολο δεξιοτήτων και και να τους προσφέρει οδηγίες βήμα προς βήμα για να τους βοηθήσει να αναπτύξουν αυτοπεποίθηση από την αρχή.
+            - **2 Σχεδίασε** έργα: Επιτρέπει στους δημιουργούς να εξασκήσουν τις δεξιότητες που έμαθαν στα προηγούμενα έργα του Εξερεύνησε και να εκφραστούν δημιουργικά ενώ αναπτύσσουν την ανεξαρτησία τους.
+            - **1 Επινόησε** έργο: Ενθαρύνει τους δημιουργούς να χρησιμοποιήσουν τις δεξιότητές τους για να ανταποκριθούν σε ένα θέμα έργου για ένα συγκεκριμένο κοινό.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Γρήγορο κουίζ
+            Κάθε έργο περιέχει ένα γρήγορο κουίζ με τρεις ερωτήσεις πολλαπλής επιλογής. Οι δημιουργοί καθοδηγούνται στη σωστή απάντηση μέσω χρήσιμης ανατροφοδότησης και επιβραβεύονται με ένα ψηφιακό σήμα για το έργο.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+            ##Εμπνέοντας την κοινότητα
+            Οι δημιουργοί ενθαρρύνονται να εμπνεύσουν άλλους στην κοινότητα του Ιδρύματος Raspberry Pi με το να μοιράζονται τα έργα τους μαζί μας μέσω της [φόρμας υποβολής έργου](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Τα έργα θα κοινοποιούνται ανώνυμα στις συλλογές της Κοινότητας μας.
+            Μπορείτε να μάθετε πώς να [μοιραστείτε έργα](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} στον οδηγό μας
     more-scratch:
       title: "Περισσότερη Scratch: μετάδοση μηνυμάτων, αποφάσεις και μεταβλητές"
-      subtitle: "broadcast, decisions and variables"
+      subtitle: "μετάδοση, αποφάσεις και μεταβλητές"
       description: Η ενότητα "Περισσότερη Scratch" προχωράει πέρα από τα βασικά που έμαθες στην Εισαγωγή στο Scratch. Θα δημιουργήσεις εφαρμογές, παιχνίδια και προσομοιώσεις χρησιμοποιώντας μετάδοση μηνυμάτων, αποφάσεις εάν..τότε και εάν..τότε..αλλιώς και μεταβλητές.
       meta_title: Διαδρομή έργων - Περισσότερη Scratch για παιδιά - Raspberry Pi
       meta_description: Περισσότερη Scratch για παιδιά, εφήβους και νέους ενήλικες. Προχώρησε πέρα από τα βασικά για να προγραμματίσεις εφαρμογές, παιχνίδια και κινούμενα σχέδια χρησιμοποιώντας μεταδόσεις μηνυμάτων, με τα παρακάτω δωρεάν έργα.
