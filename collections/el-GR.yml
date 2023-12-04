@@ -34,6 +34,6 @@ el:
     microbit:
       title: "micro:bit"
       description: "Δημιούργησε ελκυστικά έργα physical computing με το micro:bit του BBC."
-      meta_description: "microbit, παιδί, παιδιά, προγραμματισμός, παιχνίδια, κινούμενα σχέδια"
+      meta_description: "microbit, παιδί, παιδιά, κώδικας, προγραμματισμός, παιχνίδια, κινούμενα σχέδια"
       additional_paths_title: ""
       additional_paths_description: ""
