@@ -3,32 +3,32 @@ el:
   collections:
     scratch:
       title: "Scratch"
-      description: "Ξεκίνησε την περιπέτειά σου στην ψηφιακή δημιουργία, μαθαίνοντας να προγραμματίζεις κινούμενα σχέδια, ιστορίες και παιχνίδια στο Scratch."
-      meta_description: "scratch, παιδί, παιδιά, προγραμματισμός, παιχνίδια, κινούμενα σχέδια"
+      description: "Ξεκίνησε την περιπέτειά σου στην ψηφιακή δημιουργία, μαθαίνοντας να προγραμματίζεις κινούμενα σχέδια, ιστορίες και παιχνίδια στη Scratch."
+      meta_description: "scratch, παιδιά, παιδί, κώδικας, προγραμματισμός, παιχνίδια, κινούμενα σχέδια"
       additional_paths_title: "Πρόσθετες διαδρομές Scratch"
       additional_paths_description: "Πρόσθετες διαδρομές Scratch που θα σε βοηθήσουν να συνεχίσεις το ταξίδι του προγραμματισμού."
     python:
       title: "Python"
       description: "Μάθε για την Python, μια από τις πιο δημοφιλείς γλώσσες προγραμματισμού στον κόσμο για τη δημιουργία ψηφιακής τέχνης, διαδραστικών χαρτών και μοντέλων."
-      meta_description: "python, παιδί, παιδιά, προγραμματισμός, παιχνίδια, κινούμενα σχέδια"
+      meta_description: "python, παιδιά, παιδί, κώδικας, προγραμματισμός, παιχνίδια, κινούμενα σχέδια"
       additional_paths_title: "Πρόσθετες διαδρομές Python"
       additional_paths_description: "Πρόσθετες διαδρομές Python που θα σε βοηθήσουν να συνεχίσεις το ταξίδι του προγραμματισμού."
     html_and_css:
       title: "Σχεδιασμός ιστοσελίδων"
       description: "Δημιούργησε ιστοσελίδες και εφαρμογές μαθαίνοντας HTML, CSS και JavaScript και μοιράσου τις με τους φίλους σου."
-      meta_description: "web, html, css, javascript, websites, παιδί, παιδιά, προγραμματισμός"
+      meta_description: "web, html, css, javascript, websites, παιδί, παιδιά, κώδικας, προγραμματισμός"
       additional_paths_title: "Πρόσθετες διαδρομές σχεδιασμού ιστοσελίδων"
       additional_paths_description: "Πρόσθετες διαδρομές σχεδιασμού ιστοσελίδων που θα σε βοηθήσουν να συνεχίσεις το ταξίδι του προγραμματισμού."
     physical_computing:
       title: "Physical computing"
       description: "Έλεγξε και αλληλεπίδρασε με τον πραγματικό κόσμο συνδυάζοντας τον κώδικα με τα ηλεκτρονικά."
-      meta_description: "physical computing, ηλεκτρονικά, iot, internet of things, παιδί, παιδιά, προγραμματισμός"
+      meta_description: "physical computing, ηλεκτρονικά, iot, internet of things, παιδιά, παιδί, κώδικας, προγραμματισμός"
       additional_paths_title: "Πρόσθετες Διαδρομές Physical Computing"
       additional_paths_description: "Πρόσθετες διαδρομές Physical computing που θα σε βοηθήσουν να συνεχίσεις το ταξίδι του προγραμματισμού."
     unity:
       title: "Unity"
       description: "Δημιούργησε και εξερεύνησε τρισδιάστατους κόσμους με τη δύναμη του Unity."
-      meta_description: "unity, 3D, παιχνίδια, κινούμενα σχέδια, προσομοιώσεις, παιδί, παιδιά, προγραμματισμός"
+      meta_description: "unity, 3D, παιχνίδια, κινούμενα σχέδια, προσομοιώσεις, παιδιά, παιδί, κώδικας, προγραμματισμός"
       additional_paths_title: ""
       additional_paths_description: ""
     microbit:
