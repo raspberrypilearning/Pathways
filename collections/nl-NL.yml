@@ -1,0 +1,39 @@
+---
+nl:
+  collections:
+    scratch:
+      title: "Scratch"
+      description: "Begin je avontuur in digitaal maken door animaties, verhalen en games te leren programmeren in Scratch."
+      meta_description: "scratch, kinderen, kind, codering, programmeren, games, animaties"
+      additional_paths_title: "Extra Scratch-paden"
+      additional_paths_description: "Extra Scratch-paden om je te helpen met je programmeer avontuur."
+    python:
+      title: "Python"
+      description: "Leer over Python, een van 's werelds populairste programmeertalen om digitale kunst, interactieve kaarten en modellen te maken."
+      meta_description: "python, kinderen, kind, codering, programmeren, games, animaties"
+      additional_paths_title: "Extra Python paden"
+      additional_paths_description: "Extra Python paden om je te helpen met je programmeer avontuur."
+    html_and_css:
+      title: "Webontwerp"
+      description: "Bouw websites en apps door HTML, CSS en JavaScript te leren en deel ze met je vrienden."
+      meta_description: "web, html, css, javascript, websites, kind, kinderen, coderen, programmeren"
+      additional_paths_title: "Extra webontwerppaden"
+      additional_paths_description: "Extra webontwerp paden om je te helpen met je programmeer avontuur."
+    physical_computing:
+      title: "Physical computing"
+      description: "Beheers en communiceer met de echte wereld door code te combineren met elektronica."
+      meta_description: "fysiek computergebruik, elektronica, iot, internet der dingen, kinderen, kind, codering, programmeren"
+      additional_paths_title: "Extra physical computing-paden"
+      additional_paths_description: "Extra physical computing-paden om je te helpen met je programmeer avontuur."
+    unity:
+      title: "Unity"
+      description: "Creëer en verken 3D-werelden met de kracht van Unity."
+      meta_description: "unity, 3D, games, animaties, simulaties, kinderen, codering, programmeren"
+      additional_paths_title: ""
+      additional_paths_description: ""
+    microbit:
+      title: "micro:bit"
+      description: "Creëer boeiende physical computing-projecten met de BBC micro:bit."
+      meta_description: "microbit, kind, kinderen, codering, programmeren, games, animaties"
+      additional_paths_title: ""
+      additional_paths_description: ""

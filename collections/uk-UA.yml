@@ -1,0 +1,39 @@
+---
+uk:
+  collections:
+    scratch:
+      title: "Скретч"
+      description: "Почни створювати цифрові проєкти і навчися програмувати анімації, історії та ігри в Скретчі."
+      meta_description: "scratch, скретч, діти, дитина, кодування, програмування, ігри, анімація"
+      additional_paths_title: "Додаткові напрями Скретчу"
+      additional_paths_description: "Додаткові напрями Скретчу, які допоможуть тобі на шляху до програмування."
+    python:
+      title: "Python"
+      description: "Дізнайся про Python — одну з найпопулярніших мов програмування у світі — і створюй цифрові зображення, інтерактивні мапи й моделі."
+      meta_description: "python, діти, дитина, кодування, програмування, ігри, анімація"
+      additional_paths_title: "Додаткові напрями Python"
+      additional_paths_description: "Додаткові напрями Python, які допоможуть тобі на шляху до програмування."
+    html_and_css:
+      title: "Вебдизайн"
+      description: "Створюй вебсайти й застосунки, вивчаючи HTML, CSS і JavaScript, і ділися ними з друзями."
+      meta_description: "web, веб, html, css, javascript, вебсайти, дитина, діти, кодування, програмування"
+      additional_paths_title: "Додаткові напрями вебдизайну"
+      additional_paths_description: "Додаткові напрями вебдизайну, які допоможуть тобі на шляху до програмування."
+    physical_computing:
+      title: "Програмування пристроїв"
+      description: "Керуй і взаємодій з навколишнім світом, поєднуючи кодування з електронікою."
+      meta_description: "програмування пристроїв, електроніка, iot, інтернет речей, діти, дитина, кодування, програмування"
+      additional_paths_title: "Додаткові напрями програмування пристроїв"
+      additional_paths_description: "Додаткові напрями програмування пристроїв, які допоможуть тобі на шляху до програмування."
+    unity:
+      title: "Unity"
+      description: "Створюй і досліджуй тривимірні світи за допомогою Unity."
+      meta_description: "unity, юніті, 3D, ігри, анімація, симулятори, діти, дитина, кодування, програмування"
+      additional_paths_title: ""
+      additional_paths_description: ""
+    microbit:
+      title: "micro:bit"
+      description: "Створюй цікаві проєкти, програмуючи BBC micro:bit."
+      meta_description: "microbit, мікробіт, дитина, діти, кодування, програмування, ігри, анімація"
+      additional_paths_title: ""
+      additional_paths_description: ""

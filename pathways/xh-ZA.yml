@@ -1,4 +1,4 @@
-ar:
+xh:
   pathways:
     microbit-intro:
       title: "Introduction to micro:bit"
@@ -461,7 +461,7 @@ ar:
       title: Raspberry Pi
       description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
     sense-hat:
-      title: Sense HAT
+      title: Umnqwazi woluvo
       description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
     sonic-pi:
       title: Sonic Pi

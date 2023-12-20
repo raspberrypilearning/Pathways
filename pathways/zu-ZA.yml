@@ -1,4 +1,5 @@
-ar:
+---
+zu:
   pathways:
     microbit-intro:
       title: "Introduction to micro:bit"
@@ -200,8 +201,9 @@ ar:
         - 
           title: "What do I need?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
           title: "Mentor information"
           content: |
@@ -237,8 +239,9 @@ ar:
         - 
           title: "What do I need?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
           title: "Mentor information"
           content: |
@@ -274,8 +277,9 @@ ar:
         - 
           title: "What do I need?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
           title: "Mentor information"
           content: |
@@ -519,8 +523,9 @@ ar:
         - 
           title: "What do I need?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - A computer or mobile device capable of running the online coding platform [Trinket](https://trinket.io){:target="_blank"}.
+            - Optionally, a Trinket account to save projects.
+            Full details about Trinket can be found in the [Trinket FAQ](https://trinket.io/faq){:target="_blank"} section of their website
         - 
           title: "Mentor information"
           content: |

@@ -1,0 +1,39 @@
+---
+ja:
+  collections:
+    scratch:
+      title: "Scratch"
+      description: "Scratchでアニメーション、ストーリー、ゲームのコードの書き方を学んで、デジタル制作の冒険を始めましょう。"
+      meta_description: "scratch、ちびっこ、子ども、子どもたち、コーディング、プログラミング、ゲーム、アニメーション"
+      additional_paths_title: "追加のScratchパス"
+      additional_paths_description: "コーディングの旅を続けるのに役立つ追加のScratchパス。"
+    python:
+      title: "Python"
+      description: "世界で最も人気のあるプログラミング言語の1つであるPythonについて学び、デジタルアート、インタラクティブマップ、モデルを作成しましょう。"
+      meta_description: "python、ちびっこ、子ども、子どもたち、コーディング、プログラミング、ゲーム、アニメーション"
+      additional_paths_title: "追加のPythonパス"
+      additional_paths_description: "コーディングの旅を続けるのに役立つ追加のPythonパス。"
+    html_and_css:
+      title: "ウェブデザイン"
+      description: "HTML、CSS、JavaScriptを学んでウェブサイトやアプリを構築し、友達と共有しましょう。"
+      meta_description: "web、html、css、javascript、ウェブサイト、子ども、子どもたち、コーディング、プログラミング"
+      additional_paths_title: "追加のウェブデザインパス"
+      additional_paths_description: "コーディングの旅を続けるのに役立つ追加のウェブデザインパス。"
+    physical_computing:
+      title: "フィジカルコンピューティング"
+      description: "コードとエレクトロニクスを組み合わせて、現実世界をコントロールし対話しよう。"
+      meta_description: "フィジカルコンピューティング、エレクトロニクス、iot、モノのインターネット、ちびっこ、子ども、子どもたち、コーディング、プログラミング"
+      additional_paths_title: "追加のフィジカルコンピューティングパス"
+      additional_paths_description: "コーディングの旅を続けるのに役立つ追加のフィジカルコンピューティングパス。"
+    unity:
+      title: "Unity"
+      description: "Unityのパワーを使って3D世界を作成し探索しましょう。"
+      meta_description: "unity、3D、ゲーム、アニメーション、シミュレーション、ちびっこ、子ども、コーディング、プログラミング"
+      additional_paths_title: ""
+      additional_paths_description: ""
+    microbit:
+      title: "micro:bit"
+      description: "BBC micro:bitを使って魅力的なフィジカルコンピューティングプロジェクトを作成しましょう。"
+      meta_description: "microbit、子ども、子どもたち、コーディング、プログラミング、ゲーム、アニメーション"
+      additional_paths_title: ""
+      additional_paths_description: ""

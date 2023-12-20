@@ -1,0 +1,39 @@
+---
+fr:
+  collections:
+    scratch:
+      title: "Scratch"
+      description: "Commence ton aventure dans la création numérique en apprenant à coder des animations, des histoires et des jeux dans Scratch."
+      meta_description: "scratch, enfants, jeune, jeunes, codage, programmation, jeux, animations"
+      additional_paths_title: "Parcours Scratch supplémentaires"
+      additional_paths_description: "Des parcours Scratch supplémentaires pour t'aider à continuer ton parcours de codage."
+    python:
+      title: "Python"
+      description: "Découvre Python, l'un des langages de programmation les plus populaires au monde pour créer de l'art numérique, des cartes interactives et des modèles."
+      meta_description: "python, enfants, jeune, jeunes, codage, programmation, jeux, animations"
+      additional_paths_title: "Parcours Python supplémentaires"
+      additional_paths_description: "Des parcours Python supplémentaires pour t'aider à poursuivre ton parcours de codage."
+    html_and_css:
+      title: "Conception de sites internet"
+      description: "Crée des sites web et des applications en apprenant HTML, CSS et JavaScript, et partage-les avec tes amis."
+      meta_description: "web, html, css, javascript, sites web, jeune, jeunes, codage, programmation"
+      additional_paths_title: "Parcours de conception de sites web supplémentaires"
+      additional_paths_description: "Des parcours de conception de sites web supplémentaires pour t'aider à poursuivre ton parcours de codage."
+    physical_computing:
+      title: "Informatique physique"
+      description: "Contrôle et interagis avec le monde réel en combinant le code avec l'électronique."
+      meta_description: "informatique physique, électronique, iot, internet des objets, enfants, jeune, jeunes, codage, programmation"
+      additional_paths_title: "Parcours informatique physique supplémentaires"
+      additional_paths_description: "Des parcours informatique physique supplémentaires pour t'aider à poursuivre ton parcours de codage."
+    unity:
+      title: "Unity"
+      description: "Crée et explore des mondes 3D avec la puissance d'Unity."
+      meta_description: "unity, 3D, jeux, animations, simulations, enfants, jeunes, codage, programmation"
+      additional_paths_title: ""
+      additional_paths_description: ""
+    microbit:
+      title: "micro:bit"
+      description: "Crée des projets informatiques physiques attrayants avec le BBC micro:bit."
+      meta_description: "microbit, enfant, enfants, codage, programmation, jeux, animations"
+      additional_paths_title: ""
+      additional_paths_description: ""

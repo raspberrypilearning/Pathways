@@ -1,4 +1,4 @@
-ar:
+pl:
   pathways:
     microbit-intro:
       title: "Introduction to micro:bit"
@@ -43,8 +43,8 @@ ar:
     scratch-intro:
       title: "Introduction to Scratch"
       subtitle: "sprites, scripts, and loops"
-      description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-      meta_title: Project path | Intro to Scratch programming for kids
+      description: W tym wprowadzeniu do kodowania w Scratchu dla początkujących dowiesz się, jak dodawać kod, kostiumy i dźwięki do duszków podczas tworzenia animacji, gry, aplikacji i książki.
+      meta_title: Ścieżka projektu | Wprowadzenie do programowania Scratch dla dzieci
       meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
       header:
         - 
@@ -81,7 +81,7 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     more-scratch:
-      title: "More Scratch"
+      title: "Więcej Scratcha"
       subtitle: "broadcast, decisions and variables"
       description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
       meta_title: Project path | More Scratch for kids | Raspberry Pi
@@ -122,7 +122,7 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     further-scratch:
-      title: "Further Scratch"
+      title: "Dalsze projekty w Scratchu"
       subtitle: "clones, my blocks, and boolean logic"
       description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
       meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
@@ -164,22 +164,22 @@ ar:
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
       title: "Scratch: Module 1"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
     scratch-module-2:
       title: "Scratch: Module 2"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
     scratch-module-3:
       title: "Scratch: Module 3"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
     scratch-additional-projects:
-      title: "Scratch: Additional Projects"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Scratch: dodatkowe projekty"
+      description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
     webdev-module-1:
       title: "HTML & CSS: Module 1"
-      description: Build and style your own web pages.
+      description: Twórz i styluj własne strony internetowe.
     webdev-module-2:
       title: "HTML & CSS: Module 2"
-      description: Build and style your own web pages.
+      description: Twórz i styluj własne strony internetowe.
     python-intro:
       title: "Introduction to Python"
       subtitle: "Variables, functions, and loops"
@@ -255,7 +255,7 @@ ar:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     more-python:
-      title: "More Python"
+      title: "Więcej Pythona"
       subtitle: "lists, dictionaries, and data"
       description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
       meta_title: Project path | More Python projects for kids | Raspberry Pi
@@ -293,10 +293,10 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
       title: "Python: Module 1"
-      description: Python is a widely used, general purpose, text-based programming language.
+      description: Python to powszechnie stosowany tekstowy język programowania o ogólnym zastosowaniu.
     python-module-2:
       title: "Python: Module 2"
-      description: Python is a widely used, general purpose, text-based programming language.
+      description: Python to powszechnie stosowany tekstowy język programowania o ogólnym zastosowaniu.
     unity-intro:
       title: "Introduction to Unity"
       subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
@@ -459,40 +459,40 @@ ar:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: Raspberry Pi to mały komputer, który można używać w projektach wykorzystujących elektronikę, a także do wielu rzeczy, które wykonuje komputer stacjonarny.
     sense-hat:
       title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: Sense HAT jest dodatkową płytką do Raspberry Pi, która zawiera diody LED, joystick i wiele czujników.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: Sonic Pi to nowy rodzaj instrumentu muzycznego, przeznaczony do tworzenia dźwięków za pomocą kodu.
     microbit:
-      title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      title: "BBC micro: bit"
+      description: "BBC micro:bit to kieszonkowy, programowalny komputer, dzięki któremu możesz wykazać się kreatywnością."
     look-after-yourself:
       title: Look after yourself
       description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
     protect-our-planet:
-      title: Protect our planet
+      title: Chroń naszą planetę
       description: Use Scratch to learn about our planet and how to protect the environment for future generations
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: Create websites by following these projects.
+      description: Twórz strony internetowe, wykonując te projekty.
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      description: Naucz się języka Scratch, wykonując te zabawne projekty!
     coderdojo-wearables:
-      title: CoderDojo Wearables
-      description: Create wearable technology projects by following these projects.
+      title: 'CoderDojo: elektroniczne gadżety'
+      description: Twórz urządzenia do noszenia, wykonując te projekty.
     app-inventor-for-social-enterprise:
-      title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      title: App Inventor dla przedsięwzięć społecznych
+      description: Naucz się tworzyć aplikacje na urządzenia z Androidem, wykonując projekty, które mogą pomóc ludziom w Twojej społeczności.
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: Scratch dla przedsięwzięć społecznych
+      description: Naucz się programować w graficznym języku dla początkujących Scratch. Stwórz aplikacje i gry, które pomogą ludziom dowiedzieć się czegoś o ważnych kwestiach.
     html-css-for-social-enterprise:
       title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      description: Poznaj HTML i CSS, tworząc stronę internetową poświęconą ochronie ptaków.
     getting-started-with-raspberry-pi:
       title: Get started with Raspberry Pi
       description: Set up your Raspberry Pi and see what it can do!
