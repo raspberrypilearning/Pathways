@@ -395,208 +395,209 @@ it:
         - 
           title: "Cosa dovrei sapere?"
           content: |
-            This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+            Questo percorso è adatto per i creatori principianti in Scratch e physical computing. In ogni caso consigliamo di completare il nostro percorso [Introduzione a Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}.
         - 
-          title: "What do I need?"
+          title: "Di cosa ho bisogno?"
           content: |
-            - A Raspberry Pi Computer
-            - Various wires
-            - Single colour LEDs, buzzers, and resistors
-            - Scratch 3 desktop version installed
-            - Craft items including aluminium foil
+            - Un Computer Raspberry Pi 
+            - cavi
+            - LED a colori singoli, buzzer, e resistenze
+            - Scratch 3 versione desktop installata
+            - oggetti per il fai da te incluso un foglio di alluminio
         - 
-          title: "Mentor information"
+          title: "Informazioni per i mentor"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            ##321…Crea!
+            Questo percorso segue [321…Crea!](https://projects.raspberrypi. rg/en/projects/321-make-mentor-guide){:target="_blank"}:
+            - **3 Progetti Esprora**: Introduce i creatori a un insieme di competenze e fornisce istruzioni passo dopo passo per aiutarli a sviluppare la fiducia e confidenza iniziale.
+            - **2 Progetti Design**: Permetti ai creatori di mettere in pratica le abilità dei progetti Esplora ed esprimersi in modo creativo mentre aumentano la loro indipendenza.
+            - **1 Progetto Inventa**: Incoraggia i creatori a utilizzare le loro abilità per creare un progetto unico che segue una descrizione del progetto per un pubblico specifico.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Quiz veloce
+            Ogni progetto contiene un quiz rapido con tre domande a scelta multipla. I creatori sono guidati alla risposta corretta attraverso un feedback utile e ricevono un badge del progetto.
     pico-intro:
-      title: "Introduction to Raspberry Pi Pico"
-      subtitle: "LEDs, buzzers, switches, and dials"
-      description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
-      meta_title: Project path | Introduction to the Raspberry Pi Pico
-      meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+      title: "Introduzione a Raspberry Pi Pico"
+      subtitle: "LED, buzzer, interruttori e quadranti"
+      description: In questa introduzione al digital making con Raspberry Pi Pico per i principianti, imparerai come collegare e controllare LED, pulsanti, interruttori, buzzer e potenziometri (quadranti).
+      meta_title: Percorso | Introduzione a Raspberry Pi Pico
+      meta_description: In questa introduzione al digital making con Raspberry Pi Pico per i principianti, imparerai come collegare e controllare LED, pulsanti, interruttori, buzzer, ecc.
       header:
         - 
-          title: "What will I create?"
+          title: "Cosa creerò?"
           content: |
-            Program and craft interactive devices with light and sound.
-            By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
+            Programma e crea dispositivi interattivi con luce e suono.
+            Alla fine di questo percorso avrai usato le tue nuove abilità per creare un gadget sensoriale unico con cui le persone vogliono continuare a interagire
         - 
-          title: "What do I need to know?"
+          title: "Cosa dovrei sapere?"
           content: |
-            - Basic typing and computer navigation skills
-            - This path is for beginners new to physical computing
+            - Conoscenza base di scrittura al computer e navigazione
+            - Questo percorso è per principianti nel mondo del physical computing
         - 
-          title: "What do I need?"
+          title: "Di cosa ho bisogno?"
           content: |
             ## Hardware
-            You can purchase all the required hardware for this  path from the:
-            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
-            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
+            Puoi acquistare tutto l'hardware necessario per questo percorso da:
+            - [Pimoroni web store](https://shop.pimoroni. om/products/pico-intro-kit?variant=39893512945747){:target="_blank"} (include un Raspberry Pi Pico)
+            - [Kitronik web store](https://kitronik.co. k/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (senza un Raspberry Pi Pico)
 
             ## Software
             - Thonny
-            - Raspberry Pi Pico Fireware (installed via Thonny)
-            - The picozero library (available via PyPi in Thonny)
-            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+            - Raspberry Pi Pico Fireware (installato tramite Thonny)
+            - La libreria picozero (disponibile tramite PyPi in Thonny)
+            I dettagli dell'installazione si trovano nel primo progetto e nella nostra [guida a Raspberry Pi Pico](https://projects. aspberrypi.org/it/projects/introduction-to-the-pico){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Informazioni per i mentor"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            ##321…Crea!
+            Questo percorso segue [321…Crea!](https://projects.raspberrypi. rg/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            - **3 Progetti Esprora**: Introduce i creatori a un insieme di competenze e fornisce istruzioni passo dopo passo per aiutarli a sviluppare la fiducia e confidenza iniziale.
+            - **2 Progetti Design**: Permetti ai creatori di mettere in pratica le abilità dei progetti Esplora ed esprimersi in modo creativo mentre aumentano la loro indipendenza.
+            - **1 Progetto Inventa**: Incoraggia i creatori a utilizzare le loro abilità per creare un progetto unico che segue una descrizione del progetto per un pubblico specifico.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Quiz veloce
+            Ogni progetto contiene un quiz rapido con tre domande a scelta multipla. I creatori sono guidati alla risposta corretta attraverso un feedback utile e ricevono un badge del progetto.
+
+            ##Ispirare la comunità
+            I creatori sono incoraggiati a ispirare altri nella comunità della Raspberry Pi Foundation condividendo con noi un video dei loro progetti di Design e Inventa tramite il [modulo di presentazione del progetto](https://form. aspberrypi.org/f/community-project-submissions){:target="_blank"}. I progetti saranno condivisi nelle nostre Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: Il Raspberry Pi è un computer piccolo ma molto potente, che può essere utilizzato in progetti di elettronica, e per fare molte delle cose che il tuo PC è in grado di fare.
     sense-hat:
       title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: Il Sense HAT è una scheda aggiuntiva per il Raspberry Pi che comprende dei LED, un joystick e una serie di sensori.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: Il Sonic Pi è un nuovo tipo di strumento musicale progettato per creare suoni con delle linee di codice.
     microbit:
-      title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      title: "BBC micro: bit"
+      description: "Il BBC micro:bit è un computer tascabile programmabile che ti consente di scatenare la tua creatività."
     look-after-yourself:
-      title: Look after yourself
-      description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+      title: Prenditi cura di te
+      description: Impara a prenderti cura di te, imparando a usare Scratch e a lavorare per essere un programmatore indipendente.
     protect-our-planet:
-      title: Protect our planet
-      description: Use Scratch to learn about our planet and how to protect the environment for future generations
+      title: Proteggi il nostro pianeta
+      description: Usa Scratch per conoscere il nostro pianeta e come proteggere l'ambiente per le generazioni future
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: Create websites by following these projects.
+      description: Crea siti web seguendo questi progetti.
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      description: Impara ad usate Scratch completando questi simpatici progetti!
     coderdojo-wearables:
-      title: CoderDojo Wearables
-      description: Create wearable technology projects by following these projects.
+      title: Indossabili CoderDojo
+      description: Crea progetti tecnologici indossabili seguendo questi progetti.
     app-inventor-for-social-enterprise:
-      title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      title: App Inventor per l'innovazione sociale
+      description: Impara a creare app per i dispositivi Android con progetti che possono essere d'aiuto alle persone della tua comunità.
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: Scratch per l'innovazione sociale
+      description: Impara Scratch, un linguaggio di programmazione visuale adatto ai principianti, sviluppando app e giochi che sensibilizzino gli utenti su temi importanti.
     html-css-for-social-enterprise:
-      title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      title: HTML & CSS per l'innovazione sociale
+      description: Impara ad usare i linguaggi di programmazione HTML & CSS creando un sito dedicato alla conservazione degli uccelli.
     getting-started-with-raspberry-pi:
-      title: Get started with Raspberry Pi
-      description: Set up your Raspberry Pi and see what it can do!
+      title: Guida introduttiva al Raspberry Pi
+      description: Configura il tuo Raspberry Pi e scopri cosa può fare!
     life-on-earth:
-      meta_title: Life on Earth Astro Pi resources
-      meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
+      meta_title: La vita sulla terra con le risorse Astro Pi
+      meta_description: Aiutaci a prepararti alla Astro Pi Life on Earth challenge con questa collezione di risorse su Raspberry Pi, moduli fotocamera, Sense HAT e Google Coral.
     web-intro:
-      title: Introduction to web
-      subtitle: HTML, CSS, and animations
-      description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
-      meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
-      meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
+      title: Introduzione al Web
+      subtitle: HTML, CSS e animazioni
+      description: In questa introduzione allo sviluppo web con HTML e CSS per principianti, imparerai come strutturare e creare pagine web con immagini, elenchi, caratteri, citazioni, link e animazione.
+      meta_title: Progetto | Introduzione a HTML e CSS per bambini | Web development per bambini | Crea siti web
+      meta_description: Introduzione a HTML per bambini, ragazzi e giovani adulti. Crea siti web interattivi con queste risorse gratuite.
       header:
         - 
-          title: "What will I create?"
+          title: "Cosa creerò?"
           content: |
-            Make interactive websites with art, emojis and flip cards.
-            By the end of this path you will have created a website about something you want to share.
+            Crea siti web interattivi con arte, emoji e flip card.
+            Alla fine di questo percorso avrai creato un sito web su qualcosa che vuoi condividere.
         - 
-          title: "What do I need to know?"
+          title: "Cosa dovrei sapere?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+            - conoscenza base di scrittura al computer e navigazione
+            - esperienza in programmazione con [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} potrebbe esserti utile
         - 
-          title: "What do I need?"
+          title: "Di cosa ho bisogno?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            - Un computer o un dispositivo mobile che può esguire programmi di editor di codice.
+            - opzionalmente, un account per salvare i progetti.
         - 
-          title: "Mentor information"
+          title: "Informazioni per i mentor"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Crea!
+            Questo percorso segue [321…Crea!](https://projects.raspberrypi. rg/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - **3 Progetti Esprora**: Introduce i creatori a un insieme di competenze e fornisce istruzioni passo dopo passo per aiutarli a sviluppare la fiducia e confidenza iniziale.
+            - **2 Progetti Design**: Permetti ai creatori di mettere in pratica le abilità dei progetti Esplora ed esprimersi in modo creativo mentre aumentano la loro indipendenza.
+            - **1 Progetto Inventa**: Incoraggia i creatori a utilizzare le loro abilità per creare un progetto unico che segue una descrizione del progetto per un pubblico specifico.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Quiz veloce
+            Ogni progetto contiene un quiz rapido con tre domande a scelta multipla. I creatori sono guidati alla risposta corretta attraverso un feedback utile e ricevono un badge del progetto.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Ispirare la comunità
+            I creatori sono incoraggiati a ispirare altri nella comunità della Raspberry Pi Foundation condividendo con noi i loro progetti di Design e Inventa tramite il [modulo di presentazione del progetto](https://form. aspberrypi.org/f/community-project-submissions){:target="_blank"}. I progetti saranno condivisi nelle nostre Community Galleries.
     sense-hat-intro:
-      meta_title: Introduction to the Sense HAT
+      meta_title: Introduzione a Sense HAT
       meta_description: Sense HAT, Astro Pi, Mission Zero
     experience-ai-challenge-music-quest:
-      title: "Experience AI Challenge: Music Quest"
-      subtitle: "Stream the soundtrack to your life with AI"
-      description: The Experience AI Music Quest is a series of sessions that will teach you how to design and create your own 'AI DJ' using Scratch, Machine Learning for Kids, and the Spotify API.
-      meta_title: Project path | Experience AI Challenge - Music Quest
-      meta_description: Introduction to Scratch programming and Machine Learning for kids, teenagers and young adults. Learn how to classify data into an ML model and use it to predict music you will like.
+      title: "Experience AI Challenge: Missione Musicale"
+      subtitle: "Trasmetti la colonna sonora della tua vita con AI"
+      description: La Experience AI Music Quest è una serie di sessioni che ti insegneranno come progettare e creare il tuo 'AI DJ' utilizzando Scratch, Machine Learning per bambini, e le API di Spotify.
+      meta_title: Perscorso | Experience AI Challenge - Missione Musicale
+      meta_description: Introduzione alla programmazione in Scratch e Machine Learning per bambini, ragazzi e giovani adulti. Impara come classificare dati in un modello ML e usalo per predirre la musica che ti piace.
       header:
         - 
-          title: "What will I create?"
+          title: "Cosa creerò?"
           content: |
-            Make interactive Scratch projects and create and train a Machine Learning model.
-            By the end of this path you will have used your new skills to create an app which can make playlists of music based on your preferences.
+            Crea progetti Scratch interattivi, crea e allena (train) un modello Machine Learning.
+            Alla fine di questo percorso avrai usato le tue nuove abilità per creare un'app che può creare playlist di musica in base alle tue preferenze.
         - 
-          title: "What do I need to know?"
+          title: "Cosa dovrei sapere?"
           content: |
-            This path is ideal for beginners to Scratch and machine learning.
+            Questo percorso è ideale per principianti a Scratch e machine learning.
         - 
-          title: "What do I need?"
+          title: "Di cosa ho bisogno?"
           content: |
-            This path requires:
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch and Machine Learning 4 Kids online.
-            - A [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}account. (Instructions available in the Mentor Guide below.)
-            - Headphones (recommended) or speakers
-            - A copy of the [Creator Blueprint document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
+            Questo percorso richiede:
+            - Un computer desktop, laptop, tablet, dispositivo mobile, o computer Raspberry Pi
+            - Accesso a internet per utilizzare Scratch e Machine Learning 4 Kids online.
+            - Un account [Machine Learning for Kids](https://machinelearningforkids.co. k/#!/welcome){:target="_blank"}. (Istruzioni disponibili nella Guida di Mentor qui sotto)
+            - Cuffie (consigliate) o altoparlanti
+            - Una copia del [documento di Blueprint Creator](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Informazioni per i mentor"
           content: |
             ## Experience AI Challenge: Music Quest
 
-            This pathway provides the content for young creators to begin their first forays into creating with machine learning and artificial intelligence as part of the Experience AI Challenge.
+            Questo percorso fornisce ai giovani creatori i contenuti per iniziare nel creare con machine learning e l'intelligenza artificiale come parte della Experience AI Challenge.
 
-            The Music Quest takes around five hours of project time to complete and is designed to be flexible in delivery - it can be run as individual sessions or a single-day 'hackathon'. The content also provides the opportunity to continue work on projects between stages.
+            La Music Quest impiega circa cinque ore di tempo del per completarla ed è progettato per essere flessibile nella consegna - può essere eseguito come sessioni individuali o un singolo giorno 'hackathon'. Il contenuto offre anche l'opportunità di continuare a lavorare su progetti tra fasi.
 
-            The [Mentor Guide for the Quest](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contains instructions for creating the needed accounts, running notes for each stage of the Quest, as well as debugging tips and suggestions for extra features creators can add.
+            La [Mentor Guide for the Quest](https://drive. oogle. om/uc? xport=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) contiene le istruzioni per creare gli account necessari, note per ogni fase della missione, suggerimenti di debug e suggerimenti per i creatori che vorrebbero aggiungere funzionalità extra.
 
-            It also contains instructions for submitting your Creators' finished apps to the Experience AI Showcase, to be appreciated and shortlisted by a panel of industry experts and researchers. Shortlisted entrants will be invited to attend our special showcase event, in collaboration with Google Deepmind!
+            Contiene anche le istruzioni per inviare le app finite dei Creatori alla vetrina di Experience AI, essere apprezzati e selezionati da un gruppo di esperti del settore e ricercatori. I preselezionati saranno invitati a partecipare al nostro speciale evento vetrina, in collaborazione con Google Deepmind!
     prepare-to-run-a-code-club:
-      title: "Prepare to run a Code Club"
-      subtitle: "Your first steps toward running a Code Club for young people."
-      description: In this course, we will be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.
-      meta_title: Project path | Prepare to run a Code Club
-      meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+      title: "Preparati ad aprire un Code Club"
+      subtitle: "I primi passi verso la gestione di un Code Club per ragazzi."
+      description: In questo corso, vi offriremo una guida passo-passo per iniziare il vostro Code Club. Inizieremo con le pratiche di pianificazione e configurazione, ti guideremo attraverso la pianificazione e l'esecuzione della tua prima sessione. e finiremo con idee e suggerimenti su come motivare i tuoi studenti e celebrare i loro risultati.
+      meta_title: Percorso | Preparati ad aprire un Code Club
+      meta_description: In questo corso, ti guideremo attraverso l'avvio del tuo Code Club, dalla configurazione iniziale e dalla pianificazione, fino alla tua prima sessione, e infine, come motivare e celebrare i risultati dei tuoi studenti.
       header:
         - 
-          title: "What will I learn?"
+          title: "Cosa imparerò?"
           content: |
-            In this course, we will guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+            In questo corso, ti guideremo attraverso l'avvio del tuo Code Club, dalla configurazione iniziale e dalla pianificazione, fino alla tua prima sessione, e infine, come motivare e celebrare i risultati dei tuoi studenti.
         - 
-          title: "What do I need to know?"
+          title: "Cosa dovrei sapere?"
           content: |
-            This course will be useful to you if you would like to volunteer at a club in your community, helping young people learn how to code, or you are a teacher who wants to set up an extracurricular coding club for the students in your school.
+            Questo corso ti sarà utile se vorrai fare volontariato in un club nella tua comunità, aiutare i giovani a imparare a programmare, o sei un insegnante che vuole creare un club di programmazione extracurricolare per gli studenti della tua scuola.
         - 
-          title: "What do I need?"
+          title: "Di cosa ho bisogno?"
           content: |
-            This path requires:
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch and other applications online.
+            Questo percorso richiede:
+            - Un computer desktop, laptop, tablet, dispositivo mobile, o computer Raspberry Pi
+            - Accesso a internet per utilizzare Scratch e altre applicazioni online.
 
