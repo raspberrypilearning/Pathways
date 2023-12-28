@@ -1,31 +1,31 @@
 pl:
   pathways:
     microbit-intro:
-      title: "Introduction to micro:bit"
-      subtitle: "sensors, buttons and lights!"
-      description: In this introduction to coding for the micro:bit, you will learn how to sense and respond to the world around you while looking after yourself.
-      meta_title: Project path | Intro to micro:bit coding for kids
-      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      title: "Wprowadzenie do micro:bit"
+      subtitle: "czujniki, przyciski i światła!"
+      description: We wprowadzeniu do kodowania micro:bit, nauczysz się jak wyczuć świat wokół ciebie i zareagować na niego.
+      meta_title: Ścieżka projektu | Kodowanie wprowadzające do micro:bit dla dzieci
+      meta_description: Wprowadzenie do kodowania micro:bit dla dzieci, nastolatków i młodych dorosłych. Naucz się tworzyć projekty z mikro:bit, które pomogą Ci zadbać o siebie.
       header:
         - 
-          title: "What will I create?"
+          title: "Co stworzę?"
           content: |
-            Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
-            By the end of this path you will have used your new skills to create a party game to play and share with your friends.
+            Stwórz interaktywne projekty za pomocą czujników, przycisków i świateł znajdujących się na micro:bit.
+            Do końca tej ścieżki wykorzystasz nowo nabyte umiejętności do stworzenia gry imprezowej, którą będziesz mógł(a) zagrać i podzielić się z przyjaciółmi.
         - 
-          title: "What do I need to know?"
+          title: "Co muszę wiedzieć?"
           content: |
-            This path is ideal for beginners to micro:bit.
+            Ta ścieżka jest idealna dla początkujących do micro:bit.
         - 
-          title: "What do I need?"
+          title: "Czego potrzebuję?"
           content: |
-            This path requires:
+            Ta ścieżka wymaga:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
-            - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
+            - Komputer stacjonarny, laptop, tablet, urządzenie mobilne, lub komputer Raspberry Pi
+            - Dostęp do internetu w celu korzystania z MakeCode online lub możliwość pobrania i zainstalowania MakeCode. Zobacz nasz [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} po więcej szczegółów
+            - Opcjonalnie [konto MakeCode](https://makecode.microbit.org/){:target="_blank"} i fizyczny micro:bit.
         - 
-          title: "Mentor information"
+          title: "Informacje o mentorze"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
