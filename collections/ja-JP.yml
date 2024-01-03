@@ -1,39 +1,597 @@
 ---
 ja-JP:
-  collections:
-    scratch:
-      title: "Scratch"
-      description: "Scratchでアニメーション、ストーリー、ゲームのコードの書き方を学んで、デジタル制作の冒険を始めましょう。"
-      meta_description: "scratch、ちびっこ、子ども、子どもたち、コーディング、プログラミング、ゲーム、アニメーション"
-      additional_paths_title: "追加のScratchパス"
-      additional_paths_description: "コーディングの旅を続けるのに役立つ追加のScratchパス。"
-    python:
-      title: "Python"
-      description: "世界で最も人気のあるプログラミング言語の1つであるPythonについて学び、デジタルアート、インタラクティブマップ、モデルを作成しましょう。"
-      meta_description: "python、ちびっこ、子ども、子どもたち、コーディング、プログラミング、ゲーム、アニメーション"
-      additional_paths_title: "追加のPythonパス"
-      additional_paths_description: "コーディングの旅を続けるのに役立つ追加のPythonパス。"
-    html_and_css:
-      title: "ウェブデザイン"
-      description: "HTML、CSS、JavaScriptを学んでウェブサイトやアプリを構築し、友達と共有しましょう。"
-      meta_description: "web、html、css、javascript、ウェブサイト、子ども、子どもたち、コーディング、プログラミング"
-      additional_paths_title: "追加のウェブデザインパス"
-      additional_paths_description: "コーディングの旅を続けるのに役立つ追加のウェブデザインパス。"
-    physical_computing:
-      title: "フィジカルコンピューティング"
-      description: "コードとエレクトロニクスを組み合わせて、現実世界をコントロールし対話しよう。"
-      meta_description: "フィジカルコンピューティング、エレクトロニクス、iot、モノのインターネット、ちびっこ、子ども、子どもたち、コーディング、プログラミング"
-      additional_paths_title: "追加のフィジカルコンピューティングパス"
-      additional_paths_description: "コーディングの旅を続けるのに役立つ追加のフィジカルコンピューティングパス。"
-    unity:
-      title: "Unity"
-      description: "Unityのパワーを使って3D世界を作成し探索しましょう。"
-      meta_description: "unity、3D、ゲーム、アニメーション、シミュレーション、ちびっこ、子ども、コーディング、プログラミング"
-      additional_paths_title: ""
-      additional_paths_description: ""
+  pathways:
+    microbit-intro:
+      title: "micro:bit入門"
+      subtitle: "センサー、ボタン、ライト！"
+      description: このmicro:bitのコーディング入門では、身の回りのことをするときに、自分の周りの世界を感知し、それに反応する方法を学びます。
+      meta_title: プロジェクトパス | 子ども向けのmicro:bitコーディング入門
+      meta_description: 子ども、ティーンエイジャー、若者向けのmicro:bitコーディング入門編。自分の身の回りのことをするときに役立つmicro:bitプロジェクトの作成方法を学びましょう。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            micro:bitに搭載されているセンサー、ボタン、ライトの機能を使用してインタラクティブなプロジェクトを作成します。
+            このパスの終わりまでに、新しいスキルを使ってパーティーゲームを作成し、友達と遊んだり共有できるようになります。
+        - 
+          title: "必要な知識"
+          content: |
+            このパスはmicro:bitの初心者に最適です。
+        - 
+          title: "必要なもの"
+          content: |
+            このパスに必要なもの
+
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - MakeCodeをオンラインで使用するため、またはMakeCodeをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[micro:bit入門ガイド](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"}をご覧ください。
+            - オプションで、[MakeCodeアカウント](https://makecode.microbit.org){:target="_blank"}とmicro:bit本体
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"}方法についてガイドをご覧ください。
+    scratch-intro:
+      title: "Scratch入門"
+      subtitle: "スプライト、スクリプト、ループ"
+      description: この初心者向けScratchコーディング入門では、アニメーション、ゲーム、アプリ、本を作成するときに、コード、コスチューム、音をスプライトへ追加する方法を学びます。
+      meta_title: プロジェクトパス | 子ども向けのScratchプログラミング入門
+      meta_description: 子ども、ティーンエイジャー、若者向けのScratchプログラミングの入門編。アニメーション、ゲーム、アプリ、そして本の作り方を学びましょう。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            インタラクティブなプロジェクトやアニメーションを作ったり、複数レベルのゲームを作成します。
+            このパスの終わりまでに、新しいスキルを使用して、複数のページを持つデジタル書籍の著者になります。
+        - 
+          title: "必要な知識"
+          content: |
+            このパスはScratchの初心者に最適です。
+        - 
+          title: "必要なもの"
+          content: |
+            このパスに必要なもの
+
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
+            - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
+    more-scratch:
+      title: "Scratch続編"
+      subtitle: "ブロードキャスト、条件判定、変数"
+      description: Scratch続編では、Scratch入門で紹介した基本の先へ行きます。メッセージの受け渡し、「もし..なら」および「もし..なら..でなければ」の条件判定と変数を使ってアプリ、ゲーム、シミュレーションを作成します。
+      meta_title: プロジェクトパス | 子ども向けのScratch続編 | Raspberry Pi
+      meta_description: 子ども、ティーンエイジャー、ヤングアダルト向けのScratch続編。これらの無料プロジェクトで、メッセージの受け渡しを使ったアプリ、ゲーム、アニメーションのコーディングの基本を超えて行きましょう。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            インタラクティブなプロジェクト、シミュレーター、ゲームを作成します。
+            このパスの終わりまでに、新しいスキルを使用して、ユーザーがやり取りする仮想ペットまたはキャラクターを作成します。
+        - 
+          title: "必要な知識"
+          content: |
+            このパスはScratchの使用に慣れているクリエイター向けです。
+            Scratchを初めて使用する場合は、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスを試すことができます。
+        - 
+          title: "必要なもの"
+          content: |
+            このパスに必要なもの
+
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
+            - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
+    further-scratch:
+      title: "Scratch応用"
+      subtitle: "クローン、ブロック定義、ブール論理"
+      description: Scratch応用では、Scratch入門と続編で紹介したスキルを超えて行きます。ブール論理、関数、クローンなどを使用して、アプリ、ゲーム、コンピューターアート、シミュレーションを作ります。
+      meta_title: プロジェクトパス | 子ども向けのScratchコーディング応用 | Raspberry Pi
+      meta_description: 子ども、ティーンエイジャー、若者向けのScratch応用コーディング。これらの無料のコーディングリソースを使用して、アプリ、ゲーム、コンピューターアート、アニメーションを作成します。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            コンピューターで生成されたアート、音楽、ゲーム、シミュレーションを作成します。
+            このパスの終わりまでに、新しいスキルを使用して、想像上の世界を通じる一人称視点のシミュレーションを作成します。
+        - 
+          title: "必要な知識"
+          content: |
+            このパスはScratchの使用に慣れているクリエイター向けです。
+            Scratchを初めて使用する場合は、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスまたは[Scratch続編](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"}パスを試すことができます。
+        - 
+          title: "必要なもの"
+          content: |
+            このパスに必要なもの
+
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - Scratchをオンラインで使用するため、またはScratchをダウンロードしてインストールするためのインターネットへのアクセス。詳細については、[Scratchセットアップガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}をご覧ください。
+            - オプションで、[Scratchアカウント](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"}方法についてガイドをご覧ください。
+    scratch-module-1:
+      title: "Scratch: モジュール1"
+      description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+    scratch-module-2:
+      title: "Scratch: モジュール2"
+      description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+    scratch-module-3:
+      title: "Scratch: モジュール3"
+      description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+    scratch-additional-projects:
+      title: "Scratch: 追加のプロジェクト"
+      description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+    webdev-module-1:
+      title: "HTMLとCSS: モジュール1"
+      description: 自分のウェブページを構築し、スタイルを設定します。
+    webdev-module-2:
+      title: "HTMLとCSS: モジュール2"
+      description: 自分のウェブページを構築し、スタイルを設定します。
+    python-intro:
+      title: "Python入門"
+      subtitle: "変数、関数、ループ"
+      description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
+      meta_title: プロジェクトパス | 子ども向けのPython入門 | Raspberry Pi
+      meta_description: 子ども、ティーンエイジャー、若者向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作りましょう。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            インタラクティブなプロジェクト、アート、ゲーム、シミュレーションを作成します。
+            このパスの終わりまでに拡大縮小ができる幾何学的アートを作成します。
+        - 
+          title: "必要な知識"
+          content: |
+            - 基本的なタイピングとコンピューター操作のスキル
+            - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}のコーディング経験があると役立ちます
+        - 
+          title: "必要なもの"
+          content: |
+            - オンラインコーディングプラットフォームを実行できるコンピューターまたはモバイルデバイス。
+            - オプションで、プロジェクトを保存するためのアカウント。
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+    python-intro-code-editor:
+      title: "Python入門"
+      subtitle: "変数、関数、ループ"
+      description: この初心者向けのPythonコーディング入門では、変数、ループ、関数を使用して、視覚的でインタラクティブなアートワーク、アニメーション、シミュレーション、ゲームなどの作りかたを学びます。
+      meta_title: プロジェクトパス | 子ども向けのPython入門 | Raspberry Pi
+      meta_description: 子ども、ティーンエイジャー、若者向けのPython入門。これらの無料のリソースを使って、インタラクティブなアートワーク、アニメーション、およびゲームを作りましょう。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            インタラクティブなプロジェクト、アート、ゲーム、シミュレーションを作成します。
+            このパスの終わりまでに拡大縮小ができる幾何学的アートを作成します。
+        - 
+          title: "必要な知識"
+          content: |
+            - 基本的なタイピングとコンピューター操作のスキル
+            - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}のコーディング経験があると役立ちます
+        - 
+          title: "必要なもの"
+          content: |
+            - オンラインコーディングプラットフォームを実行できるコンピューターまたはモバイルデバイス。
+            - オプションで、プロジェクトを保存するためのアカウント。
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+    more-python:
+      title: "Python続編"
+      subtitle: "リスト、辞書、データ"
+      description: Python続編は、Python入門で紹介した基本を超えて行きます。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
+      meta_title: プロジェクトパス | 子ども向けのPythonプロジェクト続編 | Raspberry Pi
+      meta_description: 子ども、ティーンエイジャー、若者向けのPythonプロジェクト続編です。リスト、辞書、ファイルを使用してチャート、モデル、アートワークを作る方法を学びます。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            インタラクティブなチャート、シミュレーター、アート作品を作成してデータを視覚化します。
+            このパスの終わりまでに、選択したトピックについて独自のデータ視覚化を行います。
+        - 
+          title: "必要な知識"
+          content: |
+            - このパスはPythonの使用に慣れているクリエイター向けです。
+            - Pythonを初めて使用する場合は、[Python入門](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}パスを試すことができます。
+        - 
+          title: "必要なもの"
+          content: |
+            - オンラインコーディングプラットフォームを実行できるコンピューターまたはモバイルデバイス。
+            - オプションで、プロジェクトを保存するためのアカウント。
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+    python-module-1:
+      title: "Python: モジュール1"
+      description: Pythonは一般的な用途に広く使われている、テキストベースのプログラミング言語です。
+    python-module-2:
+      title: "Python: モジュール2"
+      description: Pythonは一般的な用途に広く使われている、テキストベースのプログラミング言語です。
+    unity-intro:
+      title: "Unity入門"
+      subtitle: "3Dオブジェクト、キャラクターコントローラー、コライダー、テキスト、ボタン"
+      description: このUnity入門では、収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界やゲームを作成する方法を学びます。
+      meta_title: プロジェクトパス | 子ども向けのUnityコーディング | Raspberry Pi
+      meta_description: 子ども、ティーンエイジャー、若者向けのUnityコーディング入門。これらの無料リソースを使用して3Dの世界やゲームを作る方法を学びましょう。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            収集品、タイマー、ノンプレイヤーキャラクターを使って3Dの世界とゲームを作成します。
+            このパスの終わりまでに、新しいスキルを使用して、スターキャッチャーゲーム、探求の世界、および 3Dアドベンチャーを作ります。
+        - 
+          title: "必要な知識"
+          content: |
+            - 基本的なタイピングとコンピューター操作のスキル
+            - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}または[Python](https://projects.raspberrypi.org/en/pathways/python){:target="_blank"}のコーディング経験
+        - 
+          title: "必要なもの"
+          content: |
+            このパスの最初のプロジェクトを開始する前に、大きなサイズのダウンロードとインストールが必要です。
+
+            - お使いのオペレーティングシステム向けのUnity HubとUnityエディターをインストールする必要があります。これを行う方法については、[Unityガイド](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}を参照してください。
+            - コードエディターも必要です。推奨エディターは[Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}です。
+            - 開始する前に、[Unityスターターパッケージ](https://rpf.io/p/en/explore-a-3d-world-go)もダウンロードする必要があります。
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分のプロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトは匿名でコミュニティギャラリーに共有されます。
+            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"}方法についてガイドをご覧ください。
+    more-unity:
+      title: "Unity続編"
+      subtitle: "リジッドボディ、物理演算、マテリアル"
+      description: このUnity続編パスでは、物理演算とマテリアルを使用して、独自にデザインしたビー玉でインタラクティブな3Dパズルの世界を作成します。
+      meta_title: プロジェクトパス | 子ども向けのUnityコーディング | Raspberry Pi
+      meta_description: 子ども、ティーンエイジャー、若者向けのUnityコーディング。これらの無料リソースを使用して3Dワールドやゲームを作成する方法を学びましょう。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            ビー玉転がしと3Dワールドで問題解決するプロジェクトを作成します。
+            このパスの終わりまでに、独自のマテリアルを作成し、Unityプロジェクトで現実的な物理演算を使用する新しいスキルを使用します。
+        - 
+          title: "必要な知識"
+          content: |
+            - [Unity入門](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}パスの理解
+            - [C#](https://project.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}または[Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}のコーディング経験
+        - 
+          title: "必要なもの"
+          content: |
+            このパスの最初のプロジェクトを開始する前に、大きなサイズのダウンロードとインストールが必要です。
+
+            - お使いのオペレーティングシステム向けのUnity HubとUnityエディターをインストールする必要があります。これを行う方法については、[Unityガイド](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}を参照してください。
+            - コードエディターも必要です。推奨エディターは[Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}です。
+            - 開始する前に、[Unityスターターパッケージ](https://rpf.io/p/en/rainbow-run-go)もダウンロードする必要があります。
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分のプロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトは匿名でコミュニティギャラリーに共有されます。
+            [プロジェクトを共有する](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"}方法についてガイドをご覧ください。
+    physical-computing-with-scratch-and-the-raspberry-pi:
+      title: ScratchとRaspberryPiを使用したフィジカルコンピューティング
+      description: ScratchとRaspberry Piコンピューターで入出力機器を使う方法を学びます。
+      meta_title: プロジェクトパス | 子ども向けのScratchコーディング | Raspberry Pi
+      meta_description: Raspberry Piコンピューター上のScratchで入出力機器を使う方法を学びます。子ども、ティーンエイジャー、若者向けのScratchコーディングの無料リソース。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            インタラクティブなデバイスや楽器を作成します。
+            このパスの終わりまでに、新しいスキルを使って、複数のページを持つ電子書籍の著者になります。
+        - 
+          title: "必要な知識"
+          content: |
+            このパスはScratchとフィジカルコンピューティングの初心者向けです。ただし、[Scratch入門](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}パスを先に終わらせることもできます。
+        - 
+          title: "必要なもの"
+          content: |
+            - Raspberry Piコンピューター
+            - 各種ケーブル
+            - 単色LED、ブザー、および抵抗器
+            - Scratch 3デスクトップ版のインストール
+            - アルミホイルなどの工作アイテム
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+    pico-intro:
+      title: "Raspberry Pi Pico入門"
+      subtitle: "LED、ブザー、スイッチ、ダイヤル"
+      description: この初心者向けのRaspberry Pi Picoを使ったデジタル工作入門では、LED、ボタン、スイッチ、ブザー、ポテンショメーター（ダイヤル） の接続および制御方法を学びます。
+      meta_title: プロジェクトパス | Raspberry Pi Pico入門
+      meta_description: この初心者向けのRaspberry Pi Picoを使ったデジタル工作入門では、LED、ボタン、スイッチ、ブザーなどの接続および制御方法を学びます。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            光と音でインタラクティブに動作するデバイスをプログラミングして作成します。
+            このパスの終わりまでに、新しいスキルを使用して、人々がやり取りし続けたいと思う感知機能のあるユニークなガジェットを作成します
+        - 
+          title: "必要な知識"
+          content: |
+            - 基本的なタイピングとコンピューター操作のスキル
+            - このパスはフィジカルコンピューティング初心者向けです
+        - 
+          title: "必要なもの"
+          content: |
+            ## ハードウェア
+            このパスに必要なハードウェアはすべて以下から購入できます。
+            - [Pimoroniウェブストア](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}（Raspberry Pi Picoを含む）
+            - [Kitronikウェブストア](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"}（Raspberry Pi Picoを含まない）
+
+            ## ソフトウェア
+            - Thonny
+            - Raspberry Pi Picoファームウェア（Thonny経由でインストール）
+            - picozeroライブラリ（ThonnyのPyPi経由で入手可能）
+            インストールの詳細は1つ目のプロジェクトや[Raspberry Pi Picoガイド](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}にあります
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトのビデオを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+    raspberry-pi:
+      title: Raspberry Pi
+      description: Raspberry Piは電子工作プロジェクトで使用できる性能のよい小さなコンピュータで、デスクトップパソコンで行うことの多くに向いています。
+    sense-hat:
+      title: Sense HAT
+      description: Sense HATは、LED、ジョイスティック、多くのセンサーなどをそなえたRaspberry Piのアドオンボードです。
+    sonic-pi:
+      title: Sonic Pi
+      description: Sonic Piは、コードでサウンドを作成するために設計された新しい種類の楽器です。
     microbit:
-      title: "micro:bit"
-      description: "BBC micro:bitを使って魅力的なフィジカルコンピューティングプロジェクトを作成しましょう。"
-      meta_description: "microbit、子ども、子どもたち、コーディング、プログラミング、ゲーム、アニメーション"
-      additional_paths_title: ""
-      additional_paths_description: ""
+      title: "BBC micro:bit"
+      description: "BBC micro:bit は、創造性を発揮できるポケットサイズのコーディング可能なコンピューターです。"
+    look-after-yourself:
+      title: 自分をいたわる
+      description: Scratchの使い方や独立したプログラマーになる方法を学びながら、自分のいたわり方を学びましょう。
+    protect-our-planet:
+      title: 私たちの地球を守る
+      description: Scratchを使って私たちの地球について学び、次世代のために環境を保護する方法を学びましょう
+    coderdojo-html_css:
+      title: CoderDojo HTMLとCSS
+      description: これらのプロジェクトを使ってウェブサイトを作りましょう。
+    coderdojo-scratch:
+      title: CoderDojo Scratch
+      description: 楽しいプロジェクトを通じてScratchを学びましょう！
+    coderdojo-wearables:
+      title: CoderDojoウェアラブル
+      description: これらのプロジェクトを通じてウェアラブル技術のプロジェクトを作りましょう。
+    app-inventor-for-social-enterprise:
+      title: App Inventorによるソーシャルイノベーション
+      description: コミュニティで役立つプロジェクトを通じてAndroidデバイスのアプリ作成について学びましょう。
+    scratch-for-social-enterprise:
+      title: Scratchによるソーシャルイノベーション
+      description: 初心者に優しいグラフィカルプログラミング言語であるScratchを学び、重要課題について学ぶのに役立つアプリやゲームを作成します。
+    html-css-for-social-enterprise:
+      title: HTMLとCSSによるソーシャルイノベーション
+      description: 鳥の保全についてのウェブサイトを作成して、HTMLとCSSを学びましょう。
+    getting-started-with-raspberry-pi:
+      title: Raspberry Pi入門
+      description: Raspberry Piをセットアップして何ができるか見てみましょう！
+    life-on-earth:
+      meta_title: 地球上の生物のAstro Piリソース
+      meta_description: Raspberry Pi、カメラモジュール、Sense HAT、Google Coralのリソースコレクションを使用して、Astro Pi地球上の生物チャレンジの準備を支援します。
+    web-intro:
+      title: ウェブ入門
+      subtitle: HTML、CSS、アニメーション
+      description: この初心者向けのHTMLとCSSによるウェブ開発入門では、画像、リスト、フォント、引用、リンク、アニメーションを使用してウェブページを組み立て、スタイルを設定する方法を学びます。
+      meta_title: プロジェクトパス | 子ども向けのHTMLとCSS入門 | 子供向けのウェブ開発 | ウェブサイトを作る
+      meta_description: 子ども、ティーンエイジャー、若者向けのHTML入門。これらの無料リソースを使用してインタラクティブなウェブサイトを作成します。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            アート、絵文字、フリップカードでインタラクティブなウェブサイトを作成します。
+            このパスの終わりまでに、あなたが共有したいと思うものに関するウェブサイトを作成できます。
+        - 
+          title: "必要な知識"
+          content: |
+            - 基本的なタイピングとコンピューター操作のスキル
+            - [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}のコーディング経験があると役立ちます
+        - 
+          title: "必要なもの"
+          content: |
+            - オンラインコーディングプラットフォームを実行できるコンピューターまたはモバイルデバイス。
+            - オプションで、プロジェクトを保存するためのアカウント。
+        - 
+          title: "メンター情報"
+          content: |
+            ##321…作るぞ！
+            このパスは[321…作るぞ！](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}に続くものです。
+            - **3 調べよう**プロジェクトでクリエイターに一連のスキルを紹介し、最初の自信を養うのに役立つ段階的な説明を提供します。
+            - **2 デザインしよう**プロジェクトにより、クリエイターは一つ前の「調べよう」プロジェクトで学んだスキルを実践し、自ら成長するなかで創造的に自分自身を表現できるようになります。
+            - **1 創り出そう**プロジェクトでは、クリエイターが自らのスキルを使って、特定の人たち向けのプロジェクト指示に応じた独自プロジェクトを作るよう奨励します。
+
+            ##クイッククイズ
+            各プロジェクトには、3つの選択問題からなるクイッククイズのステップが含まれています。クリエイターは、有用なフィードバックを通じて正しい答えに導かれ、プロジェクトバッジが与えられます。
+
+            ## コミュニティに刺激を与える
+            クリエイターは、[プロジェクト提出フォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を介して自分の「デザインしよう」および「創り出そう」プロジェクトを共有することにより、Raspberry Pi Foundationコミュニティの他の人に刺激を与えることが奨励されています。プロジェクトはコミュニティギャラリーに共有されます。
+    sense-hat-intro:
+      meta_title: Sense HAT入門
+      meta_description: Sense Hat、Astro Pi、ミッションゼロ
+    experience-ai-challenge-music-quest:
+      title: "Experience AIチャレンジ: ミュージッククエスト"
+      subtitle: "あなたの生活にAIを使用してサウンドトラックをストリーミングしましょう"
+      description: Experience AIミュージッククエストは、Scratch、子ども向け機械学習、Spotify APIを使用して、独自の「AI DJ」を設計し作成する方法を学ぶ一連のセッションです。
+      meta_title: プロジェクトパス | Experience AIチャレンジ - ミュージッククエスト
+      meta_description: 子ども、ティーンエイジャー、若者向けのScratchプログラミングと機械学習の入門。データをMLモデルに分類し、それを使用して好みの音楽を推測する方法を学びます。
+      header:
+        - 
+          title: "作るもの"
+          content: |
+            インタラクティブなScratchプロジェクトを作成し、機械学習モデルを作成してトレーニングします。
+            このパスの終わりまでに、好みに応じた音楽プレイリストを作成するアプリを作るスキルを身につけることができます。
+        - 
+          title: "必要な知識"
+          content: |
+            このパスはScratchと機械学習の初心者に最適です。
+        - 
+          title: "必要なもの"
+          content: |
+            このパスに必要なもの
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - ScratchとMachine Learning 4 Kidsをオンラインで使用するためのインターネットへの接続
+            - [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}のアカウント（以下のメンターガイドに説明があります）
+            - ヘッドフォン（推奨）またはスピーカー
+            - [クリエイターブループリントドキュメント](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}のコピー
+        - 
+          title: "メンター情報"
+          content: |
+            ## Experience AIチャレンジ: ミュージッククエスト
+
+            このパスウェイは、若いクリエイターがExperience AIチャレンジの一環として機械学習と人工知能を使った創作に初めて挑戦するためのコンテンツを提供します。
+
+            ミュージッククエストを完了するのには約5時間のプロジェクト時間がかかり、柔軟に実施できるように設計されています。個別のセッションまたは1日の「ハッカソン」として実行できます。コンテンツはステージ間でプロジェクト作業を継続する機会も提供します。
+
+            [クエストのメンターガイド](https://drive.google.com/uc?export=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC)には、必要なアカウントの作成方法、クエストの各ステージの実行方法、およびデバッグのヒントや作成者が追加できる追加機能の提案が含まれています。
+
+            また、クリエイターが完成したアプリをExperience AIショーケースに提出して、業界の専門家や研究者からなるパネルによって評価され、最終候補に挙げられるようにするための手順も含まれています。最終候補者リストに残った参加者は、Google Deepmindと協力して実施する特別なショーケースイベントに招待されます。
+    prepare-to-run-a-code-club:
+      title: "Code Clubの運営を準備する"
+      subtitle: "若者向けにCode Clubを運営するための最初のステップ。"
+      description: このコースでは、Code Clubを始めるための段階的なガイダンスを提供します。計画と立ち上げの実践から始まり、最初のセッションの計画から実施までをガイドし、最後に学習者のモチベーションを高め、成果を祝う方法に関するアイデアとヒントで終わります。
+      meta_title: プロジェクトパス | Code Clubを運営する準備
+      meta_description: このコースでは、初期セットアップと計画、初めてのセッションの実施、そして学習者のモチベーションを高めて成果を祝うまでの、Code Clubの立ち上げについて説明します。
+      header:
+        - 
+          title: "学ぶこと"
+          content: |
+            このコースでは、初期セットアップと計画、初めてのセッションの実施、そして学習者のモチベーションを高めて成果を祝うまでの、Code Clubの立ち上げについて説明します。
+        - 
+          title: "必要な知識"
+          content: |
+            このコースは、地域のクラブでボランティア活動をして若者がコーディング方法を学ぶのを手助けしたい場合、またはあなたが教師で学校の生徒のために課外コーディング クラブを立ち上げたいと考えている場合に役立ちます。
+        - 
+          title: "必要なもの"
+          content: |
+            このパスに必要なもの
+            - デスクトップコンピューター、ラップトップ、タブレット、モバイルデバイス、またはRaspberry Piコンピューター
+            - Scratchと他のアプリケーションをオンラインで使用するためのインターネットへの接続
+
