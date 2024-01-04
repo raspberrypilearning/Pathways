@@ -14,6 +14,10 @@ YAML needs linting because if invalid syntax is pushed to the `gh-pages` branch 
 
 We've automated this through CI using Github Actions, to trigger this you need to create a Pull Request into `gh-pages`, if any errors exist comments will be automatically added to your PR along with the suspected line.
 
+# Deploying
+
+Changes here only need to be merged in to the `gh-pages` branch, then the Projects Admin / API application (Heroku) needs to be restarted (as it performs a [DownloadPathwayTranslationsJob](https://github.com/RaspberryPiFoundation/projects-admin/blob/main/lib/tasks/ephemeral_setup.rake) on startup).
+
 # Examples
 
 Here is a simple example with just title, description and meta data:
