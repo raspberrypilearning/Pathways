@@ -168,6 +168,9 @@ uk:
     scratch-module-3:
       title: "Скретч: модуль 3"
       description: Дізнайся, як програмувати власні інтерактивні історії, ігри й анімації.
+    scratch-machine-learning:
+      title: "Scratch Machine Learning"
+      description: Introductory machine learning projects using Machine Learning For Kids with Scratch.
     scratch-additional-projects:
       title: "Скретч: додаткові проєкти"
       description: Дізнайся, як програмувати власні інтерактивні історії, ігри й анімації.
