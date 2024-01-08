@@ -171,6 +171,9 @@ fr:
     scratch-module-3:
       title: "Scratch : Module 3"
       description: Apprends à programmer tes propres histoires, jeux et animations interactives.
+    scratch-machine-learning:
+      title: "Scratch Machine Learning"
+      description: Introductory machine learning projects using Machine Learning For Kids with Scratch.
     scratch-additional-projects:
       title: "Scratch : Projets supplémentaires"
       description: Apprends à programmer tes propres histoires, jeux et animations interactives.
