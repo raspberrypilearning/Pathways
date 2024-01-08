@@ -171,6 +171,9 @@ el:
     scratch-module-3:
       title: "Scratch: Ενότητα 3"
       description: Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
+    scratch-machine-learning:
+      title: "Scratch Machine Learning"
+      description: Introductory machine learning projects using Machine Learning For Kids with Scratch.
     scratch-additional-projects:
       title: "Scratch: Πρόσθετα έργα"
       description: Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
