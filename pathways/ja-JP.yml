@@ -171,6 +171,9 @@ ja:
     scratch-module-3:
       title: "Scratch: モジュール3"
       description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
+    scratch-machine-learning:
+      title: "Scratch Machine Learning"
+      description: Introductory machine learning projects using Machine Learning For Kids with Scratch.
     scratch-additional-projects:
       title: "Scratch: 追加のプロジェクト"
       description: 自分のインタラクティブなストーリー、ゲーム、アニメーションをプログラミングする方法を学びましょう。
