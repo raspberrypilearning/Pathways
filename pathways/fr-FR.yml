@@ -172,8 +172,8 @@ fr:
       title: "Scratch : Module 3"
       description: Apprends à programmer tes propres histoires, jeux et animations interactives.
     scratch-machine-learning:
-      title: "Scratch Machine Learning"
-      description: Introductory machine learning projects using Machine Learning For Kids with Scratch.
+      title: "Machine Learning Scratch"
+      description: Projets d'introduction au machine learning à l'aide de Machine Learning For Kids with Scratch.
     scratch-additional-projects:
       title: "Scratch : Projets supplémentaires"
       description: Apprends à programmer tes propres histoires, jeux et animations interactives.
@@ -599,7 +599,7 @@ fr:
         - 
           title: "De quoi ai-je besoin ?"
           content: |
-            Ce chemin nécessite :
+            Ce parcours nécessite :
             - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile ou un ordinateur Raspberry Pi
             - Un accès à Internet pour utiliser Scratch et d'autres applications en ligne.
 
