@@ -164,25 +164,25 @@ hi:
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
       title: "Scratch: Module 1"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: अपने इंटरैक्टिव कहानियों, गेम और एनिमेशन को प्रोग्राम करना सीखें
     scratch-module-2:
       title: "Scratch: Module 2"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: अपने इंटरैक्टिव कहानियों, गेम और एनिमेशन को प्रोग्राम करना सीखें
     scratch-module-3:
       title: "Scratch: Module 3"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: अपने इंटरैक्टिव कहानियों, गेम और एनिमेशन को प्रोग्राम करना सीखें
     scratch-machine-learning:
       title: "Scratch Machine Learning"
       description: Introductory machine learning projects using Machine Learning For Kids with Scratch.
     scratch-additional-projects:
-      title: "Scratch: Additional Projects"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Scratch: अतिरिक्त परियोजनाएं"
+      description: अपने इंटरैक्टिव कहानियों, गेम और एनिमेशन को प्रोग्राम करना सीखें
     webdev-module-1:
       title: "HTML & CSS: Module 1"
-      description: Build and style your own web pages.
+      description: अपने वेब पेज को स्वयं बनाएँ और डिज़ाइन करें
     webdev-module-2:
       title: "HTML & CSS: Module 2"
-      description: Build and style your own web pages.
+      description: अपने वेब पेज को स्वयं बनाएँ और डिज़ाइन करें
     python-intro:
       title: "Introduction to Python"
       subtitle: "Variables, functions, and loops"
@@ -296,10 +296,10 @@ hi:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
       title: "Python: Module 1"
-      description: Python is a widely used, general purpose, text-based programming language.
+      description: Python एक व्यापक रूप से उपयोग किया जाने वाला, सामान्य प्रयोजन, टेक्स्ट-आधारित प्रोग्रामिंग भाषा है।
     python-module-2:
       title: "Python: Module 2"
-      description: Python is a widely used, general purpose, text-based programming language.
+      description: Python एक व्यापक रूप से उपयोग किया जाने वाला, सामान्य प्रयोजन, टेक्स्ट-आधारित प्रोग्रामिंग भाषा है।
     unity-intro:
       title: "Introduction to Unity"
       subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
@@ -462,16 +462,16 @@ hi:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: Raspberry Pi एक सक्षम कम्प्यूटर है जो कि इलेक्ट्रॉनिक प्रोजेक्ट्स में इस्तेमाल किया जा सकता है, और उन कई चीजों के लिए भी जो आपका डेस्कटॉप PC करता है।
     sense-hat:
       title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: Sense HAT Raspberry Pi के लिए एक ऐड-ऑन बोर्ड है, जिसमें LEDs, एक जॉयस्टिक (joystick) और बहुत से सेंसर्स (sensors) शामिल हैं।
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: Sonic Pi एक नये प्रकार का संगीत का उपकरण है, जो कोड के साथ ध्वनियों को बनाने के लिए डिज़ाइन किया गया है।
     microbit:
       title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      description: "BBC micro:bit एक पॉकेट में फिट होने वाला, कोडेबल कंप्यूटर है जो आपको रचनात्मक बनने में मदद करता है।"
     look-after-yourself:
       title: Look after yourself
       description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
@@ -479,23 +479,23 @@ hi:
       title: Protect our planet
       description: Use Scratch to learn about our planet and how to protect the environment for future generations
     coderdojo-html_css:
-      title: CoderDojo HTML & CSS
-      description: Create websites by following these projects.
+      title: CoderDojo HTML और CSS
+      description: इन परियोजनाओं को अनुसरण कर वेबसाइट्स बनाएं।
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      description: इन मजेदार प्रोजेक्ट्स पर काम करके Scratch सीखें!
     coderdojo-wearables:
-      title: CoderDojo Wearables
-      description: Create wearable technology projects by following these projects.
+      title: CoderDojo वियरेबल्स
+      description: इन परियोजनाओं को अनुसरण कर वियरेबल प्रौद्योगिकी परियोजनाएं बनाएं।
     app-inventor-for-social-enterprise:
-      title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      title: सामाजिक नवाचार के लिए App Inventor
+      description: प्रोजेक्ट्स को करके Android डिवाईसेस के लिए ऐप बनाना सीखें जो आपके समुदाय के लोगों की मदद कर सकता है।
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: सामाजिक नवाचार के लिए Scratch
+      description: Scratch सीखें, एक शुरुआती-अनुकूल ग्राफिकल प्रोग्रामिंग भाषा, एप्लिकेशन और गेम का निर्माण करने में मदद करता है, जिससे लोग महत्वपूर्ण मुद्दे जान सकें।
     html-css-for-social-enterprise:
       title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      description: पक्षी संरक्षण (bird conservation) के बारे में एक वेबसाइट बनाकर HTML और CSS सीखें।
     getting-started-with-raspberry-pi:
       title: Get started with Raspberry Pi
       description: Set up your Raspberry Pi and see what it can do!
