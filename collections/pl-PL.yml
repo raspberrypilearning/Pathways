@@ -9,7 +9,7 @@ pl:
       additional_paths_description: "Dodatkowe ścieżki Scratch, które pomogą Ci kontynuować przygodę z kodowaniem."
     python:
       title: "Python"
-      description: "Dowiedz się więcej o Pythonie jednego z najpopularniejszych na świecie języków programowania, aby tworzyć sztukę cyfrową, interaktywne mapy i modele."
+      description: "Dowiedz się więcej o Pythonie, jednym z najpopularniejszych na świecie języków programowania, aby tworzyć sztukę cyfrową, interaktywne mapy i modele."
       meta_description: "python, dzieci, dziecko, dzieci, kodowanie, programowanie, gry, animacje"
       additional_paths_title: "Dodatkowe ścieżki Pythona"
       additional_paths_description: "Dodatkowe ścieżki w Pythonie, które pomogą Ci kontynuować przygodę z kodowaniem."
@@ -23,8 +23,8 @@ pl:
       title: "Tworzenie gadżetów"
       description: "Kontroluj i wchodź w interakcję ze światem rzeczywistym, łącząc kod z elektroniką."
       meta_description: "informatyka fizyczna, elektronika, iot, internet rzeczy, dzieci, dziecko, kodowanie, programowanie"
-      additional_paths_title: "Dodatkowe ścieżki fizycznej informatyki"
-      additional_paths_description: "Dodatkowe ścieżki fizycznej informatyki, które pomogą Ci kontynuować swoją podróż kodowaniem."
+      additional_paths_title: "Dodatkowe ścieżki tworzenia gadżetów"
+      additional_paths_description: "Dodatkowe ścieżki tworzenia gadżetów, które pomogą Ci kontynuować swoją podróż kodowaniem."
     unity:
       title: "Unity"
       description: "Twórz i odkrywaj światy 3D dzięki mocy Unity."
@@ -33,7 +33,7 @@ pl:
       additional_paths_description: ""
     microbit:
       title: "micro:bit"
-      description: "Twórz angażujące projekty fizycznej informatyki za pomocą BBC micro:bit."
+      description: "Twórz angażujące projekty gadżetów za pomocą BBC micro:bit."
       meta_description: "microbit, dziecko, dzieci, kodowanie, programowanie, gry, animacje"
       additional_paths_title: ""
       additional_paths_description: ""
