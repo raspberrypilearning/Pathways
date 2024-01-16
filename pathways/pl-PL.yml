@@ -4,18 +4,18 @@ pl:
       title: "Wprowadzenie do micro:bit"
       subtitle: "czujniki, przyciski i światła!"
       description: We wprowadzeniu do kodowania micro:bit, nauczysz się jak wyczuć świat wokół ciebie i zareagować na niego.
-      meta_title: Ścieżka projektu | Kodowanie wprowadzające do micro:bit dla dzieci
+      meta_title: Ścieżka projektu | Wprowadzenie do kodowania micro:bit dla dzieci
       meta_description: Wprowadzenie do kodowania micro:bit dla dzieci, nastolatków i młodych dorosłych. Naucz się tworzyć projekty z mikro:bit, które pomogą Ci zadbać o siebie.
       header:
         - 
           title: "Co stworzę?"
           content: |
             Stwórz interaktywne projekty za pomocą czujników, przycisków i świateł znajdujących się na micro:bit.
-            Do końca tej ścieżki wykorzystasz nowo nabyte umiejętności do stworzenia gry imprezowej, którą będziesz mógł(a) zagrać i podzielić się z przyjaciółmi.
+            Do końca tej ścieżki wykorzystasz nowo nabyte umiejętności do stworzenia gry imprezowej,  w którą będziecie mogli zagrać i podzielić się nią z przyjaciółmi.
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            Ta ścieżka jest idealna dla początkujących do micro:bit.
+            Ta ścieżka jest idealna dla początkujących w micro:bit.
         - 
           title: "Czego potrzebuję?"
           content: |
@@ -30,8 +30,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -44,7 +44,7 @@ pl:
       subtitle: "duszki, skrypty i pętle"
       description: W tym wprowadzeniu do kodowania w Scratchu dla początkujących dowiesz się, jak dodawać kod, kostiumy i dźwięki do duszków podczas tworzenia animacji, gry, aplikacji i książki.
       meta_title: Ścieżka projektu | Wprowadzenie do programowania Scratch dla dzieci
-      meta_description: Wprowadzenie do programu Scratch dla dzieci, nastolatków i młodych dorosłych. Dowiedz się, jak tworzyć animacje, grę, aplikację i książkę.
+      meta_description: Wprowadzenie do programowania Scratch dla dzieci, nastolatków i młodych dorosłych. Dowiedz się, jak tworzyć animacje, grę, aplikację i książkę.
       header:
         - 
           title: "Co stworzę?"
@@ -54,7 +54,7 @@ pl:
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            Ta ścieżka jest idealna dla początkujących do Scratcha.
+            Ta ścieżka jest idealna dla początkujących w Scratch.
         - 
           title: "Czego potrzebuję?"
           content: |
@@ -69,8 +69,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -81,7 +81,7 @@ pl:
     more-scratch:
       title: "Więcej Scratcha"
       subtitle: "transmisja, decyzje i zmienne"
-      description: Więcej Scratch wykracza poza podstawy wprowadzone we wstępie do Scratcha. Będziesz tworzyć aplikacje, gry i symulacje za pomocą transmisji komunikatów, jeśli..to i jeśli..to..inne decyzje i zmienne.
+      description: Więcej Scratcha wykracza poza podstawy wprowadzone we wstępie do Scratcha. Będziesz tworzyć aplikacje, gry i symulacje za pomocą transmisji komunikatów, jeśli..to i jeśli..to..inne decyzje i zmienne.
       meta_title: Ścieżka projektu | Więcej Scratch dla dzieci | Raspberry Pi
       meta_description: Więcej Scratch dla dzieci, młodzieży i młodych dorosłych. Wyjdź poza podstawy, aby kodować aplikacje, gry i animacje za pomocą transmisji wiadomości dzięki tym bezpłatnym projektom.
       header:
@@ -89,7 +89,7 @@ pl:
           title: "Co stworzę?"
           content: |
             Stwórz interaktywne projekty, symulatory i gry.
-            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności do tworzenia wirtualnego zwierzęcia lub postaci, z którymi użytkownicy będą się kontaktować.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności do tworzenia wirtualnego zwierzątka lub postaci, z którymi użytkownicy będą się kontaktować.
         - 
           title: "Co muszę wiedzieć?"
           content: |
