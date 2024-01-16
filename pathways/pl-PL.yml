@@ -461,7 +461,7 @@ pl:
       title: Sonic Pi
       description: Sonic Pi to nowy rodzaj instrumentu muzycznego, przeznaczony do tworzenia dźwięków za pomocą kodu.
     microbit:
-      title: "BBC micro: bit"
+      title: "BBC micro:bit"
       description: "BBC micro:bit to kieszonkowy, programowalny komputer, dzięki któremu możesz wykazać się kreatywnością."
     look-after-yourself:
       title: Dbaj o siebie
@@ -508,7 +508,7 @@ pl:
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            - Podstawowe umiejętności w zakresie pisania i nawigacji komputerowej
+            - Podstawowe umiejętności w zakresie pisania i korzystania z komputera
             - Doświadczenie kodowania w [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} może być przydatne
         - 
           title: "Czego potrzebuję?"
@@ -560,30 +560,30 @@ pl:
         - 
           title: "Informacje o mentorze"
           content: |
-            ## Wyzwanie Doświadcz AI: Zadanie Muzyczne
+            ## Wyzwanie Doświadczenia AI: Zadanie Muzyczne
 
-            Ta ścieżka zapewnia młodym twórcom możliwość rozpoczęcia pierwszych kroków w tworzeniu za pomocą nauki maszynowej i sztucznej inteligencji w ramach wyzwania AI Doświadczenia.
+            Ta ścieżka zapewnia młodym twórcom możliwość rozpoczęcia pierwszych kroków w tworzeniu za pomocą uczenia maszynowego i sztucznej inteligencji w ramach wyzwania AI Doświadczenia.
 
-            Zadanie Muzyczne trwa około 5 godzin czasu projektowego i jest zaprojektowane tak, aby było elastyczne w dostarczaniu - może być prowadzone jako indywidualne sesje lub jednodniowe hakaton. Treść zapewnia również możliwość kontynuowania prac nad projektami między etapami.
+            Zadanie Muzyczne trwa około 5 godzin czasu projektowego i jest zaprojektowane tak, aby było elastyczne w dostarczaniu - może być prowadzone jako indywidualne sesje lub jednodniowy hackathon. Treść zapewnia również możliwość kontynuowania prac nad projektami między etapami.
 
-            [Przewodnik Mentora dla misji](https://drive. oogle. om/uc? xport=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) zawiera instrukcje dotyczące tworzenia wymaganych kont, notatki dla każdego etapu Zadania, jak również wskazówki debugowania i sugestie dla dodatkowych funkcji, które mogą dodać.
+            [Przewodnik Mentora dla Zadania](https://drive. oogle. om/uc? xport=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) zawiera instrukcje dotyczące tworzenia wymaganych kont, notatki dla każdego etapu Zadania, jak również wskazówki debugowania i sugestie dla dodatkowych funkcji, które mogą dodać.
 
-            Zawiera również instrukcje przesyłania gotowych aplikacji twoich twórców do Prezentacji Doświadczenia AI, być doceniany i umieszczany na liście przez zespół ekspertów z branży i naukowców. Uczestnicy krótkiej listy zostaną zaproszeni do udziału w naszym specjalnym wydarzeniu prezentacyjnym, we współpracy z Google Deepmind!
+            Zawiera również instrukcje przesyłania gotowych aplikacji twoich twórców do Prezentacji Doświadczenia AI, aby być doceniany i umieszczany na liście przez zespół ekspertów z branży i naukowców. Uczestnicy którzy znajdą się na liście zostaną zaproszeni do udziału w naszej specjalnej prezentacji, we współpracy z Google Deepmind!
     prepare-to-run-a-code-club:
       title: "Przygotuj się do uruchomienia Code Club"
       subtitle: "Twoje pierwsze kroki w kierunku uruchomienia Code Club dla młodych ludzi."
-      description: W tym kursie otrzymasz wskazówki krok po kroku, aby rozpocząć swój Code Club Zaczniemy od praktycznych aspektów planowania i konfiguracji, poprowadzimy Cię poprzez planowanie i realizację pierwszej sesji. a skończymy pomysłami i wskazówkami dotyczącymi motywowania uczniów i świętowania ich osiągnięć.
+      description: W tym kursie otrzymasz wskazówki krok po kroku, aby rozpocząć swój Code Club. Zaczniemy od praktycznych aspektów planowania i konfiguracji, poprowadzimy Cię poprzez planowanie i realizację pierwszej sesji, a skończymy pomysłami i wskazówkami dotyczącymi motywowania uczniów oraz świętowania ich osiągnięć.
       meta_title: Ścieżka projektu | Przygotuj się do uruchomienia Code Club
       meta_description: W tym kursie poprowadzimy Cię przez proces zakładania Code Club, od wstępnej konfiguracji i planowania, po przeprowadzenie pierwszej sesji, a na koniec motywowanie i świętowanie osiągnięć uczniów.
       header:
         - 
-          title: "Co się nauczysz?"
+          title: "Czego się nauczę?"
           content: |
             W tym kursie poprowadzimy Cię przez proces zakładania Code Club, od wstępnej konfiguracji i planowania, po przeprowadzenie pierwszej sesji, a na koniec motywowanie i świętowanie osiągnięć uczniów.
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            Ten kurs będzie przydatny dla Ciebie, jeśli chcesz wolontariusza w klubie w swojej społeczności, pomoc młodym ludziom w uczeniu się kodowania, lub jesteś nauczycielem, który chce utworzyć pozaszkolny klub kodujący dla uczniów w Twojej szkole.
+            Ten kurs będzie przydatny dla Ciebie, jeśli chcesz prowadzić wolontariat w klubie w swojej społeczności, pomoc młodym ludziom w uczeniu się kodowania, lub jesteś nauczycielem, który chce utworzyć pozaszkolny klub kodujący dla uczniów w Twojej szkole.
         - 
           title: "Czego potrzebuję?"
           content: |
