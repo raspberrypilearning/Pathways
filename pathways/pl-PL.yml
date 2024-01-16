@@ -109,8 +109,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -149,8 +149,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -169,20 +169,20 @@ pl:
       description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
     scratch-machine-learning:
       title: "Uczenie maszynowe Scratch"
-      description: Wstępne projekty uczenia maszynowego wykorzystujące Uczenie Maszynowe dla dzieci w Scratch.
+      description: Projekty wprowadzające do uczenia maszynowego wykorzystujące Uczenie Maszynowe dla dzieci w Scratch.
     scratch-additional-projects:
       title: "Scratch: dodatkowe projekty"
       description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
     webdev-module-1:
       title: "HTML i CSS: Moduł 1"
-      description: Twórz i styluj własne strony internetowe.
+      description: Twórz i projektuj własne strony internetowe.
     webdev-module-2:
       title: "HTML i CSS: Moduł 2"
-      description: Twórz i styluj własne strony internetowe.
+      description: Twórz i projektuj własne strony internetowe.
     python-intro:
       title: "Wprowadzenie do Pythona"
       subtitle: "Zmienne, funkcje i pętle"
-      description: We wprowadzeniu do kodowania w Pythonie dla początkujących, nauczysz się jak używać zmiennych, pętli, i funkcje do tworzenia wizualnej i interaktywnej grafiki, animacji, symulacji, gier i innych.
+      description: We wprowadzeniu do kodowania w Pythonie dla początkujących, nauczysz się jak używać zmiennych, pętli i funkcji do tworzenia wizualnej oraz interaktywnej grafiki, animacji, symulacji, gier i innych.
       meta_title: Ścieżka projektu | Wprowadzenie do Pythona dla dzieci | Raspberry Pi
       meta_description: Wprowadzenie do Pythona dla dzieci, nastolatków i młodych dorosłych. Stwórz interaktywną grafikę, animacje i gry z tymi darmowymi zasobami.
       header:
@@ -194,8 +194,8 @@ pl:
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            - Podstawowe umiejętności w zakresie pisania i nawigacji komputerowej
-            - Doświadczenie kodowania w [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} może być przydatne
+            - Podstawowe umiejętności w zakresie pisania na klawiaturze i używania komputera.
+            - Doświadczenie w kodowaniu w [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} może być przydatne
         - 
           title: "Czego potrzebuję?"
           content: |
@@ -207,8 +207,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -230,7 +230,7 @@ pl:
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            - Podstawowe umiejętności w zakresie pisania i nawigacji komputerowej
+            - Podstawowe umiejętności w zakresie pisania i używania komputera.
             - Doświadczenie kodowania w [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} może być przydatne
         - 
           title: "Czego potrzebuję?"
@@ -243,8 +243,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadzają twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwalają twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -261,7 +261,7 @@ pl:
         - 
           title: "Co stworzę?"
           content: |
-            Wizualizuj dane, tworząc interaktywne wykresy, symulacje i kawałki sztuki.
+            Wizualizuj dane, tworząc interaktywne wykresy, symulacje i dzieła sztuki.
             Do końca tej ścieżki utworzysz unikalną wizualizację danych w wybranym temacie
         - 
           title: "Co muszę wiedzieć?"
@@ -279,8 +279,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -313,7 +313,7 @@ pl:
         - 
           title: "Czego potrzebuję?"
           content: |
-            Ta ścieżka wymaga dużego pobrania i instalacji, które należy ukończyć przed rozpoczęciem pierwszego projektu.
+            Ta ścieżka wymaga pobrania dużych plików i instalacji, które należy ukończyć przed rozpoczęciem pierwszego projektu.
 
             - Musisz zainstalować Unity Hub i Unity Editor dla swojego systemu operacyjnego. Dowiedz się, jak to zrobić w naszym [przewodniku Unity](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
             - Potrzebujesz również edytora kodu. Zalecany edytor to [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
@@ -324,8 +324,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -336,24 +336,24 @@ pl:
     more-unity:
       title: "Więcej Unity"
       subtitle: "Ciała sztywne, Fizyka i Materiały"
-      description: W tej ścieżce "Więcej Unity" użyjesz fizyki i materiałów do tworzenia interaktywnych światów zagadek 3D z zaprojektowanymi niestandardowymi marmurami.
+      description: W tej ścieżce "Więcej Unity" użyjesz fizyki i materiałów do tworzenia interaktywnych światów zagadek 3D z zaprojektowanymi przez Ciebie szklanymi kulkami.
       meta_title: Ścieżka projektu | Kodowanie Unity dla dzieci | Raspberry Pi
       meta_description: Kodowanie Unity dla dzieci, młodzieży i młodych dorosłych. Dowiedz się, jak tworzyć światy i gry 3D, korzystając z tych darmowych zasobów.
       header:
         - 
           title: "Co stworzę?"
           content: |
-            Twórz trasy dla marmurowych kul i rozwiąż problem z projektami 3D świata.
+            Twórz trasy dla szklanych kulek i rozwiąż problem z projektami 3D świata.
             Do końca tej ścieżki wykorzystasz swoje nowe umiejętności do tworzenia unikalnych materiałów i korzystania z realistycznej fizyki w projektach Unity
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            - Znajomość z naszą [Wprowadzenie do Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} ścieżką
-            - Doświadczenie kodowania w [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} lub [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+            - Zapoznanie się z naszą ścieżką [Wprowadzenie do Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}
+            - Doświadczenie w kodowanu w [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} lub [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
           title: "Czego potrzebuję?"
           content: |
-            Ta ścieżka wymaga dużego pobrania i instalacji, które należy ukończyć przed rozpoczęciem pierwszego projektu.
+            Ta ścieżka wymaga pobrania dużych plików i instalacji, które należy ukończyć przed rozpoczęciem pierwszego projektu.
 
             - Musisz zainstalować Unity Hub i Unity Editor dla swojego systemu operacyjnego. Dowiedz się, jak to zrobić w naszym [przewodniku Unity guide](https://projects.raspberrypi. rg/en/projects/unity-guide){:target="_blank"}.
             - Będziesz również potrzebował edytora kodu. Zalecany edytor to [Visual Studio Code](https://code.visualstudio. om/){:target="_blank"}.
@@ -364,8 +364,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -374,7 +374,7 @@ pl:
             Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą anonimowo udostępniane w naszych Galeriach Społeczności.
             Możesz dowiedzieć się, jak [udostępniać projekty](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} w naszym przewodniku.
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Informatyka fizyczna ze Scratch i Raspberry Pi
+      title: Tworzenie gadżetów ze Scratch i Raspberry Pi
       description: Dowiedz się, jak korzystać z elektroniki wejściowej i wyjściowej ze Scratch i komputera Raspberry Pi.
       meta_title: Ścieżka projektu | Kodowanie w Scratch dla dzieci | Raspberry Pi
       meta_description: Dowiedz się, jak korzystać z elektroniki wejściowej i wyjściowej ze Scratch na komputerze Raspberry Pi. Darmowe zasoby - kodowanie w Scratchu dla dzieci, młodzieży i młodych dorosłych.
@@ -387,7 +387,7 @@ pl:
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            Ta ścieżka jest dla początkujących do Scratch i fizycznej informatyki. Jednak najpierw możesz ukończyć ścieżkę [Wprowadzenie do Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}.
+            Ta ścieżka jest dla początkujących w Scratch i tworzeniu gadżetów. Jednak najpierw możesz ukończyć ścieżkę [Wprowadzenie do Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}.
         - 
           title: "Czego potrzebuję?"
           content: |
@@ -401,8 +401,8 @@ pl:
           content: |
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
 
             ##Szybki quiz
@@ -422,20 +422,20 @@ pl:
         - 
           title: "Co muszę wiedzieć?"
           content: |
-            - Podstawowe umiejętności pisania i nawigacji na komputerze
-            - Ta ścieżka jest przeznaczona dla początkujących, którzy nie mają jeszcze doświadczenia z informatyką fizyczną
+            - Podstawowe umiejętności pisania i korzystania z komputera
+            - Ta ścieżka jest przeznaczona dla początkujących, którzy nie mają jeszcze doświadczenia z tworzeniem gadżetów
         - 
           title: "Czego potrzebuję?"
           content: |
             ## Sprzęt
             Możesz kupić wszystkie wymagane urządzenia dla tej ścieżki z:
             - [Sklep internetowy Pimoroni](https://shop.pimoroni. om/products/pico-intro-kit?variant=39893512945747){:target="_blank"} (zawiera Raspberry Pi Pico)
-            - [sklep internetowy Kitronik](https://kitronik.co. k/products/5343-raspberry-pi-fundation-pico-pathway-pack){:target="_blank"} (wyłącza Raspberry Pi Pico)
+            - [sklep internetowy Kitronik](https://kitronik.co. k/products/5343-raspberry-pi-fundation-pico-pathway-pack){:target="_blank"} (poza Raspberry Pi Pico)
 
             ## Oprogramowanie
             - Thonny
-            - Raspberry Pi Pico Fireware (zainstalowany przez Thonny)
-            - Biblioteka pikozero (dostępna przez PyPi w Thonny)
+            - Raspberry Pi Pico Fireware (zainstalowany poprzez Thonny)
+            - Biblioteka pikozero (dostępna poprzez PyPi w Thonny)
             Szczegóły instalacji znajdują się w pierwszym projekcie i w naszym [przewodniku Raspberry Pi Pico](https://projects. aspberrypi.org/pl/projects/introduction-to-the-pico){:target="_blank"}
         - 
           title: "Informacje o mentorze"
@@ -443,8 +443,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadzają twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwalają twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -492,7 +492,7 @@ pl:
       description: Skonfiguruj swój Raspberry Pi i zobacz co może zrobić!
     life-on-earth:
       meta_title: Życie na Ziemi Astro Pi
-      meta_description: Pomóż przygotować się do wyzwania Astro Pi Life na Ziemi dzięki tej kolekcji zasobów Raspberry Pi, modułu Camera, Sense HAT i Google Coral.
+      meta_description: Pomóż przygotować się do wyzwania Astro Pi Life on Earth dzięki tej kolekcji zasobów Raspberry Pi, modułu Camera, Sense HAT i Google Coral.
     web-intro:
       title: Wprowadzenie do sieci Web
       subtitle: HTML, CSS i animacje
@@ -521,8 +521,8 @@ pl:
             ##321…Twórz!
             Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Projekty eksploracyjne**: Wprowadź twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
-            - **2 Projekty designu**: Pozwól twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
             - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
             ##Szybki quiz
             Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
@@ -535,15 +535,15 @@ pl:
     experience-ai-challenge-music-quest:
       title: "Wyzwanie Doświadczenia AI: Zadanie Muzyczne"
       subtitle: "Przesyłaj strumieniowo ścieżkę dźwiękową do swojego życia z AI"
-      description: Zadanie muzyki AI to seria sesji, które nauczą Cię jak projektować i tworzyć własne 'AI DJ' za pomocą Scratcha, Automatyczne uczenie się dla dzieci i API Spotify.
-      meta_title: Ścieżka projektu | Wyzwanie AI Doświadczenia - Zadanie Muzyczne
-      meta_description: Wprowadzenie do programowania Scratch i nauki maszyn dla dzieci, nastolatków i młodych dorosłych. Dowiedz się, jak klasyfikować dane do modelu ML i używać ich do przewidywania muzyki, którą chcesz.
+      description: Zadanie muzyki AI to seria sesji, które nauczą Cię jak projektować i tworzyć własne 'AI DJ' za pomocą Scratcha, uczenia maszynowego dla dzieci i API Spotify.
+      meta_title: Ścieżka projektu | Wyzwanie Doświadczenia AI - Zadanie Muzyczne
+      meta_description: Wprowadzenie do programowania Scratch i uczenia maszynowego dla dzieci, nastolatków i młodych dorosłych. Dowiedz się, jak klasyfikować dane do modelu ML i używać ich do przewidywania muzyki, którą chcesz.
       header:
         - 
           title: "Co stworzę?"
           content: |
-            Stwórz interaktywne projekty Scratch i stwórz i trenuj model uczenia się maszyn.
-            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności do tworzenia aplikacji, która może tworzyć playlisty muzyczne w oparciu o Twoje preferencje.
+            Stwórz interaktywne projekty Scratch i stwórz i trenuj model uczenia maszynowego.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności do tworzenia aplikacji, która może tworzyć playlisty muzyczne na podstawie Twoich preferencji.
         - 
           title: "Co muszę wiedzieć?"
           content: |
