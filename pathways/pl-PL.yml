@@ -1,0 +1,594 @@
+---
+pl-PL:
+  pathways:
+    microbit-intro:
+      title: "Wprowadzenie do micro:bit"
+      subtitle: "czujniki, przyciski i światła!"
+      description: We wprowadzeniu do kodowania micro:bit, nauczysz się jak wyczuć świat wokół ciebie i zareagować na niego.
+      meta_title: Ścieżka projektu | Wprowadzenie do kodowania micro:bit dla dzieci
+      meta_description: Wprowadzenie do kodowania micro:bit dla dzieci, nastolatków i młodych dorosłych. Naucz się tworzyć projekty z mikro:bit, które pomogą Ci zadbać o siebie.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Stwórz interaktywne projekty za pomocą czujników, przycisków i świateł znajdujących się na micro:bit.
+            Do końca tej ścieżki wykorzystasz nowo nabyte umiejętności do stworzenia gry imprezowej,  w którą będziecie mogli zagrać i podzielić się nią z przyjaciółmi.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            Ta ścieżka jest idealna dla początkujących w micro:bit.
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            Ta ścieżka wymaga:
+
+            - Komputer stacjonarny, laptop, tablet, urządzenie mobilne, lub komputer Raspberry Pi
+            - Dostęp do internetu w celu korzystania z MakeCode online lub możliwość pobrania i zainstalowania MakeCode. Zobacz nasz [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} po więcej szczegółów
+            - Opcjonalnie [konto MakeCode](https://makecode.microbit.org/){:target="_blank"} i fizyczny micro:bit.
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+            Możesz dowiedzieć się, jak [udostępniać projekty](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} w naszym przewodniku.
+    scratch-intro:
+      title: "Wprowadzenie do Scratcha"
+      subtitle: "duszki, skrypty i pętle"
+      description: W tym wprowadzeniu do kodowania w Scratchu dla początkujących dowiesz się, jak dodawać kod, kostiumy i dźwięki do duszków podczas tworzenia animacji, gry, aplikacji i książki.
+      meta_title: Ścieżka projektu | Wprowadzenie do programowania Scratch dla dzieci
+      meta_description: Wprowadzenie do programowania Scratch dla dzieci, nastolatków i młodych dorosłych. Dowiedz się, jak tworzyć animacje, grę, aplikację i książkę.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Stwórz interaktywne projekty, animacje i stwórz grę wielopoziomową.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności, aby stać się autorem cyfrowej książki z wieloma stronami.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            Ta ścieżka jest idealna dla początkujących w Scratch.
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            Ta ścieżka wymaga:
+
+            - Komputer stacjonarny, laptop, tablet, urządzenie mobilne, lub komputer Raspberry Pi
+            - Dostęp do Internetu, aby korzystać ze Scratcha online lub możliwość pobrania i zainstalowania Scratcha. Zobacz nasz [przewodnik konfiguracyjny Scratch](https://projects. aspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} po więcej szczegółów.
+            - Opcjonalnie [konto Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+            Możesz dowiedzieć się, jak [udostępniać projekty](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} w naszym przewodniku
+    more-scratch:
+      title: "Więcej Scratcha"
+      subtitle: "transmisja, decyzje i zmienne"
+      description: Więcej Scratcha wykracza poza podstawy wprowadzone we wstępie do Scratcha. Będziesz tworzyć aplikacje, gry i symulacje za pomocą transmisji komunikatów, jeśli..to i jeśli..to..inne decyzje i zmienne.
+      meta_title: Ścieżka projektu | Więcej Scratch dla dzieci | Raspberry Pi
+      meta_description: Więcej Scratch dla dzieci, młodzieży i młodych dorosłych. Wyjdź poza podstawy, aby kodować aplikacje, gry i animacje za pomocą transmisji wiadomości dzięki tym bezpłatnym projektom.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Stwórz interaktywne projekty, symulatory i gry.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności do tworzenia wirtualnego zwierzątka lub postaci, z którymi użytkownicy będą się kontaktować.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            Ta ścieżka jest przeznaczona dla twórców, którzy znają się na Scratchu.
+            Jeśli dopiero zaczynasz korzystać ze Scratcha, możesz wypróbować naszą ścieżkę [Wprowadzenie do Scratcha](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}.
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            Ta ścieżka wymaga:
+
+            - Komputer stacjonarny, laptop, tablet, urządzenie mobilne, lub komputer Raspberry Pi
+            - Dostęp do Internetu, aby korzystać ze Scratcha online lub możliwość pobrania i zainstalowania Scratcha. Zobacz nasz [przewodnik konfiguracyjny Scratch](https://projects. aspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} po więcej szczegółów.
+            - Opcjonalnie [konto Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+            Możesz dowiedzieć się, jak [udostępniać projekty](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} w naszym przewodniku
+    further-scratch:
+      title: "Dalsze projekty w Scratchu"
+      subtitle: "klony, moje bloki i logika boolowska"
+      description: Dalsze kroki w Scratchu wykraczają poza umiejętności wprowadzone we Wstępie do Scratcha i Więcej Scratcha. Będziesz tworzyć aplikacje, gry, dzieła sztuki generowane komputerowo i symulacje, korzystając z logiki boolowskiej, funkcji, klonów i nie tylko.
+      meta_title: Ścieżka projektu | Dalsze kodowanie Scratch dla dzieci | Raspberry Pi
+      meta_description: Dalsze kodowanie Scratch dla dzieci, nastolatków i młodych dorosłych. Użyj tych darmowych zasobów kodowania, aby tworzyć aplikacje, gry, sztukę wygenerowaną komputerowo i animacje.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Stwórz sztukę wygenerowaną przez komputer, muzykę, gry i symulacje.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności, aby stworzyć symulację widoku pierwszej osoby w wyimaginowanym świecie.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            Ta ścieżka jest przeznaczona dla twórców, którzy znają się na Scratchu.
+            Jeśli dopiero zaczynasz korzystać ze Scratcha, możesz wypróbować naszą ścieżkę [Wprowadzenie do Scratcha](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} albo ścieżki [Więcej Scratcha](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"}.
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            Ta ścieżka wymaga:
+
+            - Komputer stacjonarny, laptop, tablet, urządzenie mobilne, lub komputer Raspberry Pi
+            - Dostęp do Internetu, aby korzystać ze Scratcha online lub możliwość pobrania i zainstalowania Scratcha. Zobacz nasz [przewodnik konfiguracyjny Scratch](https://projects. aspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} po więcej szczegółów.
+            - Opcjonalnie [konto Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+            Możesz dowiedzieć się, jak [udostępniać projekty](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} w naszym przewodniku
+    scratch-module-1:
+      title: "Scratch: Moduł 1"
+      description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
+    scratch-module-2:
+      title: "Scratch: Moduł 2"
+      description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
+    scratch-module-3:
+      title: "Scratch: Moduł 3"
+      description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
+    scratch-machine-learning:
+      title: "Uczenie maszynowe Scratch"
+      description: Projekty wprowadzające do uczenia maszynowego wykorzystujące Uczenie Maszynowe dla dzieci w Scratch.
+    scratch-additional-projects:
+      title: "Scratch: dodatkowe projekty"
+      description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
+    webdev-module-1:
+      title: "HTML i CSS: Moduł 1"
+      description: Twórz i projektuj własne strony internetowe.
+    webdev-module-2:
+      title: "HTML i CSS: Moduł 2"
+      description: Twórz i projektuj własne strony internetowe.
+    python-intro:
+      title: "Wprowadzenie do Pythona"
+      subtitle: "Zmienne, funkcje i pętle"
+      description: We wprowadzeniu do kodowania w Pythonie dla początkujących, nauczysz się jak używać zmiennych, pętli i funkcji do tworzenia wizualnej oraz interaktywnej grafiki, animacji, symulacji, gier i innych.
+      meta_title: Ścieżka projektu | Wprowadzenie do Pythona dla dzieci | Raspberry Pi
+      meta_description: Wprowadzenie do Pythona dla dzieci, nastolatków i młodych dorosłych. Stwórz interaktywną grafikę, animacje i gry z tymi darmowymi zasobami.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Stwórz interaktywne projekty, sztukę, gry i symulację.
+            Na końcu tej ścieżki utworzysz skalowalny fragment sztuki geometrycznej.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            - Podstawowe umiejętności w zakresie pisania na klawiaturze i używania komputera.
+            - Doświadczenie w kodowaniu w [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} może być przydatne
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            - Komputer lub urządzenie mobilne zdolne do obsługi platformy kodowania online.
+            - Opcjonalnie konto do zapisywania projektów.
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+    python-intro-code-editor:
+      title: "Wprowadzenie do Pythona"
+      subtitle: "zmienne, funkcje i pętle"
+      description: We wprowadzeniu do kodowania w Pythonie dla początkujących, nauczysz się jak używać zmiennych, pętli, i funkcje do tworzenia wizualnej i interaktywnej grafiki, animacji, symulacji, gier i innych.
+      meta_title: Ścieżka projektu | Wprowadzenie do Pythona dla dzieci | Raspberry Pi
+      meta_description: Wprowadzenie do Pythona dla dzieci, nastolatków i młodych dorosłych. Stwórz interaktywną grafikę, animacje i gry z tymi darmowymi zasobami.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Stwórz interaktywne projekty, sztukę, gry i symulację.
+            Na końcu tej ścieżki utworzysz skalowalny fragment sztuki geometrycznej.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            - Podstawowe umiejętności w zakresie pisania i używania komputera.
+            - Doświadczenie kodowania w [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} może być przydatne
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            - Komputer lub urządzenie mobilne zdolne do obsługi platformy kodowania online.
+            - Opcjonalnie konto do zapisywania projektów.
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadzają twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwalają twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+    more-python:
+      title: "Więcej Pythona"
+      subtitle: "listy, słowniki i dane"
+      description: Więcej Python wykracza poza podstawy wprowadzone we wstępie do Pythona. Dowiesz się, jak używać list, słowników i plików do tworzenia wykresów, modeli i grafik.
+      meta_title: Ścieżka projektu | Więcej projektów w Pythonie dla dzieci | Raspberry Pi
+      meta_description: Więcej projektów Python dla dzieci, nastolatków i młodych dorosłych. Dowiedz się, jak korzystać z list, słowników i plików do tworzenia wykresów, modeli i grafiki.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Wizualizuj dane, tworząc interaktywne wykresy, symulacje i dzieła sztuki.
+            Do końca tej ścieżki utworzysz unikalną wizualizację danych w wybranym temacie
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            — Ta ścieżka jest przeznaczona dla twórców, którzy znają się na Pythonie.
+            – Jeśli dopiero zaczynasz przygodę z Pythonem, możesz wypróbować naszą ścieżkę [Wprowadzenie do Pythona](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}.
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            - Komputer lub urządzenie mobilne zdolne do obsługi platformy kodowania online.
+            - Opcjonalnie konto do zapisywania projektów.
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+    python-module-1:
+      title: "Python: Moduł 1"
+      description: Python to powszechnie stosowany tekstowy język programowania o ogólnym zastosowaniu.
+    python-module-2:
+      title: "Python: Moduł 2"
+      description: Python to powszechnie stosowany tekstowy język programowania o ogólnym zastosowaniu.
+    unity-intro:
+      title: "Wprowadzenie do Unity"
+      subtitle: "Obiekty 3D, Kontrolery postaci, Kolidery, Tekst i Przyciski"
+      description: W tym wprowadzeniu do Unity dowiesz się, jak tworzyć światy i gry 3D z przedmiotami kolekcjonerskimi, licznikami czasu i postaciami niezależnymi.
+      meta_title: Ścieżka projektu | Kodowanie Unity dla dzieci | Raspberry Pi
+      meta_description: Wprowadzenie do kodowania Unity dla dzieci, młodzieży i młodych dorosłych. Dowiedz się, jak tworzyć światy i gry 3D, korzystając z tych darmowych zasobów.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Twórz światy i gry 3D z przedmiotami kolekcjonerskimi, licznikami czasu i postaciami niezależnymi.
+            Pod koniec tej ścieżki wykorzystasz swoje nowe umiejętności do stworzenia gry polegającej na łapaniu gwiazd, świata z zadaniami i przygody 3D.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            - Podstawowe umiejętności w zakresie pisania i nawigacji komputerowej
+            - Doświadczenie kodowania w [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} lub [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            Ta ścieżka wymaga pobrania dużych plików i instalacji, które należy ukończyć przed rozpoczęciem pierwszego projektu.
+
+            - Musisz zainstalować Unity Hub i Unity Editor dla swojego systemu operacyjnego. Dowiedz się, jak to zrobić w naszym [przewodniku Unity](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+            - Potrzebujesz również edytora kodu. Zalecany edytor to [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
+            - Musisz również pobrać [pakiet startowy Unity](https://rpf.io/p/en/explore-a-3d-world-go) aktywów przed rozpoczęciem.
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą anonimowo udostępniane w naszych Galeriach Społeczności.
+            Możesz dowiedzieć się, jak [udostępniać projekty](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} w naszym przewodniku.
+    more-unity:
+      title: "Więcej Unity"
+      subtitle: "Ciała sztywne, Fizyka i Materiały"
+      description: W tej ścieżce "Więcej Unity" użyjesz fizyki i materiałów do tworzenia interaktywnych światów zagadek 3D z zaprojektowanymi przez Ciebie szklanymi kulkami.
+      meta_title: Ścieżka projektu | Kodowanie Unity dla dzieci | Raspberry Pi
+      meta_description: Kodowanie Unity dla dzieci, młodzieży i młodych dorosłych. Dowiedz się, jak tworzyć światy i gry 3D, korzystając z tych darmowych zasobów.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Twórz trasy dla szklanych kulek i rozwiąż problem z projektami 3D świata.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności do tworzenia unikalnych materiałów i korzystania z realistycznej fizyki w projektach Unity
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            - Zapoznanie się z naszą ścieżką [Wprowadzenie do Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}
+            - Doświadczenie w kodowanu w [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} lub [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            Ta ścieżka wymaga pobrania dużych plików i instalacji, które należy ukończyć przed rozpoczęciem pierwszego projektu.
+
+            - Musisz zainstalować Unity Hub i Unity Editor dla swojego systemu operacyjnego. Dowiedz się, jak to zrobić w naszym [przewodniku Unity guide](https://projects.raspberrypi. rg/en/projects/unity-guide){:target="_blank"}.
+            - Będziesz również potrzebował edytora kodu. Zalecany edytor to [Visual Studio Code](https://code.visualstudio. om/){:target="_blank"}.
+            - Będziesz musiał również pobrać [pakiet startowy Unity](https://rpf.io/p/en/rainbow-run-go) aktywów przed rozpoczęciem.
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą anonimowo udostępniane w naszych Galeriach Społeczności.
+            Możesz dowiedzieć się, jak [udostępniać projekty](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} w naszym przewodniku.
+    physical-computing-with-scratch-and-the-raspberry-pi:
+      title: Tworzenie gadżetów ze Scratch i Raspberry Pi
+      description: Dowiedz się, jak korzystać z elektroniki wejściowej i wyjściowej ze Scratch i komputera Raspberry Pi.
+      meta_title: Ścieżka projektu | Kodowanie w Scratch dla dzieci | Raspberry Pi
+      meta_description: Dowiedz się, jak korzystać z elektroniki wejściowej i wyjściowej ze Scratch na komputerze Raspberry Pi. Darmowe zasoby - kodowanie w Scratchu dla dzieci, młodzieży i młodych dorosłych.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Stwórz gry, interaktywne urządzenia i instrument muzyczny.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności, aby stać się autorem książki elektronicznej z wieloma stronami.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            Ta ścieżka jest dla początkujących w Scratch i tworzeniu gadżetów. Jednak najpierw możesz ukończyć ścieżkę [Wprowadzenie do Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}.
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            - Komputer Raspberry Pi
+            - Różne przewody
+            - Jednokolorowe diody LED, buzzery i rezystory
+            - Zainstalowana wersja pulpitowa Scratch 3
+            - Przedmioty do rękodzieła, w tym folia aluminiowa
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+    pico-intro:
+      title: "Wprowadzenie do Raspberry Pi Pico"
+      subtitle: "Diody LED, buzzery, przełączniki i pokrętła"
+      description: We wprowadzeniu do produkcji cyfrowej z Raspberry Pi Pico dla początkujących, nauczysz się, jak podłączyć i kontrolować diody LED, przyciski, przełączniki, buzzery i potencjometry (pokrętła).
+      meta_title: Ścieżka projektu | Wprowadzenie do Raspberry Pi Pico
+      meta_description: We wprowadzeniu do produkcji cyfrowej z Raspberry Pi Pico dla początkujących, nauczysz się jak łączyć i kontrolować diody LED, przyciski, przełączniki, buzzery itp.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Programuj i twórz interaktywne urządzenia ze światłem i dźwiękiem.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności, aby stworzyć unikalne urządzenie sensoryczne, z którym ludzie będą chcieli utrzymywać interakcję
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            - Podstawowe umiejętności pisania i korzystania z komputera
+            - Ta ścieżka jest przeznaczona dla początkujących, którzy nie mają jeszcze doświadczenia z tworzeniem gadżetów
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            ## Sprzęt
+            Możesz kupić wszystkie wymagane urządzenia dla tej ścieżki z:
+            - [Sklep internetowy Pimoroni](https://shop.pimoroni. om/products/pico-intro-kit?variant=39893512945747){:target="_blank"} (zawiera Raspberry Pi Pico)
+            - [sklep internetowy Kitronik](https://kitronik.co. k/products/5343-raspberry-pi-fundation-pico-pathway-pack){:target="_blank"} (poza Raspberry Pi Pico)
+
+            ## Oprogramowanie
+            - Thonny
+            - Raspberry Pi Pico Fireware (zainstalowany poprzez Thonny)
+            - Biblioteka pikozero (dostępna poprzez PyPi w Thonny)
+            Szczegóły instalacji znajdują się w pierwszym projekcie i w naszym [przewodniku Raspberry Pi Pico](https://projects. aspberrypi.org/pl/projects/introduction-to-the-pico){:target="_blank"}
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadzają twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwalają twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami filmikami swoich projektów Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+    raspberry-pi:
+      title: Raspberry Pi
+      description: Raspberry Pi to mały komputer, który można używać w projektach wykorzystujących elektronikę, a także do wielu rzeczy, które wykonuje komputer stacjonarny.
+    sense-hat:
+      title: Sense HAT
+      description: Sense HAT jest dodatkową płytką do Raspberry Pi, która zawiera diody LED, joystick i wiele czujników.
+    sonic-pi:
+      title: Sonic Pi
+      description: Sonic Pi to nowy rodzaj instrumentu muzycznego, przeznaczony do tworzenia dźwięków za pomocą kodu.
+    microbit:
+      title: "BBC micro:bit"
+      description: "BBC micro:bit to kieszonkowy, programowalny komputer, dzięki któremu możesz wykazać się kreatywnością."
+    look-after-yourself:
+      title: Dbaj o siebie
+      description: Naucz się dbać o siebie, jednocześnie ucząc się korzystać Scratcha i wypracuj sobie drogę do bycia niezależnym programistą.
+    protect-our-planet:
+      title: Chroń naszą planetę
+      description: Użyj Scratcha, aby dowiedzieć się więcej o naszej planecie i jak chronić środowisko dla przyszłych pokoleń
+    coderdojo-html_css:
+      title: CoderDojo HTML & CSS
+      description: Twórz strony internetowe, wykonując te projekty.
+    coderdojo-scratch:
+      title: CoderDojo Scratch
+      description: Naucz się języka Scratch, wykonując te zabawne projekty!
+    coderdojo-wearables:
+      title: 'CoderDojo: elektroniczne gadżety'
+      description: Twórz urządzenia do noszenia, wykonując te projekty.
+    app-inventor-for-social-enterprise:
+      title: App Inventor dla przedsięwzięć społecznych
+      description: Naucz się tworzyć aplikacje na urządzenia z Androidem, wykonując projekty, które mogą pomóc ludziom w Twojej społeczności.
+    scratch-for-social-enterprise:
+      title: Scratch dla przedsięwzięć społecznych
+      description: Naucz się programować w graficznym języku dla początkujących Scratch. Stwórz aplikacje i gry, które pomogą ludziom dowiedzieć się czegoś o ważnych kwestiach.
+    html-css-for-social-enterprise:
+      title: HTML i CSS dla przedsięwzięć społecznych
+      description: Poznaj HTML i CSS, tworząc stronę internetową poświęconą ochronie ptaków.
+    getting-started-with-raspberry-pi:
+      title: Zacznij z Raspberry Pi
+      description: Skonfiguruj swój Raspberry Pi i zobacz co może zrobić!
+    life-on-earth:
+      meta_title: Życie na Ziemi Astro Pi
+      meta_description: Pomóż przygotować się do wyzwania Astro Pi Life on Earth dzięki tej kolekcji zasobów Raspberry Pi, modułu Camera, Sense HAT i Google Coral.
+    web-intro:
+      title: Wprowadzenie do sieci Web
+      subtitle: HTML, CSS i animacje
+      description: W tym wprowadzeniu do tworzenia stron internetowych za pomocą HTML i CSS dla początkujących dowiesz się, jak tworzyć struktury i stylizować strony internetowe za pomocą obrazów, list, czcionek, cytatów, łączy i animacji.
+      meta_title: Ścieżka projektu | Wprowadzenie do HTML i CSS dla dzieci | Tworzenie stron internetowych dla dzieci | Twórz strony internetowe
+      meta_description: Wprowadzenie do HTML dla dzieci, nastolatków i młodych dorosłych. Stwórz interaktywne strony internetowe z tymi darmowymi zasobami.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Twórz interaktywne strony internetowe z grafiką, emotikonami i kartkami typu flip.
+            Na końcu tej ścieżki utworzysz stronę internetową o czymś, czym chcesz się podzielić.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            - Podstawowe umiejętności w zakresie pisania i korzystania z komputera
+            - Doświadczenie kodowania w [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} może być przydatne
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            - Komputer lub urządzenie mobilne zdolne do obsługi platformy kodowania online.
+            - Opcjonalnie konto do zapisywania projektów.
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ##321…Twórz!
+            Ścieżka podąża za [321…Make!](https://projects.raspberrypi.org/pl/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Projekty eksploracyjne**: Wprowadza twórców w zestaw umiejętności i dostarcz instrukcji krok po kroku, aby pomóc im zbudować początkową pewność siebie.
+            - **2 Projekty designu**: Pozwala twórcom praktykować umiejętności zdobyte podczas projektów Eksploracyjnych i wyrazić się twórczo, rozwijając niezależność.
+            - **1 Projekt wynalazek**: Zachęca twórców do wykorzystania swoich umiejętności do stworzenia unikalnego projektu, który spełnia wymagania projektu dla konkretnej grupy odbiorców.
+            ##Szybki quiz
+            Każdy projekt zawiera szybkie quiz z trzema pytaniami wielokrotnego wyboru. Twórcy kierują się właściwą odpowiedzią poprzez użyteczne opinie i otrzymują odznakę projektu.
+
+            ##Inspiracja społeczności
+            Twórcy są zachęcani do inspirowania innych społeczności fundacji Raspberry Pi, dzieląc się z nami swoimi projektami Designu i Wynalazku za pośrednictwem [formularza zgłoszeń](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projekty będą udostępniane w naszych Galeriach Społeczności.
+    sense-hat-intro:
+      meta_title: Wprowadzenie do Sense HAT
+      meta_description: Sense HAT, Astro Pi, Mission Zero
+    experience-ai-challenge-music-quest:
+      title: "Wyzwanie Doświadczenia AI: Zadanie Muzyczne"
+      subtitle: "Przesyłaj strumieniowo ścieżkę dźwiękową do swojego życia z AI"
+      description: Zadanie muzyki AI to seria sesji, które nauczą Cię jak projektować i tworzyć własne 'AI DJ' za pomocą Scratcha, uczenia maszynowego dla dzieci i API Spotify.
+      meta_title: Ścieżka projektu | Wyzwanie Doświadczenia AI - Zadanie Muzyczne
+      meta_description: Wprowadzenie do programowania Scratch i uczenia maszynowego dla dzieci, nastolatków i młodych dorosłych. Dowiedz się, jak klasyfikować dane do modelu ML i używać ich do przewidywania muzyki, którą chcesz.
+      header:
+        - 
+          title: "Co stworzę?"
+          content: |
+            Stwórz interaktywne projekty Scratch i stwórz i trenuj model uczenia maszynowego.
+            Do końca tej ścieżki wykorzystasz swoje nowe umiejętności do tworzenia aplikacji, która może tworzyć playlisty muzyczne na podstawie Twoich preferencji.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            Ta ścieżka jest idealna dla początkujących w Scratchu i uczeniu maszynowym.
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            Ta ścieżka wymaga:
+            - Komputera stacjonarnego, laptopa, tabletu, urządzenia mobilnego lub komputera Raspberry Pi
+            - Dostępu do Internetu w celu korzystania z Scratch i Machine Learning 4 Kids online.
+            – Konto [Uczenie maszynowe dla dzieci](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}. (Instrukcje dostępne w Przewodniku mentora poniżej).
+            – Słuchawki (zalecane) lub głośniki
+            – Kopia [dokumentu planu twórcy](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){: cel="_blank"}
+        - 
+          title: "Informacje o mentorze"
+          content: |
+            ## Wyzwanie Doświadczenia AI: Zadanie Muzyczne
+
+            Ta ścieżka zapewnia młodym twórcom możliwość rozpoczęcia pierwszych kroków w tworzeniu za pomocą uczenia maszynowego i sztucznej inteligencji w ramach wyzwania AI Doświadczenia.
+
+            Zadanie Muzyczne trwa około 5 godzin czasu projektowego i jest zaprojektowane tak, aby było elastyczne w dostarczaniu - może być prowadzone jako indywidualne sesje lub jednodniowy hackathon. Treść zapewnia również możliwość kontynuowania prac nad projektami między etapami.
+
+            [Przewodnik Mentora dla Zadania](https://drive. oogle. om/uc? xport=download&id=1XGlS9cMlke1-2ZzJYX3Uztezb_gMenIC) zawiera instrukcje dotyczące tworzenia wymaganych kont, notatki dla każdego etapu Zadania, jak również wskazówki debugowania i sugestie dla dodatkowych funkcji, które mogą dodać.
+
+            Zawiera również instrukcje przesyłania gotowych aplikacji twoich twórców do Prezentacji Doświadczenia AI, aby być doceniany i umieszczany na liście przez zespół ekspertów z branży i naukowców. Uczestnicy którzy znajdą się na liście zostaną zaproszeni do udziału w naszej specjalnej prezentacji, we współpracy z Google Deepmind!
+    prepare-to-run-a-code-club:
+      title: "Przygotuj się do uruchomienia Code Club"
+      subtitle: "Twoje pierwsze kroki w kierunku uruchomienia Code Club dla młodych ludzi."
+      description: W tym kursie otrzymasz wskazówki krok po kroku, aby rozpocząć swój Code Club. Zaczniemy od praktycznych aspektów planowania i konfiguracji, poprowadzimy Cię poprzez planowanie i realizację pierwszej sesji, a skończymy pomysłami i wskazówkami dotyczącymi motywowania uczniów oraz świętowania ich osiągnięć.
+      meta_title: Ścieżka projektu | Przygotuj się do uruchomienia Code Club
+      meta_description: W tym kursie poprowadzimy Cię przez proces zakładania Code Club, od wstępnej konfiguracji i planowania, po przeprowadzenie pierwszej sesji, a na koniec motywowanie i świętowanie osiągnięć uczniów.
+      header:
+        - 
+          title: "Czego się nauczę?"
+          content: |
+            W tym kursie poprowadzimy Cię przez proces zakładania Code Club, od wstępnej konfiguracji i planowania, po przeprowadzenie pierwszej sesji, a na koniec motywowanie i świętowanie osiągnięć uczniów.
+        - 
+          title: "Co muszę wiedzieć?"
+          content: |
+            Ten kurs będzie przydatny dla Ciebie, jeśli chcesz prowadzić wolontariat w klubie w swojej społeczności, pomoc młodym ludziom w uczeniu się kodowania, lub jesteś nauczycielem, który chce utworzyć pozaszkolny klub kodujący dla uczniów w Twojej szkole.
+        - 
+          title: "Czego potrzebuję?"
+          content: |
+            Ta ścieżka wymaga:
+            - Komputer stacjonarny, laptop, tablet, urządzenie mobilne, lub komputer Raspberry Pi
+            - Dostęp do Internetu, aby korzystać ze Scratch i innych aplikacji online.
+
