@@ -5,19 +5,19 @@ de:
       subtitle: "Sensoren, Taster und Lichter!"
       description: In dieser Einführung zum Programmieren mit dem micro:bit lernst du, wie du die Welt um dich herum verstehst und darauf reagierst, während du dich um dich selbst kümmerst.
       meta_title: Projektpfad | Einführung in die Programmierung des micro:bit für Kids
-      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      meta_description: Einführung in die Programmierung mit dem micro:bit für Kinder, Jugendliche und junge Erwachsene. Hier lernst du, wie du mit Projekten für den micro:bit für dich selbst sorgen kannst.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erschaffen?"
           content: |
-            Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
-            By the end of this path you will have used your new skills to create a party game to play and share with your friends.
+            Erstelle interaktive Projekte mit den Sensoren, Knöpfen und Lichtern des micro:bit.
+            Am Ende des Pfades wirst du mit deinen neuen Fähigkeiten ein Party-Spiel erstellt haben, das du selber spielen und mit deinen Freunden teilen kannst.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            This path is ideal for beginners to micro:bit.
+            Dieser Lernpfad ist ideal für Einsteiger des micro:bit.
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
             This path requires:
 
