@@ -19,27 +19,27 @@ de:
         - 
           title: "Was benötige ich?"
           content: |
-            This path requires:
+            Dieser Pfad erfordert:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
-            - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
+            – Desktop-Computer, Laptop, Tablet, Mobilgerät oder Raspberry Pi-Computer
+            – Zugang zum Internet, um MakeCode online zu nutzen oder die Möglichkeit, MakeCode herunterzuladen und zu installieren. Weitere Informationen finden Sie in unserem [Micro:bit-Einführungsleitfaden](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"}
+            - Optional ein [MakeCode-Konto](https://makecode.microbit.org/){:target="_blank"} und einen micro:bit zum Anfassen.
         - 
-          title: "Mentor information"
+          title: "Informationen zum Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            – **3 Explore**-Projekte: Machen Sie Ihren Makern eine Reihe von Fähigkeiten bekannt und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Design**-Projekte: Ermöglichen Sie Makern, Fähigkeiten aus den Explore-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Invent**-Projekt: Ermutigen Sie Ihre Maker, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Maker werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} in our guide.
+            ##Die Community inspirieren
+            Maker werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Design- und Invent-Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
+            Wie Sie [Projekte teilen](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"}, erfahren Sie in unserer Anleitung.
     scratch-intro:
       title: "Introduction to Scratch"
       subtitle: "sprites, scripts, and loops"
