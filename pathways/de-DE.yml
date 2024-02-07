@@ -41,29 +41,29 @@ de:
             Maker werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Design- und Invent-Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
             Wie Sie [Projekte teilen](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"}, erfahren Sie in unserer Anleitung.
     scratch-intro:
-      title: "Introduction to Scratch"
-      subtitle: "sprites, scripts, and loops"
-      description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-      meta_title: Project path | Intro to Scratch programming for kids
-      meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+      title: "Einführung in Scratch"
+      subtitle: "Sprites, Skripte und Schleifen"
+      description: In dieser einfachen Einführung in das Programmieren in Scratch lernst du, wie du Code, Kostüme und Sounds zu Sprites hinzufügst, während du Animationen, ein Spiel, eine App und ein Buch erstellst.
+      meta_title: Projektpfad | Einführung in die Programmierung mit Scratch für Kids
+      meta_description: Einführung in das Programmieren in Scratch für Kids, Jugendliche und junge Erwachsene. Du lernst Animationen, ein Spiel, eine App und ein Buch zu erstellen.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erschaffen?"
           content: |
-            Make interactive projects, animations and create a multiple level game.
-            By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
+            Erstelle interaktive Projekte, Animationen und ein Mehrstufenspiel.
+            Am Ende dieses Lernpfades hast du deine neuen Fähigkeiten genutzt, um ein digitales Buch mit mehreren Seiten zu schreiben.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            This path is ideal for beginners to Scratch.
+            Dieser Lernpfad ist ideal für Einsteiger in Scratch.
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            This path requires:
+            Dieser Pfad erfordert:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            – Desktop-Computer, Laptop, Tablet, Mobilgerät oder Raspberry Pi-Computer
+            – Zugang zum Internet, um Scratch online zu nutzen oder die Möglichkeit, Scratch herunterzuladen und zu installieren. Weitere Informationen findest du in unserem [Scratch EInführungsleitfaden](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}
+            - Optional ein [Scratch Account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
           title: "Mentor information"
           content: |
