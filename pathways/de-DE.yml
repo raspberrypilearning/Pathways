@@ -68,37 +68,37 @@ de:
           title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Makern einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Maker, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Maker, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Maker werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+            ##Die Community inspirieren
+            Maker werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Gestalten- und Erfinden-Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
+            Wie Sie [Projekte teilen](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"}, erfahren Sie in unserer Anleitung.
     more-scratch:
-      title: "More Scratch"
-      subtitle: "broadcast, decisions and variables"
-      description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
-      meta_title: Project path | More Scratch for kids | Raspberry Pi
-      meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+      title: "Mehr zu Scratch"
+      subtitle: "Übertragung, Entscheidungen und Variablen"
+      description: '"Mehr zu Scratch" geht über die in der "Einführung zu Scratch" vorgestellten Grundlagen hinaus. Sie erstellen Apps, Spiele und Simulationen mithilfe von Nachrichtenübermittlung, if..then- und if..then..else-Entscheidungen und Variablen.'
+      meta_title: Projektpfad | Mehr Scratch für Kids | Raspberry Pi
+      meta_description: Mehr zu Scratch für Kinder, Jugendliche und junge Erwachsene. Gehen Sie mit diesen kostenlosen Projekten über die Grundlagen hinaus und programmieren Sie Apps, Spiele und Animationen mithilfe von Nachrichtenübertragungen.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erschaffen?"
           content: |
-            Make interactive projects, simulators, and games.
-            By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
+            Erstellen Sie interaktive Projekte, Simulatoren und Spiele.
+            Am Ende dieses Pfades haben Sie Ihre neuen Fähigkeiten genutzt, um ein virtuelles Haustier oder einen virtuellen Charakter zu erstellen, die mit dem Benutzer interagieren können.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            This path is for creators comfortable with using Scratch.
-            If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+            Dieser Pfad richtet sich an Maker, die mit Scratch vertraut sind.
+            Wenn Sie neu bei Scratch sind, können Sie unseren Pfad [Einführung in Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} ausprobieren.
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
             This path requires:
 
