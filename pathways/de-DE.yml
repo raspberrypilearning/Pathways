@@ -122,11 +122,11 @@ de:
             Lernende werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Gestalten- und Erfinden-Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
             Wie Sie [Projekte teilen](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"}, erfahren Sie in unserer Anleitung.
     further-scratch:
-      title: "Further Scratch"
-      subtitle: "clones, my blocks, and boolean logic"
-      description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
-      meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
-      meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
+      title: "Mehr zu Scratch"
+      subtitle: "Klone, eigene Blöcke und boolesche Logik"
+      description: '"Weiter mit Scratch" geht über die in „Einführung in Scratch" und "Mehr zu Scratch“ vorgestellten Fähigkeiten hinaus. Du erstellst Apps, Spiele, computergenerierte Kunst und Simulationen mithilfe boolescher Logik, Funktionen, Klonen und mehr.'
+      meta_title: Projektpfad | Weiter mit Scratch für Kids | Raspberry Pi
+      meta_description: Weiter mit Scratch für Kinder, Jugendliche und junge Erwachsene. Nutze diese kostenlosen Programmierressourcen, um Apps, Spiele, computergenerierte Kunst und Animationen zu erstellen.
       header:
         - 
           title: "What will I create?"
