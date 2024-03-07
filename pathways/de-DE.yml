@@ -129,12 +129,12 @@ de:
       meta_description: Weiter mit Scratch für Kinder, Jugendliche und junge Erwachsene. Nutze diese kostenlosen Programmierressourcen, um Apps, Spiele, computergenerierte Kunst und Animationen zu erstellen.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erschaffen?"
           content: |
-            Make computer generated art, music, games and simulations.
-            By the end of this path you will have used your new skills to create a first person view simulation through an imagined world.
+            Erstelle computergenerierte Kunst, Musik, Spiele und Simulationen.
+            Am Ende dieses Pfades hast du deine neuen Fähigkeiten genutzt, um eine Gang durch eine virtuelle Welt zu simulieren.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
             This path is for creators comfortable with using Scratch.
             If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
