@@ -1,5 +1,43 @@
 hi:
   pathways:
+    more-web:
+      title: "More web"
+      subtitle: "HTML, CSS and JavaScript!"
+      description: More web moves beyond the basics introduced in Introduction to web. Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to a user. Take users on a journey and transport them to somewhere completely new!
+      meta_title: Project path | Intro to HTML CSS and JavaScript for kids | Web development for kids | Make interactive websites
+      meta_description: Introduction to HTML, CSS and JavaScript for kids, teenagers and young adults. Build interactive websites with these free resources.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive websites with superheroes, interactive stories and a journey to Antarctica. Learn to use interactive features such as scrolling animations, navigation menus, buttons and dark mode controls.
+            By the end of this path you will have used your new skills to create an interactive website to share with your friends.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+            - Experience with HTML and CSS may be useful
+            - Familiarity with our [Introduction to web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} path may also be useful.
+        - 
+          title: "What do I need?"
+          content: |
+            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Optionally, an account to save projects.
+        - 
+          title: "Mentor information"
+          content: |
+            ##321…Make!
+            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+
+            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
+            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
+            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+
+            ##Quick quiz
+            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     microbit-intro:
       title: "Introduction to micro:bit"
       subtitle: "sensors, buttons and lights!"
@@ -522,7 +560,7 @@ hi:
         - 
           title: "What do I need?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
+            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
             - Optionally, an account to save projects.
         - 
           title: "Mentor information"
