@@ -1,43 +1,43 @@
 fr:
   pathways:
     more-web:
-      title: "More web"
-      subtitle: "HTML, CSS and JavaScript!"
-      description: More web moves beyond the basics introduced in Introduction to web. Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to a user. Take users on a journey and transport them to somewhere completely new!
-      meta_title: Project path | Intro to HTML CSS and JavaScript for kids | Web development for kids | Make interactive websites
-      meta_description: Introduction to HTML, CSS and JavaScript for kids, teenagers and young adults. Build interactive websites with these free resources.
+      title: "Plus de web"
+      subtitle: "HTML, CSS et JavaScript !"
+      description: Plus de web va au-delà des bases présentées dans Introduction au web. La conception moderne du web a transformé les sites web, qui étaient des murs d'informations statiques et ennuyeux, en des moyens d'offrir des expériences amusantes et engageantes à l'utilisateur. Emmène les utilisateurs en voyage et transporte-les dans un endroit complètement nouveau !
+      meta_title: Parcours du projet | Introduction à l'HTML, CSS et JavaScript pour les enfants | Développement web pour les enfants | Créer des sites web interactifs
+      meta_description: Introduction à l'HTML, CSS et JavaScript pour les enfants, les adolescents et les jeunes adultes. Crée des sites web interactifs avec ces ressources gratuites.
       header:
         - 
-          title: "What will I create?"
+          title: "Que vais-je créer ?"
           content: |
-            Make interactive websites with superheroes, interactive stories and a journey to Antarctica. Learn to use interactive features such as scrolling animations, navigation menus, buttons and dark mode controls.
-            By the end of this path you will have used your new skills to create an interactive website to share with your friends.
+            Crée des sites web interactifs avec des super-héros, des histoires interactives et un voyage en Antarctique. Apprends à utiliser les fonctions interactives telles que les animations de défilement, les menus de navigation, les boutons et les commandes en mode sombre.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer un site web interactif à partager avec tes amis.
         - 
-          title: "What do I need to know?"
+          title: "Que dois-je savoir ?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience with HTML and CSS may be useful
-            - Familiarity with our [Introduction to web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} path may also be useful.
+            - Des compétences de base en dactylographie et en navigation informatique
+            - Une expérience en HTML et CSS peut être utile 
+            - Une bonne connaissance de notre parcours [Introduction au web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} peut également être utile.
         - 
-          title: "What do I need?"
+          title: "De quoi ai-je besoin ?"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Un ordinateur ou un appareil mobile capable de faire fonctionner une plateforme de codage en ligne. Voir notre [Guide de démarrage du Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"} !
+            - Optionnellement, un compte pour enregistrer les projets.
         - 
-          title: "Mentor information"
+          title: "Informations pour le mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Ce parcours fait suite à [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"} :
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - 3 projets **Explorer** : présente aux créateurs un ensemble de compétences et donne des instructions étape par étape pour les aider à développer leur confiance en soi.
+            - 2 projets **Conception** : permet aux créateurs de mettre en pratique les compétences acquises dans les projets Explorer précédents et de s'exprimer de manière créative tout en développant leur autonomie.
+            - 1 projet **Inventer** : encourage les créateurs à utiliser leurs compétences pour créer un projet unique répondant à un cahier des charges destiné à un public particulier.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Questionnaire rapide
+            Chaque projet contient un questionnaire rapide composé de trois questions à choix multiples. Les créateurs sont guidés vers la bonne réponse grâce à des commentaires utiles et reçoivent un badge de projet.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Inspirer la communauté
+            Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Les projets seront partagés anonymement dans nos galeries communautaires.
     microbit-intro:
       title: "Introduction à micro:bit"
       subtitle: "capteurs, boutons et lumières !"
@@ -562,8 +562,8 @@ fr:
         - 
           title: "De quoi ai-je besoin ?"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Un ordinateur ou un appareil mobile capable de faire fonctionner une plateforme de codage en ligne. Voir notre [Guide de démarrage du Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"} !
+            - Optionnellement, un compte pour enregistrer les projets.
         - 
           title: "Informations pour le mentor"
           content: |
