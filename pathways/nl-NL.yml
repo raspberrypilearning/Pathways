@@ -3,41 +3,41 @@ nl:
     more-web:
       title: "Meer web"
       subtitle: "HTML, CSS en JavaScript!"
-      description: More web moves beyond the basics introduced in Introduction to web. Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to a user. Take users on a journey and transport them to somewhere completely new!
-      meta_title: Project path | Intro to HTML CSS and JavaScript for kids | Web development for kids | Make interactive websites
-      meta_description: Introduction to HTML, CSS and JavaScript for kids, teenagers and young adults. Build interactive websites with these free resources.
+      description: Meer web gaat verder na de basis die in de introductie naar het web is geïntroduceerd. Modern webdesign heeft websites veranderd van statische en saaie muren van informatie in manieren om leuke en aantrekkelijke ervaringen aan een gebruiker te bieden. Neem gebruikers mee op reis en breng ze naar een volledig nieuw plaats!
+      meta_title: Projectpad | Inleiding tot HTML CSS en JavaScript voor kinderen | Webontwikkeling voor kinderen | Maak interactieve websites
+      meta_description: Inleiding tot HTML, CSS en JavaScript voor kinderen, tieners en jong volwassenen. Bouw interactieve websites met deze gratis bronnen.
       header:
         - 
-          title: "What will I create?"
+          title: "Wat ga ik maken?"
           content: |
-            Make interactive websites with superheroes, interactive stories and a journey to Antarctica. Learn to use interactive features such as scrolling animations, navigation menus, buttons and dark mode controls.
-            By the end of this path you will have used your new skills to create an interactive website to share with your friends.
+            Maak interactieve websites met superhelden, interactieve verhalen en een reis naar Antarctica. Leer gebruik te maken van interactieve functies zoals scrollende animaties, navigatiemenu's, knoppen en donkere modusbedieningen.
+            Aan het einde van dit pad zult je jouw nieuwe vaardigheden gebruiken om een interactieve website te maken om met je vrienden te delen.
         - 
-          title: "What do I need to know?"
+          title: "Wat moet ik weten?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience with HTML and CSS may be useful
-            - Familiarity with our [Introduction to web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} path may also be useful.
+            - Basisvaardigheden op het gebied van typen en computernavigatie
+            - Ervaring met HTML en CSS kan nuttig zijn
+            - Bekendheid met onze [Inleiding tot het web](https://projects.raspberrypi.org/en/pathways/ web-intro){:target="_blank"} pad kan ook nuttig zijn.
         - 
-          title: "What do I need?"
+          title: "Wat heb ik nodig?"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Een computer of mobiel apparaat waarop een online codeerplatform kan draaien. Bekijk onze [Aan de slag-handleiding voor de Raspberry Pi-editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Optioneel een account om projecten op te slaan.
         - 
-          title: "Mentor information"
+          title: "Mentorinformatie"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden gedeeld met onze Community Galleries.
     microbit-intro:
       title: "Inleiding tot micro:bit"
       subtitle: "sensoren, knoppen en lichtjes!"
@@ -561,8 +561,8 @@ nl:
         - 
           title: "Wat heb ik nodig?"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Een computer of mobiel apparaat waarop een online codeerplatform kan draaien. Bekijk onze [Aan de slag-handleiding voor de Raspberry Pi-editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Optioneel een account om projecten op te slaan.
         - 
           title: "Mentorinformatie"
           content: |
