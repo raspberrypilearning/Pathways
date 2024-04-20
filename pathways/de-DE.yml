@@ -555,38 +555,38 @@ de:
             Erstelle interaktive Webseiten mit Kunstwerken, Emojis und Flip-Karten.
             Am Ende dieses Pfades hast du eine Webseite über etwas erstellt, das du teilen möchtest.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+            – Grundlegende Fähigkeiten in der Bedienung eines Computers
+            – Erfahrung im Programmieren in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kann hilfreich sein
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Ein Computer oder Mobilgerät, auf dem eine Online-Coding-Plattform laufen kann. Siehe unsere [Erste Schritte mit dem Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Optional ein Konto zum Speichern von Projekten.
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Lernende einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Lernenden, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Lernende, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Lernende werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Die Community inspirieren
+            Lernende werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Gestalten- und Erfinden-Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
     sense-hat-intro:
-      meta_title: Introduction to the Sense HAT
+      meta_title: Einführung in den Sense HAT
       meta_description: Sense HAT, Astro Pi, Mission Zero
     experience-ai-challenge-music-quest:
-      title: "Experience AI Challenge: Music Quest"
-      subtitle: "Stream the soundtrack to your life with AI"
-      description: The Experience AI Music Quest is a series of sessions that will teach you how to design and create your own 'AI DJ' using Scratch, Machine Learning for Kids, and the Spotify API.
-      meta_title: Project path | Experience AI Challenge - Music Quest
+      title: "Erlebe die KI-Herausforderung: Music Quest"
+      subtitle: "Streamen Sie den Soundtrack Ihres Lebens mit KI"
+      description: Die KI-Herausforderung Music Quest ist eine Sammlung von Anleitungen, in denen du lernst, wie du mit Scratch, Machine Learning for Kids und der Spotify-API deinen eigenen „KI-DJ“ entwerfen und erstellen kannst.
+      meta_title: Projektpfad | Erlebe die KI-Herausforderung – Music Quest
       meta_description: Introduction to Scratch programming and Machine Learning for kids, teenagers and young adults. Learn how to classify data into an ML model and use it to predict music you will like.
       header:
         - 
