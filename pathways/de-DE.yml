@@ -1,9 +1,9 @@
 de:
   pathways:
     more-web:
-      title: "Mehr Web"
+      title: "Mehr Webentwicklung"
       subtitle: "HTML, CSS und JavaScript!"
-      description: '„Mehr Web“ geht über die in „Einführung ins Web“ vorgestellten Grundlagen hinaus. Modernes Webdesign hat Websites von statischen und langweiligen Informationswüsten in lebendige Welten verwandelt, die dem Benutzer Spaß machen und ihn ansprechen. Nimm deine Nutzer mit auf eine Reise und bringe sie an einen völlig neuen Ort!'
+      description: '„Mehr Webentwicklung“ geht über die in „Einführung ins Web“ vorgestellten Grundlagen hinaus. Modernes Webdesign hat Websites von statischen und langweiligen Informationswüsten in lebendige Welten verwandelt, die dem Benutzer Spaß machen und ihn ansprechen. Nimm deine Nutzer mit auf eine Reise und bringe sie an einen völlig neuen Ort!'
       meta_title: Projektpfad | Einführung in HTML, CSS und JavaScript für Kids | Webentwicklung für Kids | Interaktive Websites erstellen
       meta_description: Einführung in HTML, CSS und JavaScript für Kids, Jugendliche und junge Erwachsene. Erstelle mit diesen kostenlosen Ressourcen interaktive Websites.
       header:
@@ -476,83 +476,84 @@ de:
           title: "Was benötige ich?"
           content: |
             ## Hardware
-            You can purchase all the required hardware for this  path from the:
-            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
-            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
+            Die gesamte Hardware für diesen Pfad kann hier erworben werden:
+            - [Pimoroni-Kit](https://buyzero.de/products/pico-intro-kit){:target="_blank"} (mit Raspberry Pi Pico) oder
+            - [Kitronik-Kit](https://opencircuit.shop/product/kitronik-part-pack-raspberry-pi-pico-pathway){:target="_blank"} (ohne Raspberry Pi Pico)
 
             ## Software
             - Thonny
-            - Raspberry Pi Pico Fireware (installed via Thonny)
-            - The picozero library (available via PyPi in Thonny)
-            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+            - Raspberry Pi Pico Firmware (installiert über Thonny)
+            - Die Picozero-Bibliothek (verfügbar über PyPi in Thonny)
+            Installationsdetails findest du im ersten Projekt und in unserem [Raspberry Pi Pico-Handbuch](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Lernende einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Lernenden, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Lernende, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Lernende werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
+
+            ##Die Community inspirieren
+            Lernende werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ein Video ihrer Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: Der Raspberry Pi ist ein leistungsfähiger kleiner Computer, der in Elektronikprojekten und, anstelle eines Desktop-PC, für viele andere Dinge verwendet werden kann.
     sense-hat:
       title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: Der Sense HAT ist eine Zusatzplatine mit LEDs, einem Joystick und einer Menge Sensoren für den Raspberry Pi.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: Sonic Pi ist eine neue Art von Musikinstrument, das mit Code Sounds erzeugt.
     microbit:
       title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      description: "Der BBC micro:bit ist ein programmierbarer Computer im Taschenformat, mit dem du kreativ werden kannst."
     look-after-yourself:
-      title: Look after yourself
-      description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+      title: Entspann dich!
+      description: Lerne dich zu entspannen, während du in Scratch programmierst und dabei immer selbständiger wirst.
     protect-our-planet:
-      title: Protect our planet
-      description: Use Scratch to learn about our planet and how to protect the environment for future generations
+      title: Schütze unseren Planeten
+      description: Benutze Scratch, um mehr über unseren Planeten zu erfahren und die Umwelt für zukünftige Generationen zu schützen
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: Create websites by following these projects.
+      description: Erstelle Webseiten, indem du diese Projekte abschließt.
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      description: Lerne Scratch, indem Du diese lustigen Projekte durcharbeitest!
     coderdojo-wearables:
       title: CoderDojo Wearables
-      description: Create wearable technology projects by following these projects.
+      description: Erstelle Projekte für tragbare Technik, indem du diesen Projekten folgst.
     app-inventor-for-social-enterprise:
-      title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      title: App-Erfinder für soziale Innovation
+      description: Lerne, Apps für Android-Geräte zu erstellen, indem Du Projekte durchführst, die Menschen in deiner Umgebung helfen können.
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: Scratch für soziale Innovation
+      description: Erstelle Apps und Spiele mit Scratch, einer anfängerfreundliche, grafische Programmiersprache, um Menschen dabei zu helfen, bedeutsame Dinge zu lernen.
     html-css-for-social-enterprise:
-      title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      title: HTML & CSS für soziale Innovation
+      description: Lerne HTML & CSS, indem Du eine Webseite zum Thema Vogelschutz erstellst.
     getting-started-with-raspberry-pi:
-      title: Get started with Raspberry Pi
-      description: Set up your Raspberry Pi and see what it can do!
+      title: Gehe erste Schritte mit dem Raspberry Pi
+      description: Richte deinen Raspberry Pi ein und erkunde, was er kann!
     life-on-earth:
-      meta_title: Life on Earth Astro Pi resources
-      meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
+      meta_title: Leben auf der Erde Astro Pi-Ressourcen
+      meta_description: Bereite dich mit dieser Sammlung von Raspberry Pi-, Kameramodul-, Sense HAT- und Google Coral-Ressourcen auf die Herausforderung "Astro Pi Life on Earth" vor.
     web-intro:
-      title: Introduction to web
-      subtitle: HTML, CSS, and animations
-      description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
-      meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
-      meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
+      title: Einführung in die Webentwicklung
+      subtitle: HTML, CSS und Animationen
+      description: In dieser Einführung in die Webentwicklung mit HTML und CSS für Anfänger lernst du, wie du Webseiten mit Bildern, Listen, Schriftarten, Zitaten, Links und Animationen strukturierst und gestaltest.
+      meta_title: Projektpfad | Einführung in HTML und CSS für Kids | Webentwicklung für Kids | Interaktive Webseiten erstellen
+      meta_description: Einführung in HTML für Kids, Jugendliche und junge Erwachsene. Erstelle mit diesen kostenlosen Ressourcen interaktive Websites.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Make interactive websites with art, emojis and flip cards.
-            By the end of this path you will have created a website about something you want to share.
+            Erstelle interaktive Webseiten mit Kunstwerken, Emojis und Flip-Karten.
+            Am Ende dieses Pfades hast du eine Webseite über etwas erstellt, das du teilen möchtest.
         - 
           title: "What do I need to know?"
           content: |
