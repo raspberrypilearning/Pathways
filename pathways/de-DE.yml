@@ -1,9 +1,9 @@
 de:
   pathways:
     more-web:
-      title: "More web"
+      title: "Mehr Web"
       subtitle: "HTML, CSS und JavaScript!"
-      description: Mehr Web geht über die in der Einführung ins Web vorgestellten Grundlagen hinaus. Modernes Webdesign hat Websites von statischen und langweiligen Informationswüsten in lebendige Welten verwandelt, die dem Benutzer Spaß machen und ihn ansprechen. Nimm deine Nutzer mit auf eine Reise und bringe sie an einen völlig neuen Ort!
+      description: '„Mehr Web“ geht über die in „Einführung ins Web“ vorgestellten Grundlagen hinaus. Modernes Webdesign hat Websites von statischen und langweiligen Informationswüsten in lebendige Welten verwandelt, die dem Benutzer Spaß machen und ihn ansprechen. Nimm deine Nutzer mit auf eine Reise und bringe sie an einen völlig neuen Ort!'
       meta_title: Projektpfad | Einführung in HTML, CSS und JavaScript für Kids | Webentwicklung für Kids | Interaktive Websites erstellen
       meta_description: Einführung in HTML, CSS und JavaScript für Kids, Jugendliche und junge Erwachsene. Erstelle mit diesen kostenlosen Ressourcen interaktive Websites.
       header:
@@ -226,253 +226,254 @@ de:
       subtitle: "Variablen, Funktionen und Schleifen"
       description: In dieser Einführung in die Programmierung in Python für Anfänger erfährst du, wie du Variablen, Schleifen und Funktionen verwendest, um interaktive Grafiken, Animationen, Simulationen, Spiele und mehr zu erstellen.
       meta_title: Projektpfad | Einführung in Python für Kids | Raspberry Pi
-      meta_description: Einführung in Python für Kids, Jugendliche und junge Erwachsene. Erstellen Sie mit diesen kostenlosen Ressourcen interaktive Kunstwerke, Animationen und Spiele.
+      meta_description: Einführung in Python für Kids, Jugendliche und junge Erwachsene. Erstelle mit diesen kostenlosen Ressourcen interaktive Kunstwerke, Animationen und Spiele.
       header:
         - 
           title: "Was werde ich erstellen?"
           content: |
-            Make interactive projects, art, games, and a simulation.
-            By the end of this path you will have created a scalable piece of geometric art.
+            Erstelle interaktive Projekte, Kunst, Spiele und eine Simulation.
+            Am Ende dieses Pfades hast du ein geometrisches Kunstwerk erschaffen.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+            – Grundlegende Fähigkeiten in der Bedienung eines Computers
+            – Erfahrung im Programmieren in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kann hilfreich sein
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            – Ein Computer oder ein mobiles Gerät, auf dem eine Online-Coding-Plattform ausgeführt werden kann.
+            – Optional ein Konto zum Speichern von Projekten.
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Lernende einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Lernenden, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Lernende, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Lernende werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Die Community inspirieren
+            Lernende werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Gestalten- und Erfinden-Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
     python-intro-code-editor:
-      title: "Introduction to Python"
-      subtitle: "variables, functions, and loops"
-      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
-      meta_title: Project path | Intro to Python for kids | Raspberry Pi
-      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+      title: "Einführung in Python"
+      subtitle: "Variablen, Funktionen und Schleifen"
+      description: In dieser Einführung in die Programmierung in Python für Anfänger erfährst du, wie du Variablen, Schleifen und Funktionen verwendest, um interaktive Grafiken, Animationen, Simulationen, Spiele und mehr zu erstellen.
+      meta_title: Projektpfad | Einführung in Python für Kids | Raspberry Pi
+      meta_description: Einführung in Python für Kids, Jugendliche und junge Erwachsene. Erstelle mit diesen kostenlosen Ressourcen interaktive Kunstwerke, Animationen und Spiele.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Make interactive projects, art, games, and a simulation.
-            By the end of this path you will have created a scalable piece of geometric art.
+            Erstelle interaktive Projekte, Kunst, Spiele und eine Simulation.
+            Am Ende dieses Pfades hast du ein geometrisches Kunstwerk erschaffen.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
+            – Grundlegende Fähigkeiten in der Bedienung eines Computers
+            – Erfahrung im Programmieren in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kann hilfreich sein
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            – Ein Computer oder ein mobiles Gerät, auf dem eine Online-Coding-Plattform ausgeführt werden kann.
+            – Optional ein Konto zum Speichern von Projekten.
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Lernende einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Lernenden, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Lernende, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Lernende werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Die Community inspirieren
+            Lernende werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Gestalten- und Erfinden-Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
     more-python:
-      title: "More Python"
-      subtitle: "lists, dictionaries, and data"
-      description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
-      meta_title: Project path | More Python projects for kids | Raspberry Pi
-      meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
+      title: "Mehr Python"
+      subtitle: "Listen, Dictionaries und Daten"
+      description: '„Mehr Python“ geht über die in „Einführung in Python“ vorgestellten Grundlagen hinaus. Du lernst, wie du mit Listen, Dictionaries und Dateien eigene Diagramme, Modelle und Grafiken erstellst.'
+      meta_title: Projektpfad | Mehr Python-Projekte für Kids | Raspberry Pi
+      meta_description: Weitere Python-Projekte für Kids, Jugendliche und junge Erwachsene. Erfahre, wie du mit Listen, Dictionaries und Dateien eigene Diagramme, Modelle und Grafiken erstellst.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Visualise data by creating interactive charts, a simulator, and pieces of art.
-            By the end of this path you will have created a unique data visualisation on a topic of your choice
+            Visualisiere Daten, indem du interaktive Diagramme, einen Simulator und Kunstwerke erstellst.
+            Am Ende dieses Pfades hast du eine einzigartige Visualisierung zu einem Thema deiner Wahl erstellt.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - This path is for creators comfortable with using Python.
-            - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
+            - Dieser Pfad richtet sich an Lernende, die mit Python vertraut sind.
+            - Wenn du neu bei Python bist, kannst du unseren Pfad [Einführung in Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} ausprobieren.
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            - A computer or mobile device capable of running an online coding platform.
-            - Optionally, an account to save projects.
+            – Ein Computer oder ein mobiles Gerät, auf dem eine Online-Coding-Plattform ausgeführt werden kann.
+            – Optional ein Konto zum Speichern von Projekten.
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Lernende einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Lernenden, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Lernende, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Lernende werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Die Community inspirieren
+            Lernende werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Gestalten- und Erfinden-Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien geteilt.
     python-module-1:
-      title: "Python: Module 1"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python: Modul 1"
+      description: Python ist eine weit verbreitete textbasierte Allzweck-Programmiersprache.
     python-module-2:
-      title: "Python: Module 2"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python: Modul 2"
+      description: Python ist eine weit verbreitete textbasierte Allzweck-Programmiersprache.
     unity-intro:
-      title: "Introduction to Unity"
-      subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
-      description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
-      meta_title: Project path | Unity coding for kids | Raspberry Pi
-      meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+      title: "Einführung in Unity"
+      subtitle: "3D-Objekte, Charakter-Controller, Collider, Text und Schaltflächen"
+      description: In dieser Einführung in Unity lernst du, wie du 3D-Welten und Spiele mit Sammelobjekten, Timern und Nicht-Spieler-Charakteren erstellst.
+      meta_title: Projektpfad | Programmieren mit Unity für Kids | Raspberry Pi
+      meta_description: Einführung in die Programmierung mit Unity für Kids, Jugendliche und junge Erwachsene. Erfahre mit diesen kostenlosen Ressourcen, wie du 3D-Welten und Spiele erstellst.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Make 3D worlds and games with collectibles, timers and non-player characters.
-            By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+            Erstelle 3D-Welten und Spiele mit Sammelobjekten, Timern und Nicht-Spieler-Charakteren.
+            Am Ende dieses Pfades hast du deine neuen Fähigkeiten genutzt, um ein Star-Catcher-Spiel, eine Welt mit Quests und ein 3D-Abenteuer zu erstellen.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+            - Grundlegende Fähigkeiten in der Bedienung eines Computers
+            - Erfahrung im Programmieren mit [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} oder [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            This path requires a large download and installation which you should complete before you start the first project.
+            Dieser Pfad erfordert einen umfangreichen Download und eine Installation, die du abschließen solltest, bevor du mit dem ersten Projekt beginnst.
 
-            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
-            - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
-            - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
+            - Du musst den Unity Hub und den Unity Editor für dein Betriebssystem installieren. Wie das geht, erfährst du in unserem [Unity-Leitfaden](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+            - Du benötigst außerdem einen Code-Editor. Der empfohlene Editor ist [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
+            - Du musst außerdem das [Unity-Starterpaket](https://rpf.io/p/en/explore-a-3d-world-go) mit Assets herunterladen, bevor du beginnst.
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Lernende einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Lernenden, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Lernende, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Lernende werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
+            ##Die Community inspirieren
+            Lernende werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien anonym geteilt.
+            Wie Sie [Projekte teilen](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"}, erfahren Sie in unserer Anleitung.
     more-unity:
-      title: "More Unity"
-      subtitle: "Rigidbodies, Physics and Materials"
-      description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
-      meta_title: Project path | Unity coding for kids | Raspberry Pi
-      meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+      title: "Mehr Unity"
+      subtitle: "Starre Körper, Physik und Materialien"
+      description: In dieser Fortsetzung zu Unity verwendest du Physik und Materialien, um interaktive 3D-Puzzlewelten mit individuell gestalteten Murmeln zu erstellen.
+      meta_title: Projektpfad | Programmieren mit Unity für Kids | Raspberry Pi
+      meta_description: Programmierung mit Unity für Kids, Jugendliche und junge Erwachsene. Erfahre mit diesen kostenlosen Ressourcen, wie du 3D-Welten und Spiele erstellst.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Make marble runs and problem solving 3D world projects.
-            By the end of this path you will have used your new skills to create unique materials and use realistic physics in your Unity projects
+            Erstelle Murmelbahnen und 3D-Welten zum Problemlösen.
+            Am Ende dieses Pfades hast du deine neuen Fähigkeiten genutzt, um einzigartige Materialien zu erstellen und realistische Physik in deinen Unity-Projekten zu verwenden.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - Familiarity with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path
-            - Experience coding in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
+            - Vertrautheit mit unserem Pfad [Einführung in Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"}
+            - Erfahrung mit der Codierung in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} oder [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            This path requires a large download and installation which you should complete before you start the first project.
+            Dieser Pfad erfordert einen umfangreichen Download und eine Installation, die du abschließen solltest, bevor du mit dem ersten Projekt beginnst.
 
-            - You need to install the Unity Hub and the Unity Editor for your operating system. You can find out how to do this in our [Unity guide](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
-            - You will also need a code editor. The recommended editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
-            - You will also need to download the [Unity starter package](https://rpf.io/p/en/rainbow-run-go) of assets before starting.
+            - Du musst den Unity Hub und den Unity Editor für dein Betriebssystem installieren. Wie das geht, erfährst du in unserem [Unity-Leitfaden](https://projects.raspberrypi.org/en/projects/unity-guide){:target="_blank"}.
+            - Du benötigst außerdem einen Code-Editor. Der empfohlene Editor ist  [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
+            - Du musst außerdem das  [Unity starter package](https://rpf.io/p/en/rainbow-run-go) mit Assets herunterladen, bevor du beginnst.
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Lernende einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Lernenden, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Lernende, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Lernende werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
+            ##Die Community inspirieren
+            Lernende werden ermutigt, andere in der Raspberry-Pi-Foundation-Community zu inspirieren, indem sie ihre Projekte über das [Projekteinreichungsformular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} mit uns teilen. Projekte werden in unseren Community-Galerien anonym geteilt.
+            Wie Sie [Projekte teilen](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"}, erfahren Sie in unserer Anleitung.
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Physical computing with Scratch and the Raspberry Pi
-      description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
-      meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
-      meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+      title: Physical Computing mit Scratch und dem Raspberry Pi
+      description: Lerne, wie du Ein- und Ausgangselektronik mit Scratch und deinem Raspberry Pi-Computer verwendest.
+      meta_title: Projektpfad | Programmieren in Scratch für Kids | Raspberry Pi
+      meta_description: Lerne, wie du Ein- und Ausgangselektronik mit Scratch auf deinem Raspberry Pi-Computer verwendest. Kostenlose Ressourcen - Programmieren in Scratch für Kids, Jugendliche und junge Erwachsene.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Make games, interactive devices, and a musical instrument.
-            By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
+            Erstelle Spiele, interaktive Geräte und ein Musikinstrument.
+            Am Ende dieses Lernpfades hast du deine neuen Fähigkeiten genutzt, um ein elektronisches Buch mit mehreren Seiten zu schreiben.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+            Dieser Pfad ist für Anfänger in Scratch und Physical Computing. Du kannst jedoch zunächst unseren Pfad [Einführung in Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} bearbeiten.
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            - A Raspberry Pi Computer
-            - Various wires
-            - Single colour LEDs, buzzers, and resistors
-            - Scratch 3 desktop version installed
-            - Craft items including aluminium foil
+            - Ein Raspberry-Pi-Computer
+            - Verschiedene Kabel
+            - Einfarbige LEDs, Summer und Widerstände
+            - Scratch 3, als Desktopversion installiert
+            - Verschiedene Gegenstände zum Basteln, auch Aluminiumfolie
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
             ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            Dieser Pfad folgt der Anleitung [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            – **3 Erkunden**-Projekte: Vermitteln Sie Ihren Lernende einige Fähigkeiten und geben Sie ihnen Schritt-für-Schritt-Anleitungen, die ihnen dabei helfen, erstes Selbstvertrauen zu entwickeln.
+            – **2 Gestalten**-Projekte: Ermöglichen Sie Ihren Lernenden, Fähigkeiten aus den Erkunden-Projekten zu üben und sich kreativ auszudrücken, während sie selbständiger werden.
+            – **1 Erfinden**-Projekt: Ermutigen Sie Ihre Lernende, ihre Fähigkeiten einzusetzen, um ein einzigartiges Projekt zu erstellen, das den Projektvorgaben für ein bestimmtes Publikum entspricht.
+
+            ##Schnellquiz
+            Jedes Projekt enthält ein Schnellquiz mit drei Multiple-Choice-Fragen. Maker werden durch nützliches Feedback zur richtigen Antwort geführt und erhalten ein Projektabzeichen.
     pico-intro:
-      title: "Introduction to Raspberry Pi Pico"
-      subtitle: "LEDs, buzzers, switches, and dials"
-      description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
-      meta_title: Project path | Introduction to the Raspberry Pi Pico
-      meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+      title: "Einführung in Raspberry Pi Pico"
+      subtitle: "LEDs, Summer, Schalter und Drehregler"
+      description: In dieser Einführung in das digitale Arbeiten mit dem Raspberry Pi Pico für Anfänger erfährst du, wie du LEDs, Tasten, Schalter, Summer und Potentiometer (Drehregler) anschließen und steuern kannst.
+      meta_title: Projektpfad | Einführung in den Raspberry Pi Pico
+      meta_description: In dieser Einführung in das digitale Arbeiten mit dem Raspberry Pi Pico für Anfänger erfährst du, wie du LEDs, Tasten, Schalter, Summer etc. anschließen und steuern kannst.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Program and craft interactive devices with light and sound.
-            By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
+            Programmiere und baue interaktive Geräte mit Licht und Ton.
+            Am Ende dieses Pfades hast du deine neuen Fähigkeiten genutzt, um ein einzigartiges Gerät zu erschaffen, mit dem deine Freunde immer wieder spielen möchten.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - Basic typing and computer navigation skills
-            - This path is for beginners new to physical computing
+            - Grundlegende Fähigkeiten in der Bedienung eines Computers
+            - Dieser Pfad richtet sich an Anfänger, die sich noch nicht mit Physical Computing auskennen
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
             ## Hardware
             You can purchase all the required hardware for this  path from the:
