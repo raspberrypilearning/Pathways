@@ -475,15 +475,15 @@ nl:
           title: "Wat heb ik nodig?"
           content: |
             ## Hardware
-            You can purchase all the required hardware for this  path from the:
-            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
-            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
+            Je kunt alle benodigde hardware voor dit pad kopen bij de:
+            - [Pimoroni webwinkel](https://shop.pimoroni.com/producten/pico-intro-kit?variant=39893512945747){:target="_blank"} (bevat een Raspberry Pi Pico)
+            - [Kitronik webwinkel](https://kitronik.co.uk/producten/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (exclusief een Raspberry Pi Pico)
 
             ## Software
             - Thonny
-            - Raspberry Pi Pico Firmware (installed via Thonny)
-            - The picozero library (available via PyPi in Thonny)
-            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+            - Raspberry Pi Pico Firmware (geïnstalleerd via Thonny)
+            - De picozero library (beschikbaar via PyPi in Thonny)
+            Installatiegegevens vind je in het eerste project en in onze [Raspberry Pi Pico gids](https://projecten.raspberrypi.org/nl/projects/introduction-to-the-pico){:target="_blank"}
         - 
           title: "Mentorinformatie"
           content: |
