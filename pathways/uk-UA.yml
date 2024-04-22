@@ -469,16 +469,16 @@ uk:
         - 
           title: "Що мені потрібно?"
           content: |
-            ## Апаратне забезпечення
-            Ти можеш придбати потрібне апаратне забезпечення для цього напряму тут:
-            - [вебмагазин Pimoroni](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"} (включає Raspberry Pi Pico)
-            - [вебмагазин Kitronik](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (не включає Raspberry Pi Pico)
+            ## Hardware
+            You can purchase all the required hardware for this  path from the:
+            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
+            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
 
-            ## Програмне забезпечення
+            ## Software
             - Thonny
-            - Raspberry Pi Pico Fireware (встановлюється за допомогою Thonny)
-            - Бібліотека picozero (доступна через PyPi у Thonny)
-            Інформація про встановлення є у першому проєкті та в нашому [довіднику Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+            - Raspberry Pi Pico Firmware (installed via Thonny)
+            - The picozero library (available via PyPi in Thonny)
+            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
           title: "Інформація для менторів"
           content: |
