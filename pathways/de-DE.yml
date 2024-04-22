@@ -476,15 +476,15 @@ de:
           title: "Was benötige ich?"
           content: |
             ## Hardware
-            You can purchase all the required hardware for this  path from the:
-            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
-            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
+            Die gesamte Hardware für diesen Pfad kann hier erworben werden:
+            - [Pimoroni-Kit](https://buyzero.de/products/pico-intro-kit){:target="_blank"} (mit Raspberry Pi Pico) oder
+            - [Kitronik-Kit](https://opencircuit.shop/product/kitronik-part-pack-raspberry-pi-pico-pathway){:target="_blank"} (ohne Raspberry Pi Pico)
 
             ## Software
             - Thonny
-            - Raspberry Pi Pico Firmware (installed via Thonny)
-            - The picozero library (available via PyPi in Thonny)
-            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+            - Raspberry Pi Pico Firmware (installiert über Thonny)
+            - Die Picozero-Bibliothek (verfügbar über PyPi in Thonny)
+            Installationsdetails findest du im ersten Projekt und in unserem [Raspberry Pi Pico-Handbuch](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
           title: "Informationen für den Mentor"
           content: |
