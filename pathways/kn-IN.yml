@@ -481,7 +481,7 @@ kn:
 
             ## Software
             - Thonny
-            - Raspberry Pi Pico Fireware (installed via Thonny)
+            - Raspberry Pi Pico Firmware (installed via Thonny)
             - The picozero library (available via PyPi in Thonny)
             Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
