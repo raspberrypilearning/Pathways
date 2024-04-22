@@ -471,16 +471,16 @@ ja:
         - 
           title: "必要なもの"
           content: |
-            ## ハードウェア
-            このパスに必要なハードウェアはすべて以下から購入できます。
-            - [Pimoroniウェブストア](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}（Raspberry Pi Picoを含む）
-            - [Kitronikウェブストア](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"}（Raspberry Pi Picoを含まない）
+            ## Hardware
+            You can purchase all the required hardware for this  path from the:
+            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
+            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
 
-            ## ソフトウェア
+            ## Software
             - Thonny
-            - Raspberry Pi Picoファームウェア（Thonny経由でインストール）
-            - picozeroライブラリ（ThonnyのPyPi経由で入手可能）
-            インストールの詳細は1つ目のプロジェクトや[Raspberry Pi Picoガイド](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}にあります
+            - Raspberry Pi Pico Firmware (installed via Thonny)
+            - The picozero library (available via PyPi in Thonny)
+            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
           title: "メンター情報"
           content: |
