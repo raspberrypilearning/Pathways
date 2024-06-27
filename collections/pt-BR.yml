@@ -3,10 +3,10 @@ pt:
   collections:
     scratch:
       title: "Scratch"
-      description: "Begin your adventure in digital making, by learning to code animations, stories, and games in Scratch."
-      meta_description: "scratch, kids, child, children, coding, programming, games, animations"
-      additional_paths_title: "Additional Scratch paths"
-      additional_paths_description: "Additional Scratch paths to help you continue on your coding journey."
+      description: "Comece sua aventura na criação digital aprendendo a programar animações, histórias e jogos no Scratch."
+      meta_description: "scratch, crianças, criança, crianças, programar, programação, jogos, animações"
+      additional_paths_title: "Caminhos adicionais do Scratch"
+      additional_paths_description: "Caminhos adicionais do Scratch para ajudá-lo a continuar sua jornada de programação."
     python:
       title: "Python"
       description: "Learn about Python one of the world’s most popular programming languages to create digital art, interactive maps and models."
