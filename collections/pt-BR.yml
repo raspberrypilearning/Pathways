@@ -12,12 +12,12 @@ pt:
       description: "Aprenda sobre Python, uma das linguagens de programação mais populares do mundo para criar arte digital, mapas e modelos interativos."
       meta_description: "python, crianças, criança, crianças, programar, programação, jogos, animações"
       additional_paths_title: "Caminhos Python adicionais"
-      additional_paths_description: "Additional Python paths to help you continue on your coding journey."
+      additional_paths_description: "Caminhos adicionais do Scratch para ajudá-lo a continuar sua jornada de programação."
     html_and_css:
       title: "Web design"
-      description: "Build websites and apps by learning HTML, CSS, and JavaScript, and share with your friends."
-      meta_description: "web, html, css, javascript, websites, hild, children, coding, programming"
-      additional_paths_title: "Additional web design paths"
+      description: "Crie sites e aplicativos aprendendo HTML, CSS e JavaScript e compartilhe com seus amigos."
+      meta_description: "web, html, css, javascript, websites, criança, crianças, codificação, programação"
+      additional_paths_title: "Caminhos adicionais de web design"
       additional_paths_description: "Additional web design paths to help you continue on your coding journey."
     physical_computing:
       title: "Physical computing"
