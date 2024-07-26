@@ -426,95 +426,96 @@ es-419:
         - 
           title: "¿Qué voy a crear?"
           content: |
-            Make games, interactive devices, and a musical instrument.
-            By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
+            Crea juegos, dispositivos interactivos y un instrumento musical.
+            Al final de este camino, habrás utilizado tus nuevas habilidades para convertirte en autor de un libro electrónico con varias páginas.
         - 
-          title: "What do I need to know?"
+          title: "¿Qué necesito saber?"
           content: |
-            This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+            Este camino es para principiantes en Scratch y la informática física. Sin embargo, primero puedes completar nuestra ruta [Introducción a Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}.
         - 
-          title: "What do I need?"
+          title: "¿Qué necesito?"
           content: |
-            - A Raspberry Pi Computer
-            - Various wires
-            - Single colour LEDs, buzzers, and resistors
-            - Scratch 3 desktop version installed
-            - Craft items including aluminium foil
+            - Una computadora Raspberry Pi
+            - Varios cables
+            - LEDs de un solo color, zumbadores y resistencias
+            - Tener instaladala versión de escritorio Scratch 3 
+            - Artículos de artesanía, incluido papel de aluminio
         - 
-          title: "Mentor information"
+          title: "Información para mentores"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            ##321…¡Haz!
+            Este camino sigue [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            - **3 proyectos Explorar**: presenta a los creadores un conjunto de habilidades y brinda instrucciones paso a paso para ayudarlos a desarrollar la confianza inicial.
+            - **2 proyectos de diseño**: permite a los creadores practicar habilidades de los proyectos Explorar y expresarse creativamente mientras crecen en independencia.
+            - Proyecto **1 Invent**: alienta a los creadores a utilizar sus habilidades para crear un proyecto único que cumpla con las instrucciones del proyecto para una audiencia en particular.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Prueba rápida
+            Cada proyecto contiene una prueba rápida con tres preguntas de opción múltiple. Los creadores son guiados hacia la respuesta correcta a través de comentarios útiles y reciben una insignia de proyecto.
     pico-intro:
-      title: "Introduction to Raspberry Pi Pico"
-      subtitle: "LEDs, buzzers, switches, and dials"
-      description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
-      meta_title: Project path | Introduction to the Raspberry Pi Pico
-      meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+      title: "Introducción a Raspberry Pi Pico"
+      subtitle: "LEDs, zumbadores, interruptores y diales"
+      description: En esta introducción a la creación digital con Raspberry Pi Pico para principiantes, aprenderás a conectar y controlar LEDs, botones, interruptores, zumbadores y potenciómetros (diales).
+      meta_title: Ruta del proyecto | Introducción a la Raspberry Pi Pico
+      meta_description: En esta introducción a la creación digital con Raspberry Pi Pico para principiantes, aprenderás a conectar y controlar LEDs, botones, interruptores, zumbadores, etc.
       header:
         - 
-          title: "What will I create?"
+          title: "¿Qué voy a crear?"
           content: |
-            Program and craft interactive devices with light and sound.
-            By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
+            Programa y crea dispositivos interactivos con luz y sonido.
+            Al final de este camino, habrás utilizado tus nuevas habilidades para crear un dispositivo sensorial único con el que la gente querrá seguir interactuando
         - 
-          title: "What do I need to know?"
+          title: "¿Qué necesito saber?"
           content: |
-            - Basic typing and computer navigation skills
-            - This path is for beginners new to physical computing
+            - Habilidades básicas de mecanografía y navegación por computadora
+            - Este camino es para principiantes nuevos en la informática física
         - 
-          title: "What do I need?"
+          title: "¿Qué necesito?"
           content: |
             ## Hardware
-            You can purchase all the required hardware for this  path from the:
-            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
-            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
+            Puedes comprar todo el hardware necesario para esta ruta en la:
+            - [tienda web de Pimoroni](https://shop.pimoroni. om/products/pico-intro-kit?variant=39893512945747){:target="_blank"} (incluye un Raspberry Pi Pico)
+            - [Tienda web de Kitronik](https://kitronik.co. k/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excluye un Raspberry Pi Pico)
 
             ## Software
             - Thonny
-            - Raspberry Pi Pico Firmware (installed via Thonny)
-            - The picozero library (available via PyPi in Thonny)
-            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+            - Raspberry Pi Pico Firmware (instalado a través de Thonny)
+            - La biblioteca picozero (disponible a través de PyPi en Thonny)
+            Los detalles de instalación se encuentran en el primer proyecto y en nuestra guía [Raspberry Pi Pico](https://projects. aspberrypi.org/es/projects/introduction-to-the-pico){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "Información para mentores"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            ##321…¡Haz!
+            Este camino sigue [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            - **3 proyectos Explora**: presenta a los creadores un conjunto de habilidades y brinda instrucciones paso a paso para ayudarlos a desarrollar confianza.
+            - **2 proyectos de diseño**: permite a los creadores practicar habilidades de los proyectos Explora y expresarse creativamente mientras crecen en independencia.
+            - 1 proyecto ** Inventa**: alienta a los creadores a utilizar sus habilidades para crear un proyecto único que cumpla con las instrucciones del proyecto para una audiencia en particular.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Prueba rápida
+            Cada proyecto contiene una prueba rápida con tres preguntas de opción múltiple. Se guía a los creadores hacia la respuesta correcta a través de comentarios útiles y al final reciben una insignia de proyecto.
+
+            ##Inspirar a la comunidad
+            Se anima a los creadores a inspirar a otros miembros de la comunidad de la Fundación Raspberry Pi compartiendo sus proyectos de diseño e invención con nosotros a través del [formulario de envío de proyectos](https://form. raspberrypi.org/f/community-project-submissions){:target="_blank"}. Los proyectos se compartirán en nuestras galerías comunitarias.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: Raspberry Pi es una computadora pequeña y capaz que se puede usar en proyectos electrónicos y para hacer muchas de las cosas que hace tu PC de escritorio.
     sense-hat:
       title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: El Sense HAT es un periférico para la Raspberry Pi que incluye LEDs, un joystick y muchos sensores.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: Sonic Pi es un nuevo tipo de instrumento musical, diseñado para crear sonidos con código.
     microbit:
       title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      description: "BBC micro:bit es una computadora programable de bolsillo que te permite ser creativo."
     look-after-yourself:
-      title: Look after yourself
-      description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+      title: Cuídate
+      description: Aprende a cuidarte mientras aprendes a usar Scratch y trabaja para convertirte en un programador independiente.
     protect-our-planet:
-      title: Protect our planet
-      description: Use Scratch to learn about our planet and how to protect the environment for future generations
+      title: Protege nuestro planeta
+      description: Usa Scratch para aprender sobre nuestro planeta y cómo proteger el medio ambiente para las generaciones futuras
     coderdojo-html_css:
-      title: CoderDojo HTML & CSS
+      title: CoderDojo HTML y CSS
       description: Create websites by following these projects.
     coderdojo-scratch:
       title: CoderDojo Scratch
