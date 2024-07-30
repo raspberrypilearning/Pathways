@@ -516,27 +516,27 @@ es-419:
       description: Usa Scratch para aprender sobre nuestro planeta y cómo proteger el medio ambiente para las generaciones futuras
     coderdojo-html_css:
       title: CoderDojo HTML y CSS
-      description: Create websites by following these projects.
+      description: Crea sitios web siguiendo estos proyectos.
     coderdojo-scratch:
-      title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      title: Scratch de CoderDojo
+      description: '¡Aprende Scratch trabajando con estos proyectos divertidos!'
     coderdojo-wearables:
-      title: CoderDojo Wearables
-      description: Create wearable technology projects by following these projects.
+      title: Wearables de CoderDojo
+      description: Crear proyectos de tecnología "wearable" (para llevar puesta) siguiendo estos proyectos.
     app-inventor-for-social-enterprise:
-      title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      title: Inventor de aplicaciones para innovación social
+      description: Aprende a crear aplicaciones para dispositivos Android haciendo proyectos que puedan ayudar a la gente de tu comunidad.
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: Scratch para la innovación social
+      description: Aprende Scratch, un lenguaje de programación gráfico amigable para principiantes, mientras construyes aplicaciones y juegos para ayudar a la gente a aprender sobre temas importantes.
     html-css-for-social-enterprise:
-      title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      title: HTML y CSS para la innovación social
+      description: Aprende HTML y CSS creando un sitio web sobre la conservación de aves.
     getting-started-with-raspberry-pi:
-      title: Get started with Raspberry Pi
-      description: Set up your Raspberry Pi and see what it can do!
+      title: Comienza con Raspberry Pi
+      description: '¡Configura tu Raspberry Pi y mira lo que puede hacer!'
     life-on-earth:
-      meta_title: Life on Earth Astro Pi resources
+      meta_title: Recursos de vida en la Tierra Astro Pi
       meta_description: Ayuda a prepararte para el desafío Astro Pi Life on Earth con esta colección de recursos de Raspberry Pi, módulo de cámara, Sense HAT y Google Coral.
     web-intro:
       title: Introducción a la web
