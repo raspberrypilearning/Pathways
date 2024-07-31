@@ -473,14 +473,14 @@ es-419:
           content: |
             ## Hardware
             Puedes comprar todo el hardware necesario para esta ruta en la:
-            - [tienda web de Pimoroni](https://shop.pimoroni. om/products/pico-intro-kit?variant=39893512945747){:target="_blank"} (incluye un Raspberry Pi Pico)
-            - [Tienda web de Kitronik](https://kitronik.co. k/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excluye un Raspberry Pi Pico)
+            - [tienda web de Pimoroni](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"} (incluye un Raspberry Pi Pico)
+            - [Tienda web de Kitronik](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excluye un Raspberry Pi Pico)
 
             ## Software
             - Thonny
             - Raspberry Pi Pico Firmware (instalado a través de Thonny)
             - La biblioteca picozero (disponible a través de PyPi en Thonny)
-            Los detalles de instalación se encuentran en el primer proyecto y en nuestra guía [Raspberry Pi Pico](https://projects. aspberrypi.org/es/projects/introduction-to-the-pico){:target="_blank"}
+            Los detalles de instalación se encuentran en el primer proyecto y en nuestra guía [Raspberry Pi Pico](https://projects.raspberrypi.org/es/projects/introduction-to-the-pico){:target="_blank"}
         - 
           title: "Información para mentores"
           content: |
@@ -602,7 +602,7 @@ es-419:
             - Acceso a Internet para usar Scratch y Machine Learning 4 Kids en línea.
             - Una cuenta de [Aprendizaje automático para niños](https://machinelearningforkids.co.uk/#!/welcome){:target="_blank"}. (Instrucciones disponibles en la Guía del mentor a continuación).
             - Auriculares (recomendados) o parlantes
-            - Una copia del [documento Creator Blueprint](https://drive.google.com/uc? export=descargar&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
+            - Una copia del [documento Creator Blueprint](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
         - 
           title: "Información para mentores"
           content: |
