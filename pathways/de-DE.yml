@@ -1,5 +1,47 @@
 de:
   pathways:
+    ai-toolkit:
+      title: "AI toolkit"
+      subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
+      description: The AI toolkit introduces various artificial intelligence applications and technologies through hands-on projects using different platforms and tools. You will work with voice recognition, facial recognition, and other AI technologies, gaining a broader understanding of how AI can be applied in different contexts.
+      meta_title: Project path | AI toolkit for kids | Artificial intelligence for kids | Practical projects using voice and facial recognition
+      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make interactive applications and games that use image classifiers, voice and face recognition. Explore advanced technologies like Adobe Firefly and practical tools for managing Ollama and Stable Diffusion models on Raspberry Pi.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+        - 
+          title: "What do I need?"
+          content: |
+            There is a range of projects for you to try and the specific requirements are listed for each project.
+            - One project can be done as an unplugged activity and all printable materials are provided for download.
+            - Most projects require a computer or mobile device and internet access.
+            - Some projects require a webcam.
+            - Raspberry Pi (optional).
+            - micro:bit (optional).
+        - 
+          title: "Mentor information"
+          content: |
+            ##Pick and choose
+            There is no need to follow this path in order. You can explore the theme that interests you the most!
+
+            ##Available to all
+            Inclusivity is a key aspect of this collection. The projects cater to various skill levels and include an unplugged activity, ensuring that everyone can participate, regardless of available resources.
+
+            ##Video tutorials
+            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+
+            ##Shorter projects
+            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
     more-web:
       title: "Mehr Webentwicklung"
       subtitle: "HTML, CSS und JavaScript!"
@@ -210,8 +252,43 @@ de:
       title: "Scratch: Modul 3"
       description: Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu programmieren.
     scratch-machine-learning:
-      title: "Scratch Maschinelles Lernen"
+      title: "Machine Learning with Scratch"
       description: Einführungsprojekte für maschinelles Lernen mit "Machine Learning for Kids" mit Scratch.
+      meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
+      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
+      header:
+        - 
+          title: "What will I create?"
+          content: |
+            Make creative and interactive projects using voice recognition and facial recognition. Creators will train models to recognise patterns, make predictions, and explore how these models can be improved with additional data.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+        - 
+          title: "What do I need?"
+          content: |
+            There is a range of projects for you to try and the specific requirements are listed for each project.
+            - All projects require a computer or mobile device and internet access.
+            - Some projects require a webcam.
+        - 
+          title: "Mentor information"
+          content: |
+            ##Pick and choose
+            There is no need to follow this path in order. You can explore the theme that interests you the most!
+
+            ##Available to all
+            Inclusivity is a key aspect of this collection. The projects cater to various skill levels, ensuring that everyone can participate.
+
+            ##Video tutorials
+            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+
+            ##Shorter projects
+            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+
+            ##Inspiring the community
+            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
     scratch-additional-projects:
       title: "Scratch: Zusätzliche Projekte"
       description: Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu programmieren.
