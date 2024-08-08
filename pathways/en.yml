@@ -18,11 +18,11 @@ en:
         - title: "What do I need?"
           content: |
             There is a range of projects for you to try and the specific requirements are listed for each project. 
-            One project can be done as an unplugged activity and all printable materials are provided for download.
-            Most projects require a computer or mobile device and internet access.
-            Some projects require a webcam.
-            Raspberry Pi (optional).
-            micro:bit (optional).
+            - One project can be done as an unplugged activity and all printable materials are provided for download.
+            - Most projects require a computer or mobile device and internet access.
+            - Some projects require a webcam.
+            - Raspberry Pi (optional).
+            - micro:bit (optional).
         - title: "Mentor information"
           content: |
             ##Pick and choose
