@@ -1,6 +1,12 @@
 ---
 es-419:
   collections:
+    artificial_intelligence:
+      title: "Artificial intelligence"
+      description: "Discover the foundational concepts of machine learning through creative and interactive projects using AI applications and technologies."
+      meta_description: "AI, kids, child, children, coding, programming, artificial intelligence, machine learning, classifier, llm, large language models, LLM, LLMs, prompt, prompt engineering"
+      additional_paths_title: "Additional artificial intelligence paths"
+      additional_paths_description: "Additional artificial intelligence paths to help you continue on your coding journey."
     scratch:
       title: "Scratch"
       description: "Comienza tu aventura en la creación digital, aprendiendo a programar animaciones, historias y juegos en Scratch."
