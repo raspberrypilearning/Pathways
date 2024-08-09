@@ -252,7 +252,8 @@ es-419:
       description: Aprende cómo programar tus propias historias interactivas, juegos y animaciones.
     scratch-machine-learning:
       title: "Machine Learning with Scratch"
-      description: Proyectos introductorios de aprendizaje automático utilizando el aprendizaje automático para niños con Scratch.
+      subtitle: "Introductory machine learning projects using Machine Learning For Kids with Scratch."
+      description: Introduction to foundational concepts of machine learning through creative and interactive projects. Creators will train models to recognise patterns in images, text and sound, and explore how these models can be used to create fun games!
       meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
       meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
       header:
