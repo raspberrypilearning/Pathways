@@ -5,43 +5,43 @@ de:
       subtitle: "Nutze eine Reihe von Plattformen für künstliche Intelligenz und maschinelles Lernen!"
       description: Das KI-Toolkit stellt verschiedene Anwendungen und Technologien der künstlichen Intelligenz anhand praktischer Projekte unter Verwendung verschiedener Plattformen und Tools vor. Du arbeitest mit Spracherkennung, Gesichtserkennung und anderen KI-Technologien und erhälst so ein umfassenderes Verständnis dafür, wie KI in verschiedenen Kontexten eingesetzt werden kann.
       meta_title: Projektverlauf | KI-Baukasten für Kinder | Künstliche Intelligenz für Kinder | Praxisprojekte mit Sprach- und Gesichtserkennung
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
+      meta_description: Einführung in künstliche Intelligenz und maschinelles Lernen für Kinder, Jugendliche und junge Erwachsene. Erstelle mit diesen kostenlosen Ressourcen Anwendungen, die künstliche Intelligenz nutzen.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Make interactive applications and games that use image classifiers, voice and face recognition. Explore advanced technologies like Adobe Firefly and practical tools for managing Ollama and Stable Diffusion models on Raspberry Pi.
+            Erstelle interaktive Anwendungen und Spiele, die Bildklassifizierer, Sprach- und Gesichtserkennung verwenden. Entdecke fortschrittliche Technologien wie Adobe Firefly und praktische Tools zur Verwaltung von Ollama- und Stable-Diffusion-Modellen auf Raspberry Pi.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            – Grundlegende Fähigkeiten in der Bedienung eines Computers
+            – Erfahrung im Programmieren in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kann hilfreich sein.
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            There is a range of projects for you to try and the specific requirements are listed for each project.
-            - One project can be done as an unplugged activity and all printable materials are provided for download.
-            - Most projects require a computer or mobile device and internet access.
-            - Some projects require a webcam.
-            - Raspberry Pi (optional).
-            - micro:bit (optional).
+            Du kannst verschiedene Projekte ausprobieren und für jedes Projekt sind die spezifischen Anforderungen aufgeführt.
+            – Ein Projekt kann als Aktivität ohne Strom durchgeführt werden und alle druckbaren Materialien stehen zum Download bereit.
+            – Für die meisten Projekte sind ein Computer oder ein mobiles Gerät und Internetzugang erforderlich.
+            – Für einige Projekte ist eine Webcam erforderlich.
+            – Raspberry Pi (optional).
+            – Micro:Bit (optional).
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
-            ##Pick and choose
-            There is no need to follow this path in order. You can explore the theme that interests you the most!
+            ##Auswählen
+            Du musst diesem Pfad nicht der Reihe nach folgen. Du kannst das Thema erkunden, das dich am meisten interessiert!
 
-            ##Available to all
-            Inclusivity is a key aspect of this collection. The projects cater to various skill levels and include an unplugged activity, ensuring that everyone can participate, regardless of available resources.
+            ##Für alle verfügbar
+            Inklusivität ist ein zentraler Aspekt dieser Sammlung. Die Projekte sind auf verschiedene Fähigkeitsstufen zugeschnitten und beinhalten eine Aktivität ohne Internetverbindung, sodass jeder teilnehmen kann, unabhängig von den verfügbaren Ressourcen.
 
-            ##Video tutorials
-            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+            ##Video-Tutorials
+            Wir freuen uns, eine Reihe von Projekten anbieten zu können, die sowohl Video-Tutorials als auch schriftliche Schritt-für-Schritt-Anleitungen umfassen. Die Video-Tutorials sind so konzipiert, dass du sie in deinem eigenen Tempo durch jede Aktivität führen, und sind zur besseren Zugänglichkeit mit Untertiteln versehen. Für diejenigen, die schriftliche Anweisungen bevorzugen, stehen auch ausführliche Schritt-für-Schritt-Anleitungen zur Verfügung.
 
-            ##Shorter projects
-            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+            ##Kürzere Projekte
+            Die Projekte sind flexibel und spannend gestaltet und der Hauptteil kann in nur wenigen Minuten abgeschlossen werden, sodass viel Zeit für Anpassungen und Erkundungen bleibt. Dieses Setup ermöglicht kurze, unterhaltsame Sitzungen, die sich leicht in deine Code Club-Aktivitäten integrieren lassen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
+            ##Die Community inspirieren
+            Entwickler werden ermutigt, andere in der Raspberry Pi Foundation-Community zu inspirieren, indem sie ihre Projekte mit uns teilen.
     more-web:
       title: "Mehr Webentwicklung"
       subtitle: "HTML, CSS und JavaScript!"
@@ -252,44 +252,44 @@ de:
       title: "Scratch: Modul 3"
       description: Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu programmieren.
     scratch-machine-learning:
-      title: "Machine Learning with Scratch"
-      subtitle: "Introductory machine learning projects using Machine Learning For Kids with Scratch."
-      description: Introduction to foundational concepts of machine learning through creative and interactive projects. Creators will train models to recognise patterns in images, text and sound, and explore how these models can be used to create fun games!
-      meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
+      title: "Maschinelles Lernen mit Scratch"
+      subtitle: "Einführungsprojekte für maschinelles Lernen mit \"Machine Learning für Kinder\" mit Scratch."
+      description: Einführung in die grundlegenden Konzepte des maschinellen Lernens anhand kreativer und interaktiver Projekte. Entwickler trainieren Modelle, um Muster in Bildern, Text und Ton zu erkennen, und erkunden, wie diese Modelle zum Erstellen unterhaltsamer Spiele verwendet werden können!
+      meta_title: Projektverlauf | Maschinelles Lernen mit Scratch | Maschinelles Lernen für Kinder | Praxisprojekte mit Sprach- und Gesichtserkennung
+      meta_description: Einführung in künstliche Intelligenz und maschinelles Lernen für Kinder, Jugendliche und junge Erwachsene. Erstelle mit diesen kostenlosen Ressourcen Anwendungen, die maschinelles Lernen nutzen.
       header:
         - 
-          title: "What will I create?"
+          title: "Was werde ich erstellen?"
           content: |
-            Make creative and interactive projects using voice recognition and facial recognition. Creators will train models to recognise patterns, make predictions, and explore how these models can be improved with additional data.
+            Erstelle kreative und interaktive Projekte mithilfe der Sprach- und Gesichtserkennung. Die Entwickler trainieren Modelle, um Muster zu erkennen, Vorhersagen zu treffen und zu untersuchen, wie diese Modelle mit zusätzlichen Daten verbessert werden können.
         - 
-          title: "What do I need to know?"
+          title: "Was muss ich wissen?"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            – Grundlegende Fähigkeiten in der Bedienung eines Computers
+            – Erfahrung im Programmieren in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} kann hilfreich sein.
         - 
-          title: "What do I need?"
+          title: "Was benötige ich?"
           content: |
-            There is a range of projects for you to try and the specific requirements are listed for each project.
-            - All projects require a computer or mobile device and internet access.
-            - Some projects require a webcam.
+            Du kannst verschiedene Projekte ausprobieren und für jedes Projekt sind die spezifischen Anforderungen aufgeführt.
+            – Für alle Projekte sind ein Computer oder ein mobiles Gerät und Internetzugang erforderlich.
+            – Für einige Projekte ist eine Webcam erforderlich.
         - 
-          title: "Mentor information"
+          title: "Informationen für den Mentor"
           content: |
-            ##Pick and choose
-            There is no need to follow this path in order. You can explore the theme that interests you the most!
+            ##Auswählen
+            Du musst diesem Pfad nicht der Reihe nach folgen. Du kannst das Thema erkunden, das dich am meisten interessiert!
 
-            ##Available to all
-            Inclusivity is a key aspect of this collection. The projects cater to various skill levels, ensuring that everyone can participate.
+            ##Für alle verfügbar
+            Inklusivität ist ein zentraler Aspekt dieser Sammlung. Die Projekte sind auf verschiedene Fähigkeitsstufen zugeschnitten und beinhalten eine Aktivität ohne Internetverbindung, sodass jeder teilnehmen kann, unabhängig von den verfügbaren Ressourcen.
 
-            ##Video tutorials
-            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+            ##Video-Tutorials
+            Wir freuen uns, eine Reihe von Projekten anbieten zu können, die sowohl Video-Tutorials als auch schriftliche Schritt-für-Schritt-Anleitungen umfassen. Die Video-Tutorials sind so konzipiert, dass du sie in deinem eigenen Tempo durch jede Aktivität führen, und sind zur besseren Zugänglichkeit mit Untertiteln versehen. Für diejenigen, die schriftliche Anweisungen bevorzugen, stehen auch ausführliche Schritt-für-Schritt-Anleitungen zur Verfügung.
 
-            ##Shorter projects
-            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+            ##Kürzere Projekte
+            Die Projekte sind flexibel und spannend gestaltet und der Hauptteil kann in nur wenigen Minuten abgeschlossen werden, sodass viel Zeit für Anpassungen und Erkundungen bleibt. Dieses Setup ermöglicht kurze, unterhaltsame Sitzungen, die sich leicht in deine Code Club-Aktivitäten integrieren lassen.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
+            ##Die Community inspirieren
+            Entwickler werden ermutigt, andere in der Raspberry Pi Foundation-Community zu inspirieren, indem sie ihre Projekte mit uns teilen.
     scratch-additional-projects:
       title: "Scratch: Zusätzliche Projekte"
       description: Lerne, deine eigenen interaktiven Geschichten, Spiele und Animationen zu programmieren.
