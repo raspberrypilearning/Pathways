@@ -2,11 +2,11 @@
 de:
   collections:
     artificial_intelligence:
-      title: "Artificial intelligence"
-      description: "Discover the foundational concepts of machine learning through creative and interactive projects using AI applications and technologies."
-      meta_description: "AI, kids, child, children, coding, programming, artificial intelligence, machine learning, classifier, llm, large language models, LLM, LLMs, prompt, prompt engineering"
-      additional_paths_title: "Additional artificial intelligence paths"
-      additional_paths_description: "Additional artificial intelligence paths to help you continue on your coding journey."
+      title: "Künstliche Intelligenz"
+      description: "Entdecke die grundlegenden Konzepte des maschinellen Lernens durch kreative und interaktive Projekte mithilfe von KI-Anwendungen und -Technologien."
+      meta_description: "KI, Kinder, Kind, Codierung, Programmierung, künstliche Intelligenz, maschinelles Lernen, Klassifizierung, LLM, große Sprachmodelle, LLM, LLMs, Prompt, Prompt Engineering"
+      additional_paths_title: "Zusätzliche Pfade im Bereich der künstlichen Intelligenz"
+      additional_paths_description: "Zusätzliche Pfade zum digitalen Basteln, die dir helfen, deine Reise durch die Welt der Programmierung fortzusetzen."
     scratch:
       title: "Scratch"
       description: "Starte dein Abenteuer im digitalen Gestalten, indem du lernst Animationen, Geschichten und Spiele in Scratch zu programmieren."
