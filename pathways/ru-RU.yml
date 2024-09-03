@@ -244,13 +244,13 @@ ru:
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
       title: "Scratch: Module 1"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Узнай, как программировать твои собственные интерактивные истории, игры и анимации.
     scratch-module-2:
       title: "Scratch: Module 2"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Узнай, как программировать твои собственные интерактивные истории, игры и анимации.
     scratch-module-3:
       title: "Scratch: Module 3"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Узнай, как программировать твои собственные интерактивные истории, игры и анимации.
     scratch-machine-learning:
       title: "Machine Learning with Scratch"
       subtitle: "Introductory machine learning projects using Machine Learning For Kids with Scratch."
@@ -291,14 +291,14 @@ ru:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
     scratch-additional-projects:
-      title: "Scratch: Additional Projects"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Scratch: Дополнительные проекты"
+      description: Узнай, как программировать твои собственные интерактивные истории, игры и анимации.
     webdev-module-1:
       title: "HTML & CSS: Module 1"
-      description: Build and style your own web pages.
+      description: Создавай и оформляй собственные веб-страницы.
     webdev-module-2:
       title: "HTML & CSS: Module 2"
-      description: Build and style your own web pages.
+      description: Создавай и оформляй собственные веб-страницы.
     python-intro:
       title: "Introduction to Python"
       subtitle: "Variables, functions, and loops"
@@ -411,11 +411,11 @@ ru:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
-      title: "Python: Module 1"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python: модуль 1"
+      description: Python - основанный на тексте широко используемый язык программирования.
     python-module-2:
-      title: "Python: Module 2"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python: модуль 2"
+      description: Python - основанный на тексте широко используемый язык программирования.
     unity-intro:
       title: "Introduction to Unity"
       subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
@@ -578,16 +578,16 @@ ru:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: Raspberry Pi - это небольшой компьютер, который можно использовать в проектах, связанных с электроникой. Он способен делать многое из того, что умеет делать твой настольный компьютер.
     sense-hat:
       title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: Sense HAT - это дополнительная плата для Raspberry Pi, содержащая светодиоды, джойстик и множество датчиков.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: Sonic Pi - это новый вид музыкального инструмента, предназначенный для создания звуков с помощью кода.
     microbit:
       title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      description: "BBC micro:bit - это карманный, управляемый твоим кодом компьютер, который позволяет тебе проявить свой творческий потенциал."
     look-after-yourself:
       title: Look after yourself
       description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
@@ -595,23 +595,23 @@ ru:
       title: Protect our planet
       description: Use Scratch to learn about our planet and how to protect the environment for future generations
     coderdojo-html_css:
-      title: CoderDojo HTML & CSS
-      description: Create websites by following these projects.
+      title: CoderDojo HTML и CSS
+      description: Создавай веб-сайты, следуя этим проектам.
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      description: Изучай Scratch, работая над этими веселыми проектами!
     coderdojo-wearables:
-      title: CoderDojo Wearables
-      description: Create wearable technology projects by following these projects.
+      title: Носимые гаджеты CoderDojo
+      description: Создавай проекты «умной» одежды, следуя этим проектам.
     app-inventor-for-social-enterprise:
-      title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      title: App Inventor для социальных инноваций
+      description: Научись создавать приложения для Android устройств, делая проекты, которые могут помочь людям в вашем сообществе.
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: Scratch для социальных инноваций
+      description: Изучай Scratch, удобный для начинающих графический язык программирования, путём создания приложений и игр, чтобы помочь людям узнать о важных проблемах.
     html-css-for-social-enterprise:
       title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      description: Изучи HTML и CSS, создавая веб-сайт об охране птиц.
     getting-started-with-raspberry-pi:
       title: Get started with Raspberry Pi
       description: Set up your Raspberry Pi and see what it can do!
