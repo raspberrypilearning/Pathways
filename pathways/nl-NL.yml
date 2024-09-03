@@ -2,46 +2,46 @@ nl:
   pathways:
     ai-toolkit:
       title: "AI toolkit"
-      subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
-      description: The AI toolkit introduces various artificial intelligence applications and technologies through hands-on projects using different platforms and tools. You will work with voice recognition, facial recognition, and other AI technologies, gaining a broader understanding of how AI can be applied in different contexts.
-      meta_title: Project path | AI toolkit for kids | Artificial intelligence for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
+      subtitle: "Maak kennis met een scala aan platforms voor kunstmatige intelligentie en machine learning!"
+      description: De AI-toolkit introduceert verschillende toepassingen en technologieën voor kunstmatige intelligentie via praktische projecten met verschillende platforms en tools. Je werkt met spraakherkenning, gezichtsherkenning en andere AI-technologieën, waardoor je een breder begrip krijgt van hoe AI in verschillende contexten kan worden toegepast.
+      meta_title: Projectpad | AI-toolkit voor kinderen | Kunstmatige intelligentie voor kinderen | Praktische projecten met behulp van spraak- en gezichtsherkenning
+      meta_description: Inleiding tot kunstmatige intelligentie en machine learning voor kinderen, tieners en jongvolwassenen. Bouw applicaties die kunstmatige intelligentie gebruiken met deze gratis bronnen.
       header:
         - 
           title: "Wat ga ik maken?"
           content: |
-            Make interactive applications and games that use image classifiers, voice and face recognition. Explore advanced technologies like Adobe Firefly and practical tools for managing Ollama and Stable Diffusion models on Raspberry Pi.
+            Maak interactieve applicaties en games die gebruikmaken van beeldclassificatoren, spraak- en gezichtsherkenning. Ontdek geavanceerde technologieën zoals Adobe Firefly en praktische tools voor het beheren van Ollama- en Stable Diffusion-modellen op Raspberry Pi.
         - 
           title: "Wat moet ik weten?"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            - Basis typen en computer navigatie vaardigheden
+            - Bekendheid met ons [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} pad kan ook nuttig zijn.
         - 
           title: "Wat heb ik nodig?"
           content: |
-            There is a range of projects for you to try and the specific requirements are listed for each project.
-            - One project can be done as an unplugged activity and all printable materials are provided for download.
-            - Most projects require a computer or mobile device and internet access.
-            - Some projects require a webcam.
-            - Raspberry Pi (optional).
-            - micro:bit (optional).
+            Er zijn verschillende projecten die je kunt proberen en de specifieke vereisten worden voor elk project vermeld.
+            - Eén project kan als een unplugged-activiteit worden uitgevoerd en alle afdrukbare materialen zijn beschikbaar om te downloaden.
+            - De meeste projecten vereisen een computer of mobiel apparaat en internettoegang.
+            - Voor sommige projecten is een webcam vereist.
+            - Raspberry Pi (optioneel).
+            - micro:bit (optioneel).
         - 
           title: "Mentorinformatie"
           content: |
-            ##Pick and choose
-            There is no need to follow this path in order. You can explore the theme that interests you the most!
+            ##Kies je eigen weg
+            Het is niet nodig om dit pad in volgorde te volgen. Je kunt het thema verkennen dat je het meest interesseert!
 
-            ##Available to all
-            Inclusivity is a key aspect of this collection. The projects cater to various skill levels and include an unplugged activity, ensuring that everyone can participate, regardless of available resources.
+            ##Beschikbaar voor iedereen
+            Inclusiviteit is een belangrijk aspect van deze collectie. De projecten zijn geschikt voor verschillende vaardigheidsniveaus en bevatten een unplugged-activiteit, zodat iedereen kan deelnemen, ongeacht de beschikbare middelen.
 
-            ##Video tutorials
-            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+            ##Videotutorials
+            We zijn verheugd om een reeks projecten aan te bieden met zowel videotutorials als stapsgewijze geschreven handleidingen. De videotutorials zijn ontworpen om je in je eigen tempo door elke activiteit te leiden en zijn ondertiteld om de toegankelijkheid te verbeteren. Voor degenen die de voorkeur geven aan schriftelijke instructies, zijn er ook gedetailleerde stapsgewijze handleidingen beschikbaar.
 
-            ##Shorter projects
-            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+            ##Kortere projecten
+            De projecten zijn zo ontworpen dat ze flexibel en boeiend zijn en het hoofdonderdeel kan in slechts een paar minuten worden voltooid, waardoor er veel tijd overblijft voor maatwerk en verkenning. Deze opstelling zorgt voor korte, plezierige sessies die eenvoudig kunnen worden opgenomen in jouw Code Club-activiteiten.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
+            ##De community inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-community te inspireren door hun projecten met ons te delen.
     more-web:
       title: "Meer web"
       subtitle: "HTML, CSS en JavaScript!"
@@ -252,44 +252,44 @@ nl:
       title: "Scratch: Module 3"
       description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
     scratch-machine-learning:
-      title: "Machine Learning with Scratch"
+      title: "Machine Learning met Scratch"
       subtitle: "Inleidende machine learning-projecten met behulp van Machine Learning for Kids with Scratch."
-      description: Introduction to foundational concepts of machine learning through creative and interactive projects. Creators will train models to recognise patterns in images, text and sound, and explore how these models can be used to create fun games!
-      meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
+      description: Introductie tot fundamentele concepten van machine learning via creatieve en interactieve projecten. Makers trainen modellen om patronen in afbeeldingen, tekst en geluid te herkennen en ontdekken hoe deze modellen kunnen worden gebruikt om leuke games te maken!
+      meta_title: Projectpad | Machine Learning met Scratch | Machine learning voor kinderen | Praktische projecten met spraak- en gezichtsherkenning
+      meta_description: Inleiding tot kunstmatige intelligentie en machine learning voor kinderen, tieners en jongvolwassenen. Bouw toepassingen die gebruik maken van machine learning met deze gratis bronnen.
       header:
         - 
           title: "Wat ga ik maken?"
           content: |
-            Make creative and interactive projects using voice recognition and facial recognition. Creators will train models to recognise patterns, make predictions, and explore how these models can be improved with additional data.
+            Maak creatieve en interactieve projecten met spraakerkenning en gezichtsherkenning. Makers zullen modellen trainen om patronen te herkennen, voorspellingen te maken en te ontdekken hoe deze modellen kunnen worden verbeterd met aanvullende gegevens.
         - 
           title: "Wat moet ik weten?"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            - Basis typen en computer navigatie vaardigheden
+            - Bekendheid met ons [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} pad kan ook nuttig zijn.
         - 
           title: "Wat heb ik nodig?"
           content: |
-            There is a range of projects for you to try and the specific requirements are listed for each project.
-            - All projects require a computer or mobile device and internet access.
-            - Some projects require a webcam.
+            Er zijn verschillende projecten die je kunt uitproberen. De specifieke vereisten worden voor elk project vermeld.
+            - Voor alle projecten heb je een computer of mobiel apparaat en internettoegang nodig.
+            - Voor sommige projecten heb je een webcam nodig.
         - 
           title: "Mentorinformatie"
           content: |
-            ##Pick and choose
-            There is no need to follow this path in order. You can explore the theme that interests you the most!
+            ##Kies je eigen weg
+            Het is niet nodig om dit pad in volgorde te volgen. Je kunt het thema verkennen dat je het meest interesseert!
 
-            ##Available to all
-            Inclusivity is a key aspect of this collection. The projects cater to various skill levels, ensuring that everyone can participate.
+            ##Beschikbaar voor iedereen
+            Inclusiviteit is een belangrijk aspect van deze collectie. De projecten zijn geschikt voor verschillende vaardigheidsniveaus en bevatten een unplugged-activiteit, zodat iedereen kan deelnemen, ongeacht de beschikbare middelen.
 
-            ##Video tutorials
-            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+            ##Videotutorials
+            We zijn verheugd om een reeks projecten aan te bieden met zowel videotutorials als stapsgewijze geschreven handleidingen. De videotutorials zijn ontworpen om je in je eigen tempo door elke activiteit te leiden en zijn ondertiteld om de toegankelijkheid te verbeteren. Voor degenen die de voorkeur geven aan schriftelijke instructies, zijn er ook gedetailleerde stapsgewijze handleidingen beschikbaar.
 
-            ##Shorter projects
-            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+            ##Kortere projecten
+            De projecten zijn zo ontworpen dat ze flexibel en boeiend zijn en het hoofdonderdeel kan in slechts een paar minuten worden voltooid, waardoor er veel tijd overblijft voor maatwerk en verkenning. Deze opstelling zorgt voor korte, plezierige sessies die eenvoudig kunnen worden opgenomen in jouw Code Club-activiteiten.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
+            ##De community inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-community te inspireren door hun projecten met ons te delen.
     scratch-additional-projects:
       title: "Scratch: Extra projecten"
       description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
