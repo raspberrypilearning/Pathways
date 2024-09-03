@@ -8,16 +8,16 @@ kn:
       meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive applications and games that use image classifiers, voice and face recognition. Explore advanced technologies like Adobe Firefly and practical tools for managing Ollama and Stable Diffusion models on Raspberry Pi.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Basic typing and computer navigation skills
             - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             There is a range of projects for you to try and the specific requirements are listed for each project.
             - One project can be done as an unplugged activity and all printable materials are provided for download.
@@ -26,7 +26,7 @@ kn:
             - Raspberry Pi (optional).
             - micro:bit (optional).
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##Pick and choose
             There is no need to follow this path in order. You can explore the theme that interests you the most!
@@ -50,23 +50,23 @@ kn:
       meta_description: Introduction to HTML, CSS and JavaScript for kids, teenagers and young adults. Build interactive websites with these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive websites with superheroes, interactive stories and a journey to Antarctica. Learn to use interactive features such as scrolling animations, navigation menus, buttons and dark mode controls.
             By the end of this path you will have used your new skills to create an interactive website to share with your friends.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Basic typing and computer navigation skills
             - Experience with HTML and CSS may be useful
             - Familiarity with our [Introduction to web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} path may also be useful.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
             - Optionally, an account to save projects.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -88,16 +88,16 @@ kn:
       meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
             By the end of this path you will have used your new skills to create a party game to play and share with your friends.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             This path is ideal for beginners to micro:bit.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             This path requires:
 
@@ -105,7 +105,7 @@ kn:
             - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
             - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -123,21 +123,21 @@ kn:
     scratch-intro:
       title: "Introduction to Scratch"
       subtitle: "sprites, scripts, and loops"
-      description: In this introduction to coding in Scratch for beginners, you will learn how to add code, costumes, and sounds to sprites as you make animations, a game, an app, and a book.
-      meta_title: Project path | Intro to Scratch programming for kids
-      meta_description: Introduction to Scratch programming for kids, teenagers and young adults. Learn how to make animations, a game, an app, and a book.
+      description: ಆರಂಭಿಕರಿಗಾಗಿ Scratch ನಲ್ಲಿ ಕೋಡಿಂಗ್ ಮಾಡುವ ಈ ಪರಿಚಯದಲ್ಲಿ, ನೀವು ಅನಿಮೇಷನ್‌ಗಳು, ಆಟ, ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಪುಸ್ತಕವನ್ನು ಮಾಡುವಾಗ ಸ್ಪ್ರೈಟ್‌ಗಳಿಗೆ ಕೋಡ್, ಉಡುಗೆಗಳು ಮತ್ತು ಧ್ವನಿಗಳನ್ನು ಹೇಗೆ ಸೇರಿಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Scratch ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಪರಿಚಯ
+      meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Scratch ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಪರಿಚಯ. ಅನಿಮೇಷನ್‌ಗಳು, ಆಟ, ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಪುಸ್ತಕವನ್ನು ಹೇಗೆ ಮಾಡಬೇಕೆಂದು ತಿಳಿಯಿರಿ.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive projects, animations and create a multiple level game.
             By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             This path is ideal for beginners to Scratch.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             This path requires:
 
@@ -145,7 +145,7 @@ kn:
             - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
             - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -163,22 +163,22 @@ kn:
     more-scratch:
       title: "More Scratch"
       subtitle: "broadcast, decisions and variables"
-      description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
-      meta_title: Project path | More Scratch for kids | Raspberry Pi
-      meta_description: More Scratch for kids, teenagers and young adults. Move beyond the basics to code apps, games, and animations using message broadcasts, with these free projects.
+      description: Scratch ಪರಿಚಯದಲ್ಲಿ ಪರಿಚಯಿಸಲಾದ ಮೂಲಭೂತ ಅಂಶಗಳಿಗಿಂತ ಮುಂದಕ್ಕೆ ಇನ್ನಷ್ಟು Scratch ಮುಂದುವರಿಯುತ್ತದೆ. ಸಂದೇಶ ಪ್ರಸಾರವನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಆಟಗಳು ಮತ್ತು ಸಿಮ್ಯುಲೇಶನ್‌ಗಳನ್ನು ಮಾಡುತ್ತೀರಿ, if.. then and if.. then..alse ನಿರ್ಧಾರಗಳು ಮತ್ತು ವೇರಿಯಬಲ್‌ಗಳು.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ ಇನ್ನಷ್ಟು ಸ್ಕ್ರಾಚ್ | Raspberry Pi
+      meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ ಇನ್ನಷ್ಟು Scratch. ಈ ಉಚಿತ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳೊಂದಿಗೆ ಸಂದೇಶ ಪ್ರಸಾರಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಕೋಡ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳಿಗೆ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಮೀರಿ ಮುಂದುವರಿಯಿರಿ.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive projects, simulators, and games.
             By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             This path is for creators comfortable with using Scratch.
             If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             This path requires:
 
@@ -186,7 +186,7 @@ kn:
             - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
             - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -204,22 +204,22 @@ kn:
     further-scratch:
       title: "Further Scratch"
       subtitle: "clones, my blocks, and boolean logic"
-      description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
-      meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
-      meta_description: Further Scratch coding for kids, teenagers and young adults. Use these free coding resources to make apps, games, computer-generated art, and animations.
+      description: Scratch ಮತ್ತು ಇನ್ನಷ್ಟು Scratch ಪರಿಚಯದಲ್ಲಿ ಪರಿಚಯಿಸಲಾದ ಕೌಶಲ್ಯಗಳನ್ನು ಮೀರಿ ಮತ್ತಷ್ಟು Scratch ಮುಂದುವರಿಯುತ್ತದೆ. ಬೂಲಿಯನ್ ತರ್ಕ, ಫಂಕ್ಷನ್‌ಗಳು, ತದ್ರೂಪುಗಳು ಮತ್ತು ಇನ್ನಿತರೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಆಟಗಳು, ಕಂಪ್ಯೂಟರ್-ರಚಿತ ಕಲೆ ಮತ್ತು ಸಿಮ್ಯುಲೇಶನ್‌ಗಳನ್ನು ಮಾಡುತ್ತೀರಿ.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ ಮತ್ತಷ್ಟು Scratch | Raspberry Pi
+      meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ ಮತ್ತಷ್ಟು Scratch ಕೋಡಿಂಗ್. ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಆಟಗಳು, ಕಂಪ್ಯೂಟರ್-ರಚಿತ ಕಲೆ ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಮಾಡಲು ಈ ಉಚಿತ ಕೋಡಿಂಗ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಬಳಸಿ.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make computer generated art, music, games and simulations.
             By the end of this path you will have used your new skills to create a first person view simulation through an imagined world.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             This path is for creators comfortable with using Scratch.
             If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             This path requires:
 
@@ -227,7 +227,7 @@ kn:
             - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
             - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -243,14 +243,14 @@ kn:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
-      title: "Scratch: Module 1"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Scratch: ಘಟಕ 1"
+      description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
     scratch-module-2:
-      title: "Scratch: Module 2"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Scratch: ಘಟಕ 2"
+      description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
     scratch-module-3:
-      title: "Scratch: Module 3"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Scratch: ಘಟಕ 3"
+      description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
     scratch-machine-learning:
       title: "Machine Learning with Scratch"
       subtitle: "Introductory machine learning projects using Machine Learning For Kids with Scratch."
@@ -259,22 +259,22 @@ kn:
       meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make creative and interactive projects using voice recognition and facial recognition. Creators will train models to recognise patterns, make predictions, and explore how these models can be improved with additional data.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Basic typing and computer navigation skills
             - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             There is a range of projects for you to try and the specific requirements are listed for each project.
             - All projects require a computer or mobile device and internet access.
             - Some projects require a webcam.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##Pick and choose
             There is no need to follow this path in order. You can explore the theme that interests you the most!
@@ -291,38 +291,38 @@ kn:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
     scratch-additional-projects:
-      title: "Scratch: Additional Projects"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Scratch: ಹೆಚ್ಚುವರಿ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು"
+      description: ನಿಮ್ಮ ಸ್ವಂತ ಸಂವಾದಾತ್ಮಕ ಕಥೆಗಳು, ಆಟಗಳು ಮತ್ತು ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
     webdev-module-1:
-      title: "HTML & CSS: Module 1"
-      description: Build and style your own web pages.
+      title: "HTML & CSS: ಘಟಕ 1"
+      description: ನಿಮ್ಮದೇ ಆದಂತಹ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು ನಿರ್ಮಿಸಬಹುದು.
     webdev-module-2:
-      title: "HTML & CSS: Module 2"
-      description: Build and style your own web pages.
+      title: "HTML & CSS: ಘಟಕ 2"
+      description: ನಿಮ್ಮದೇ ಆದಂತಹ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು ನಿರ್ಮಿಸಬಹುದು.
     python-intro:
       title: "Introduction to Python"
       subtitle: "Variables, functions, and loops"
-      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
-      meta_title: Project path | Intro to Python for kids | Raspberry Pi
-      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+      description: ಆರಂಭಿಕರಿಗಾಗಿ Pythonನಲ್ಲಿ ಕೋಡಿಂಗ್ ಮಾಡುವ ಈ ಪರಿಚಯದಲ್ಲಿ, ದೃಶ್ಯ ಮತ್ತು ಸಂವಾದಾತ್ಮಕ ಕಲಾಕೃತಿಗಳು, ಅನಿಮೇಷನ್‌ಗಳು, ಸಿಮ್ಯುಲೇಶನ್‌ಗಳು, ಆಟಗಳು ಮತ್ತು ಹೆಚ್ಚಿನದನ್ನು ರಚಿಸಲು ವೇರಿಯೇಬಲ್‌ಗಳು, ಲೂಪ್‌ಗಳು ಮತ್ತು ಫಂಕ್ಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Python ಪರಿಚಯ | Raspberry Pi
+      meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Python ನ ಪರಿಚಯ. ಈ ಉಚಿತ ಸಂಪನ್ಮೂಲಗಳೊಂದಿಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲಾಕೃತಿ, ಅನಿಮೇಷನ್‌ಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ರಚಿಸಿ.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive projects, art, games, and a simulation.
             By the end of this path you will have created a scalable piece of geometric art.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Basic typing and computer navigation skills
             - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             - A computer or mobile device capable of running an online coding platform.
             - Optionally, an account to save projects.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -339,27 +339,27 @@ kn:
     python-intro-code-editor:
       title: "Introduction to Python"
       subtitle: "variables, functions, and loops"
-      description: In this introduction to coding in Python for beginners, you will learn how to use variables, loops, and functions to create visual and interactive artwork, animations, simulations, games, and more.
-      meta_title: Project path | Intro to Python for kids | Raspberry Pi
-      meta_description: Introduction to Python for kids, teenagers and young adults. Create interactive artwork, animations, and games with these free resources.
+      description: ಆರಂಭಿಕರಿಗಾಗಿ Pythonನಲ್ಲಿ ಕೋಡಿಂಗ್ ಮಾಡುವ ಈ ಪರಿಚಯದಲ್ಲಿ, ದೃಶ್ಯ ಮತ್ತು ಸಂವಾದಾತ್ಮಕ ಕಲಾಕೃತಿಗಳು, ಅನಿಮೇಷನ್‌ಗಳು, ಸಿಮ್ಯುಲೇಶನ್‌ಗಳು, ಆಟಗಳು ಮತ್ತು ಹೆಚ್ಚಿನದನ್ನು ರಚಿಸಲು ವೇರಿಯೇಬಲ್‌ಗಳು, ಲೂಪ್‌ಗಳು ಮತ್ತು ಫಂಕ್ಷನ್‌ಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Python ಪರಿಚಯ | Raspberry Pi
+      meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Python ನ ಪರಿಚಯ. ಈ ಉಚಿತ ಸಂಪನ್ಮೂಲಗಳೊಂದಿಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲಾಕೃತಿ, ಅನಿಮೇಷನ್‌ಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ರಚಿಸಿ.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive projects, art, games, and a simulation.
             By the end of this path you will have created a scalable piece of geometric art.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Basic typing and computer navigation skills
             - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             - A computer or mobile device capable of running an online coding platform.
             - Optionally, an account to save projects.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -376,27 +376,27 @@ kn:
     more-python:
       title: "More Python"
       subtitle: "lists, dictionaries, and data"
-      description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
-      meta_title: Project path | More Python projects for kids | Raspberry Pi
-      meta_description: More Python projects for kids, teenagers and young adults. Learn how to use lists, dictionaries and files to create charts, models and artwork.
+      description: Python ಪರಿಚಯದಲ್ಲಿ ಪರಿಚಯಿಸಲಾದ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಮೀರಿ ಇನ್ನಷ್ಟು Python ಮುಂದುವರಿಯುತ್ತದೆ. ಚಾರ್ಟ್‌ಗಳು, ಮಾದರಿಗಳು ಮತ್ತು ಕಲಾಕೃತಿಗಳನ್ನು ರಚಿಸಲು ಪಟ್ಟಿಗಳು, ನಿಘಂಟುಗಳು ಮತ್ತು ಫೈಲ್‌ಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ ಇನ್ನಷ್ಟು Python ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು | Raspberry Pi
+      meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ ಇನ್ನಷ್ಟು Python ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು. ಚಾರ್ಟ್‌ಗಳು, ಮಾದರಿಗಳು ಮತ್ತು ಕಲಾಕೃತಿಗಳನ್ನು ರಚಿಸಲು ಪಟ್ಟಿಗಳು, ನಿಘಂಟುಗಳು ಮತ್ತು ಫೈಲ್‌ಗಳನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Visualise data by creating interactive charts, a simulator, and pieces of art.
             By the end of this path you will have created a unique data visualisation on a topic of your choice
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - This path is for creators comfortable with using Python.
             - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             - A computer or mobile device capable of running an online coding platform.
             - Optionally, an account to save projects.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -411,30 +411,30 @@ kn:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
-      title: "Python: Module 1"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python: ಘಟಕ 1"
+      description: Python ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುವ, ಸಾಮಾನ್ಯ ಉದ್ದೇಶ, ಆಂಗ್ಲ ಭಾಷೆಯ ಪದಗಳ ಆಧಾರಿತ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯಾಗಿದೆ.
     python-module-2:
-      title: "Python: Module 2"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python: ಘಟಕ 2"
+      description: Python ವ್ಯಾಪಕವಾಗಿ ಬಳಸಲಾಗುವ, ಸಾಮಾನ್ಯ ಉದ್ದೇಶ, ಆಂಗ್ಲ ಭಾಷೆಯ ಪದಗಳ ಆಧಾರಿತ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯಾಗಿದೆ.
     unity-intro:
       title: "Introduction to Unity"
       subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
-      description: In this introduction to Unity you will learn how to make 3D worlds and games with collectibles, timers and non-player characters.
-      meta_title: Project path | Unity coding for kids | Raspberry Pi
-      meta_description: Introduction to Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
+      description: Unity ಯ ಈ ಪರಿಚಯದಲ್ಲಿ ನೀವು ಸಂಗ್ರಹಣೆಗಳು, ಟೈಮರ್‌ಗಳು ಮತ್ತು ಆಟಗಾರರಲ್ಲದ ಪಾತ್ರಗಳೊಂದಿಗೆ 3D ಪ್ರಪಂಚಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ಹೇಗೆ ಮಾಡಬೇಕೆಂದು ಕಲಿಯುವಿರಿ.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Unity ಕೋಡಿಂಗ್ | Raspberry Pi
+      meta_description: ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Unity ಕೋಡಿಂಗ್ ಪರಿಚಯ. ಈ ಉಚಿತ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಬಳಸಿಕೊಂಡು 3D ಪ್ರಪಂಚಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ಹೇಗೆ ಮಾಡಬೇಕೆಂದು ತಿಳಿಯಿರಿ.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
-            Make 3D worlds and games with collectibles, timers and non-player characters.
-            By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
+            ಸಂಗ್ರಹಣೆಗಳು, ಟೈಮರ್‌ಗಳು ಮತ್ತು ಆಟಗಾರರಲ್ಲದ ಪಾತ್ರಗಳೊಂದಿಗೆ 3D ಪ್ರಪಂಚಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ಮಾಡಿ.
+            ಈ ಮಾರ್ಗದ ಅಂತ್ಯದ ವೇಳೆಗೆ ನೀವು ಸ್ಟಾರ್ ಕ್ಯಾಚರ್ ಆಟ, ಅನ್ಗವೇಷಣೆಗಳೊಂದಿಗೆ ಜಗತ್ತು ಮತ್ತು 3D ಸಾಹಸವನ್ನು ರಚಿಸಲು ನಿಮ್ಮ ಹೊಸ ಕೌಶಲ್ಯಗಳನ್ನು ಬಳಸುತ್ತೀರಿ.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Basic typing and computer navigation skills
             - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             This path requires a large download and installation which you should complete before you start the first project.
 
@@ -442,7 +442,7 @@ kn:
             - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
             - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -461,21 +461,21 @@ kn:
       title: "More Unity"
       subtitle: "Rigidbodies, Physics and Materials"
       description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
-      meta_title: Project path | Unity coding for kids | Raspberry Pi
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Unity ಕೋಡಿಂಗ್ | Raspberry Pi
       meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make marble runs and problem solving 3D world projects.
             By the end of this path you will have used your new skills to create unique materials and use realistic physics in your Unity projects
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Familiarity with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path
             - Experience coding in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             This path requires a large download and installation which you should complete before you start the first project.
 
@@ -483,7 +483,7 @@ kn:
             - You will also need a code editor. The recommended editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
             - You will also need to download the [Unity starter package](https://rpf.io/p/en/rainbow-run-go) of assets before starting.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -499,22 +499,22 @@ kn:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     physical-computing-with-scratch-and-the-raspberry-pi:
-      title: Physical computing with Scratch and the Raspberry Pi
-      description: Learn how to use input and output electronics with Scratch and your Raspberry Pi computer.
-      meta_title: Project path | Coding in Scratch for kids | Raspberry Pi
-      meta_description: Learn how to use input and output electronics with Scratch on your Raspberry Pi computer. Free resources - coding in scratch for kids, teens and young adults.
+      title: Scratch ಮತ್ತು Raspberry Pi ಜೊತೆಗೆ ಭೌತಿಕ ಕಂಪ್ಯೂಟಿಂಗ್
+      description: Scratch ಮತ್ತು ನಿಮ್ಮ Raspberry Pi ಕಂಪ್ಯೂಟರ್ನೊಂದಿಗೆ ಇನ್ಪುಟ್ ಮತ್ತು ಔಟ್ಪುಟ್ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ತಿಳಿಯಿರಿ.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | ಮಕ್ಕಳಿಗೆ Scratch‌ ನಲ್ಲಿ ಕೋಡಿಂಗ್ | Raspberry Pi
+      meta_description: Scratch ಮತ್ತು ನಿಮ್ಮ Raspberry Pi ಕಂಪ್ಯೂಟರ್ನೊಂದಿಗೆ ಇನ್ಪುಟ್ ಮತ್ತು ಔಟ್ಪುಟ್ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂದು ತಿಳಿಯಿರಿ - ಮಕ್ಕಳು, ಹದಿಹರೆಯದವರು ಮತ್ತು ಯುವ ವಯಸ್ಕರಿಗೆ Scratch ನಲ್ಲಿ ಕೋಡಿಂಗ್.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make games, interactive devices, and a musical instrument.
             By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             - A Raspberry Pi Computer
             - Various wires
@@ -522,7 +522,7 @@ kn:
             - Scratch 3 desktop version installed
             - Craft items including aluminium foil
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -535,22 +535,22 @@ kn:
     pico-intro:
       title: "Introduction to Raspberry Pi Pico"
       subtitle: "LEDs, buzzers, switches, and dials"
-      description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers and potentiometers (dials).
-      meta_title: Project path | Introduction to the Raspberry Pi Pico
-      meta_description: In this introduction to digital making with Raspberry Pi Pico for beginners, you will learn how to connect and control LEDs, buttons, switches, buzzers, etc.
+      description: ಆರಂಭಿಕರಿಗಾಗಿ Raspberry Pi Pico ದೊಂದಿಗೆ ಡಿಜಿಟಲ್ ತಯಾರಿಕೆಯ ಈ ಪರಿಚಯದಲ್ಲಿ, ಎಲ್ಇಡಿಗಳು, ಬಟನ್‌ಗಳು, ಸ್ವಿಚ್‌ಗಳು, ಬಜರ್‌ಗಳು ಮತ್ತು ಪೊಟೆನ್ಟಿಯೋಮೀಟರ್‌ಗಳನ್ನು(ಡಯಲ್‌ಗಳು) ಹೇಗೆ ಸಂಪರ್ಕಿಸುವುದು ಮತ್ತು ನಿಯಂತ್ರಿಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
+      meta_title: ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗ | Raspberry Pi Pico ಪರಿಚಯ
+      meta_description: ಆರಂಭಿಕರಿಗಾಗಿ Raspberry Pi Pico ದೊಂದಿಗೆ ಡಿಜಿಟಲ್ ತಯಾರಿಕೆಯ ಈ ಪರಿಚಯದಲ್ಲಿ, ಎಲ್ಇಡಿಗಳು, ಬಟನ್‌ಗಳು, ಸ್ವಿಚ್‌ಗಳು, ಬಜರ್‌ಗಳು ಇತ್ಯಾದಿಗಳನ್ನು ಹೇಗೆ ಸಂಪರ್ಕಿಸುವುದು ಮತ್ತು ನಿಯಂತ್ರಿಸುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಲಿಯುವಿರಿ.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Program and craft interactive devices with light and sound.
             By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Basic typing and computer navigation skills
             - This path is for beginners new to physical computing
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             ## Hardware
             You can purchase all the required hardware for this  path from the:
@@ -563,7 +563,7 @@ kn:
             - The picozero library (available via PyPi in Thonny)
             Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -578,43 +578,43 @@ kn:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: Raspberry Pi‌ ಒಂದು ಚಿಕ್ಕದಾದ ಶಕ್ತಿಯುತ ಕಂಪ್ಯೂಟರ್. ಇದನ್ನು ಇಲೆಕ್ಟ್ರಾನಿಕ್ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳಲ್ಲಿ, ಮತ್ತು ನಿಮ್ಮ ಡೆಸ್ಕ್ ಟಾಪ್ ಕಂಪ್ಯೂಟರ್ ಮಾಡಬಲ್ಲ ಸಾಕಷ್ಟು ಕೆಲಸಗಳಿಗೂ ಉಪಯೋಗಿಸಬಹುದು.
     sense-hat:
       title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: Sense HAT ಒಂದು Raspberry Pi ನಿರ್ಮಿಸಿದ ಹೆಚ್ಚುವರಿ ಬೋರ್ಡ್‌, ಇದು ಎಲ್ಇಡಿಗಳು, ಜಾಯ್ ಸ್ಟಿಕ್ ಮತ್ತು ಸಾಕಷ್ಟು ಸೆನ್ಸಾರ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: Sonic Pi ಒಂದು ಹೊಸ ಜಾತಿಯ ಸಂಗೀತ ವಾದ್ಯ, ಇದನ್ನು ಕೋಡ್ ನಿಂದ ಶಬ್ದವನ್ನು ನಿರ್ಮಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.
     microbit:
       title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      description: "BBC micro:bit ಪಾಕೆಟ್ ಗಾತ್ರದ, ಕೋಡ್ ಮಾಡಬಹುದಾದ ಕಂಪ್ಯೂಟರ್ ಆಗಿದ್ದು, ಇದು ನಿಮ್ಮನ್ನು ಸೃಜನಶೀಲರಾಗಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ."
     look-after-yourself:
-      title: Look after yourself
-      description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
+      title: ನಿಮ್ಮನ್ನು ನೋಡಿಕೊಳ್ಳಿ
+      description: Scratch ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಮತ್ತು ಸ್ವತಂತ್ರ ಪ್ರೋಗ್ರಾಮರ್ ಆಗುವ ಮಾರ್ಗವನ್ನು ಕಂಡುಕೊಳ್ಳುವಾಗ, ನಿಮ್ಮನ್ನು ನೋಡಿಕೊಳ್ಳಲು ಕಲಿಯಿರಿ.
     protect-our-planet:
-      title: Protect our planet
-      description: Use Scratch to learn about our planet and how to protect the environment for future generations
+      title: ನಮ್ಮ ಗ್ರಹವನ್ನು ರಕ್ಷಿಸುವುದು
+      description: ನಮ್ಮ ಗ್ರಹದ ಬಗೆಗೆ ಮತ್ತು ಭವಿಷ್ಯದ ಪೀಳಿಗೆಗೆ ಪರಿಸರವನ್ನು ಹೇಗೆ ರಕ್ಷಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ತಿಳಿಯಲು Scratch ಬಳಸಿ
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: Create websites by following these projects.
+      description: ಈ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಅನುಸರಿಸುವ ಮೂಲಕ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ರಚಿಸಿ.
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      description: ಈ ಮೋಜಿನ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡುವ ಮೂಲಕ Scratch ನ್ನು ಕಲಿಯಿರಿ!
     coderdojo-wearables:
-      title: CoderDojo Wearables
-      description: Create wearable technology projects by following these projects.
+      title: CoderDojo ಧರಿಸಬಹುದಾದ ವಸ್ತುಗಳು
+      description: ಈ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಅನುಸರಿಸುವ ಮೂಲಕ ಧರಿಸಬಹುದಾದ ತಂತ್ರಜ್ಞಾನ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ರಚಿಸಿ.
     app-inventor-for-social-enterprise:
-      title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      title: ಸಾಮಾಜಿಕ ನಾವೀನ್ಯತೆಗಾಗಿ App Inventor
+      description: ನಿಮ್ಮ ಸಮುದಾಯದಲ್ಲಿರುವ ಜನರಿಗೆ ಸಹಾಯ ಮಾಡುವಂತಹ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಮಾಡುವ ಮೂಲಕ ಆಂಡ್ರಾಯಿಡ್ ಸಾಧನಗಳಿಗೆ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಮಾಡಲು ತಿಳಿಯಿರಿ.
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: ಸಾಮಾಜಿಕ ನಾವೀನ್ಯತೆಗಾಗಿ Scratch
+      description: ಆರಂಭಿಕರ ಸ್ನೇಹಿ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಭಾಷೆಯಾದ Scratch ಕಲಿಯಿರಿ, ಜೊತೆಗೆ ಜನರಿಗೆ ಪ್ರಮುಖ ವಿಷಯಗಳ ಬಗೆಗೆ ತಿಳಿದುಕೊಳ್ಳಲು ಸಹಾಯವಾಗಲು ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ಆಟಗಳನ್ನು ನಿರ್ಮಿಸಿ.
     html-css-for-social-enterprise:
-      title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      title: ಸಾಮಾಜಿಕ ನಾವೀನ್ಯತೆಗಾಗಿ HTML & CSS
+      description: ಪಕ್ಷಿ ಸಂರಕ್ಷಣೆಯ ಬಗೆಗೆ ವೆಬ್‌ಸೈಟ್ ರಚಿಸುವ ಮೂಲಕ HTML & CSS ಕಲಿಯಿರಿ.
     getting-started-with-raspberry-pi:
-      title: Get started with Raspberry Pi
-      description: Set up your Raspberry Pi and see what it can do!
+      title: Raspberry Pi ನೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸಿ
+      description: ನಿಮ್ಮ Raspberry Pi ನ್ನು ಹೊಂದಿಸಿ ಮತ್ತು ಅದು ಏನು ಮಾಡಬಹುದೆಂದು ನೋಡಿ!
     life-on-earth:
       meta_title: Life on Earth Astro Pi resources
       meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
@@ -626,22 +626,22 @@ kn:
       meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive websites with art, emojis and flip cards.
             By the end of this path you will have created a website about something you want to share.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             - Basic typing and computer navigation skills
             - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
             - Optionally, an account to save projects.
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -666,16 +666,16 @@ kn:
       meta_description: Introduction to Scratch programming and Machine Learning for kids, teenagers and young adults. Learn how to classify data into an ML model and use it to predict music you will like.
       header:
         - 
-          title: "What will I create?"
+          title: "ನಾನು ಏನನ್ನು ರಚಿಸುತ್ತೇನೆ?"
           content: |
             Make interactive Scratch projects and create and train a Machine Learning model.
             By the end of this path you will have used your new skills to create an app which can make playlists of music based on your preferences.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             This path is ideal for beginners to Scratch and machine learning.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             This path requires:
             - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
@@ -684,7 +684,7 @@ kn:
             - Headphones (recommended) or speakers
             - A copy of the [Creator Blueprint document](https://drive.google.com/uc?export=download&id=1T0ToSwRTA050AFpy1IJhbyvRdbv1rAQa){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "ಮಾರ್ಗದರ್ಶಿ ಮಾಹಿತಿ"
           content: |
             ## Experience AI Challenge: Music Quest
 
@@ -707,11 +707,11 @@ kn:
           content: |
             In this course, we will guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
         - 
-          title: "What do I need to know?"
+          title: "ನನನಗೆ ಏನು ತಿಳಿದಿರಬೇಕು?"
           content: |
             This course will be useful to you if you would like to volunteer at a club in your community, helping young people learn how to code, or you are a teacher who wants to set up an extracurricular coding club for the students in your school.
         - 
-          title: "What do I need?"
+          title: "ನನಗೆ ಏನು ಬೇಕು?"
           content: |
             This path requires:
             - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
