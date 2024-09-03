@@ -1,23 +1,23 @@
 uk:
   pathways:
     ai-toolkit:
-      title: "AI toolkit"
+      title: "Набір інструментів ШІ"
       subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
       description: The AI toolkit introduces various artificial intelligence applications and technologies through hands-on projects using different platforms and tools. You will work with voice recognition, facial recognition, and other AI technologies, gaining a broader understanding of how AI can be applied in different contexts.
       meta_title: Project path | AI toolkit for kids | Artificial intelligence for kids | Practical projects using voice and facial recognition
       meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "Що я створюватиму?"
           content: |
             Make interactive applications and games that use image classifiers, voice and face recognition. Explore advanced technologies like Adobe Firefly and practical tools for managing Ollama and Stable Diffusion models on Raspberry Pi.
         - 
-          title: "What do I need to know?"
+          title: "Що я маю знати?"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            - Базові навички набору тексту та користування компʼютером.
+            - Знайомство з нашим напрямом [«Вступ до Скретчу»](https://projects.raspberrypi.org/uk-UA/pathways/scratch-intro){:target="_blank"} буде корисним.
         - 
-          title: "What do I need?"
+          title: "Що мені потрібно?"
           content: |
             There is a range of projects for you to try and the specific requirements are listed for each project.
             - One project can be done as an unplugged activity and all printable materials are provided for download.
@@ -26,7 +26,7 @@ uk:
             - Raspberry Pi (optional).
             - micro:bit (optional).
         - 
-          title: "Mentor information"
+          title: "Інформація для менторів"
           content: |
             ##Pick and choose
             There is no need to follow this path in order. You can explore the theme that interests you the most!
@@ -59,7 +59,7 @@ uk:
           content: |
             - Базові навички набору та користування компʼютером.
             - Досвід HTML та CSS буде корисним.
-            - Знайомство з нашим напрямом [«Вступ до веброзробки»](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} також може стати корисним.
+            - Знайомство з нашим напрямом [«Вступ до веброзробки»](https://projects.raspberrypi.org/uk-UA/pathways/web-intro){:target="_blank"} також може стати корисним.
         - 
           title: "Що мені потрібно?"
           content: |
@@ -249,29 +249,29 @@ uk:
       title: "Скретч: модуль 3"
       description: Дізнайся, як програмувати власні інтерактивні історії, ігри й анімації.
     scratch-machine-learning:
-      title: "Machine Learning with Scratch"
-      subtitle: "Introductory machine learning projects using Machine Learning For Kids with Scratch."
+      title: "Машинне навчання і Скретч"
+      subtitle: "Проєкти з машинного навчання для початківців, що використовують ресурс «Машинне навчання для дітей» і Скретч."
       description: Introduction to foundational concepts of machine learning through creative and interactive projects. Creators will train models to recognise patterns in images, text and sound, and explore how these models can be used to create fun games!
       meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
       meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "Що я створюватиму?"
           content: |
             Make creative and interactive projects using voice recognition and facial recognition. Creators will train models to recognise patterns, make predictions, and explore how these models can be improved with additional data.
         - 
-          title: "What do I need to know?"
+          title: "Що я маю знати?"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            - Базові навички набору тексту та користування компʼютером.
+            - Знайомство з нашим напрямом [«Вступ до Скретчу»](https://projects.raspberrypi.org/uk-UA/pathways/scratch-intro){:target="_blank"} буде корисним.
         - 
-          title: "What do I need?"
+          title: "Що мені потрібно?"
           content: |
             There is a range of projects for you to try and the specific requirements are listed for each project.
             - All projects require a computer or mobile device and internet access.
             - Some projects require a webcam.
         - 
-          title: "Mentor information"
+          title: "Інформація для менторів"
           content: |
             ##Pick and choose
             There is no need to follow this path in order. You can explore the theme that interests you the most!
