@@ -244,13 +244,13 @@ sw:
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     scratch-module-1:
       title: "Scratch: Module 1"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Jifunze jinsi ya kupanga hadithi zako zinazoingiliana, michezo na michoro.
     scratch-module-2:
       title: "Scratch: Module 2"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Jifunze jinsi ya kupanga hadithi zako zinazoingiliana, michezo na michoro.
     scratch-module-3:
       title: "Scratch: Module 3"
-      description: Learn how to program your own interactive stories, games and animations.
+      description: Jifunze jinsi ya kupanga hadithi zako zinazoingiliana, michezo na michoro.
     scratch-machine-learning:
       title: "Machine Learning with Scratch"
       subtitle: "Introductory machine learning projects using Machine Learning For Kids with Scratch."
@@ -291,14 +291,14 @@ sw:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
     scratch-additional-projects:
-      title: "Scratch: Additional Projects"
-      description: Learn how to program your own interactive stories, games and animations.
+      title: "Mwanzo: Miradi ya ziada"
+      description: Jifunze jinsi ya kupanga hadithi zako zinazoingiliana, michezo na michoro.
     webdev-module-1:
       title: "HTML & CSS: Module 1"
-      description: Build and style your own web pages.
+      description: Jenga na upange kurasa zako mwenyewe za wavuti.
     webdev-module-2:
       title: "HTML & CSS: Module 2"
-      description: Build and style your own web pages.
+      description: Jenga na upange kurasa zako mwenyewe za wavuti.
     python-intro:
       title: "Introduction to Python"
       subtitle: "Variables, functions, and loops"
@@ -411,11 +411,11 @@ sw:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
-      title: "Python: Module 1"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python: Moduli 1"
+      description: Python ni lugha inayotumika sana, kusudi la jumla, lugha ya programu ya maandishi.
     python-module-2:
-      title: "Python: Module 2"
-      description: Python is a widely used, general purpose, text-based programming language.
+      title: "Python: Moduli 2"
+      description: Python ni lugha inayotumika sana, kusudi la jumla, lugha ya programu ya maandishi.
     unity-intro:
       title: "Introduction to Unity"
       subtitle: "3D Objects, Character Controllers, Colliders, Text and Buttons"
@@ -578,16 +578,16 @@ sw:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: Raspberry Pi ni kompyuta ndogo yenye uwezo ambayo inaweza kutumika katika miradi ya umeme, na kwa mambo mengi ambayo tarakilishi yako hufanya.
     sense-hat:
-      title: Sense HAT
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      title: Mlango wa maarifa HAT
+      description: mlango wa maarifa wa HAT ni ubao wa kuongeza programu ya Raspberry Pi, pamoja na taa za LED, kifumbocheza na vihisio viingi.
     sonic-pi:
-      title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      title: Sauti Pi
+      description: "Sauti Pi ni aina mpya ya chombo cha muziki, iliyoundwa kwa kuunda sauti na msimbo.\n"
     microbit:
-      title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      title: "Charaza ndogo ya BBC"
+      description: "Charaza ndogo ya BBC ni kompyuta yenye ukubwa, na inayoweza kurudiwa ambayo inakuruhusu kupata ubunifu.\n"
     look-after-yourself:
       title: Look after yourself
       description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
@@ -596,19 +596,19 @@ sw:
       description: Use Scratch to learn about our planet and how to protect the environment for future generations
     coderdojo-html_css:
       title: CoderDojo HTML & CSS
-      description: Create websites by following these projects.
+      description: Unda wavuti kwa kufuata miradi hii.
     coderdojo-scratch:
-      title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      title: "CoderDojo Mwanzo\n"
+      description: "Jifunze mwanzo kwa kufanya kazi kupitia miradi hii ya kufurahisha!\n"
     coderdojo-wearables:
-      title: CoderDojo Wearables
-      description: Create wearable technology projects by following these projects.
+      title: Vipodozi vya CoderDojo
+      description: Unda miradi ya teknolojia inayoweza kuvaliwa kwa kufuata miradi hii.
     app-inventor-for-social-enterprise:
-      title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      title: Mvumbuzi wa programu ya uvumbuzi wa kijamii
+      description: Jifunze kutengeneza programu za vifaa vya Android kwa kufanya miradi ambayo inaweza kusaidia watu katika jamii yako.
     scratch-for-social-enterprise:
-      title: Scratch for social innovation
-      description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
+      title: Mwanzo uvumbuzi wa kijamii
+      description: Jifunze mwanzo, lugha ya programu ya grafu rahisi, wakati wa kujenga programu na michezo ili kusaidia watu kujifunza kuhusu maswala muhimu.
     html-css-for-social-enterprise:
       title: HTML & CSS for social innovation
       description: Learn HTML & CSS by creating a website about bird conservation.
