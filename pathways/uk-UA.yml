@@ -3,14 +3,14 @@ uk:
     ai-toolkit:
       title: "Інструменти ШІ"
       subtitle: "Працюйте з різними платформами штучного інтелекту й машинного навчання!"
-      description: The AI toolkit introduces various artificial intelligence applications and technologies through hands-on projects using different platforms and tools. You will work with voice recognition, facial recognition, and other AI technologies, gaining a broader understanding of how AI can be applied in different contexts.
-      meta_title: Project path | AI toolkit for kids | Artificial intelligence for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
+      description: Напрям «Інструменти ШІ» знайомить із різноманітними застосунками й технологіями штучного інтелекту за допомогою практичних проєктів на різних платформ й інструментах. Ти працюватимеш із розпізнаванням голосу й обличчя та іншими технологіями ШІ, отримуючи ширше розуміння того, як його можна застосовувати в різних контекстах.
+      meta_title: Проєктний напрям | Інструменти ШІ для дітей | Штучний інтелект для дітей | Практичні проєкти з розпізнаванням голосу й обличчя
+      meta_description: Вступ до штучного інтелекту та машинного навчання для дітей, підлітків і молоді. Створюй програми з використанням штучного інтелекту за допомогою цих безплатних ресурсів.
       header:
         - 
           title: "Що я створюватиму?"
           content: |
-            Make interactive applications and games that use image classifiers, voice and face recognition. Explore advanced technologies like Adobe Firefly and practical tools for managing Ollama and Stable Diffusion models on Raspberry Pi.
+            Створюй інтерактивні програми та ігри, які використовують класифікатори зображень, розпізнавання голосу та обличчя. Досліджуй передові технології, як-от Adobe Firefly, і практичні інструменти для керування моделями Ollama та Stable Diffusion на Raspberry Pi.
         - 
           title: "Що я маю знати?"
           content: |
