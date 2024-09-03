@@ -161,7 +161,7 @@ hi:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     more-scratch:
-      title: "More Scratch"
+      title: "अधिक Scratch"
       subtitle: "broadcast, decisions and variables"
       description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
       meta_title: Project path | More Scratch for kids | Raspberry Pi
@@ -202,7 +202,7 @@ hi:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     further-scratch:
-      title: "Further Scratch"
+      title: "आगे की Scratch"
       subtitle: "clones, my blocks, and boolean logic"
       description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
       meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
@@ -374,7 +374,7 @@ hi:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     more-python:
-      title: "More Python"
+      title: "अधिक Python"
       subtitle: "lists, dictionaries, and data"
       description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
       meta_title: Project path | More Python projects for kids | Raspberry Pi
@@ -411,10 +411,10 @@ hi:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     python-module-1:
-      title: "Python: Module 1"
+      title: "Python: मॉड्यूल 1"
       description: Python एक व्यापक रूप से उपयोग किया जाने वाला, सामान्य प्रयोजन, टेक्स्ट-आधारित प्रोग्रामिंग भाषा है।
     python-module-2:
-      title: "Python: Module 2"
+      title: "Python: मॉड्यूल 2"
       description: Python एक व्यापक रूप से उपयोग किया जाने वाला, सामान्य प्रयोजन, टेक्स्ट-आधारित प्रोग्रामिंग भाषा है।
     unity-intro:
       title: "Introduction to Unity"
