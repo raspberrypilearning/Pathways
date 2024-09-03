@@ -161,7 +161,7 @@ xh:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     more-scratch:
-      title: "More Scratch"
+      title: "Ngakumbi kuScratch"
       subtitle: "broadcast, decisions and variables"
       description: More Scratch moves beyond the basics introduced in Introduction to Scratch. You will make apps, games and simulations using message broadcasting, if..then and if..then..else decisions and variables.
       meta_title: Project path | More Scratch for kids | Raspberry Pi
@@ -202,7 +202,7 @@ xh:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
     further-scratch:
-      title: "Further Scratch"
+      title: "Ngakumbi kuScratch"
       subtitle: "clones, my blocks, and boolean logic"
       description: Further Scratch moves beyond the skills introduced in Introduction to Scratch and More Scratch. You will make apps, games, computer-generated art, and simulations using boolean logic, functions, clones, and more.
       meta_title: Project path | Further Scratch coding for kids | Raspberry Pi
@@ -374,7 +374,7 @@ xh:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     more-python:
-      title: "More Python"
+      title: "Ipython engakumbi"
       subtitle: "lists, dictionaries, and data"
       description: More Python moves beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
       meta_title: Project path | More Python projects for kids | Raspberry Pi
@@ -578,16 +578,16 @@ xh:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing a video of their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     raspberry-pi:
       title: Raspberry Pi
-      description: The Raspberry Pi is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does.
+      description: IRaspberry Pi yikhompyuter encinci enokuthi isetyenziswe kwiiprojekthi zombane, kunye nezinto ezininzi ezenziwa yiPC yakho yedesktop.
     sense-hat:
       title: Umnqwazi woluvo
-      description: The Sense HAT is an add-on board for the Raspberry Pi, including LEDs, a joystick and lots of sensors.
+      description: I-Sense HAT yibhodi eyongeziweyo ye-Raspberry Pi, kuquka ii-LED, i-joystick kunye neenzwa ezininzi.
     sonic-pi:
       title: Sonic Pi
-      description: Sonic Pi is a new kind of musical instrument, designed for creating sounds with code.
+      description: I-Sonic Pi luhlobo olutsha lwesixhobo somculo, esenzelwe ukwenza izandi ngekhowudi.
     microbit:
       title: "BBC micro:bit"
-      description: "The BBC micro:bit is a pocket-sized, codeable computer that allows you to get creative."
+      description: "I-BBC micro: bit yikhompyuter enobungakanani bepokotho, ekhodekayo ekuvumela ukuba wenze uyilo."
     look-after-yourself:
       title: Look after yourself
       description: Learn to look after yourself, while learning how to use Scratch and work your way towards being an independent programmer.
@@ -599,19 +599,19 @@ xh:
       description: Create websites by following these projects.
     coderdojo-scratch:
       title: CoderDojo Scratch
-      description: Learn Scratch by working through these fun projects!
+      description: Funda i-Scratch ngokusebenzisa ezi projekthi zimnandi!
     coderdojo-wearables:
-      title: CoderDojo Wearables
+      title: IiCoderDojo eziZinxitywayo
       description: Create wearable technology projects by following these projects.
     app-inventor-for-social-enterprise:
       title: App Inventor for social innovation
-      description: Learn to make apps for Android devices by doing projects that can help people in your community.
+      description: Funda ukwenza usetyenziso lwezixhobo ze-Android ngokwenza iiprojekthi ezinokunceda abantu kwindawo ohlala kuyo.
     scratch-for-social-enterprise:
       title: Scratch for social innovation
       description: Learn Scratch, a beginner-friendly graphical programming language, while building apps and games to help people learn about important issues.
     html-css-for-social-enterprise:
       title: HTML & CSS for social innovation
-      description: Learn HTML & CSS by creating a website about bird conservation.
+      description: Funda iHTML & CSS ngokwenza iwebhusayithi malunga nolondolozo lweentaka.
     getting-started-with-raspberry-pi:
       title: Get started with Raspberry Pi
       description: Set up your Raspberry Pi and see what it can do!
