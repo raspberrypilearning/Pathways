@@ -1,7 +1,7 @@
 fr:
   pathways:
     ai-toolkit:
-      title: "Tous les toolkit"
+      title: "AI toolkit"
       subtitle: "Utilise une série de plateformes pour l'intelligence artificielle et l'apprentissage automatique !"
       description: Le AI toolkit présente diverses applications et technologies d'intelligence artificielle par le biais de projets pratiques utilisant différentes plateformes et outils. Tu travailleras avec la reconnaissance vocale, la reconnaissance faciale et d'autres technologies d'IA, ce qui te permettra d'acquérir une compréhension plus large de la façon dont l'IA peut être appliquée dans différents contextes.
       meta_title: Parcours de projet | AI toolkit pour les enfants | Intelligence artificielle pour les enfants | Projets pratiques utilisant la reconnaissance vocale et faciale
@@ -20,7 +20,7 @@ fr:
           title: "De quoi ai-je besoin ?"
           content: |
             Il y a toute une série de projets que tu peux essayer. Les exigences spécifiques sont indiquées pour chaque projet.
-            - L'un des projets peut être réalisé en tant qu'activité débranchée et tout le matériel imprimable est fourni et téléchargable.
+            - L'un des projets peut être réalisé en tant qu'activité débranchée et tout le matériel imprimable est fourni et téléchargeable.
             - La plupart des projets nécessitent un ordinateur ou un appareil mobile et un accès à Internet.
             - Certains projets nécessitent une webcam.
             - Raspberry Pi (facultatif).
@@ -253,9 +253,9 @@ fr:
       description: Apprends à programmer tes propres histoires, jeux et animations interactives.
     scratch-machine-learning:
       title: "Apprentissage automatique avec Scratch"
-      subtitle: "Projets d'introduction au machine learning à l'aide de Machine Learning For Kids with Scratch."
+      subtitle: "Projets d'introduction à l'apprentissage automatique utilisant Machine Learning For Kids avec Scratch."
       description: Introduction aux concepts fondamentaux de l'apprentissage automatique par le biais de projets créatifs et interactifs. Les créateurs entraîneront des modèles à reconnaître des modèles dans des images, des textes et des sons, et découvriront comment ces modèles peuvent être utilisés pour créer des jeux amusants !
-      meta_title: Parcours de projet | Apprentissage automatique avec Scratch | A pour les enfants | Projets pratiques utilisant la reconnaissance vocale et faciale
+      meta_title: Parcours du projet | Machine Learning avec Scratch | Machine learning pour les enfants | Projets pratiques utilisant la reconnaissance vocale et faciale
       meta_description: Introduction à l'intelligence artificielle et à l'apprentissage automatique pour les enfants, les adolescents et les jeunes adultes. Conçois des applications qui utilisent l'apprentissage automatique grâce à ces ressources gratuites.
       header:
         - 
