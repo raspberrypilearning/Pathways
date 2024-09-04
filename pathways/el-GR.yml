@@ -57,14 +57,13 @@ el:
         - 
           title: "Τι πρέπει να ξέρω;"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience with HTML and CSS may be useful
-            - Familiarity with our [Introduction to web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} path may also be useful.
+            - Βασικές δεξιότητες πληκτρολόγησης και πλοήγησης σε υπολογιστή
+            - Εξοικείωση με το μονοπάτι μας [Εισαγωγή στο web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} ενδέχεται να είναι επίσης χρήσιμη.
         - 
           title: "Τι χρειάζομαι;"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Ένας υπολογιστής ή κινητή συσκευή ικανή να εκτελεί μια διαδικτυακή πλατφόρμα κώδικα. Δες τον [Οδηγό Έναρξης για το Πρόγραμμα Επεξεργασίας Raspberry Pi](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Προαιρετικά, ένας λογαριασμός για αποθήκευση έργων.
         - 
           title: "Πληροφορίες για τον/την μέντορα"
           content: |
@@ -252,44 +251,44 @@ el:
       title: "Scratch: Ενότητα 3"
       description: Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
     scratch-machine-learning:
-      title: "Machine Learning with Scratch"
+      title: "Μηχανική εκμάθηση με το Scratch"
       subtitle: "Εισαγωγικά έργα μηχανικής μάθησης με χρήση του Machine Learning For Kids με Scratch."
-      description: Introduction to foundational concepts of machine learning through creative and interactive projects. Creators will train models to recognise patterns in images, text and sound, and explore how these models can be used to create fun games!
-      meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
+      description: Εισαγωγή στις θεμελιώδεις έννοιες της μηχανικής μάθησης μέσω δημιουργικών και διαδραστικών έργων. Οι δημιουργοί θα εκπαιδεύσουν τα μοντέλα να αναγνωρίζουν μοτίβα σε εικόνες, κείμενο και ήχο και να εξερευνήσουν πώς αυτά τα μοντέλα μπορούν να χρησιμοποιηθούν για τη δημιουργία διασκεδαστικών παιχνιδιών!
+      meta_title: Διαδρομή έργου | Μηχανική Μάθηση με το Scratch | Μηχανική μάθηση για παιδιά | Πρακτικά έργα με χρήση αναγνώρισης φωνής και προσώπου
+      meta_description: Εισαγωγή στην τεχνητή νοημοσύνη και τη μηχανική μάθηση για παιδιά, εφήβους και νέους ενήλικες. Δημιούργησε εφαρμογές που χρησιμοποιούν μηχανική μάθηση με αυτούς τους δωρεάν πόρους.
       header:
         - 
           title: "Τι θα δημιουργήσω;"
           content: |
-            Make creative and interactive projects using voice recognition and facial recognition. Creators will train models to recognise patterns, make predictions, and explore how these models can be improved with additional data.
+            Κάνε δημιουργικά και διαδραστικά έργα χρησιμοποιώντας αναγνώριση φωνής και αναγνώριση προσώπου. Οι δημιουργοί θα εκπαιδεύσουν μοντέλα έτσι ώστε να αναγνωρίζουν μοτίβα, να κάνουν προβλέψεις και να εξερευνούν πώς μπορούν να βελτιωθούν αυτά τα μοντέλα με πρόσθετα δεδομένα.
         - 
           title: "Τι πρέπει να ξέρω;"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            - Βασικές δεξιότητες πληκτρολόγησης και πλοήγησης σε υπολογιστή
+            - Εξοικείωση με το μονοπάτι μας [Εισαγωγή στο Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} ενδέχεται να είναι επίσης χρήσιμη.
         - 
           title: "Τι χρειάζομαι;"
           content: |
-            There is a range of projects for you to try and the specific requirements are listed for each project.
-            - All projects require a computer or mobile device and internet access.
-            - Some projects require a webcam.
+            Υπάρχει μια σειρά από έργα που μπορείς να δοκιμάσεις, όπου αναλύονται οι ιδιαίτερες απαιτήσεις κάθε έργου.
+            - Όλα τα έργα απαιτούν υπολογιστή ή φορητή συσκευή και πρόσβαση στο διαδίκτυο.
+            - Ορισμένα έργα απαιτούν κάμερα web.
         - 
           title: "Πληροφορίες για τον/την μέντορα"
           content: |
-            ##Pick and choose
-            There is no need to follow this path in order. You can explore the theme that interests you the most!
+            ##Διάλεξε και επίλεξε
+            Δεν χρειάζεται να ακολουθήσεις αυτή τη διαδρομή με τη σειρά. Μπορείς να εξερευνήσεις το θέμα που σε ενδιαφέρει περισσότερο!
 
-            ##Available to all
-            Inclusivity is a key aspect of this collection. The projects cater to various skill levels, ensuring that everyone can participate.
+            ##Διαθέσιμο σε όλους
+            Η συμπερίληψη είναι μια βασική πτυχή αυτής της συλλογής. Τα έργα καλύπτουν διάφορα επίπεδα δεξιοτήτων, διασφαλίζοντας ότι όλοι και όλες μπορούν να συμμετέχουν.
 
-            ##Video tutorials
-            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+            ##Βιντεομαθήματα
+            Είμαστε ενθουσιασμένοι για το ότι προσφέρουμε μια σειρά από έργα που περιλαμβάνουν εκπαιδευτικά βίντεο και γραπτές οδηγίες βήμα-βήμα. Τα εκπαιδευτικά βίντεο έχουν σχεδιαστεί για να σε καθοδηγούν σε κάθε δραστηριότητα με τον δικό σου ρυθμό και έχουν υπότιτλους για την αύξηση της προσβασιμότητας. Για όσους/ες προτιμούν γραπτές οδηγίες, διατίθενται επίσης αναλυτικοί οδηγοί βήμα-βήμα.
 
-            ##Shorter projects
-            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+            ##Μικρότερα έργα
+            Τα έργα είναι κατασκευασμένα ώστε να είναι ευέλικτα και ελκυστικά και το κύριο μέρος μπορεί να ολοκληρωθεί σε λίγα μόλις λεπτά, αφήνοντας πολύ χρόνο για εξατομίκευση και εξερεύνηση. Αυτή η ρύθμιση επιτρέπει σύντομες, ευχάριστες συνεδρίες που μπορούν εύκολα να ενσωματωθούν στις δραστηριότητές σας στο Code Club.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
+            ##Εμπνέοντας την κοινότητα
+            Οι δημιουργοί ενθαρρύνονται να εμπνεύσουν και άλλα άτομα στην κοινότητα του Raspberry Pi Foundation με το μοιραστούν τα έργα τους μαζί μας.
     scratch-additional-projects:
       title: "Scratch: Πρόσθετα έργα"
       description: Μάθε πώς να προγραμματίζεις τις δικές σου διαδραστικές ιστορίες, παιχνίδια και κινούμενα σχέδια.
@@ -553,16 +552,16 @@ el:
         - 
           title: "Τι χρειάζομαι;"
           content: |
-            ## Hardware
-            You can purchase all the required hardware for this  path from the:
-            - [Pimoroni web store](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target="_blank"}  (includes a Raspberry Pi Pico)
-            - [Kitronik web store](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target="_blank"} (excludes a Raspberry Pi Pico)
+            ## Υλικό
+            Μπορείς να αγοράσεις όλο το απαιτούμενο υλικό γι' αυτήν τη διαδρομή από το:
+            - [Διαδικτυακό κατάστημα Pimoroni](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target ="_blank"} (περιλαμβάνει ένα Raspberry Pi Pico)
+            - [Διαδικτυακό κατάστημα Kitronik](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target= "_blank"} (δεν περιλαμβάνει ένα Raspberry Pi Pico)
 
-            ## Software
+            ## Λογισμικό
             - Thonny
-            - Raspberry Pi Pico Firmware (installed via Thonny)
-            - The picozero library (available via PyPi in Thonny)
-            Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+            - Raspberry Pi Pico Fireware (εγκατεστημένο μέσω Thonny)
+            - Η βιβλιοθήκη picozero (διαθέσιμη μέσω PyPi στο Thonny)
+            Οι λεπτομέρειες εγκατάστασης βρίσκονται στο πρώτο έργο και στον [οδηγό για το Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
           title: "Πληροφορίες για τον/την μέντορα"
           content: |
@@ -640,8 +639,8 @@ el:
         - 
           title: "Τι χρειάζομαι;"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Ένας υπολογιστής ή κινητή συσκευή ικανή να εκτελεί μια διαδικτυακή πλατφόρμα κώδικα. Δες τον [Οδηγό Έναρξης για το Πρόγραμμα Επεξεργασίας Raspberry Pi](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Προαιρετικά, ένας λογαριασμός για αποθήκευση έργων.
         - 
           title: "Πληροφορίες για τον/την μέντορα"
           content: |
