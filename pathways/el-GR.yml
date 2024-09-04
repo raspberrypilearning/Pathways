@@ -1,50 +1,50 @@
 el:
   pathways:
     ai-toolkit:
-      title: "AI toolkit"
-      subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
-      description: The AI toolkit introduces various artificial intelligence applications and technologies through hands-on projects using different platforms and tools. You will work with voice recognition, facial recognition, and other AI technologies, gaining a broader understanding of how AI can be applied in different contexts.
-      meta_title: Project path | AI toolkit for kids | Artificial intelligence for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
+      title: "Εργαλειοθήκη ΤΝ"
+      subtitle: "Ασχολήσου με μια σειρά από πλατφόρμες τεχνητής νοημοσύνης και μηχανικής μάθησης!"
+      description: Η εργαλειοθήκη ΤΝ παρουσιάζει διάφορες εφαρμογές και τεχνολογίες τεχνητής νοημοσύνης μέσω πρακτικών έργων που χρησιμοποιούν διαφορετικές πλατφόρμες και εργαλεία. Θα εργαστείς με την αναγνώριση φωνής, την αναγνώριση προσώπου και άλλες τεχνολογίες τεχνητής νοημοσύνης, αποκτώντας μια ευρύτερη κατανόηση του τρόπου με τον οποίο η τεχνητή νοημοσύνη μπορεί να εφαρμοστεί σε διαφορετικά περιβάλλοντα.
+      meta_title: Διαδρομή έργου | Εργαλειοθήκη TN για παιδιά | Τεχνητή νοημοσύνη για παιδιά | Πρακτικά έργα με χρήση αναγνώρισης φωνής και προσώπου
+      meta_description: Εισαγωγή στην τεχνητή νοημοσύνη και τη μηχανική μάθηση για παιδιά, εφήβους και νέους ενήλικες. Δημιούργησε εφαρμογές που χρησιμοποιούν τεχνητή νοημοσύνη με αυτούς τους δωρεάν πόρους.
       header:
         - 
           title: "Τι θα δημιουργήσω;"
           content: |
-            Make interactive applications and games that use image classifiers, voice and face recognition. Explore advanced technologies like Adobe Firefly and practical tools for managing Ollama and Stable Diffusion models on Raspberry Pi.
+            Δημιούργησε διαδραστικές εφαρμογές και παιχνίδια που χρησιμοποιούν ταξινομητές εικόνων, αναγνώριση φωνής και προσώπου. Εξερεύνησε προηγμένες τεχνολογίες όπως το Adobe Firefly και πρακτικά εργαλεία για τη διαχείριση μοντέλων Ollama και Stable Diffusion στο Raspberry Pi.
         - 
           title: "Τι πρέπει να ξέρω;"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            - Βασικές δεξιότητες πληκτρολόγησης και πλοήγησης σε υπολογιστή
+            - Εξοικείωση με το μονοπάτι μας [Εισαγωγή στο Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} ενδέχεται να είναι επίσης χρήσιμη.
         - 
           title: "Τι χρειάζομαι;"
           content: |
-            There is a range of projects for you to try and the specific requirements are listed for each project.
-            - One project can be done as an unplugged activity and all printable materials are provided for download.
-            - Most projects require a computer or mobile device and internet access.
-            - Some projects require a webcam.
-            - Raspberry Pi (optional).
-            - micro:bit (optional).
+            Υπάρχει μια σειρά από έργα που μπορείς να δοκιμάσεις, όπου αναλύονται οι ιδιαίτερες απαιτήσεις κάθε έργου.
+            - Ένα έργο μπορεί να γίνει ως δραστηριότητα χωρίς υπολογιστή και όλο το εκτυπώσιμο υλικό προσφέρεται για λήψη.
+            - Τα περισσότερα έργα απαιτούν υπολογιστή ή φορητή συσκευή και πρόσβαση στο διαδίκτυο.
+            - Ορισμένα έργα απαιτούν κάμερα web.
+            - Raspberry Pi (προαιρετικό).
+            - micro:bit (προαιρετικό).
         - 
           title: "Πληροφορίες για τον/την μέντορα"
           content: |
-            ##Pick and choose
-            There is no need to follow this path in order. You can explore the theme that interests you the most!
+            ##Διάλεξε και επίλεξε
+            Δεν χρειάζεται να ακολουθήσεις αυτή τη διαδρομή με τη σειρά. Μπορείς να εξερευνήσεις το θέμα που σε ενδιαφέρει περισσότερο!
 
-            ##Available to all
-            Inclusivity is a key aspect of this collection. The projects cater to various skill levels and include an unplugged activity, ensuring that everyone can participate, regardless of available resources.
+            ##Διαθέσιμο σε όλους
+            Η συμπερίληψη είναι μια βασική πτυχή αυτής της συλλογής. Τα έργα καλύπτουν διάφορα επίπεδα δεξιοτήτων και περιλαμβάνουν μια δραστηριότητα χωρίς υπολογιστή, διασφαλίζοντας ότι όλοι και όλες μπορούν να συμμετέχουν, ανεξάρτητα από τους διαθέσιμους πόρους.
 
-            ##Video tutorials
-            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+            ##Βιντεομαθήματα
+            Είμαστε ενθουσιασμένοι για το ότι προσφέρουμε μια σειρά από έργα που περιλαμβάνουν εκπαιδευτικά βίντεο και γραπτές οδηγίες βήμα-βήμα. Τα εκπαιδευτικά βίντεο έχουν σχεδιαστεί για να σε καθοδηγούν σε κάθε δραστηριότητα με τον δικό σου ρυθμό και έχουν υπότιτλους για την αύξηση της προσβασιμότητας. Για όσους/ες προτιμούν γραπτές οδηγίες, διατίθενται επίσης αναλυτικοί οδηγοί βήμα-βήμα.
 
-            ##Shorter projects
-            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+            ##Μικρότερα έργα
+            Τα έργα είναι κατασκευασμένα ώστε να είναι ευέλικτα και ελκυστικά και το κύριο μέρος μπορεί να ολοκληρωθεί σε λίγα μόλις λεπτά, αφήνοντας πολύ χρόνο για εξατομίκευση και εξερεύνηση. Αυτή η ρύθμιση επιτρέπει σύντομες, ευχάριστες συνεδρίες που μπορούν εύκολα να ενσωματωθούν στις δραστηριότητές σας στο Code Club.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
+            ##Εμπνέοντας την κοινότητα
+            Οι δημιουργοί ενθαρρύνονται να εμπνεύσουν και άλλα άτομα στην κοινότητα του Raspberry Pi Foundation με το μοιραστούν τα έργα τους μαζί μας.
     more-web:
-      title: "More web"
-      subtitle: "HTML, CSS and JavaScript!"
+      title: "Περισσότερο web"
+      subtitle: "HTML, CSS και JavaScript!"
       description: More web moves beyond the basics introduced in Introduction to web. Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to a user. Take users on a journey and transport them to somewhere completely new!
       meta_title: Project path | Intro to HTML CSS and JavaScript for kids | Web development for kids | Make interactive websites
       meta_description: Introduction to HTML, CSS and JavaScript for kids, teenagers and young adults. Build interactive websites with these free resources.
