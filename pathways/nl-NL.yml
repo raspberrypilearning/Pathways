@@ -1,6 +1,86 @@
 ---
 nl-NL:
   pathways:
+    ai-toolkit:
+      title: "AI toolkit"
+      subtitle: "Maak kennis met een scala aan platforms voor kunstmatige intelligentie en machine learning!"
+      description: De AI-toolkit introduceert verschillende toepassingen en technologieën voor kunstmatige intelligentie via praktische projecten met verschillende platforms en tools. Je werkt met spraakherkenning, gezichtsherkenning en andere AI-technologieën, waardoor je een breder begrip krijgt van hoe AI in verschillende contexten kan worden toegepast.
+      meta_title: Projectpad | AI-toolkit voor kinderen | Kunstmatige intelligentie voor kinderen | Praktische projecten met behulp van spraak- en gezichtsherkenning
+      meta_description: Inleiding tot kunstmatige intelligentie en machine learning voor kinderen, tieners en jongvolwassenen. Bouw applicaties die kunstmatige intelligentie gebruiken met deze gratis bronnen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve applicaties en games die gebruikmaken van beeldclassificatoren, spraak- en gezichtsherkenning. Ontdek geavanceerde technologieën zoals Adobe Firefly en praktische tools voor het beheren van Ollama- en Stable Diffusion-modellen op Raspberry Pi.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Basis typen en computer navigatie vaardigheden
+            - Bekendheid met ons [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} pad kan ook nuttig zijn.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Er zijn verschillende projecten die je kunt proberen en de specifieke vereisten worden voor elk project vermeld.
+            - Eén project kan als een unplugged-activiteit worden uitgevoerd en alle afdrukbare materialen zijn beschikbaar om te downloaden.
+            - De meeste projecten vereisen een computer of mobiel apparaat en internettoegang.
+            - Voor sommige projecten is een webcam vereist.
+            - Raspberry Pi (optioneel).
+            - micro:bit (optioneel).
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##Kies je eigen weg
+            Het is niet nodig om dit pad in volgorde te volgen. Je kunt het thema verkennen dat je het meest interesseert!
+
+            ##Beschikbaar voor iedereen
+            Inclusiviteit is een belangrijk aspect van deze collectie. De projecten zijn geschikt voor verschillende vaardigheidsniveaus en bevatten een unplugged-activiteit, zodat iedereen kan deelnemen, ongeacht de beschikbare middelen.
+
+            ##Videotutorials
+            We zijn verheugd om een reeks projecten aan te bieden met zowel videotutorials als stapsgewijze geschreven handleidingen. De videotutorials zijn ontworpen om je in je eigen tempo door elke activiteit te leiden en zijn ondertiteld om de toegankelijkheid te verbeteren. Voor degenen die de voorkeur geven aan schriftelijke instructies, zijn er ook gedetailleerde stapsgewijze handleidingen beschikbaar.
+
+            ##Kortere projecten
+            De projecten zijn zo ontworpen dat ze flexibel en boeiend zijn en het hoofdonderdeel kan in slechts een paar minuten worden voltooid, waardoor er veel tijd overblijft voor maatwerk en verkenning. Deze opstelling zorgt voor korte, plezierige sessies die eenvoudig kunnen worden opgenomen in jouw Code Club-activiteiten.
+
+            ##De community inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-community te inspireren door hun projecten met ons te delen.
+    more-web:
+      title: "Meer web"
+      subtitle: "HTML, CSS en JavaScript!"
+      description: Meer web gaat verder na de basis die in de introductie naar het web is geïntroduceerd. Modern webdesign heeft websites veranderd van statische en saaie muren van informatie in manieren om leuke en aantrekkelijke ervaringen aan een gebruiker te bieden. Neem gebruikers mee op reis en breng ze naar een volledig nieuw plaats!
+      meta_title: Projectpad | Inleiding tot HTML CSS en JavaScript voor kinderen | Webontwikkeling voor kinderen | Maak interactieve websites
+      meta_description: Inleiding tot HTML, CSS en JavaScript voor kinderen, tieners en jong volwassenen. Bouw interactieve websites met deze gratis bronnen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak interactieve websites met superhelden, interactieve verhalen en een reis naar Antarctica. Leer gebruik te maken van interactieve functies zoals scrollende animaties, navigatiemenu's, knoppen en donkere modusbedieningen.
+            Aan het einde van dit pad zult je jouw nieuwe vaardigheden gebruiken om een interactieve website te maken om met je vrienden te delen.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Basisvaardigheden op het gebied van typen en computernavigatie
+            - Ervaring met HTML en CSS kan nuttig zijn
+            - Bekendheid met onze [Inleiding tot het web](https://projects.raspberrypi.org/en/pathways/ web-intro){:target="_blank"} pad kan ook nuttig zijn.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            - Een computer of mobiel apparaat waarop een online codeerplatform kan draaien. Bekijk onze [Aan de slag-handleiding voor de Raspberry Pi-editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Optioneel een account om projecten op te slaan.
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##321…Maken!
+            Dit pad volgt [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
+
+            - 3 **Verken** projecten om makers kennis te laten maken met een reeks vaardigheden en geeft stapsgewijze instructies om hen te helpen een eerste vertrouwen te ontwikkelen.
+            - 2 **Ontwerp** projecten waarmee makers de vaardigheden kunnen oefenen die ze in de vorige Verken-projecten hebben geleerd, en zich creatief kunnen uiten terwijl ze groeien in onafhankelijkheid.
+            - 1 **Bedenk** project waarbij makers hun vaardigheden gebruiken om te voldoen aan een projectopdracht voor een bepaald publiek.
+
+            ##Snelle quiz
+            Elk project bevat een snelle quizstap. Elke quiz bevat drie meerkeuzevragen. Makers worden door middel van nuttige feedback naar het juiste antwoord geleid.
+
+            ##De gemeenschap inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-gemeenschap te inspireren door hun projecten met ons te delen via het [formulier voor het indienen van projecten](https://form.raspberrypi.org/f/community-project-submissions). Projecten worden gedeeld met onze Community Galleries.
     microbit-intro:
       title: "Inleiding tot micro:bit"
       subtitle: "sensoren, knoppen en lichtjes!"
@@ -172,6 +252,45 @@ nl-NL:
     scratch-module-3:
       title: "Scratch: Module 3"
       description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
+    scratch-machine-learning:
+      title: "Machine Learning met Scratch"
+      subtitle: "Inleidende machine learning-projecten met behulp van Machine Learning for Kids with Scratch."
+      description: Introductie tot fundamentele concepten van machine learning via creatieve en interactieve projecten. Makers trainen modellen om patronen in afbeeldingen, tekst en geluid te herkennen en ontdekken hoe deze modellen kunnen worden gebruikt om leuke games te maken!
+      meta_title: Projectpad | Machine Learning met Scratch | Machine learning voor kinderen | Praktische projecten met spraak- en gezichtsherkenning
+      meta_description: Inleiding tot kunstmatige intelligentie en machine learning voor kinderen, tieners en jongvolwassenen. Bouw toepassingen die gebruik maken van machine learning met deze gratis bronnen.
+      header:
+        - 
+          title: "Wat ga ik maken?"
+          content: |
+            Maak creatieve en interactieve projecten met spraakerkenning en gezichtsherkenning. Makers zullen modellen trainen om patronen te herkennen, voorspellingen te maken en te ontdekken hoe deze modellen kunnen worden verbeterd met aanvullende gegevens.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Basis typen en computer navigatie vaardigheden
+            - Bekendheid met ons [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} pad kan ook nuttig zijn.
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            Er zijn verschillende projecten die je kunt uitproberen. De specifieke vereisten worden voor elk project vermeld.
+            - Voor alle projecten heb je een computer of mobiel apparaat en internettoegang nodig.
+            - Voor sommige projecten heb je een webcam nodig.
+        - 
+          title: "Mentorinformatie"
+          content: |
+            ##Kies je eigen weg
+            Het is niet nodig om dit pad in volgorde te volgen. Je kunt het thema verkennen dat je het meest interesseert!
+
+            ##Beschikbaar voor iedereen
+            Inclusiviteit is een belangrijk aspect van deze collectie. De projecten zijn geschikt voor verschillende vaardigheidsniveaus en bevatten een unplugged-activiteit, zodat iedereen kan deelnemen, ongeacht de beschikbare middelen.
+
+            ##Videotutorials
+            We zijn verheugd om een reeks projecten aan te bieden met zowel videotutorials als stapsgewijze geschreven handleidingen. De videotutorials zijn ontworpen om je in je eigen tempo door elke activiteit te leiden en zijn ondertiteld om de toegankelijkheid te verbeteren. Voor degenen die de voorkeur geven aan schriftelijke instructies, zijn er ook gedetailleerde stapsgewijze handleidingen beschikbaar.
+
+            ##Kortere projecten
+            De projecten zijn zo ontworpen dat ze flexibel en boeiend zijn en het hoofdonderdeel kan in slechts een paar minuten worden voltooid, waardoor er veel tijd overblijft voor maatwerk en verkenning. Deze opstelling zorgt voor korte, plezierige sessies die eenvoudig kunnen worden opgenomen in jouw Code Club-activiteiten.
+
+            ##De community inspireren
+            Makers worden aangemoedigd om anderen in de Raspberry Pi Foundation-community te inspireren door hun projecten met ons te delen.
     scratch-additional-projects:
       title: "Scratch: Extra projecten"
       description: Leer hoe jij je eigen interactieve verhalen, games en animaties kunt programmeren.
@@ -441,7 +560,7 @@ nl-NL:
 
             ## Software
             - Thonny
-            - Raspberry Pi Pico Fireware (geïnstalleerd via Thonny)
+            - Raspberry Pi Pico Firmware (geïnstalleerd via Thonny)
             - De picozero library (beschikbaar via PyPi in Thonny)
             Installatiegegevens vind je in het eerste project en in onze [Raspberry Pi Pico gids](https://projecten.raspberrypi.org/nl/projects/introduction-to-the-pico){:target="_blank"}
         - 
@@ -521,7 +640,7 @@ nl-NL:
         - 
           title: "Wat heb ik nodig?"
           content: |
-            - Een computer of mobiel apparaat waarop een online programmeerplatform kan draaien.
+            - Een computer of mobiel apparaat waarop een online codeerplatform kan draaien. Bekijk onze [Aan de slag-handleiding voor de Raspberry Pi-editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
             - Optioneel een account om projecten op te slaan.
         - 
           title: "Mentorinformatie"

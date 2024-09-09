@@ -1,6 +1,86 @@
 ---
 fr-FR:
   pathways:
+    ai-toolkit:
+      title: "AI toolkit"
+      subtitle: "Utilise une série de plateformes pour l'intelligence artificielle et l'apprentissage automatique !"
+      description: Le AI toolkit présente diverses applications et technologies d'intelligence artificielle par le biais de projets pratiques utilisant différentes plateformes et outils. Tu travailleras avec la reconnaissance vocale, la reconnaissance faciale et d'autres technologies d'IA, ce qui te permettra d'acquérir une compréhension plus large de la façon dont l'IA peut être appliquée dans différents contextes.
+      meta_title: Parcours de projet | AI toolkit pour les enfants | Intelligence artificielle pour les enfants | Projets pratiques utilisant la reconnaissance vocale et faciale
+      meta_description: Introduction à l'intelligence artificielle et à l'apprentissage automatique pour les enfants, les adolescents et les jeunes adultes. Crée des applications qui utilisent l'intelligence artificielle grâce à ces ressources gratuites.
+      header:
+        - 
+          title: "Que vais-je créer ?"
+          content: |
+            Crée des applications et des jeux interactifs qui utilisent des classificateurs d'images, la reconnaissance vocale et faciale. Découvre des technologies avancées comme Adobe Firefly et des outils pratiques pour gérer les modèles Ollama et Stable Diffusion sur Raspberry Pi.
+        - 
+          title: "Que dois-je savoir ?"
+          content: |
+            - Compétences de base en dactylographie et en navigation informatique
+            - Une bonne connaissance de notre parcours [Introduction à Scratch](https://projects.raspberrypi.org/fr-FR/pathways/scratch-intro){:target="_blank"} peut également être utile.
+        - 
+          title: "De quoi ai-je besoin ?"
+          content: |
+            Il y a toute une série de projets que tu peux essayer. Les exigences spécifiques sont indiquées pour chaque projet.
+            - L'un des projets peut être réalisé en tant qu'activité débranchée et tout le matériel imprimable est fourni et téléchargeable.
+            - La plupart des projets nécessitent un ordinateur ou un appareil mobile et un accès à Internet.
+            - Certains projets nécessitent une webcam.
+            - Raspberry Pi (facultatif).
+            - micro:bit (facultatif).
+        - 
+          title: "Informations pour le mentor"
+          content: |
+            ##Choisir
+            Il n'est pas nécessaire de suivre ce parcours dans l'ordre. Tu peux découvrir le thème qui t'intéresse le plus !
+
+            ##Accessible à tous
+            L'inclusivité est un aspect important de cette collection. Les projets s'adressent à différents niveaux de compétences et comprennent une activité débranchée, ce qui garantit que tout le monde peut participer, quelles que soient les ressources disponibles.
+
+            ##Tutoriels vidéo
+            Nous sommes ravis de proposer une gamme de projets qui comportent à la fois des tutoriels vidéo et des guides écrits étape par étape. Les tutoriels vidéo sont conçus pour te guider dans chaque activité à ton propre rythme et sont sous-titrés pour améliorer l'accessibilité. Pour ceux qui préfèrent les instructions écrites, des guides détaillés étape par étape sont également disponibles.
+
+            ##Des projets plus courts
+            Les projets sont conçus pour être flexibles et attrayants et la partie principale peut être réalisée en quelques minutes seulement, ce qui laisse beaucoup de temps pour la personnalisation et la découverte. Cette configuration permet d'organiser des sessions courtes et agréables qui peuvent facilement être incorporées dans les activités de ton club de code.
+
+            ##Inspirer la communauté
+            Les créateurs sont encouragés à inspirer les autres membres de la communauté de la Raspberry Pi Foundation en partageant leurs projets avec nous.
+    more-web:
+      title: "Plus de web"
+      subtitle: "HTML, CSS et JavaScript !"
+      description: Plus de web va au-delà des bases présentées dans Introduction au web. La conception moderne du web a transformé les sites web, qui étaient des murs d'informations statiques et ennuyeux, en des moyens d'offrir des expériences amusantes et engageantes à l'utilisateur. Emmène les utilisateurs en voyage et transporte-les dans un endroit complètement nouveau !
+      meta_title: Parcours du projet | Introduction à l'HTML, CSS et JavaScript pour les enfants | Développement web pour les enfants | Créer des sites web interactifs
+      meta_description: Introduction à l'HTML, CSS et JavaScript pour les enfants, les adolescents et les jeunes adultes. Crée des sites web interactifs avec ces ressources gratuites.
+      header:
+        - 
+          title: "Que vais-je créer ?"
+          content: |
+            Crée des sites web interactifs avec des super-héros, des histoires interactives et un voyage en Antarctique. Apprends à utiliser les fonctions interactives telles que les animations de défilement, les menus de navigation, les boutons et les commandes en mode sombre.
+            À la fin de ce parcours, tu auras utilisé tes nouvelles compétences pour créer un site web interactif à partager avec tes amis.
+        - 
+          title: "Que dois-je savoir ?"
+          content: |
+            - Des compétences de base en dactylographie et en navigation informatique
+            - Une expérience en HTML et CSS peut être utile 
+            - Une bonne connaissance de notre parcours [Introduction au web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} peut également être utile.
+        - 
+          title: "De quoi ai-je besoin ?"
+          content: |
+            - Un ordinateur ou un appareil mobile capable de faire fonctionner une plateforme de codage en ligne. Voir notre [Guide de démarrage du Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"} !
+            - Optionnellement, un compte pour enregistrer les projets.
+        - 
+          title: "Informations pour le mentor"
+          content: |
+            ##321…Make!
+            Ce parcours fait suite à [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"} :
+
+            - 3 projets **Explorer** : présente aux créateurs un ensemble de compétences et donne des instructions étape par étape pour les aider à développer leur confiance en soi.
+            - 2 projets **Conception** : permet aux créateurs de mettre en pratique les compétences acquises dans les projets Explorer précédents et de s'exprimer de manière créative tout en développant leur autonomie.
+            - 1 projet **Inventer** : encourage les créateurs à utiliser leurs compétences pour créer un projet unique répondant à un cahier des charges destiné à un public particulier.
+
+            ##Questionnaire rapide
+            Chaque projet contient un questionnaire rapide composé de trois questions à choix multiples. Les créateurs sont guidés vers la bonne réponse grâce à des commentaires utiles et reçoivent un badge de projet.
+
+            ##Inspirer la communauté
+            Les créateurs sont encouragés à inspirer les autres membres de la communauté de Raspberry Pi Foundation en partageant leurs projets avec nous via le [formulaire de soumission de projets](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Les projets seront partagés anonymement dans nos galeries communautaires.
     microbit-intro:
       title: "Introduction à micro:bit"
       subtitle: "capteurs, boutons et lumières !"
@@ -172,6 +252,45 @@ fr-FR:
     scratch-module-3:
       title: "Scratch : Module 3"
       description: Apprends à programmer tes propres histoires, jeux et animations interactives.
+    scratch-machine-learning:
+      title: "Apprentissage automatique avec Scratch"
+      subtitle: "Projets d'introduction à l'apprentissage automatique utilisant Machine Learning For Kids avec Scratch."
+      description: Introduction aux concepts fondamentaux de l'apprentissage automatique par le biais de projets créatifs et interactifs. Les créateurs entraîneront des modèles à reconnaître des modèles dans des images, des textes et des sons, et découvriront comment ces modèles peuvent être utilisés pour créer des jeux amusants !
+      meta_title: Parcours du projet | Machine Learning avec Scratch | Machine learning pour les enfants | Projets pratiques utilisant la reconnaissance vocale et faciale
+      meta_description: Introduction à l'intelligence artificielle et à l'apprentissage automatique pour les enfants, les adolescents et les jeunes adultes. Conçois des applications qui utilisent l'apprentissage automatique grâce à ces ressources gratuites.
+      header:
+        - 
+          title: "Que vais-je créer ?"
+          content: |
+            Réalise des projets créatifs et interactifs en utilisant la reconnaissance vocale et la reconnaissance faciale. Les créateurs formeront des modèles pour reconnaître des modèles, faire des prédictions et découvriront comment ces modèles peuvent être améliorés avec des données supplémentaires.
+        - 
+          title: "Que dois-je savoir ?"
+          content: |
+            - Compétences de base en dactylographie et en navigation informatique
+            - Une bonne connaissance de notre parcours [Introduction à Scratch](https://projects.raspberrypi.org/fr-FR/pathways/scratch-intro){:target="_blank"} peut également être utile.
+        - 
+          title: "De quoi ai-je besoin ?"
+          content: |
+            Il y a une série de projets que tu peux essayer et les exigences spécifiques sont listées pour chaque projet.
+            - Tous les projets nécessitent un ordinateur ou un appareil mobile et un accès à Internet.
+            - Certains projets nécessitent une webcam.
+        - 
+          title: "Informations pour le mentor"
+          content: |
+            ##Choisir
+            Il n'est pas nécessaire de suivre ce parcours dans l'ordre. Tu peux explorer le thème qui t'intéresse le plus !
+
+            ##Accessible à tous
+            L'inclusivité est un aspect important de cette collection. Les projets s'adressent à différents niveaux de compétences, ce qui garantit que tout le monde peut participer.
+
+            ##Tutoriels vidéo
+            Nous sommes ravis de proposer une gamme de projets qui comportent à la fois des tutoriels vidéo et des guides écrits étape par étape. Les tutoriels vidéo sont conçus pour te guider dans chaque activité à ton propre rythme et sont sous-titrés pour améliorer l'accessibilité. Pour ceux qui préfèrent les instructions écrites, des guides détaillés étape par étape sont également disponibles.
+
+            ##Des projets plus courts
+            Les projets sont conçus pour être flexibles et attrayants et la partie principale peut être réalisée en quelques minutes seulement, ce qui laisse beaucoup de temps pour la personnalisation et la découverte. Cette configuration permet d'organiser des sessions courtes et agréables qui peuvent facilement être incorporées dans les activités de ton club de code.
+
+            ##Inspirer la communauté
+            Les créateurs sont encouragés à inspirer les autres membres de la communauté de la Raspberry Pi Foundation en partageant leurs projets avec nous.
     scratch-additional-projects:
       title: "Scratch : Projets supplémentaires"
       description: Apprends à programmer tes propres histoires, jeux et animations interactives.
@@ -438,13 +557,13 @@ fr-FR:
             ## Matériel
             Tu peux acheter tout le matériel nécessaire pour ce parcours sur :
             - [boutique en ligne Pimoroni](https://shop.pimoroni.com/products/pico-intro-kit?variant=39893512945747){:target ="_blank"} (comprend un Raspberry Pi Pico)
-            - [boutique en ligne Kitronik](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target= "_blank"} (exclut un Raspberry Pi Pico)
+            - [Boutique en ligne Kitronik](https://kitronik.co.uk/products/5343-raspberry-pi-foundation-pico-pathway-pack){:target= "_blank"} (exclut un Raspberry Pi Pico)
 
             ## Logiciel
             - Thonny
-            - Raspberry Pi Pico Fireware (installé via Thonny)
+            - Raspberry Pi Pico Firmware (installé via Thonny)
             - La bibliothèque picozero (disponible via PyPi dans Thonny)
-            Les informations sur l'installation se trouvent dans le premier projet et dans notre [guide Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
+            Les informations sur l'installation se trouvent dans le premier projet et dans notre [guide Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}.
         - 
           title: "Informations pour le mentor"
           content: |
@@ -522,8 +641,8 @@ fr-FR:
         - 
           title: "De quoi ai-je besoin ?"
           content: |
-            - Un ordinateur ou un appareil mobile capable d'exécuter une plateforme de codage en ligne.
-            - En option, un compte pour sauvegarder les projets.
+            - Un ordinateur ou un appareil mobile capable de faire fonctionner une plateforme de codage en ligne. Voir notre [Guide de démarrage du Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"} !
+            - Optionnellement, un compte pour enregistrer les projets.
         - 
           title: "Informations pour le mentor"
           content: |
@@ -597,7 +716,7 @@ fr-FR:
         - 
           title: "De quoi ai-je besoin ?"
           content: |
-            Ce chemin nécessite :
+            Ce parcours nécessite :
             - Un ordinateur de bureau, un ordinateur portable, une tablette, un appareil mobile ou un ordinateur Raspberry Pi
             - Un accès à Internet pour utiliser Scratch et d'autres applications en ligne.
 

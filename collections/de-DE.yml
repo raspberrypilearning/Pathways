@@ -1,0 +1,45 @@
+---
+de-DE:
+  collections:
+    artificial_intelligence:
+      title: "Künstliche Intelligenz"
+      description: "Entdecke die grundlegenden Konzepte des maschinellen Lernens durch kreative und interaktive Projekte mithilfe von KI-Anwendungen und -Technologien."
+      meta_description: "KI, Kinder, Kind, Codierung, Programmierung, künstliche Intelligenz, maschinelles Lernen, Klassifizierung, LLM, große Sprachmodelle, LLM, LLMs, Prompt, Prompt Engineering"
+      additional_paths_title: "Zusätzliche Pfade im Bereich der künstlichen Intelligenz"
+      additional_paths_description: "Zusätzliche Pfade zur künstlichen Intelligenz, die dir helfen, deine Reise durch die Welt der Programmierung fortzusetzen."
+    scratch:
+      title: "Scratch"
+      description: "Starte dein Abenteuer im digitalen Gestalten, indem du lernst Animationen, Geschichten und Spiele in Scratch zu programmieren."
+      meta_description: "Scratch, Kids, Kind, Kinder, Coden, Programmieren, Spiele, Animationen"
+      additional_paths_title: "Zusätzliche Scratch-Pfade"
+      additional_paths_description: "Zusätzliche Scratch-Pfade, die dir helfen, deine Reise durch die Welt der Programmierung fortzusetzen."
+    python:
+      title: "Python"
+      description: "Erfahre mehr über Python, eine der weltweit beliebtesten Programmiersprachen zum Erstellen von digitaler Kunst, interaktiven Karten und Modellen."
+      meta_description: "Python, Kids, Kind, Kinder, Coden, Programmieren, Spiele, Animationen"
+      additional_paths_title: "Zusätzliche Python-Pfade"
+      additional_paths_description: "Zusätzliche Python-Pfade, die dir helfen, deine Reise durch die Welt der Programmierung fortzusetzen."
+    html_and_css:
+      title: "Webdesign"
+      description: "Erstelle Websites und Apps, indem du HTML, CSS und JavaScript lernst, und teile sie mit deinen Freunden."
+      meta_description: "Web, HTML, CSS, Javascript, Websites, Kind, Kinder, Coden, Programmieren"
+      additional_paths_title: "Zusätzliche Webdesign-Pfade"
+      additional_paths_description: "Zusätzliche Pfade zum Webdesign, die dir helfen, deine Reise durch die Welt der Programmierung fortzusetzen."
+    physical_computing:
+      title: "Digitales Basteln"
+      description: "Steuere die reale Welt und interagiere mit ihr, indem du Code mit Elektronik kombinierst."
+      meta_description: "Physical Computing, digitales Basteln, Elektronik, IoT, Internet der Dinge, Kids, Kind, Kinder, Coden, Programmieren"
+      additional_paths_title: "Zusätzliche Pfade zum digitalen Basteln"
+      additional_paths_description: "Zusätzliche Pfade zum digitalen Basteln, die dir helfen, deine Reise durch die Welt der Programmierung fortzusetzen."
+    unity:
+      title: "Unity"
+      description: "Erstelle 3D-Welten und erkunde sie mithilfe von Unity."
+      meta_description: "Unity, 3D, Spiele, Animationen, Simulationen, Kids, Kinder, Coden, Programmieren"
+      additional_paths_title: ""
+      additional_paths_description: ""
+    microbit:
+      title: "micro:bit"
+      description: "Erstelle mit dem BBC micro:bit spannende Projekte rund um das digitale Basteln."
+      meta_description: "microbit, Kids, Kind, Kinder, Coden, Programmieren, Spiele, Animationen"
+      additional_paths_title: ""
+      additional_paths_description: ""
