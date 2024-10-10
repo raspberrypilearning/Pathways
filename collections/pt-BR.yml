@@ -2,11 +2,11 @@
 pt:
   collections:
     artificial_intelligence:
-      title: "Artificial intelligence"
-      description: "Discover the foundational concepts of machine learning through creative and interactive projects using AI applications and technologies."
-      meta_description: "AI, kids, child, children, coding, programming, artificial intelligence, machine learning, classifier, llm, large language models, LLM, LLMs, prompt, prompt engineering"
-      additional_paths_title: "Additional artificial intelligence paths"
-      additional_paths_description: "Additional artificial intelligence paths to help you continue on your coding journey."
+      title: "Inteligência artificial"
+      description: "Descubra os conceitos fundamentais do aprendizado de máquina por meio de projetos criativos e interativos usando aplicativos e tecnologias de IA."
+      meta_description: "IA, crianças, criança, crianças, codificação, programação, inteligência artificial, aprendizado de máquina, classificador, llm, grandes modelos de linguagem, LLM, LLMs, prompt, engenharia de prompt"
+      additional_paths_title: "Caminhos adicionais de inteligência artificial"
+      additional_paths_description: "Caminhos adicionais de inteligência artificial para ajudá-lo a continuar em sua jornada de programação."
     scratch:
       title: "Scratch"
       description: "Comece sua aventura na criação digital aprendendo a programar animações, histórias e jogos no Scratch."
@@ -24,22 +24,22 @@ pt:
       description: "Crie sites e aplicativos aprendendo HTML, CSS e JavaScript e compartilhe com seus amigos."
       meta_description: "web, html, css, javascript, websites, criança, crianças, codificação, programação"
       additional_paths_title: "Caminhos adicionais de web design"
-      additional_paths_description: "Additional web design paths to help you continue on your coding journey."
+      additional_paths_description: "Caminhos adicionais de web design para ajudar você a continuar sua jornada de programação."
     physical_computing:
       title: "Computação física"
-      description: "Control and interact with the real world combining code with electronics."
-      meta_description: "physical computing, electronics, iot, internet of things, kids, child, children, coding, programming"
-      additional_paths_title: "Additional Physical Computing paths"
-      additional_paths_description: "Additional Physical Computing paths to help you continue on your coding journey."
+      description: "Controle e interaja com o mundo real combinando código com eletrônica."
+      meta_description: "computação física, eletrônicos, iot, internet de coisas, crianças, crianças, programação"
+      additional_paths_title: "Caminhos adicionais de computação física"
+      additional_paths_description: "Caminhos adicionais de Computação Física para ajudar você a continuar sua jornada de programação."
     unity:
       title: "Unidade"
-      description: "Create and explore 3D worlds with the power of Unity."
-      meta_description: "unity, 3D, games, animations, simulations, kids, children, coding, programming"
+      description: "Crie e explore mundos 3D com o poder do Unity."
+      meta_description: "unity, 3D, jogos, animações, simulações, crianças, criança, codificação, programação"
       additional_paths_title: ""
       additional_paths_description: ""
     microbit:
       title: "micro:bit"
-      description: "Create engaging physical computing projects with the BBC micro:bit."
-      meta_description: "microbit, child, children, coding, programming, games, animations"
+      description: "Crie projetos envolventes de computação física com o BBC micro:bit."
+      meta_description: "microbit, criança, crianças, codificação, programação, jogos, animações"
       additional_paths_title: ""
       additional_paths_description: ""
