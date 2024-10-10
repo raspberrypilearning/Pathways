@@ -3,9 +3,9 @@ es-419:
     ai-toolkit:
       title: "Caja de herramientas de IA"
       subtitle: "Interactúa con un rango de plataformas de inteligencia artificial y aprendizaje de máquina!"
-      description: The AI toolkit introduces various artificial intelligence applications and technologies through hands-on projects using different platforms and tools. You will work with voice recognition, facial recognition, and other AI technologies, gaining a broader understanding of how AI can be applied in different contexts.
-      meta_title: Project path | AI toolkit for kids | Artificial intelligence for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
+      description: La caja de herramientas de IA presenta varias aplicaciones y tecnologias de inteligencia artificial a través de projectos prácticos, usando diferentes plataformas y herramientas. Trabajarás con reconocimiento de voz, facial y otras tecnologías de IA para obtener mejor comprensión de cómo puede aplicarse la IA en diferentes contextos.
+      meta_title: Camino de proyecto | Caja de herramientas infantil de IA | Inteligancia Artifical para niñas y niños | Proyectos prácticos que usan reconocimiento de voz y facial
+      meta_description: Introducción a la inteligencia artificial y el aprendizaje de máquina para niñas y niños, adolescentes y jóvenes. Construir aplicaciones que usen inteligencia artificial con estos recursos gratuitos.
       header:
         - 
           title: "¿Qué voy a crear?"
