@@ -2,15 +2,15 @@
 es-419:
   collections:
     artificial_intelligence:
-      title: "Artificial intelligence"
-      description: "Discover the foundational concepts of machine learning through creative and interactive projects using AI applications and technologies."
-      meta_description: "AI, kids, child, children, coding, programming, artificial intelligence, machine learning, classifier, llm, large language models, LLM, LLMs, prompt, prompt engineering"
-      additional_paths_title: "Additional artificial intelligence paths"
-      additional_paths_description: "Additional artificial intelligence paths to help you continue on your coding journey."
+      title: "Inteligencia Artifical"
+      description: "Descubre los conceptos básico del aprendizaje de máquina a través de proyectos creativos e interactivos, usando aplicaciones y tecnologías de IA."
+      meta_description: "IA, niños, niñas, niño, niña, escribir código, programar, inteligencia artifical, aprendizaje de máquina clasificativo, llm, grandes modelos de lenguaje, LLM, LLMs, instrucciones, ingeniería de instrucciones"
+      additional_paths_title: "Caminos adicionales de inteligencia artificial"
+      additional_paths_description: "Caminos adicionales de inteligencia artificial para ayudarte a continuar en tu trayectoria de programación."
     scratch:
       title: "Scratch"
       description: "Comienza tu aventura en la creación digital, aprendiendo a programar animaciones, historias y juegos en Scratch."
-      meta_description: "scratch, chicos, niño, niños, programación, programación, juegos, animaciones"
+      meta_description: "scratch, chicos, chicas, niño, niña, niños, niñas, programación, programación, juegos, animaciones"
       additional_paths_title: "Rutas adicionales de Scratch"
       additional_paths_description: "Rutas adicionales de Scratch para ayudarte a continuar en tu viaje de programación."
     python:
