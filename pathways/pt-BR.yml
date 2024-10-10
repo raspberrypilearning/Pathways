@@ -28,20 +28,20 @@ pt:
         - 
           title: "Informações do mentor"
           content: |
-            ##Pick and choose
-            There is no need to follow this path in order. You can explore the theme that interests you the most!
+            ##Siga a sua maneira
+            Não há necessidade de seguir este caminho em ordem. Você pode explorar o tema que mais lhe interessa!
 
-            ##Available to all
-            Inclusivity is a key aspect of this collection. The projects cater to various skill levels and include an unplugged activity, ensuring that everyone can participate, regardless of available resources.
+            ##Disponível para todos
+            A inclusão é um aspecto fundamental desta coleção. Os projetos atendem a vários níveis de habilidade e incluem uma atividade sem internet, garantindo que todos possam participar, independentemente dos recursos disponíveis.
 
-            ##Video tutorials
-            We are excited to offer a range of projects that feature both video tutorials and step-by-step written guides. The video tutorials are designed to guide you through each activity at your own pace and are captioned to improve accessibility. For those who prefer written instructions, detailed step-by-step guides are also available.
+            ##Tutoriais em vídeo
+            Estamos animados em oferecer uma variedade de projetos que apresentam tutoriais em vídeo e guias escritos passo a passo. Os tutoriais em vídeo são projetados para guiá-lo por cada atividade em seu próprio ritmo e são legendados para melhorar a acessibilidade. Para aqueles que preferem instruções escritas, guias passo a passo detalhados também estão disponíveis.
 
-            ##Shorter projects
-            The projects are crafted to be flexible and engaging and the main part can be completed in just a few minutes, leaving lots of time for customisation and exploration. This setup allows for short, enjoyable sessions that can easily be incorporated into your Code Club activities.
+            ##Projetos mais curtos
+            Os projetos são elaborados para serem flexíveis e envolventes e a parte principal pode ser concluída em apenas alguns minutos, deixando bastante tempo para personalização e exploração. Esta configuração permite sessões curtas e agradáveis que podem ser facilmente incorporadas às suas atividades do Code Club.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us.
+            ##Inspirando a comunidade
+            Os criadores são encorajados a inspirar outros na comunidade da Raspberry Pi Foundation compartilhando seus projetos conosco.
     more-web:
       title: "Mais web"
       subtitle: "HTML, CSS e JavaScript!"
@@ -57,9 +57,9 @@ pt:
         - 
           title: "O que eu preciso saber?"
           content: |
-            - Basic typing and computer navigation skills
-            - Experience with HTML and CSS may be useful
-            - Familiarity with our [Introduction to web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} path may also be useful.
+            - Habilidades básicas de digitação e navegação no computador
+            - Experiência com HTML e CSS pode ser útil
+            - Familiaridade com nosso caminho [Introdução à web](https://projects.raspberrypi.org/en/pathways/web-intro){:target="_blank"} também pode ser útil.
         - 
           title: "Do que eu preciso?"
           content: |
