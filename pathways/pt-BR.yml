@@ -1,30 +1,30 @@
 pt:
   pathways:
     ai-toolkit:
-      title: "AI toolkit"
-      subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
-      description: The AI toolkit introduces various artificial intelligence applications and technologies through hands-on projects using different platforms and tools. You will work with voice recognition, facial recognition, and other AI technologies, gaining a broader understanding of how AI can be applied in different contexts.
-      meta_title: Project path | AI toolkit for kids | Artificial intelligence for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use artificial intelligence with these free resources.
+      title: "Kit de ferramentas de IA"
+      subtitle: "Interaja com uma variedade de plataformas de inteligência artificial e aprendizado de máquina!"
+      description: O kit de ferramentas de IA introduz várias aplicações e tecnologias de inteligência artificial por meio de projetos práticos usando diferentes plataformas e ferramentas. Você trabalhará com reconhecimento de voz, reconhecimento facial e outras tecnologias de IA, obtendo uma compreensão mais ampla de como a IA pode ser aplicada em diferentes contextos.
+      meta_title: Caminho do projeto | Kit de ferramentas de IA para crianças | Inteligência artificial para crianças | Projetos práticos usando reconhecimento de voz e facial
+      meta_description: Introdução à inteligência artificial e machine learning para crianças, adolescentes e jovens adultos. Crie aplicativos que usam inteligência artificial com esses recursos gratuitos.
       header:
         - 
           title: "O que eu criarei?"
           content: |
-            Make interactive applications and games that use image classifiers, voice and face recognition. Explore advanced technologies like Adobe Firefly and practical tools for managing Ollama and Stable Diffusion models on Raspberry Pi.
+            Crie aplicativos e jogos interativos que usem classificadores de imagem, reconhecimento de voz e rosto. Explore tecnologias avançadas como Adobe Firefly e ferramentas práticas para gerenciar modelos Ollama e Stable Diffusion no Raspberry Pi.
         - 
           title: "O que eu preciso saber?"
           content: |
-            - Basic typing and computer navigation skills
-            - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
+            - Habilidades básicas de digitação e navegação no computador
+            - Familiaridade com nosso caminho [Introdução ao Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} também pode ser útil.
         - 
           title: "Do que eu preciso?"
           content: |
-            There is a range of projects for you to try and the specific requirements are listed for each project.
-            - One project can be done as an unplugged activity and all printable materials are provided for download.
-            - Most projects require a computer or mobile device and internet access.
-            - Some projects require a webcam.
-            - Raspberry Pi (optional).
-            - micro:bit (optional).
+            Há uma variedade de projetos para você experimentar e os requisitos específicos são listados para cada projeto.
+            - Um projeto pode ser feito como uma atividade desconectada e todos os materiais imprimíveis são fornecidos para download.
+            - A maioria dos projetos requer um computador ou dispositivo móvel e acesso à internet.
+            - Alguns projetos requerem uma webcam.
+            - Raspberry Pi (opcional).
+            - micro:bit (opcional).
         - 
           title: "Informações do mentor"
           content: |
@@ -47,13 +47,13 @@ pt:
       subtitle: "HTML, CSS e JavaScript!"
       description: Mais web vai além do básico apresentado em Introdução à web. O web design moderno transformou os sites de paredes de informações estáticas e entediantes em formas de fornecer experiências divertidas e envolventes ao usuário. Leve os usuários em uma jornada e transporte-os para um lugar completamente novo!
       meta_title: Caminho do projeto | Introdução ao HTML CSS e JavaScript para crianças | Desenvolvimento web para crianças | Faça sites interativos
-      meta_description: Introduction to HTML, CSS and JavaScript for kids, teenagers and young adults. Build interactive websites with these free resources.
+      meta_description: Introdução a HTML, CSS e JavaScript para crianças, adolescentes e jovens adultos. Crie sites interativos com esses recursos gratuitos.
       header:
         - 
           title: "O que eu criarei?"
           content: |
-            Make interactive websites with superheroes, interactive stories and a journey to Antarctica. Learn to use interactive features such as scrolling animations, navigation menus, buttons and dark mode controls.
-            By the end of this path you will have used your new skills to create an interactive website to share with your friends.
+            Crie sites interativos com super-heróis, histórias interativas e uma jornada para a Antártida. Aprenda a usar recursos interativos, como animações de rolagem, menus de navegação, botões e controles de modo escuro.
+            Ao final deste caminho, você terá usado suas novas habilidades para criar um site interativo para compartilhar com seus amigos.
         - 
           title: "O que eu preciso saber?"
           content: |
