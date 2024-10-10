@@ -168,12 +168,12 @@ ar:
       meta_description: المزيد من سكراتش للأطفال والمراهقين والشباب البالغين. انتقل إلى أبعد من أساسيات برمجة التطبيقات والألعاب والرسوم المتحركة باستخدام بث الرسائل مع هذه المشاريع المجانية.
       header:
         - 
-          title: "What will I create?"
+          title: "ماذا سأبتكر؟"
           content: |
             Make interactive projects, simulators, and games.
             By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
         - 
-          title: "What do I need to know?"
+          title: "ماذا أحتاج أن أعرف؟"
           content: |
             This path is for creators comfortable with using Scratch.
             If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
@@ -219,7 +219,7 @@ ar:
             This path is for creators comfortable with using Scratch.
             If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path or our  [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch){:target="_blank"} path.
         - 
-          title: "What do I need?"
+          title: "ماذا أحتاج؟"
           content: |
             This path requires:
 
@@ -268,7 +268,7 @@ ar:
             - Basic typing and computer navigation skills
             - Familiarity with our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path may also be useful.
         - 
-          title: "What do I need?"
+          title: "ماذا أحتاج؟"
           content: |
             There is a range of projects for you to try and the specific requirements are listed for each project.
             - All projects require a computer or mobile device and internet access.
@@ -307,7 +307,7 @@ ar:
       meta_description: مقدمة إلى برنامج بايثون(Python) للأطفال، المراهقين والشباب. أنشئ أعمال فنية تفاعلية,، رسوم متحركة وألعاب باستخدام هذه الموارد المجانية.
       header:
         - 
-          title: "What will I create?"
+          title: "ماذا سأبتكر؟"
           content: |
             Make interactive projects, art, games, and a simulation.
             By the end of this path you will have created a scalable piece of geometric art.
@@ -344,7 +344,7 @@ ar:
       meta_description: مقدمة إلى برنامج بايثون(Python) للأطفال، المراهقين والشباب. أنشئ أعمال فنية تفاعلية,، رسوم متحركة وألعاب باستخدام هذه الموارد المجانية.
       header:
         - 
-          title: "What will I create?"
+          title: "ماذا سأبتكر؟"
           content: |
             Make interactive projects, art, games, and a simulation.
             By the end of this path you will have created a scalable piece of geometric art.
@@ -381,12 +381,12 @@ ar:
       meta_description: المزيد من مشاريع بايثون للأطفال، المراهقين والشباب. تعرف على كيفية استخدام القوائم، القواميس والملفات لإنشاء المخططات والنماذج والأعمال الفنية.
       header:
         - 
-          title: "What will I create?"
+          title: "ماذا سأبتكر؟"
           content: |
             Visualise data by creating interactive charts, a simulator, and pieces of art.
             By the end of this path you will have created a unique data visualisation on a topic of your choice
         - 
-          title: "What do I need to know?"
+          title: "ماذا أحتاج أن أعرف؟"
           content: |
             - This path is for creators comfortable with using Python.
             - If you are new to Python you could try our [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"} path.
@@ -429,12 +429,12 @@ ar:
             Make 3D worlds and games with collectibles, timers and non-player characters.
             By the end of this path you will have used your new skills to create a star catcher game, a world with quests, and a 3D adventure.
         - 
-          title: "What do I need to know?"
+          title: "ماذا أحتاج أن أعرف؟"
           content: |
             - Basic typing and computer navigation skills
             - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "ماذا أحتاج؟"
           content: |
             This path requires a large download and installation which you should complete before you start the first project.
 
@@ -442,7 +442,7 @@ ar:
             - You will also need a code editor. The recommended editor is [Visual Studio](https://projects.raspberrypi.org/en/projects/unity-guide/3){:target="_blank"}.
             - You will also need to download the [Unity starter package](https://rpf.io/p/en/explore-a-3d-world-go) of assets before starting.
         - 
-          title: "Mentor information"
+          title: "معلومات المرشد"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -465,17 +465,17 @@ ar:
       meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "ماذا سأبتكر؟"
           content: |
             Make marble runs and problem solving 3D world projects.
             By the end of this path you will have used your new skills to create unique materials and use realistic physics in your Unity projects
         - 
-          title: "What do I need to know?"
+          title: "ماذا أحتاج أن أعرف؟"
           content: |
             - Familiarity with our [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path
             - Experience coding in [C#](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} or [Python](https://projects.raspberrypi.org/en/pathways/python-intro){:target="_blank"}
         - 
-          title: "What do I need?"
+          title: "ماذا أحتاج؟"
           content: |
             This path requires a large download and installation which you should complete before you start the first project.
 
@@ -483,7 +483,7 @@ ar:
             - You will also need a code editor. The recommended editor is [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}.
             - You will also need to download the [Unity starter package](https://rpf.io/p/en/rainbow-run-go) of assets before starting.
         - 
-          title: "Mentor information"
+          title: "معلومات المرشد"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -505,16 +505,16 @@ ar:
       meta_description: تعلم كيفية استعمال إلكترونيات الإدخال و الإخراج بواسطة برنامَج سكراتش و حاسوب  Raspberry Pi الخاص بك. موارد مجانية - البرمجة في سكراتش للأطفال، المراهقين و الشباب البالغين
       header:
         - 
-          title: "What will I create?"
+          title: "ماذا سأبتكر؟"
           content: |
             Make games, interactive devices, and a musical instrument.
             By the end of this path you will have used your new skills to become an author of an electronic book with multiple pages.
         - 
-          title: "What do I need to know?"
+          title: "ماذا أحتاج أن أعرف؟"
           content: |
             This path is for beginners to Scratch and physical computing. However you could first complete our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
         - 
-          title: "What do I need?"
+          title: "ماذا أحتاج؟"
           content: |
             - A Raspberry Pi Computer
             - Various wires
@@ -522,7 +522,7 @@ ar:
             - Scratch 3 desktop version installed
             - Craft items including aluminium foil
         - 
-          title: "Mentor information"
+          title: "معلومات المرشد"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -540,17 +540,17 @@ ar:
       meta_description: في هذه المقدمة للإنشاء الرقمي باستخدام Raspberry Pi Pico للمبتدئين ، ستتعلم كيفية توصيل مصابيح LED، أزرار، مفاتيح، اجراس(مكبرات الصوت) ومقاييس الجهد الانزلاقي(الأقراص) والتحكم فيها.
       header:
         - 
-          title: "What will I create?"
+          title: "ماذا سأبتكر؟"
           content: |
             Program and craft interactive devices with light and sound.
             By the end of this path you will have used your new skills to create a unique sensory gadget that people want to keep interacting with
         - 
-          title: "What do I need to know?"
+          title: "ماذا أحتاج أن أعرف؟"
           content: |
             - Basic typing and computer navigation skills
             - This path is for beginners new to physical computing
         - 
-          title: "What do I need?"
+          title: "ماذا أحتاج؟"
           content: |
             ## Hardware
             You can purchase all the required hardware for this  path from the:
@@ -563,7 +563,7 @@ ar:
             - The picozero library (available via PyPi in Thonny)
             Install details are found in the first project and in our [Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico){:target="_blank"}
         - 
-          title: "Mentor information"
+          title: "معلومات المرشد"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -619,29 +619,29 @@ ar:
       meta_title: Life on Earth Astro Pi resources
       meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
     web-intro:
-      title: Introduction to web
-      subtitle: HTML, CSS, and animations
+      title: مقدمة عن الويب
+      subtitle: HTML وCSS والرسوم المتحركة
       description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
       meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
       meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
       header:
         - 
-          title: "What will I create?"
+          title: "ماذا سأبتكر؟"
           content: |
             Make interactive websites with art, emojis and flip cards.
             By the end of this path you will have created a website about something you want to share.
         - 
-          title: "What do I need to know?"
+          title: "ماذا أحتاج أن أعرف؟"
           content: |
             - Basic typing and computer navigation skills
             - Experience coding in [Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} may be useful
         - 
-          title: "What do I need?"
+          title: "ماذا أحتاج؟"
           content: |
             - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
             - Optionally, an account to save projects.
         - 
-          title: "Mentor information"
+          title: "معلومات المرشد"
           content: |
             ##321…Make!
             This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
@@ -703,17 +703,17 @@ ar:
       meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
       header:
         - 
-          title: "What will I learn?"
+          title: "ماذا سأتعلم؟"
           content: |
-            In this course, we will guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+            في هذه الدورة، سوف نرشدك خلال عملية بدء نادي البرمجة الخاص بك، من الإعداد والتخطيط الأولي، إلى تقديم جلستك الأولى، وأخيرًا، تحفيز المتعلمين والاحتفال بإنجازاتهم.
         - 
-          title: "What do I need to know?"
+          title: "ماذا أحتاج أن أعرف؟"
           content: |
-            This course will be useful to you if you would like to volunteer at a club in your community, helping young people learn how to code, or you are a teacher who wants to set up an extracurricular coding club for the students in your school.
+            ستكون هذه الدورة مفيدة لك إذا كنت ترغب في التطوع في أحد النوادي في مجتمعك، لمساعدة الشباب على تعلم كيفية البرمجة، أو كنت مدرسًا يريد إنشاء نادي برمجة خارج المنهج الدراسي للطلاب في مدرستك.
         - 
-          title: "What do I need?"
+          title: "ماذا أحتاج؟"
           content: |
-            This path requires:
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch and other applications online.
+            يتطلب هذا المسار:
+            - جهاز كمبيوتر مكتبي أو كمبيوتر محمول أو جهاز لوحي أو جهاز محمول أو جهاز كمبيوتر Raspberry Pi
+            - إمكانية الوصول إلى الإنترنت لاستخدام Scratch والتطبيقات الأخرى عبر الإنترنت.
 
