@@ -107,22 +107,22 @@ pt:
         - 
           title: "Informações do mentor"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Faça!
+            Este caminho segue [321…Faça!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - **3 Projetos de exploração**: Introduz aos criadores um conjunto de habilidades e forneça instruções passo a passo para ajudá-los a desenvolver a confiança inicial.
+            - **2 Projetos de design**: permita que os criadores pratiquem habilidades dos projetos de exploração e se expressem criativamente enquanto crescem em independência.
+            - **1 Projeto de invenção**: incentive os criadores a usar suas habilidades para criar um projeto exclusivo que atenda a um briefing de projeto para um público específico.
 
             ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            Cada projeto contém um quiz rápido com três perguntas de múltipla escolha. Os criadores são guiados para a resposta correta por meio de feedback útil e recebem um emblema de projeto.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} in our guide.
+            ##Inspirando a comunidade
+            Os criadores são incentivados a inspirar outros na comunidade da Raspberry Pi Foundation compartilhando seus projetos de Design e Invenções conosco por meio do [formulário de envio de projetos](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Os projetos serão compartilhados em nossas Galerias da Comunidade.
+            Você pode descobrir como [compartilhar projetos](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit/9){:target="_blank"} em nosso guia.
     scratch-intro:
       title: "Introdução ao Scratch: atores, scripts e laços"
-      subtitle: "sprites, scripts, and loops"
+      subtitle: "sprites, scripts e laços"
       description: Nesta introdução à codificação no Scratch para iniciantes, você aprenderá como adicionar código, fantasias e sons a atores enquanto cria animações, um jogo, um aplicativo e um livro.
       meta_title: Caminho do projeto | Introdução à programação Scratch para crianças
       meta_description: Introdução à programação Scratch para crianças, adolescentes e jovens adultos. Aprenda a fazer animações, um jogo, um aplicativo e um livro.
@@ -130,39 +130,39 @@ pt:
         - 
           title: "O que eu criarei?"
           content: |
-            Make interactive projects, animations and create a multiple level game.
-            By the end of this path you will have used your new skills to become an author of a digital book with multiple pages.
+            Crie projetos interativos, animações e um jogo de vários níveis.
+            Ao final deste caminho, você terá usado suas novas habilidades para se tornar um autor de um livro digital com várias páginas.
         - 
           title: "O que eu preciso saber?"
           content: |
-            This path is ideal for beginners to Scratch.
+            Este caminho é ideal para iniciantes no Scratch.
         - 
           title: "Do que eu preciso?"
           content: |
-            This path requires:
+            Este caminho requer:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - Um computador desktop, laptop, tablet, dispositivo móvel ou computador Raspberry Pi
+            - Acesso à internet para usar o Scratch online ou a capacidade de baixar e instalar o Scratch. Veja nosso [guia de configuração do Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} para mais detalhes.
+            - Opcionalmente, uma [conta do Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
           title: "Informações do mentor"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Faça!
+            Este caminho segue [321…Faça!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - **3 Projetos de exploração**: Introduz aos criadores um conjunto de habilidades e forneça instruções passo a passo para ajudá-los a desenvolver a confiança inicial.
+            - **2 Projetos de design**: permita que os criadores pratiquem habilidades dos projetos de exploração e se expressem criativamente enquanto crescem em independência.
+            - **1 Projeto de invenção**: incentive os criadores a usar suas habilidades para criar um projeto exclusivo que atenda a um briefing de projeto para um público específico.
 
             ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            Cada projeto contém um quiz rápido com três perguntas de múltipla escolha. Os criadores são guiados para a resposta correta por meio de feedback útil e recebem um emblema de projeto.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+            ##Inspirando a comunidade
+            Os criadores são incentivados a inspirar outros na comunidade da Raspberry Pi Foundation compartilhando seus projetos de Design e Invenções conosco por meio do [formulário de envio de projetos](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Os projetos serão compartilhados em nossas Galerias da Comunidade.
+            Você pode descobrir como [compartilhar projetos](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} em nosso guia
     more-scratch:
       title: "Mais Scratch: transmissão, decisões e variáveis"
-      subtitle: "broadcast, decisions and variables"
+      subtitle: "transmissão, decisões e variáveis"
       description: Mais Scratch vai além dos fundamentos introduzidos na Introdução ao Scratch. Você fará aplicativos, jogos e simulações usando a transmissão de mensagens, decisões se..então e se..então...senão e variáveis.
       meta_title: Caminho do projeto | Mais Scratch para crianças | Raspberry Pi
       meta_description: Mais Scratch para crianças, adolescentes e jovens adultos. Vá além do básico para codificar applicativos, jogos e animações usando transmissões de mensagens, com esses projetos gratuitos.
@@ -170,40 +170,40 @@ pt:
         - 
           title: "O que eu criarei?"
           content: |
-            Make interactive projects, simulators, and games.
-            By the end of this path you will have used your new skills to create a virtual pet or character for users to interact with.
+            Crie projetos interativos, simuladores e jogos.
+            Ao final deste caminho, você terá usado suas novas habilidades para criar um animal de estimação ou personagem virtual para os usuários interagirem.
         - 
           title: "O que eu preciso saber?"
           content: |
-            This path is for creators comfortable with using Scratch.
-            If you are new to Scratch you could try our [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"} path.
+            Este caminho é para os criadores confortáveis com o uso do Scratch.
+            Se você é novo no Scratch, você pode tentar nossa [Introdução ao Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro){:target="_blank"}.
         - 
           title: "Do que eu preciso?"
           content: |
-            This path requires:
+            Este caminho requer:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch online or the ability to download and install Scratch. See our [Scratch setup guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more details.
-            - Optionally, a [Scratch account](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
+            - Um computador desktop, laptop, tablet, dispositivo móvel ou computador Raspberry Pi
+            - Acesso à internet para usar o Scratch online ou a capacidade de baixar e instalar o Scratch. Veja nosso [guia de configuração do Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} para mais detalhes.
+            - Opcionalmente, uma [conta do Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/2){:target="_blank"}
         - 
           title: "Informações do mentor"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Faça!
+            Este caminho segue [321…Faça!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - **3 Projetos de exploração**: Introduz aos criadores um conjunto de habilidades e forneça instruções passo a passo para ajudá-los a desenvolver a confiança inicial.
+            - **2 Projetos de design**: permita que os criadores pratiquem habilidades dos projetos de exploração e se expressem criativamente enquanto crescem em independência.
+            - **1 Projeto de invenção**: incentive os criadores a usar suas habilidades para criar um projeto exclusivo que atenda a um briefing de projeto para um público específico.
 
             ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            Cada projeto contém um quiz rápido com três perguntas de múltipla escolha. Os criadores são guiados para a resposta correta por meio de feedback útil e recebem um emblema de projeto.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target=""_blank""}. Projects will be shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} in our guide
+            ##Inspirando a comunidade
+            Os criadores são incentivados a inspirar outros na comunidade da Raspberry Pi Foundation compartilhando seus projetos de Design e Invenções conosco por meio do [formulário de envio de projetos](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Os projetos serão compartilhados em nossas Galerias da Comunidade.
+            Você pode descobrir como [compartilhar projetos](https://projects.raspberrypi.org/en/projects/getting-started-scratch/19){:target="_blank"} em nosso guia
     further-scratch:
       title: "Aprofundando no Scratch: clones, meus blocos e lógica booleana"
-      subtitle: "clones, my blocks, and boolean logic"
+      subtitle: "clones, meus blocos e lógica booleana"
       description: O Scratch vai mais além das habilidades introduzidas na Introdução ao Scratch e Mais Scratch. Você criará applicativos, jogos, arte gerada por computador e simulações usando lógica booleana, funções, clones e muito mais.
       meta_title: Caminho do projeto | Mais Scratch para crianças | Raspberry Pi
       meta_description: Aprofundando na programação Scratch para crianças, adolescentes e jovens adultos. Use esses recursos de código gratuitos para fazer aplicativos, jogos, arte gerada por computador e animações.
