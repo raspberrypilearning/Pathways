@@ -4,7 +4,7 @@ ar:
     artificial_intelligence:
       title: "الذكاء الاصطناعي"
       description: "اكتشف المفاهيم الأساسية للتعلم الآلي من خلال مشاريع إبداعية وتفاعلية باستخدام تطبيقات الذكاء الاصطناعي وتقنياته."
-      meta_description: "الذكاء الاصطناعي، صغار، طفل، أطفال، ترميز، برمجة، ذكاء الاصطناعي، تعلم الآلي، مصنِّف، نماذج لغات كبيرة، نماذج لغات الكبيرة، نموذج لغة كبيرة، نماذج لغات الكبيرة، أمر، هندسة أوامر"
+      meta_description: "محرك يونيتي، ثلاثي الأبعاد، ألعاب، رسوم متحركة، محاكاة، صغار، أطفال، أكواد البرمجة، البرمجة"
       additional_paths_title: "مسارات ذكاء اصطناعي إضافية"
       additional_paths_description: "مسارات ذكاء اصطناعي إضافية لمساعدتك على مواصلة رحلتك عبر البرمجة."
     scratch:
@@ -27,14 +27,14 @@ ar:
       additional_paths_description: "Additional web design paths to help you continue on your coding journey."
     physical_computing:
       title: "الحوسبة الفيزيائية"
-      description: "Control and interact with the real world combining code with electronics."
-      meta_description: "physical computing, electronics, iot, internet of things, kids, child, children, coding, programming"
-      additional_paths_title: "Additional Physical Computing paths"
-      additional_paths_description: "Additional Physical Computing paths to help you continue on your coding journey."
+      description: "تحكَّم وتفاعَل مع العالم الواقعي من خلال الجمع بين كود البرمجة والإلكترونيات."
+      meta_description: "حوسبة المادية، إلكترونيات، إنترنت الأشياء، صغار، طفل، أطفال، أكواد البرمجة، برمجة"
+      additional_paths_title: "مسارات إضافية للحوسبة المادية"
+      additional_paths_description: "مسارات إضافية للحوسبة المادية لمساعدتك على مواصلة رحلتك عبر أكواد البرمجة."
     unity:
       title: "محرك الألعاب Unity"
       description: "Create and explore 3D worlds with the power of Unity."
-      meta_description: "unity, 3D, games, animations, simulations, kids, children, coding, programming"
+      meta_description: "محرك يونيتي، ثلاثي الأبعاد، ألعاب، رسوم متحركة، محاكاة، صغار، أطفال، أكواد البرمجة، البرمجة"
       additional_paths_title: ""
       additional_paths_description: ""
     microbit:
