@@ -63,47 +63,47 @@ pt:
         - 
           title: "Do que eu preciso?"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Um computador ou dispositivo móvel capaz de executar uma plataforma de programação online. Veja nosso [Guia de Introdução ao Editor Raspberry Pi](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Opcionalmente, uma conta para salvar projetos.
         - 
           title: "Informações do mentor"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Faça!
+            Este caminho segue [321…Faça!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - **3 Projetos de exploração**: apresente aos criadores um conjunto de habilidades e forneça instruções passo a passo para ajudá-los a desenvolver a confiança inicial.
+            - **2 Projetos de design**: permita que os criadores pratiquem habilidades dos projetos de exploração e se expressem criativamente enquanto crescem em independência.
+            - **1 Projeto de invenção**: incentive os criadores a usar suas habilidades para criar um projeto exclusivo que atenda a um briefing de projeto para um público específico.
 
             ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            Cada projeto contém um quiz rápido com três perguntas de múltipla escolha. Os criadores são guiados para a resposta correta por meio de feedback útil e recebem um emblema de projeto.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
+            ##Inspirando a comunidade
+            Os criadores são encorajados a inspirar outros na comunidade da Raspberry Pi Foundation compartilhando seus projetos de Design e Invenções conosco por meio do [formulário de envio de projetos](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Os projetos serão compartilhados em nossas Galerias da Comunidade.
     microbit-intro:
-      title: "Introduction to micro:bit"
-      subtitle: "sensors, buttons and lights!"
-      description: In this introduction to coding for the micro:bit, you will learn how to sense and respond to the world around you while looking after yourself.
-      meta_title: Project path | Intro to micro:bit coding for kids
-      meta_description: Introduction to micro:bit coding for kids, teenagers and young adults. Learn how to make micro:bit projects to help you look after yourself.
+      title: "Introdução ao micro:bit"
+      subtitle: "sensores, botões e luzes!"
+      description: Nesta introdução à programação do micro:bit, você aprenderá a entender e a responder ao mundo ao seu redor enquanto cuida de você.
+      meta_title: Caminho do projeto | Introdução à programação micro:bit para crianças
+      meta_description: Introdução à programação micro:bit para crianças, adolescentes e jovens adultos. Aprenda a fazer projetos de micro:bit para ajudá-lo a cuidar de si mesmo.
       header:
         - 
           title: "O que eu criarei?"
           content: |
-            Make interactive projects using the sensors, buttons and lights featured on the micro:bit.
-            By the end of this path you will have used your new skills to create a party game to play and share with your friends.
+            Crie projetos interativos usando os sensores, botões e luzes apresentados no micro:bit.
+            Ao final deste caminho, você terá usado suas novas habilidades para criar um jogo em grupo para jogar e compartilhar com seus amigos.
         - 
           title: "O que eu preciso saber?"
           content: |
-            This path is ideal for beginners to micro:bit.
+            Este caminho é ideal para iniciantes no micro:bit.
         - 
           title: "Do que eu preciso?"
           content: |
-            This path requires:
+            Este caminho requer:
 
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use MakeCode online or the ability to download and install MakeCode. See our [micro:bit getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} for more details
-            - Optionally, a [MakeCode account](https://makecode.microbit.org/){:target="_blank"} and a physical micro:bit.
+            - Um computador desktop, laptop, tablet, dispositivo móvel ou computador Raspberry Pi
+            - Acesso à internet para usar o MakeCode online ou a capacidade de baixar e instalar o MakeCode. Veja nosso [guia de introdução ao micro:bit](https://projects.raspberrypi.org/en/projects/getting-started-guide-microbit){:target="_blank"} para mais detalhes
+            - Opcionalmente, uma [conta MakeCode](https://makecode.microbit.org/){:target="_blank"} e um micro:bit físico.
         - 
           title: "Informações do mentor"
           content: |
