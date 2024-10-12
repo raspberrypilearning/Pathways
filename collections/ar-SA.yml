@@ -18,13 +18,13 @@ ar:
       description: "تعرف على لغة بايثون، وهي إحدى أشهر لغات البرمجة في العالم إنشاءً للفن الرقمي والخرائط والنماذج التفاعلية."
       meta_description: "لغة بايثون، صغار، طفل، أطفال، برمجة، ألعاب، رسوم متحركة"
       additional_paths_title: "مسارات إضافية من لغة بايثون"
-      additional_paths_description: "Additional Python paths to help you continue on your coding journey."
+      additional_paths_description: "مسارات بايثون الإضافية لمساعدتك على الاستمرار في رحلة البرمجة الخاصة بك."
     html_and_css:
-      title: "Web design"
-      description: "Build websites and apps by learning HTML, CSS, and JavaScript, and share with your friends."
+      title: "تصميم مواقع الإنترنت"
+      description: "قم ببناء مواقع الويب والتطبيقات عن طريق تعلم HTML و CSS و JavaScript و مشاركتها مع أصدقائك."
       meta_description: "web, html, css, javascript, websites, hild, children, coding, programming"
       additional_paths_title: "مسارات إضافية لتصميم المواقع الإلكترونية"
-      additional_paths_description: "Additional web design paths to help you continue on your coding journey."
+      additional_paths_description: "مسارات تصميم ويب إضافية لمساعدتك على الاستمرار في رحلة البرمجة الخاصة بك."
     physical_computing:
       title: "الحوسبة الفيزيائية"
       description: "تحكَّم وتفاعَل مع العالم الواقعي من خلال الجمع بين كود البرمجة والإلكترونيات."
@@ -33,7 +33,7 @@ ar:
       additional_paths_description: "مسارات إضافية للحوسبة المادية لمساعدتك على مواصلة رحلتك عبر أكواد البرمجة."
     unity:
       title: "محرك الألعاب Unity"
-      description: "Create and explore 3D worlds with the power of Unity."
+      description: "قم بإنشاء واستكشاف عوالم ثلاثية الأبعاد باستخدام Unity."
       meta_description: "محرك يونيتي، ثلاثي الأبعاد، ألعاب، رسوم متحركة، محاكاة، صغار، أطفال، أكواد البرمجة، البرمجة"
       additional_paths_title: ""
       additional_paths_description: ""
