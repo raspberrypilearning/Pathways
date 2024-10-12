@@ -2,11 +2,11 @@
 ja:
   collections:
     artificial_intelligence:
-      title: "Artificial intelligence"
-      description: "Discover the foundational concepts of machine learning through creative and interactive projects using AI applications and technologies."
-      meta_description: "AI, kids, child, children, coding, programming, artificial intelligence, machine learning, classifier, llm, large language models, LLM, LLMs, prompt, prompt engineering"
-      additional_paths_title: "Additional artificial intelligence paths"
-      additional_paths_description: "Additional artificial intelligence paths to help you continue on your coding journey."
+      title: "人工知能(AI)"
+      description: "AI アプリケーションとテクノロジーを使用した創造的でインタラクティブなプロジェクトを通じて、機械学習の基本概念を学びます。"
+      meta_description: "AI、子ども、子どもたち、コーディング、プログラミング、人工知能、機械学習、classifier、llm、大規模言語モデル、LLM、LLMs、プロンプト、プロンプトエンジニアリング"
+      additional_paths_title: "追加の人工知能(AI)パス"
+      additional_paths_description: "コーディングの旅を続けるのに役立つ追加の人工知能(AI)パス。"
     scratch:
       title: "Scratch"
       description: "Scratchでアニメーション、ストーリー、ゲームのコードの書き方を学んで、デジタル制作の冒険を始めましょう。"
