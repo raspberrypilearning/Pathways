@@ -251,8 +251,8 @@ pt:
       title: "Scratch: Módulo 3"
       description: Aprenda a programar suas próprias histórias, jogos e animações interativas.
     scratch-machine-learning:
-      title: "Machine Learning with Scratch"
-      subtitle: "Introductory machine learning projects using Machine Learning For Kids with Scratch."
+      title: "Machine Learning com o Scratch"
+      subtitle: "Projetos introdutórios de machine learning usando Machine Learning para Crianças com Scratch."
       description: Introduction to foundational concepts of machine learning through creative and interactive projects. Creators will train models to recognise patterns in images, text and sound, and explore how these models can be used to create fun games!
       meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
       meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
@@ -618,8 +618,8 @@ pt:
       meta_title: Life on Earth Astro Pi resources
       meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
     web-intro:
-      title: Introduction to web
-      subtitle: HTML, CSS, and animations
+      title: Introdução à web
+      subtitle: HTML, CSS e animações
       description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
       meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
       meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
