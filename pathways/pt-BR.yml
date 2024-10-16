@@ -620,7 +620,7 @@ pt:
     web-intro:
       title: Introdução à web
       subtitle: HTML, CSS e animações
-      description: In this introduction to web development with HTML and CSS for beginners, you will learn how to structure and style webpages with images, lists, fonts, quotes, links, and animation.
+      description: Nesta introdução ao desenvolvimento web com HTML e CSS para iniciantes, você aprenderá como estruturar e estilizar páginas da web com imagens, listas, fontes, citações, links e animações.
       meta_title: Project path | Intro to HTML and CSS for kids | Web development for kids | Make websites
       meta_description: Introduction to HTML for kids, teenagers and young adults. Create interactive websites with these free resources.
       header:
@@ -655,24 +655,24 @@ pt:
             ##Inspiring the community
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their Design and Invent projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be shared to our Community Galleries.
     sense-hat-intro:
-      meta_title: Introduction to the Sense HAT
-      meta_description: Sense HAT, Astro Pi, Mission Zero
+      meta_title: Introdução ao Sense HAT
+      meta_description: Sense HAT, Astro Pi, Missão Zero
     experience-ai-challenge-music-quest:
-      title: "Experience AI Challenge: Music Quest"
-      subtitle: "Stream the soundtrack to your life with AI"
-      description: The Experience AI Music Quest is a series of sessions that will teach you how to design and create your own 'AI DJ' using Scratch, Machine Learning for Kids, and the Spotify API.
-      meta_title: Project path | Experience AI Challenge - Music Quest
-      meta_description: Introduction to Scratch programming and Machine Learning for kids, teenagers and young adults. Learn how to classify data into an ML model and use it to predict music you will like.
+      title: "Experimente o desafio IA: Missão Música"
+      subtitle: "Reproduza a trilha sonora da sua vida com IA"
+      description: A Experiência IA Missão Música é uma série de sessões que lhe ensinará como projetar e criar seu próprio "DJ IA" usando Scratch, Machine Learning para Crianças e a API do Spotify.
+      meta_title: Caminho do projeto | Experimente o desafio IA - Missão Música
+      meta_description: Introdução à programação Scratch e Machine Learning para crianças, adolescentes e jovens adultos. Aprenda a classificar dados em um modelo ML e usá-lo para prever músicas que você vai gostar.
       header:
         - 
           title: "O que eu criarei?"
           content: |
-            Make interactive Scratch projects and create and train a Machine Learning model.
-            By the end of this path you will have used your new skills to create an app which can make playlists of music based on your preferences.
+            Crie projetos interativos no Scratch e treine um modelo de machine learning.
+            No final deste caminho, você terá usado suas novas habilidades para criar um aplicativo que pode criar playlists de músicas com base em suas preferências.
         - 
           title: "O que eu preciso saber?"
           content: |
-            This path is ideal for beginners to Scratch and machine learning.
+            Este caminho é ideal para iniciantes em Scratch e machine learning.
         - 
           title: "Do que eu preciso?"
           content: |
@@ -698,21 +698,21 @@ pt:
       title: "Prepare to run a Code Club"
       subtitle: "Your first steps toward running a Code Club for young people."
       description: In this course, we will be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.
-      meta_title: Project path | Prepare to run a Code Club
+      meta_title: Caminho do projeto | Prepare-se para liderar um Code Club
       meta_description: In this course, we'll guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
       header:
         - 
-          title: "What will I learn?"
+          title: "O que eu vou aprender?"
           content: |
-            In this course, we will guide you through starting your Code Club, from initial setup and planning, to delivering your first session, and finally, motivating and celebrating your learners' achievements.
+            Neste curso, orientaremos você desde a criação do seu Code Club, desde a configuração e o planejamento inicial até a realização da sua primeira sessão e, por fim, a motivação e a comemoração das conquistas dos seus alunos.
         - 
           title: "O que eu preciso saber?"
           content: |
-            This course will be useful to you if you would like to volunteer at a club in your community, helping young people learn how to code, or you are a teacher who wants to set up an extracurricular coding club for the students in your school.
+            Este curso será útil para você se você quiser se voluntariar em um clube na sua comunidade, ajudando pessoas jovens aprenderem a programar, ou se você é um professor que deseja criar um clube de programação extracurricular para os estudantes da sua escola.
         - 
           title: "Do que eu preciso?"
           content: |
-            This path requires:
-            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
-            - Access to the internet to use Scratch and other applications online.
+            Este caminho requisita: 
+            - Um computador, notebook, tablet, dispositivo móvel ou computador Raspberry Pi
+            - Acesso à internet para usar o Scratch e outros aplicativos online.
 
