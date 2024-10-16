@@ -254,13 +254,13 @@ pt:
       title: "Machine Learning com o Scratch"
       subtitle: "Projetos introdutórios de machine learning usando Machine Learning para Crianças com Scratch."
       description: Introdução aos conceitos fundamentais de machine learning por meio de projetos criativos e interativos. Os criadores treinarão modelos para reconhecer padrões em imagens, texto e som, e explorarão como esses modelos podem ser usados para criar jogos divertidos!
-      meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
-      meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
+      meta_title: Caminho do projeto | Machine Learning com Scratch | Machine Learning para crianças | Projetos práticos usando reconhecimento de voz e facial
+      meta_description: Introdução à inteligência artificial e machine learning para crianças, adolescentes e jovens adultos. Crie aplicativos que usam machine learning com esses recursos gratuitos.
       header:
         - 
           title: "O que eu criarei?"
           content: |
-            Make creative and interactive projects using voice recognition and facial recognition. Creators will train models to recognise patterns, make predictions, and explore how these models can be improved with additional data.
+            Crie projetos criativos e interativos usando reconhecimento de voz e reconhecimento facial. Os criadores treinarão modelos para reconhecer padrões, fazer previsões e explorar como esses modelos podem ser melhorados com dados adicionais.
         - 
           title: "O que eu preciso saber?"
           content: |
@@ -457,9 +457,9 @@ pt:
             Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
             You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
     more-unity:
-      title: "More Unity"
-      subtitle: "Rigidbodies, Physics and Materials"
-      description: In this More Unity path you will use physics and materials to create interactive 3D puzzle worlds with custom designed marbles.
+      title: "Mais Unity"
+      subtitle: "Corpos Rígidos, Físicas e Materiais"
+      description: Neste caminho Mais Unity, você usará física e materiais para criar mundos de quebra-cabeça 3D interativos com bolinhas de gude personalizadas.
       meta_title: Caminho do projeto | Codificação de unidade para crianças | Raspberry Pi
       meta_description: Unity coding for kids, teenagers and young adults. Learn how to make 3D worlds and games using these free resources.
       header:
@@ -533,7 +533,7 @@ pt:
             Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
     pico-intro:
       title: "Introdução ao Raspberry Pi Pico: LEDs, buzzers, interruptores e mostradores"
-      subtitle: "LEDs, buzzers, switches, and dials"
+      subtitle: "LEDs, buzzers, interruptores e discagens"
       description: Nesta introdução à criação digital com Raspberry Pi Pico para iniciantes, você aprenderá como conectar e controlar LEDs, botões, interruptores, buzzers e potenciômetros (mostradores).
       meta_title: Caminho do projeto | Introdução ao Raspberry Pi Pico
       meta_description: Nesta introdução à criação digital com Raspberry Pi Pico para iniciantes, você aprenderá como conectar e controlar LEDs, botões, interruptores, buzzers, etc.
@@ -615,7 +615,7 @@ pt:
       title: Comece com o Raspberry Pi
       description: Configure seu Raspberry Pi e veja o que ele pode fazer!
     life-on-earth:
-      meta_title: Life on Earth Astro Pi resources
+      meta_title: Recursos Astro Pi para Vida na Terra
       meta_description: Help prepare for the Astro Pi Life on Earth challenge with this collection of Raspberry Pi, Camera module, Sense HAT and Google Coral resources.
     web-intro:
       title: Introdução à web
