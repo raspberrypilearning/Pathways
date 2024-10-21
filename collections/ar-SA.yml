@@ -1,0 +1,45 @@
+---
+ar:
+  collections:
+    artificial_intelligence:
+      title: "الذكاء الاصطناعي"
+      description: "اكتشف المفاهيم الأساسية للتعلم الآلي من خلال مشاريع إبداعية وتفاعلية باستخدام تطبيقات الذكاء الاصطناعي وتقنياته."
+      meta_description: "محرك يونيتي، ثلاثي الأبعاد، ألعاب، رسوم متحركة، محاكاة، صغار، أطفال، أكواد البرمجة، البرمجة"
+      additional_paths_title: "مسارات ذكاء اصطناعي إضافية"
+      additional_paths_description: "مسارات ذكاء اصطناعي إضافية لمساعدتك على مواصلة رحلتك عبر البرمجة."
+    scratch:
+      title: "لغة سكراتش"
+      description: "ابدأ مغامرتك في الاستحداث الرقمي، وذلك من خلال تعلم برمجة الرسوم المتحركة والقصص والألعاب في لغى سكراتش."
+      meta_description: "لغة سكراتش، مايكروبت، طفل، أطفال، ترميز، برمجة، ألعاب، رسوم متحركة"
+      additional_paths_title: "مسارات للغة سكراتش إضافية"
+      additional_paths_description: "مسارات إضافية من لغة سكراتش لمساعدتك على مواصلة رح ك عبر البرمجة."
+    python:
+      title: "بايثون"
+      description: "تعرف على لغة بايثون، وهي إحدى أشهر لغات البرمجة في العالم إنشاءً للفن الرقمي والخرائط والنماذج التفاعلية."
+      meta_description: "لغة بايثون، صغار، طفل، أطفال، برمجة، ألعاب، رسوم متحركة"
+      additional_paths_title: "مسارات إضافية من لغة بايثون"
+      additional_paths_description: "مسارات بايثون الإضافية لمساعدتك على الاستمرار في رحلة البرمجة الخاصة بك."
+    html_and_css:
+      title: "تصميم مواقع الإنترنت"
+      description: "قم ببناء مواقع الويب والتطبيقات عن طريق تعلم HTML و CSS و JavaScript و مشاركتها مع أصدقائك."
+      meta_description: "web, html, css, javascript, websites, hild, children, coding, programming"
+      additional_paths_title: "مسارات إضافية لتصميم المواقع الإلكترونية"
+      additional_paths_description: "مسارات تصميم ويب إضافية لمساعدتك على الاستمرار في رحلة البرمجة الخاصة بك."
+    physical_computing:
+      title: "الحوسبة الفيزيائية"
+      description: "تحكَّم وتفاعَل مع العالم الواقعي من خلال الجمع بين كود البرمجة والإلكترونيات."
+      meta_description: "حوسبة المادية، إلكترونيات، إنترنت الأشياء، صغار، طفل، أطفال، أكواد البرمجة، برمجة"
+      additional_paths_title: "مسارات إضافية للحوسبة المادية"
+      additional_paths_description: "مسارات إضافية للحوسبة المادية لمساعدتك على مواصلة رحلتك عبر أكواد البرمجة."
+    unity:
+      title: "محرك الألعاب Unity"
+      description: "قم بإنشاء واستكشاف عوالم ثلاثية الأبعاد باستخدام Unity."
+      meta_description: "محرك يونيتي، ثلاثي الأبعاد، ألعاب، رسوم متحركة، محاكاة، صغار، أطفال، أكواد البرمجة، البرمجة"
+      additional_paths_title: ""
+      additional_paths_description: ""
+    microbit:
+      title: "لوح مايكرو:بت"
+      description: "أنشئ مشاريع حوسبة مادية جذابة باستخدام لوح مايكروبت الإلكتروني تحت رعاية محطة BBC البريطانية"
+      meta_description: "مايكروبت، طفل، أطفال، ترميز، برمجة، ألعاب، رسوم متحركة"
+      additional_paths_title: ""
+      additional_paths_description: ""

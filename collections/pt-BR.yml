@@ -1,0 +1,45 @@
+---
+pt:
+  collections:
+    artificial_intelligence:
+      title: "Inteligência artificial"
+      description: "Descubra os conceitos fundamentais do aprendizado de máquina por meio de projetos criativos e interativos usando aplicativos e tecnologias de IA."
+      meta_description: "IA, crianças, criança, crianças, codificação, programação, inteligência artificial, aprendizado de máquina, classificador, llm, grandes modelos de linguagem, LLM, LLMs, prompt, engenharia de prompt"
+      additional_paths_title: "Caminhos adicionais de inteligência artificial"
+      additional_paths_description: "Caminhos adicionais de inteligência artificial para ajudá-lo a continuar em sua jornada de programação."
+    scratch:
+      title: "Scratch"
+      description: "Comece sua aventura na criação digital aprendendo a programar animações, histórias e jogos no Scratch."
+      meta_description: "scratch, crianças, criança, crianças, programar, programação, jogos, animações"
+      additional_paths_title: "Caminhos adicionais do Scratch"
+      additional_paths_description: "Caminhos adicionais do Scratch para ajudá-lo a continuar sua jornada de programação."
+    python:
+      title: "Python"
+      description: "Aprenda sobre Python, uma das linguagens de programação mais populares do mundo para criar arte digital, mapas e modelos interativos."
+      meta_description: "python, crianças, criança, crianças, programar, programação, jogos, animações"
+      additional_paths_title: "Caminhos Python adicionais"
+      additional_paths_description: "Caminhos adicionais do Scratch para ajudá-lo a continuar sua jornada de programação."
+    html_and_css:
+      title: "Web design"
+      description: "Crie sites e aplicativos aprendendo HTML, CSS e JavaScript e compartilhe com seus amigos."
+      meta_description: "web, html, css, javascript, websites, criança, crianças, codificação, programação"
+      additional_paths_title: "Caminhos adicionais de web design"
+      additional_paths_description: "Caminhos adicionais de web design para ajudar você a continuar sua jornada de programação."
+    physical_computing:
+      title: "Computação física"
+      description: "Controle e interaja com o mundo real combinando código com eletrônica."
+      meta_description: "computação física, eletrônicos, iot, internet de coisas, crianças, crianças, programação"
+      additional_paths_title: "Caminhos adicionais de computação física"
+      additional_paths_description: "Caminhos adicionais de Computação Física para ajudar você a continuar sua jornada de programação."
+    unity:
+      title: "Unidade"
+      description: "Crie e explore mundos 3D com o poder do Unity."
+      meta_description: "unity, 3D, jogos, animações, simulações, crianças, criança, codificação, programação"
+      additional_paths_title: ""
+      additional_paths_description: ""
+    microbit:
+      title: "micro:bit"
+      description: "Crie projetos envolventes de computação física com o BBC micro:bit."
+      meta_description: "microbit, criança, crianças, codificação, programação, jogos, animações"
+      additional_paths_title: ""
+      additional_paths_description: ""
