@@ -1,6 +1,22 @@
 ---
 en:
   pathways:
+    raspberry-pi-beginners:
+      title: "Raspberry Pi for beginners"
+      subtitle: "Beginner projects for the Raspberry Pi."
+      description: In this introduction to Raspberry Pi, you will learn how to set up and configure your Raspberry Pi. You will navigate the terminal, create bash scripts and automate tasks to run on boot and on a timer!
+      meta_title: Project path | Raspberry Pi for beginners | Raspberry Pi for kids | Practical projects using your Raspberry Pi
+      meta_description: Introduction to Raspberry Pi and the terminal for kids, teenagers and young adults. Get the most out of your Raspberry Pi with these free resources.
+      header:
+        - title: "What will I do?"
+          content: |
+            Set up your Raspberry Pi to suit your needs. Explore the terminal, create bash scripts and automate tasks to run on boot or on a timer.
+        - title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+        - title: "What do I need?"
+          content: |
+            - A Raspberry Pi. We recommend using the latest model, but you can use any.
     ai-toolkit:
       title: "AI toolkit"
       subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
