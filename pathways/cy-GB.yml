@@ -1,5 +1,24 @@
 cy:
   pathways:
+    raspberry-pi-beginners:
+      title: "Raspberry Pi for beginners"
+      subtitle: "Beginner projects for the Raspberry Pi."
+      description: In this introduction to Raspberry Pi, you will learn how to set up and configure your Raspberry Pi. You will navigate the terminal, create bash scripts and automate tasks to run on boot and on a schedule!
+      meta_title: Project path | Raspberry Pi for beginners | Raspberry Pi for kids | Practical projects using your Raspberry Pi
+      meta_description: Introduction to Raspberry Pi and the terminal for kids, teenagers and young adults. Get the most out of your Raspberry Pi with these free resources.
+      header:
+        - 
+          title: "What will I do?"
+          content: |
+            Set up your Raspberry Pi to suit your needs. Explore the terminal, create bash scripts and automate tasks to run on boot or on a timer.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+        - 
+          title: "What do I need?"
+          content: |
+            - A Raspberry Pi. We recommend using the latest model, but you can use any.
     ai-toolkit:
       title: "AI toolkit"
       subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
@@ -444,19 +463,19 @@ cy:
         - 
           title: "Gwybodaeth mentor"
           content: |
-            ##321…Make!
-            This path follows [321…Make!](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide){:target="_blank"}:
+            ##321…Gwnewch!
+            Mae'r llwybr hwn yn dilyn [321…Gwnewch!]( https://projects.raspberrypi.org/en/projects/321-make-mentor-guide):
 
-            - **3 Explore** projects: Introduce creators to a set of skills and provide step-by-step instructions to help them develop initial confidence.
-            - **2 Design** projects: Allow creators to practise skills from the Explore projects, and express themselves creatively while they grow in independence.
-            - **1 Invent** project: Encourages creators to use their skills to create a unique project that meets a project brief for a particular audience.
+            - 3 Prosiectau **Archwilio** i gyflwyno set o sgiliau i grewyr a darparu cyfarwyddiadau cam-wrth-gam i'w helpu i ddatblygu hyder cychwynnol.
+            - 2 Prosiectau **Dylunio** i alluogi crewyr i ymarfer y sgiliau a ddysgwyd ganddynt yn y prosiectau Archwilio blaenorol, ac i fynegi eu hunain yn greadigol wrth iddynt dyfu mewn annibyniaeth.
+            - 1 Prosiect **Dyfeisio** lle mae crewyr yn defnyddio eu sgiliau i gyflawni briff prosiect ar gyfer cynulleidfa benodol.
 
-            ##Quick quiz
-            Each project contains a quick quiz with three multiple choice questions. Creators are guided to the correct answer through useful feedback and are awarded a project badge.
+            ##Cwis cyflym
+            Mae pob prosiect yn cynnwys cam cwis cyflym. Mae pob cwis yn cynnwys tri chwestiwn amlddewis. Mae crewyr yn cael eu harwain at yr ateb cywir trwy adborth defnyddiol.
 
-            ##Inspiring the community
-            Creators are encouraged to inspire others in the Raspberry Pi Foundation community by sharing their projects with us via the [project submissions form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}. Projects will be anonymously shared to our Community Galleries.
-            You can find out how to [share projects](https://projects.raspberrypi.org/en/projects/unity-guide/5){:target="_blank"} in our guide.
+            ##Ysbrydoli’r gymuned
+            Mae crewyr yn cael eu hannog i ysbrydoli eraill yng nghymuned y Raspberry Pi Foundation drwy rannu eu prosiectau â ni drwy’r [ffurflen cyflwyno prosiect]( https://form.raspberrypi.org/f/community-project-submissions ). Bydd prosiectau'n cael eu rhannu'n ddienw â'n Orielau Cymunedol.
+            Gallwch ddarganfod sut i [rhannu prosiectau](https://projects.raspberrypi.org/en/projects/unity-guide/5) yn ein canllaw.
     more-unity:
       title: "More Unity"
       subtitle: "Rigidbodies, Physics and Materials"
