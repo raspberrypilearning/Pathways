@@ -1,5 +1,24 @@
 pl:
   pathways:
+    raspberry-pi-beginners:
+      title: "Raspberry Pi for beginners"
+      subtitle: "Beginner projects for the Raspberry Pi."
+      description: In this introduction to Raspberry Pi, you will learn how to set up and configure your Raspberry Pi. You will navigate the terminal, create bash scripts and automate tasks to run on boot and on a schedule!
+      meta_title: Project path | Raspberry Pi for beginners | Raspberry Pi for kids | Practical projects using your Raspberry Pi
+      meta_description: Introduction to Raspberry Pi and the terminal for kids, teenagers and young adults. Get the most out of your Raspberry Pi with these free resources.
+      header:
+        - 
+          title: "What will I do?"
+          content: |
+            Set up your Raspberry Pi to suit your needs. Explore the terminal, create bash scripts and automate tasks to run on boot or on a timer.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+        - 
+          title: "What do I need?"
+          content: |
+            - A Raspberry Pi. We recommend using the latest model, but you can use any.
     ai-toolkit:
       title: "AI toolkit"
       subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
@@ -247,9 +266,9 @@ pl:
       title: "Scratch: Moduł 3"
       description: Dowiedz się, jak programować własne interaktywne historie, gry i animacje.
     scratch-machine-learning:
-      title: "Machine Learning with Scratch"
+      title: "Uczenie maszynowe Scratch"
       subtitle: "Projekty wprowadzające do uczenia maszynowego wykorzystujące Uczenie Maszynowe dla dzieci w Scratch."
-      description: Introduction to foundational concepts of machine learning through creative and interactive projects. Creators will train models to recognise patterns in images, text and sound, and explore how these models can be used to create fun games!
+      description: Projekty wprowadzające do uczenia maszynowego wykorzystujące Uczenie Maszynowe dla dzieci w Scratch.
       meta_title: Project path | Machine Learning with Scratch | Machine learning for kids | Practical projects using voice and facial recognition
       meta_description: Introduction to artificial intelligence and machine learning for kids, teenagers and young adults. Build applications that use machine learning with these free resources.
       header:
@@ -628,7 +647,7 @@ pl:
         - 
           title: "Czego potrzebuję?"
           content: |
-            - Komputer lub urządzenie mobilne, na którym można uruchomić platformę kodowania online. Zobacz nasz [Przewodnik wprowadzający do edytora Raspberry Pi](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
+            - Komputer lub urządzenie mobilne zdolne do obsługi platformy kodowania online.
             - Opcjonalnie konto do zapisywania projektów.
         - 
           title: "Informacje o mentorze"
