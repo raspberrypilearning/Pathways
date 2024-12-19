@@ -1,5 +1,24 @@
 it:
   pathways:
+    raspberry-pi-beginners:
+      title: "Raspberry Pi for beginners"
+      subtitle: "Beginner projects for the Raspberry Pi."
+      description: In this introduction to Raspberry Pi, you will learn how to set up and configure your Raspberry Pi. You will navigate the terminal, create bash scripts and automate tasks to run on boot and on a schedule!
+      meta_title: Project path | Raspberry Pi for beginners | Raspberry Pi for kids | Practical projects using your Raspberry Pi
+      meta_description: Introduction to Raspberry Pi and the terminal for kids, teenagers and young adults. Get the most out of your Raspberry Pi with these free resources.
+      header:
+        - 
+          title: "What will I do?"
+          content: |
+            Set up your Raspberry Pi to suit your needs. Explore the terminal, create bash scripts and automate tasks to run on boot or on a timer.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+        - 
+          title: "What do I need?"
+          content: |
+            - A Raspberry Pi. We recommend using the latest model, but you can use any.
     ai-toolkit:
       title: "AI toolkit"
       subtitle: "Engage with a range of artificial intelligence and machine learning platforms!"
@@ -636,8 +655,8 @@ it:
         - 
           title: "Di cosa ho bisogno?"
           content: |
-            - A computer or mobile device capable of running an online coding platform. See our [Getting Started Guide to the Raspberry Pi Editor](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
-            - Optionally, an account to save projects.
+            - Un computer o un dispositivo mobile che può esguire programmi di editor di codice.
+            - opzionalmente, un account per salvare i progetti.
         - 
           title: "Informazioni per i mentor"
           content: |
