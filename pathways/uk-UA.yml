@@ -1,24 +1,24 @@
 uk:
   pathways:
     raspberry-pi-beginners:
-      title: "Raspberry Pi for beginners"
-      subtitle: "Beginner projects for the Raspberry Pi."
-      description: In this introduction to Raspberry Pi, you will learn how to set up and configure your Raspberry Pi. You will navigate the terminal, create bash scripts and automate tasks to run on boot and on a schedule!
-      meta_title: Project path | Raspberry Pi for beginners | Raspberry Pi for kids | Practical projects using your Raspberry Pi
-      meta_description: Introduction to Raspberry Pi and the terminal for kids, teenagers and young adults. Get the most out of your Raspberry Pi with these free resources.
+      title: "Raspberry Pi для початківців"
+      subtitle: "Проєкти для початківців для Raspberry Pi."
+      description: У цьому вступі до компʼютерів Raspberry Pi ти дізнаєшся, як налаштувати та почати роботу з Raspberry Pi. Ти будеш працювати з терміналом, створювати bash-скрипти й автоматизувати завдання для виконання під час завантаження та за розкладом!
+      meta_title: Проєктний напрям | Raspberry Pi для початківців | Raspberry Pi для дітей | Практичні проєкти для Raspberry Pi
+      meta_description: Знайомство з Raspberry Pi і терміналом для дітей, підлітків і молоді. Отримай максимум від свого Raspberry Pi за допомогою цих безплатних ресурсів.
       header:
         - 
-          title: "What will I do?"
+          title: "Що я робитиму?"
           content: |
-            Set up your Raspberry Pi to suit your needs. Explore the terminal, create bash scripts and automate tasks to run on boot or on a timer.
+            Налаштуй Raspberry Pi відповідно до своїх потреб. Досліджуй термінал, створюй bash-скрипти й автоматизуйте завдання для запуску під час завантаження або за таймером.
         - 
-          title: "What do I need to know?"
+          title: "Що я маю знати?"
           content: |
-            - Basic typing and computer navigation skills
+            - Базові навички набору та користування компʼютером
         - 
-          title: "What do I need?"
+          title: "Що мені потрібно?"
           content: |
-            - A Raspberry Pi. We recommend using the latest model, but you can use any.
+            - Компʼютер Raspberry Pi. Ми рекомендуємо використовувати останню модель, але можна використовувати будь-яку.
     ai-toolkit:
       title: "Інструменти ШІ"
       subtitle: "Працюй із різними платформами штучного інтелекту й машинного навчання!"
