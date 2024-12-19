@@ -3,9 +3,9 @@ nl:
   collections:
     raspberry_pi:
       title: "Raspberry Pi"
-      description: "Make the most of your Raspberry Pi!"
-      meta_description: "Raspberry Pi, electronics, iot, internet of things, kids, child, children, coding, programming"
-      additional_paths_title: "Additional Raspberry Pi paths"
+      description: "Haal het meeste uit je Raspberry Pi!"
+      meta_description: "Raspberry Pi, elektronica, iot, internet of things, kinderen, coderen, programmeren"
+      additional_paths_title: "Aanvullende Raspberry Pi-paden"
       additional_paths_description: "Additional Raspberry Pi paths to help you continue on your coding journey."
     artificial_intelligence:
       title: "Kunstmatige intelligentie"
