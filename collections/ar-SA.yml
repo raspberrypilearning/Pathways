@@ -1,6 +1,12 @@
 ---
 ar:
   collections:
+    raspberry_pi:
+      title: "Raspberry Pi"
+      description: "Make the most of your Raspberry Pi!"
+      meta_description: "Raspberry Pi, electronics, iot, internet of things, kids, child, children, coding, programming"
+      additional_paths_title: "Additional Raspberry Pi paths"
+      additional_paths_description: "Additional Raspberry Pi paths to help you continue on your coding journey."
     artificial_intelligence:
       title: "الذكاء الاصطناعي"
       description: "اكتشف المفاهيم الأساسية للتعلم الآلي من خلال مشاريع إبداعية وتفاعلية باستخدام تطبيقات الذكاء الاصطناعي وتقنياته."
@@ -22,7 +28,7 @@ ar:
     html_and_css:
       title: "تصميم مواقع الإنترنت"
       description: "قم ببناء مواقع الويب والتطبيقات عن طريق تعلم HTML و CSS و JavaScript و مشاركتها مع أصدقائك."
-      meta_description: "web, html, css, javascript, websites, hild, children, coding, programming"
+      meta_description: "الويب، Html، Css، JavaScript، مواقع الويب، الأطفال، الترميز، البرمجة"
       additional_paths_title: "مسارات إضافية لتصميم المواقع الإلكترونية"
       additional_paths_description: "مسارات تصميم ويب إضافية لمساعدتك على الاستمرار في رحلة البرمجة الخاصة بك."
     physical_computing:
