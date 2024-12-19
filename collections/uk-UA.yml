@@ -3,10 +3,10 @@ uk:
   collections:
     raspberry_pi:
       title: "Raspberry Pi"
-      description: "Make the most of your Raspberry Pi!"
-      meta_description: "Raspberry Pi, electronics, iot, internet of things, kids, child, children, coding, programming"
-      additional_paths_title: "Additional Raspberry Pi paths"
-      additional_paths_description: "Additional Raspberry Pi paths to help you continue on your coding journey."
+      description: "Скористайся всіма можливостями свого Raspberry Pi!"
+      meta_description: "Raspberry Pi, електроніка, електроніка, iot, інтернет речей, діти, дитина, кодування, програмування"
+      additional_paths_title: "Додаткові напрями про Raspberry Pi"
+      additional_paths_description: "Додаткові напрями про Raspberry Pi, які допоможуть тобі на шляху до програмування."
     artificial_intelligence:
       title: "Штучний інтелект"
       description: "Відкрий для себе основні поняття машинного навчання за допомогою цікавих та інтерактивних проєктів із застосуванням програм і технологій ШІ."
