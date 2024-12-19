@@ -3,9 +3,9 @@ nl:
     raspberry-pi-beginners:
       title: "Raspberry Pi voor beginners"
       subtitle: "Beginnersprojecten voor de Raspberry Pi."
-      description: In deze introductie tot Raspberry Pi leer je hoe je de Raspberry Pi instelt en configureert. Je navigeert door de terminal, bash scripts maken en taken automatiseren bij het opstarten of volgens een vooraf vastgesteld schema!
+      description: In deze introductie tot Raspberry Pi leer je hoe je de Raspberry Pi instelt en configureert. Je navigeert door de terminal, leert bash scripts maken en taken te automatiseren bij het opstarten of volgens een vooraf vastgesteld schema!
       meta_title: Projectpad | Raspberry Pi voor beginners | Raspberry Pi voor kinderen | Praktische projecten met je Raspberry Pi
-      meta_description: Introductie tot Raspberry Pi en de terminal voor kinderen, tieners en jonge volwassenen. Haal het meeste uit je Raspberry Pi met deze gratis hulpmiddelen.
+      meta_description: Introductie tot Raspberry Pi en de terminal voor kinderen, tieners en jongvolwassenen. Haal het meeste uit je Raspberry Pi met deze gratis hulpmiddelen.
       header:
         - 
           title: "Wat ga ik doen?"
