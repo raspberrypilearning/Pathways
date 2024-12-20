@@ -1,6 +1,25 @@
 ---
 nl-NL:
   pathways:
+    raspberry-pi-beginners:
+      title: "Raspberry Pi voor beginners"
+      subtitle: "Beginnersprojecten voor de Raspberry Pi."
+      description: In deze introductie tot Raspberry Pi leer je hoe je de Raspberry Pi instelt en configureert. Je navigeert door de terminal, leert bash scripts maken en taken te automatiseren bij het opstarten of volgens een vooraf vastgesteld schema!
+      meta_title: Projectpad | Raspberry Pi voor beginners | Raspberry Pi voor kinderen | Praktische projecten met je Raspberry Pi
+      meta_description: Introductie tot Raspberry Pi en de terminal voor kinderen, tieners en jongvolwassenen. Haal het meeste uit je Raspberry Pi met deze gratis hulpmiddelen.
+      header:
+        - 
+          title: "Wat ga ik doen?"
+          content: |
+            Stel de Raspberry Pi in op jouw behoeften. Verken de terminal, maak bash-scripts en automatiseer taken die uitgevoerd moeten worden bij het opstarten of op een timer.
+        - 
+          title: "Wat moet ik weten?"
+          content: |
+            - Basisvaardigheden in typen en computernavigatie
+        - 
+          title: "Wat heb ik nodig?"
+          content: |
+            - Een Raspberry Pi. Wij raden aan om het nieuwste model te gebruiken, maar je kunt elk model gebruiken.
     ai-toolkit:
       title: "AI toolkit"
       subtitle: "Maak kennis met een scala aan platforms voor kunstmatige intelligentie en machine learning!"
