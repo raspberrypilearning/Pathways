@@ -1,6 +1,12 @@
 ---
 el-GR:
   collections:
+    raspberry_pi:
+      title: "Raspberry Pi"
+      description: "Αξιοποίησε στο έπακρο το Raspberry Pi σου!"
+      meta_description: "Raspberry Pi, ηλεκτρονικά, iot, internet of things, παιδιά, παιδί, παιδιά, προγραμματισμός"
+      additional_paths_title: "Πρόσθετα μονοπάτια Raspberry Pi"
+      additional_paths_description: "Πρόσθετα μονοπάτια Raspberry Pi που θα σε βοηθήσουν να συνεχίσεις το ταξίδι του προγραμματισμού."
     artificial_intelligence:
       title: "Τεχνητή νοημοσύνη"
       description: "Ανακάλυψε τις θεμελιώδεις έννοιες της μηχανικής μάθησης μέσω δημιουργικών και διαδραστικών έργων χρησιμοποιώντας εφαρμογές και τεχνολογίες ΤΝ (AI)."
