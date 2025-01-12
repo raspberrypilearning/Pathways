@@ -3,10 +3,10 @@ es-419:
   collections:
     raspberry_pi:
       title: "Raspberry Pi"
-      description: "Make the most of your Raspberry Pi!"
-      meta_description: "Raspberry Pi, electronics, iot, internet of things, kids, child, children, coding, programming"
-      additional_paths_title: "Additional Raspberry Pi paths"
-      additional_paths_description: "Additional Raspberry Pi paths to help you continue on your coding journey."
+      description: "¡Aprovecha al máximo tu Raspberry Pi!"
+      meta_description: "Raspberry Pi, electrónica, idc, internet de las cosas, niños, niña, niño, codificación, programación"
+      additional_paths_title: "Guías adicionales de Raspberry Pi"
+      additional_paths_description: "Guías adicionales de Raspberry Pi para ayudarte a continuar con tu viaje de programación."
     artificial_intelligence:
       title: "Inteligencia Artifical"
       description: "Descubre los conceptos básico del aprendizaje de máquina a través de proyectos creativos e interactivos, usando aplicaciones y tecnologías de IA."
