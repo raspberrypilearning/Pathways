@@ -3,8 +3,8 @@ uk:
   collections:
     blender:
       title: "Blender"
-      description: "Learn the basics of how to use Blender to create, animate and render 3D objects and scenes."
-      meta_description: "Blender, 3D design, animation, kids, child, children, coding, programming"
+      description: "Дізнайся про основи використання Blender для створення, анімації та візуалізації 3D-об’єктів і сцен."
+      meta_description: "Blender, блендер, 3D design, 3D-дизайн, анімація, діти, дитина, кодування, програмування"
       additional_paths_title: ""
       additional_paths_description: ""
     raspberry_pi:
