@@ -1,6 +1,12 @@
 ---
 ja:
   collections:
+    blender:
+      title: "Blender"
+      description: "Learn the basics of how to use Blender to create, animate and render 3D objects and scenes."
+      meta_description: "Blender, 3D design, animation, kids, child, children, coding, programming"
+      additional_paths_title: ""
+      additional_paths_description: ""
     raspberry_pi:
       title: "Raspberry Pi"
       description: "Make the most of your Raspberry Pi!"
