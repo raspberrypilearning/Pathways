@@ -1,5 +1,24 @@
 sw:
   pathways:
+    blender-basics:
+      title: "Blender for beginners"
+      subtitle: "Beginner projects for Blender."
+      description: Learn the basics of how to use Blender to create, animate and render 3D objects and scenes.
+      meta_title: Project path | Blender for beginners | 3D design for kids | 3D design | Practical projects
+      meta_description: Introduction to Blender for kids, teenagers and young adults. Start creating 3D designs with these free resources.
+      header:
+        - 
+          title: "What will I do?"
+          content: |
+            Add, edit and combine shapes to build, colour and render 3D models and animations.
+        - 
+          title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills
+        - 
+          title: "What do I need?"
+          content: |
+            - A computer or mobile device capable of running [Blender](https://www.blender.org/download/){:target="_blank"}!
     raspberry-pi-beginners:
       title: "Raspberry Pi for beginners"
       subtitle: "Beginner projects for the Raspberry Pi."
