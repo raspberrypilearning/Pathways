@@ -1,24 +1,24 @@
 uk:
   pathways:
     blender-basics:
-      title: "Blender for beginners"
-      subtitle: "Beginner projects for Blender."
-      description: Learn the basics of how to use Blender to create, animate and render 3D objects and scenes.
-      meta_title: Project path | Blender for beginners | 3D design for kids | 3D design | Practical projects
-      meta_description: Introduction to Blender for kids, teenagers and young adults. Start creating 3D designs with these free resources.
+      title: "Blender для початківців"
+      subtitle: "Проєкти у Blender для початківців."
+      description: Дізнайся про основи використання Blender для створення, анімації та візуалізації 3D-об’єктів і сцен.
+      meta_title: Проєктний напрям | Blender для початківців | 3D-дизайн для дітей | 3D-дизайн | Практичні проєкти
+      meta_description: Вступ до Blender для дітей, підлітків і молоді. Створюй 3D-дизайни з цими безплатними ресурсами.
       header:
         - 
-          title: "What will I do?"
+          title: "Що я робитиму?"
           content: |
-            Add, edit and combine shapes to build, colour and render 3D models and animations.
+            Додавай, редагуй та комбінуй форми, щоб створювати, розфарбовувати та візуалізовувати 3D-моделі та анімації.
         - 
-          title: "What do I need to know?"
+          title: "Що я маю знати?"
           content: |
-            - Basic typing and computer navigation skills
+            - Базові навички набору та користування компʼютером
         - 
-          title: "What do I need?"
+          title: "Що мені потрібно?"
           content: |
-            - A computer or mobile device capable of running [Blender](https://www.blender.org/download/){:target="_blank"}!
+            - Комп’ютер або мобільний пристрій, на якому можна працювати у [Blender](https://www.blender.org/download/){:target="_blank"}!
     raspberry-pi-beginners:
       title: "Raspberry Pi для початківців"
       subtitle: "Проєкти для початківців для Raspberry Pi."
