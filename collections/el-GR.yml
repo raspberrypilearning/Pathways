@@ -3,8 +3,8 @@ el:
   collections:
     blender:
       title: "Blender"
-      description: "Learn the basics of how to use Blender to create, animate and render 3D objects and scenes."
-      meta_description: "Blender, 3D design, animation, kids, child, children, coding, programming"
+      description: "Μάθετε τα βασικά για το πώς να χρησιμοποιείτε το Blender για τη δημιουργία, την κίνηση και την απόδοση τρισδιάστατων αντικειμένων και σκηνών."
+      meta_description: "Blender, τρισδιάστατη σχεδίαση, κινούμενα σχέδια, παιδιά, παιδί, παιδιά, προγραμματισμός"
       additional_paths_title: ""
       additional_paths_description: ""
     raspberry_pi:
