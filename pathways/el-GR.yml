@@ -1,24 +1,24 @@
 el:
   pathways:
     blender-basics:
-      title: "Blender for beginners"
-      subtitle: "Beginner projects for Blender."
-      description: Learn the basics of how to use Blender to create, animate and render 3D objects and scenes.
-      meta_title: Project path | Blender for beginners | 3D design for kids | 3D design | Practical projects
-      meta_description: Introduction to Blender for kids, teenagers and young adults. Start creating 3D designs with these free resources.
+      title: "Blender για αρχάριους"
+      subtitle: "Έργα για αρχάριους για το Blender."
+      description: Μάθετε τα βασικά για το πώς να χρησιμοποιείτε το Blender για τη δημιουργία, την κίνηση και την απόδοση τρισδιάστατων αντικειμένων και σκηνών.
+      meta_title: Διαδρομή έργου | Blender για αρχάριους | 3D σχέδιο για παιδιά | τρισδιάστατη σχεδίαση | Πρακτικά έργα
+      meta_description: Εισαγωγή στο Blender για παιδιά, εφήβους και νέους ενήλικες. Ξεκινήστε να δημιουργείτε τρισδιάστατα σχέδια με αυτούς τους δωρεάν πόρους.
       header:
         - 
-          title: "What will I do?"
+          title: "Τι θα κάνω;"
           content: |
-            Add, edit and combine shapes to build, colour and render 3D models and animations.
+            Προσθέστε, επεξεργαστείτε και συνδυάστε σχήματα για να δημιουργήσετε, να χρωματίσετε και να αποδώσετε τρισδιάστατα μοντέλα και κινούμενα σχέδια.
         - 
-          title: "What do I need to know?"
+          title: "Τι χρειάζεται να γνωρίζω;"
           content: |
-            - Basic typing and computer navigation skills
+            - Βασικές δεξιότητες πληκτρολόγησης και πλοήγησης σε υπολογιστή
         - 
-          title: "What do I need?"
+          title: "Τι χρειάζομαι;"
           content: |
-            - A computer or mobile device capable of running [Blender](https://www.blender.org/download/){:target="_blank"}!
+            - Έναν υπολογιστή ή κινητή συσκευή με δυνατότητα λειτουργίας [Blender](https://www.blender.org/download/){:target="_blank"}!
     raspberry-pi-beginners:
       title: "Raspberry Pi για αρχάριους"
       subtitle: "Έργα για αρχάριους για το Raspberry Pi."
