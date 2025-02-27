@@ -9,9 +9,9 @@ ar:
       additional_paths_description: ""
     raspberry_pi:
       title: "Raspberry Pi"
-      description: "Make the most of your Raspberry Pi!"
-      meta_description: "Raspberry Pi, electronics, iot, internet of things, kids, child, children, coding, programming"
-      additional_paths_title: "Additional Raspberry Pi paths"
+      description: "احصل على أقصى استفادة من Raspberry Pi الخاص بك!"
+      meta_description: "Raspberry Pi، إلكترونيات، إنترنت الأشياء، أطفال، طفل، أطفال، برمجة، ترميز"
+      additional_paths_title: "مسارات Raspberry Pi الإضافية"
       additional_paths_description: "Additional Raspberry Pi paths to help you continue on your coding journey."
     artificial_intelligence:
       title: "الذكاء الاصطناعي"
