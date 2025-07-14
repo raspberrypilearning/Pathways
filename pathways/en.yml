@@ -1,6 +1,24 @@
 ---
 en:
   pathways:
+    3d-toolkit:
+      title: "3D toolkit"
+      subtitle: "Engage with a range of 3D design platforms!"
+      description: The 3D toolkit introduces various 3-dimensional (3D) and computer-aided design (CAD) applications and technologies through hands-on projects. You will apply 3D design skills in different contexts.
+      meta_title: Project path | 3D toolkit for kids | 3D for kids | CAD for kids | Practical projects using 3D and CAD tools
+      meta_description: Introduction to 3D design and CAD for kids, teenagers and young adults. Create objects and products with these free resources.
+      header:
+        - title: "What will I do?"
+          content: |
+            Add, edit and combine shapes to build, colour and render 3D models and animations.
+        - title: "What do I need to know?"
+          content: |
+            - Basic typing and computer navigation skills.
+        - title: "What do I need?"
+          content: |
+            - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer.
+            - Access to the internet to use online applications.
+            - Optionally, an account to save work produced online.
   
     blender-intro:
       title: "Introduction to Blender"
@@ -14,7 +32,7 @@ en:
             Add, edit and combine shapes to build, colour and render 3D models and animations.
         - title: "What do I need to know?"
           content: |
-            - Basic typing and computer navigation skills
+            - Basic typing and computer navigation skills.
         - title: "What do I need?"
           content: |
             - A computer or mobile device capable of running [Blender](https://www.blender.org/download/){:target="_blank"}!
