@@ -2,8 +2,8 @@
 en:
   pathways:
   
-    blender-basics:
-      title: "Blender for beginners"
+    blender-intro:
+      title: "Introduction to Blender"
       subtitle: "Beginner projects for Blender."
       description: Learn the basics of how to use Blender to create, animate and render 3D objects and scenes.
       meta_title: Project path | Blender for beginners | 3D design for kids | 3D design | Practical projects
