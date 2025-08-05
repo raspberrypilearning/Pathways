@@ -4,7 +4,7 @@ en:
     3d_design:
       title: "3D & CAD"
       description: "Learn the basics of how to use create, animate and render 3D objects and scenes."
-      meta_description: "Blender, Unity, 3d, games, 3D design, animation, kids, child, children, coding, programming"
+      meta_description: "Blender, Unity, 3D, games, 3D design, animation, kids, child, children, coding, programming"
       additional_paths_title: "Additional 3D and CAD paths"
       additional_paths_description: "Additional 3D and CAD paths to help you continue on your digital making journey."
     raspberry_pi:
@@ -39,7 +39,7 @@ en:
       additional_paths_description: "Additional web development paths to help you continue on your coding journey."
     physical_computing:
       title: "Physical computing"
-      description: "Control and interact with the real world combining code with electronics. Make the most of your Raspberry Pi or BBC:microbit hardware!"
+      description: "Control and interact with the real world combining code with electronics. Make the most of your Raspberry Pi or BBC micro:bit hardware!"
       meta_description: "physical computing, electronics, iot, internet of things, kids, child, children, coding, programming, microbit, raspberry pi, games"
       additional_paths_title: "Additional Physical Computing paths"
       additional_paths_description: "Additional Physical Computing paths to help you continue on your coding journey."
