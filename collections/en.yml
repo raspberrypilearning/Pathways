@@ -2,11 +2,11 @@
 en:
   collections:
     3d_design:
-      title: "3D design"
+      title: "3D & CAD"
       description: "Learn the basics of how to use create, animate and render 3D objects and scenes."
-      meta_description: "Blender, 3D design, animation, kids, child, children, coding, programming"
-      additional_paths_title: "Additional 3D design paths"
-      additional_paths_description: "Additional 3D design paths to help you continue on your digital making journey."
+      meta_description: "Blender, Unity, 3D, games, 3D design, animation, kids, child, children, coding, programming"
+      additional_paths_title: "Additional 3D and CAD paths"
+      additional_paths_description: "Additional 3D and CAD paths to help you continue on your digital making journey."
     raspberry_pi:
       title: "Raspberry Pi"
       description: "Make the most of your Raspberry Pi!"
@@ -14,11 +14,11 @@ en:
       additional_paths_title: "Additional Raspberry Pi paths"
       additional_paths_description: "Additional Raspberry Pi paths to help you continue on your coding journey."
     artificial_intelligence:
-      title: "Artificial intelligence"
-      description: "Discover the foundational concepts of machine learning through creative and interactive projects using AI applications and technologies."
-      meta_description: "AI, kids, child, children, coding, programming, artificial intelligence, machine learning, classifier, llm, large language models, LLM, LLMs, prompt, prompt engineering"
-      additional_paths_title: "Additional artificial intelligence paths"
-      additional_paths_description: "Additional artificial intelligence paths to help you continue on your coding journey."
+      title: "Artificial intelligence and data"
+      description: "Discover the foundational concepts of data analysis and machine learning through creative and interactive projects."
+      meta_description: "AI, kids, child, children, coding, programming, artificial intelligence, machine learning, classifier, llm, large language models, LLM, LLMs, prompt, prompt engineering, data"
+      additional_paths_title: "Additional artificial intelligence and data paths"
+      additional_paths_description: "Additional artificial intelligence and data paths to help you continue on your coding journey."
     scratch:
       title: "Scratch"
       description: "Begin your adventure in digital making, by learning to code animations, stories, and games in Scratch."
@@ -32,15 +32,15 @@ en:
       additional_paths_title: "Additional Python paths"
       additional_paths_description: "Additional Python paths to help you continue on your coding journey."
     html_and_css:
-      title: "Web design"
+      title: "Web development"
       description: "Build websites and apps by learning HTML, CSS, and JavaScript, and share with your friends."
-      meta_description: "web, html, css, javascript, websites, hild, children, coding, programming"
-      additional_paths_title: "Additional web design paths"
-      additional_paths_description: "Additional web design paths to help you continue on your coding journey."
+      meta_description: "web, html, css, javascript, websites, kids, child, children, coding, programming"
+      additional_paths_title: "Additional web development paths"
+      additional_paths_description: "Additional web development paths to help you continue on your coding journey."
     physical_computing:
       title: "Physical computing"
-      description: "Control and interact with the real world combining code with electronics."
-      meta_description: "physical computing, electronics, iot, internet of things, kids, child, children, coding, programming"
+      description: "Control and interact with the real world combining code with electronics. Make the most of your Raspberry Pi or BBC micro:bit hardware!"
+      meta_description: "physical computing, electronics, iot, internet of things, kids, child, children, coding, programming, microbit, raspberry pi, games"
       additional_paths_title: "Additional Physical Computing paths"
       additional_paths_description: "Additional Physical Computing paths to help you continue on your coding journey."
     unity:
