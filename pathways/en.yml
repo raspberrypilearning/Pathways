@@ -710,4 +710,6 @@ en:
             This path requires:
             - A desktop computer, laptop, tablet, mobile device, or Raspberry Pi computer
             - Access to the internet to use Scratch and other applications online.
-
+    visual-first:
+      title: "Visual first"
+      subtitle: "Projects with easy to follow print and video resources"
