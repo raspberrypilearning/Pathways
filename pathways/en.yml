@@ -681,3 +681,6 @@ en:
     visual-first:
       title: "Visual first"
       subtitle: "Projects with easy to follow print and video resources"
+    testy-ie-path: 
+      title: "test"
+      description: test
