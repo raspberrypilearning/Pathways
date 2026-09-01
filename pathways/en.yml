@@ -685,3 +685,6 @@ en:
       title: "test"
       subtitle: "Projects"
       description: test
+    code-club-arcade: 
+      title: "Code Club Arcade"
+      description: "Create games in Scratch"
